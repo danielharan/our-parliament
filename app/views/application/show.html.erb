@@ -1,0 +1,32 @@
+<% @title = 'Hansard 2.0' %>
+
+<p class="tagline">Bringing you Hansard 2.0</p>
+
+<div id="search">
+  <h3>Search</h3>
+  <% form_tag '' do %>
+    <%= text_field_tag '', 'Enter a Postal Code or Keywords', :class => 'text with_help' %>
+    <div class="submits">
+      <%= link_to "<b></b><i>Find MPs</i>", '', :title => "Find your MP", :class => 'large button' %>
+      <%= link_to "<b></b><i>Search Hansard</i>", '', :title => "Search Hansard", :class => 'large button' %>
+    </div>
+  <% end %>
+  <p class="intro">
+    Citizens require easy access to accurate and timely information about their government.
+    OurParliament makes Canada's parliamentary record, the <%= link_to 'Hansard', 'http://www2.parl.gc.ca/housechamberbusiness/ChamberSittings.aspx?View=H&Language=E&Mode=1&Parl=39&Ses=2', :title => 'About the Hansard' %>, more accessible.
+  </p>
+</div>
+
+<div id="recent_activity">
+  <h3>Recent Activity</h3>
+  <ul>
+    <%# start_loop %>
+      <li class="<%#= activity.type %>">
+        <%= link_to image_tag('http://icanhascheezburger.files.wordpress.com/2009/03/funny-pictures-cat-gets-invisible-chin-scratches.jp', :alt => 'activity.member.name'), 'member_path(activity.member)', :class => 'member' %>
+        <b class="tail"><!----></b>
+        <blockquote><%#= activity.content %></blockquote>
+        <%= link_to 'Go to Hansard', 'hansard_path(activity.hansard)', :class => 'member' %>
+      </li>
+    <%# end_loop %>
+  </ul>
+</div>

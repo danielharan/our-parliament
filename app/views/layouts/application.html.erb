@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title><%= "#{@title} &laquo; OurParliament" %></title>
+  <%= stylesheet_link_tag 'scaffold', 'application', @controller.controller_name %>
+  <%= javascript_include_tag :defaults %>
+</head>
+
+<body id="<%= @controller.controller_name %>_controller" class="<%= @controller.action_name %>">
+
+<div id="header">
+  <div class="container">
+    <h1><%= link_to 'OurParliament', '/', :title => 'Citizen Factory Home' %></h1>
+    <p>Hansard 2.0</p>
+    <ul id="nav">
+      <li id="nav_home"><%= link_to 'Home', root_path %></li>
+      <li id="nav_members"><%= link_to 'MPs', members_path %></li>
+      <li id="nav_hansards"><%= link_to 'Hansards', hansards_path %></li>
+      <li id="nav_about"><%= link_to 'About', about_path %></li>
+      <li id="nav_contact"><%= link_to 'Contact', contact_path %></li>
+    </ul>
+    <%#= semantic_menu :id => 'nav', :class => '' do |root|
+      root.add 'Home', '/'
+      root.add 'Members of Parliament', '#todo'
+      root.add 'Hansard Transcripts', '#todo'
+      root.add "About", '#todo'
+      root.add "Contact", '#todo'
+    end %>
+  </div>
+</div>
+
+<div id="page" class="container">
+  <% if flash[:notice] %>
+    <div class="notice">
+      <%= flash[:notice] %>
+    </div>
+  <% end %>
+  <% if flash[:error] %>
+    <div class="notice">
+      <%= flash[:error] %>
+    </div>
+  <% end %>
+  <div id="main">
+    <h2><%= @title %></h2>
+    <%= yield %>
+  </div>
+  <div id="sidebar">
+    <%= yield :sidebar %>
+  </div>
+</div>
+
+<div id="footer" class="container">
+  <p>this is a footer</p>
+</div>
+
+</body>
+</html>
