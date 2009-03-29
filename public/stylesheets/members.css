@@ -3,11 +3,11 @@
 /* Members List */
 ul.members_list li { margin: 0 0 30px; overflow; }
 ul.members_list li a.photo { float: left; display: block; margin: 0 10px 0 0; }
-ul.members_list li a.photo img { width: 60px; height: 60px; }
-ul.members_list li div.who { margin: 0 0 0 70px; }
+ul.members_list li a.photo img { width: 50px; }
+ul.members_list li div.who { margin: 0 0 0 60px; }
 ul.members_list li div.who h3 { display: inline; margin: 0; line-height: normal; margin: 0 10px 0 0; }
 ul.members_list li div.who span.meta { font-size: 14px; color: #808080; }
-ul.members_list li div.what { margin: 0 0 0 70px; }
+ul.members_list li div.what { margin: 0 0 0 60px; }
 ul.members_list li div.what div.last_action { overflow: hidden; }
 ul.members_list li div.what div.last_quote { overflow: hidden; }
 ul.members_list li div.what div.tail { padding: 5px 0 0 10px; }
