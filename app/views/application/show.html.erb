@@ -5,7 +5,7 @@
 <div id="search">
   <h3>Search</h3>
   <% form_tag '' do %>
-    <%= text_field_tag '', 'Enter a Postal Code or Keywords', :class => 'text with_help' %>
+    <%= text_field_tag '', 'Enter a Postal Code or Keywords', :class => 'text with_help', :id => 'home_search' %>
     <div class="submits">
       <%= link_to "<b></b><i>Find MPs</i>", '', :title => "Find your MP", :class => 'large button' %>
       <%= link_to "<b></b><i>Search Hansard</i>", '', :title => "Search Hansard", :class => 'large button' %>
