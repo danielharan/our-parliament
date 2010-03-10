@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100310043209) do
+ActiveRecord::Schema.define(:version => 20100310201659) do
 
   create_table "mps", :force => true do |t|
     t.string "ed_id"
@@ -29,6 +29,9 @@ ActiveRecord::Schema.define(:version => 20100310043209) do
     t.string "constituency_postal_code"
     t.string "constituency_phone"
     t.string "constituency_fax"
+    t.string "wikipedia"
+    t.string "facebook"
+    t.string "twitter"
   end
 
 end
