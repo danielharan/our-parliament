@@ -10,4 +10,14 @@ class MembersControllerTest < ActionController::TestCase
     
     should_respond_with :success
   end
+  
+  context "on GET to show" do
+    setup do
+      mp = Factory(:mp)
+      
+      get :show, :id => mp.id
+    end
+    
+    should_respond_with :success
+  end
 end

@@ -1,3 +1,9 @@
-<% @title = asdf %>
+<% @title = @mp.name %>
 
-<p>asdf</p>
+<p><%= link_to 'edit', edit_member_path(@mp) %></p>
+
+<ul>
+  <% %w{ ed_id constituency_name name email website parliamentary_phone parliamentary_fax preferred_language }.each do |val| %>
+    <li><label><%= val %></label>: <span class="<%= val %>"><%= @mp.send(val) %></span></li>
+  <% end %>
+</ul>
