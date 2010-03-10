@@ -1,0 +1,28 @@
+<% @title = @mp.name %>
+
+<% form_for @mp, :url => {:action => :update}, :html => {:method => :put} do |f| -%>
+  <%= f.error_messages %>
+  
+  <%= f.text_field :name, :size => 50 %>
+  <%= f.text_field :party, :size => 50 %>
+  <%= f.text_field :email, :size => 50 %>
+  <%= f.text_field :website, :size => 50 %>
+  
+  <%= f.text_field :parliamentary_phone, :size => 50 %>
+  <%= f.text_field :parliamentary_fax, :size => 50 %>
+  
+  <%= f.text_field :preferred_language, :size => 50 %>
+  
+  <%= f.text_field :constituency_address, :size => 50 %>
+  <%= f.text_field :constituency_city, :size => 50 %>
+  <%= f.text_field :constituency_province, :size => 50 %>
+  <%= f.text_field :constituency_postal_code, :size => 50 %>
+  <%= f.text_field :constituency_phone, :size => 50 %>
+  <%= f.text_field :constituency_fax, :size => 50 %>
+  
+  <%= f.text_field :wikipedia, :size => 50 %>
+  <%= f.text_field :facebook, :size => 50 %>
+  <%= f.text_field :twitter, :size => 50 %>
+  
+  <%= submit_tag "Save" %>
+<% end -%>
