@@ -1,11 +1,5 @@
 <% @title = 'Members of Parliament' %>
 
 <ul class="members_list">
-  <%# start_loop %>
-    <%= render :partial => 'member' %>
-    <%= render :partial => 'member' %>
-    <%= render :partial => 'member' %>
-    <%= render :partial => 'member' %>
-    <%= render :partial => 'member' %>
-  <%# end_loop %>
+  <%= render :partial => 'member', :collection => @mps %>
 </ul>

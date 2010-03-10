@@ -1,10 +1,10 @@
 <li>
-  <%= link_to image_tag('http://webinfo.parl.gc.ca/MembersOfParliament/Images/OfficialMPPhotos/40/AngusCharlie_NDP.jpg', :alt => 'activity.member.name'), 'member_path(activity.member)', :class => 'photo' %>
+  <%= link_to image_tag('member.jpg', :alt => member.name), member_path(member), :class => 'photo' %>
   <div class="who">
-    <h3 class="name"><%= link_to 'Charlie Angus', '', :title => 'Charlie Angus' %></h3>
+    <h3 class="name"><%= link_to member.name, member_path(member), :title => 'Charlie Angus' %></h3>
     <span class="meta">
-      (<span class="caucus">NDP</span>,
-      <span class="Constituency">Timmins—James Bay</span>)
+      (<span class="caucus"><%= member.party %></span>,
+      <span class="Constituency"><%= member.constituency_name %></span>)
     </span>
   </div>
   <div class="what">
@@ -14,7 +14,7 @@
     </div>
     <div class="last_quote">
       <div class="tail"><b><!----></b></div>
-      <blockquote>Aenean tortor. Proin sodales mi ac magna. Nulla porttitor luctus felis. Praesent facilisis magna et nisi. Cras imperdiet...<%#= activity.content %></blockquote>
+      <blockquote>"Madam Speaker (todo)..."<%#= activity.content %></blockquote>
     </div>
   </div>
 </li>

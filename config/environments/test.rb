@@ -26,3 +26,7 @@ config.action_mailer.delivery_method = :test
 # This is necessary if your schema can't be completely dumped by the schema dumper,
 # like if you have constraints or database-specific column types
 # config.active_record.schema_format = :sql
+
+config.gem "thoughtbot-factory_girl", :lib => "factory_girl",  :source => "http://gems.github.com"
+config.gem "thoughtbot-shoulda",      :lib => "shoulda/rails", :source => "http://gems.github.com"
+config.gem "mocha",                   :lib => "mocha"
