@@ -33,4 +33,26 @@ namespace :scrape do
       end
     end
   end
+  
+  desc "get voting records for a specific vote"
+  task :vote => :environment do
+    require 'confidence'
+    Vote.transaction do
+      parliament = ENV["PARLIAMENT"] || Vote.maximum(:parliament)
+      session    = ENV["SESSION"]    || Vote.maximum(:session, :conditions => {:parliament => parliament })
+      number     = ENV["NUMBER"]     || Vote.maximum(:number,  :conditions => {:parliament => parliament, :session => session })
+    
+      vote = Vote.create :parliament => parliament, :session => session, :number => number
+    
+      voting_record = Confidence::Vote.fetch :parliament => parliament, :session => session, :number => number
+     
+      voting_record.participants.each do |member|
+        # FIXME: HACK! we don't have parliament and session yet, although it's not really an edge case
+        #mp = Mp.find_by_parliament_and_session_and_constituency_name(parliament, session, member.constituency)
+        mp = Mp.find_by_constituency_name(member.constituency)
+      
+        mp.recorded_votes.create :vote => vote, :stance => member.recorded_vote
+      end
+    end
+  end
 end

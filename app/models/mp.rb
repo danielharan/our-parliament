@@ -3,6 +3,7 @@ require 'open-uri'
 
 class Mp < ActiveRecord::Base
   has_and_belongs_to_many :postal_codes
+  has_many :recorded_votes
   
   def self.get_list
     list = open("http://webinfo.parl.gc.ca/MembersOfParliament/MainMPsCompleteList.aspx?TimePeriod=Current&Language=E")

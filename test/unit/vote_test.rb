@@ -1,5 +1,5 @@
 require 'test_helper'
 
-class MpTest < ActiveSupport::TestCase
+class VoteTest < ActiveSupport::TestCase
   should_have_many :recorded_votes
 end
