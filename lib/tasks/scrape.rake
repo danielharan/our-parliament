@@ -36,16 +36,17 @@ namespace :scrape do
   
   desc "get voting records for a specific vote"
   task :vote => :environment do
-    require 'confidence'
     Vote.transaction do
       parliament = ENV["PARLIAMENT"] || Vote.maximum(:parliament)
       session    = ENV["SESSION"]    || Vote.maximum(:session, :conditions => {:parliament => parliament })
-      number     = ENV["NUMBER"]     || Vote.maximum(:number,  :conditions => {:parliament => parliament, :session => session })
-    
-      vote = Vote.create :parliament => parliament, :session => session, :number => number
-    
+      number     = ENV["NUMBER"]     || Vote.maximum(:number,  :conditions => {:parliament => parliament, :session => session }) + 1
+
       voting_record = Confidence::Vote.fetch :parliament => parliament, :session => session, :number => number
-     
+
+      vote = Vote.create :parliament => parliament, :session => session, :number => number,
+                         :sponsor => voting_record.sponsor, :bill_number => voting_record.bill.number,
+                         :title => voting_record.bill.title, :context => voting_record.context
+
       voting_record.participants.each do |member|
         # FIXME: HACK! we don't have parliament and session yet, although it's not really an edge case
         #mp = Mp.find_by_parliament_and_session_and_constituency_name(parliament, session, member.constituency)
@@ -53,6 +54,7 @@ namespace :scrape do
       
         mp.recorded_votes.create :vote => vote, :stance => member.recorded_vote
       end
+      # TODO - update summary information for vote, in_favour: nil, opposed: nil, paired: nil, passed: nil
     end
   end
 end
