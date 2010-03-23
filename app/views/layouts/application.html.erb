@@ -15,7 +15,7 @@
 
 <div id="header">
   <div class="container">
-    <h1><%= link_to 'OurParliament', '/', :title => 'Citizen Factory Home' %></h1>
+    <h1><%= link_to image_tag('logo.gif', :alt => 'OurParliament', :width => '240', :height => '160'), '/', :title => 'Citizen Factory Home' %></h1>
     <p>Bringing you Hansard 2.0</p>
     <ul id="nav">
       <li id="nav_home"><%= link_to 'Home', root_path %></li>
@@ -24,13 +24,6 @@
       <li id="nav_about"><%= link_to 'About', about_path %></li>
       <li id="nav_contact"><%= link_to 'Contact', contact_path %></li>
     </ul>
-    <%#= semantic_menu :id => 'nav', :class => '' do |root|
-      root.add 'Home', '/'
-      root.add 'Members of Parliament', '#todo'
-      root.add 'Hansard Transcripts', '#todo'
-      root.add "About", '#todo'
-      root.add "Contact", '#todo'
-    end %>
   </div>
 </div>
 
