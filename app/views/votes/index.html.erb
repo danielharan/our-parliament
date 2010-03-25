@@ -1,0 +1,7 @@
+<% @title = 'Votes' %>
+
+<ul class="votes_list">
+  <% @votes.each do |vote| %>
+    <li><%= vote.bill_number %>: <%= vote.title %></li>
+  <% end %>
+</ul>
