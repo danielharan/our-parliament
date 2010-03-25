@@ -1,7 +1,8 @@
 class MembersController < ApplicationController
+  before_filter :basic_admin, :only => [:edit, :update]
   
   def index
-    @mps = Mp.find(:all)
+    @mps = Mp.active.all
   end
   
   def show

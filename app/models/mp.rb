@@ -5,6 +5,8 @@ class Mp < ActiveRecord::Base
   has_and_belongs_to_many :postal_codes
   has_many :recorded_votes
   
+  named_scope :active, :conditions => {:active => true}
+  
   class << self
     def get_list
       list = open("http://webinfo.parl.gc.ca/MembersOfParliament/MainMPsCompleteList.aspx?TimePeriod=Current&Language=E")

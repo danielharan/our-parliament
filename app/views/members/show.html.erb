@@ -3,7 +3,7 @@
 <p><%= link_to 'edit', edit_member_path(@mp) %></p>
 
 <ul>
-  <% %w{ ed_id constituency_name name email website parliamentary_phone parliamentary_fax preferred_language }.each do |val| %>
+  <% %w{ ed_id constituency_name name email website parliamentary_phone parliamentary_fax preferred_language active}.each do |val| %>
     <li><label><%= val %></label>: <span class="<%= val %>"><%= @mp.send(val) %></span></li>
   <% end %>
 </ul>

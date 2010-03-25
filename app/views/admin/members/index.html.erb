@@ -1,0 +1,13 @@
+<h1>Edit Mps</h1>
+<br/>
+
+<%= form_tag :action => 'update' %>
+
+<% @mps.each do |mp| %>
+  <% fields_for "mps[#{mp.id}]", mp do |f| %>
+    <%= mp.name  %> <%= f.text_field :twitter  %>
+    <br/>
+  <% end %>
+<% end %>
+<%= submit_tag %>
+</form>
