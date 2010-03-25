@@ -9,29 +9,30 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100323173628) do
+ActiveRecord::Schema.define(:version => 20100325185407) do
 
   create_table "mps", :force => true do |t|
-    t.string "ed_id"
-    t.string "parl_gc_id"
-    t.string "parl_gc_constituency_id"
-    t.string "constituency_name"
-    t.string "party"
-    t.string "name"
-    t.string "email"
-    t.string "website"
-    t.string "parliamentary_phone"
-    t.string "parliamentary_fax"
-    t.string "preferred_language"
-    t.string "constituency_address"
-    t.string "constituency_city"
-    t.string "constituency_province"
-    t.string "constituency_postal_code"
-    t.string "constituency_phone"
-    t.string "constituency_fax"
-    t.string "wikipedia"
-    t.string "facebook"
-    t.string "twitter"
+    t.string  "ed_id"
+    t.string  "parl_gc_id"
+    t.string  "parl_gc_constituency_id"
+    t.string  "constituency_name"
+    t.string  "party"
+    t.string  "name"
+    t.string  "email"
+    t.string  "website"
+    t.string  "parliamentary_phone"
+    t.string  "parliamentary_fax"
+    t.string  "preferred_language"
+    t.string  "constituency_address"
+    t.string  "constituency_city"
+    t.string  "constituency_province"
+    t.string  "constituency_postal_code"
+    t.string  "constituency_phone"
+    t.string  "constituency_fax"
+    t.string  "wikipedia"
+    t.string  "facebook"
+    t.string  "twitter"
+    t.boolean "active",                   :default => true
   end
 
   create_table "recorded_votes", :force => true do |t|

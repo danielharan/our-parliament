@@ -5,11 +5,21 @@ class Mp < ActiveRecord::Base
   has_and_belongs_to_many :postal_codes
   has_many :recorded_votes
   
-  def self.get_list
-    list = open("http://webinfo.parl.gc.ca/MembersOfParliament/MainMPsCompleteList.aspx?TimePeriod=Current&Language=E")
-    list.each_line do |line|
-      m = line.match(/ProfileMP\.aspx\?Key=(\d+)/)
-      Mp.create(:parl_gc_id => m[1]) if m && !Mp.find_by_parl_gc_id(m[1])
+  class << self
+    def get_list
+      list = open("http://webinfo.parl.gc.ca/MembersOfParliament/MainMPsCompleteList.aspx?TimePeriod=Current&Language=E")
+      list.each_line do |line|
+        m = line.match(/ProfileMP\.aspx\?Key=(\d+)/)
+        Mp.create(:parl_gc_id => m[1]) if m && !Mp.find_by_parl_gc_id(m[1])
+      end
+    end
+    
+    def find_by_constituency_name_and_last_name(constituency_name, lastname)
+      mps = find :all, :conditions => {:constituency_name => constituency_name}
+      # puts mps.inspect
+      # puts "for lastname: #{lastname}"
+      
+      mps.detect {|mp| mp.name =~ /#{lastname}$/}
     end
   end
 

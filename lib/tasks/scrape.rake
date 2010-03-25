@@ -50,7 +50,7 @@ namespace :scrape do
       voting_record.participants.each do |member|
         # FIXME: HACK! we don't have parliament and session yet, although it's not really an edge case
         #mp = Mp.find_by_parliament_and_session_and_constituency_name(parliament, session, member.constituency)
-        mp = Mp.find_by_constituency_name(member.constituency)
+        mp = Mp.find_by_constituency_name_and_last_name(member.constituency, member.lastname)
       
         mp.recorded_votes.create :vote => vote, :stance => member.recorded_vote
       end
