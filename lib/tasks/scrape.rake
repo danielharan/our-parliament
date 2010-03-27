@@ -3,6 +3,16 @@ def between(min, max)
 end
 
 namespace :scrape do
+  desc "retrieve senator list"
+  task :senators => :environment do
+    senators = Senator.scrape_list
+    
+    senators.each do |senator|
+      senator.save! unless Senator.find_by_name(senator.name)
+    end
+  end
+  
+  
   desc "retrieve mp list"
   task :mp_list => :environment do
     Mp.get_list
