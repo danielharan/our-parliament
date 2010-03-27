@@ -1,19 +1,14 @@
 <li>
   <%= link_to image_tag('member.jpg', :alt => member.name), member_path(member), :class => 'photo' %>
-  <div class="who">
-    <h3 class="name"><%= link_to member.name, member_path(member), :title => 'Charlie Angus' %></h3>
-    <span class="meta">
-      (<span class="caucus"><%= member.party %></span>,
-      <span class="Constituency"><%= member.constituency_name %></span>)
-    </span>
-  </div>
-  <div class="what">
-    <div class="last_action">
-      <div class="tail"><b><!----></b></div>
-      <blockquote>I voted for <%= link_to 'Bill C02', '', :title => 'Bill C02' %></blockquote>
-    </div>
-    <div class="last_quote">
-      <div class="tail"><b><!----></b></div>
+  <div class="description">
+    <span class="name"><%= link_to member.name, member_path(member), :title => "" %></span>
+    <span class="action">I voted for <%= link_to 'Bill C02', '', :title => 'Bill C02' %></span>
+    <small>
+      <span class="caucus"><%= member.party %></span>,
+      <span class="constituency"><%= member.constituency_name %></span>
+    </small>
+    <div class="quote">
+      <b class="tail"><!----></b>
       <blockquote>"Madam Speaker (todo)..."<%#= activity.content %></blockquote>
     </div>
   </div>
