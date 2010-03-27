@@ -27,9 +27,16 @@ class Mp < ActiveRecord::Base
 
   def recorded_vote_for(vote)
     recorded_votes.find_by_vote_id(vote.id) || recorded_votes.new(:stance => "(absent)")
-    
   end
 
+  def links
+    h = {}
+    %w{ wikipedia wikipedia_riding facebook}.each do |key|
+      h[key] = value  unless (value = send(key)).blank?
+    end
+    h['twitter'] = "http://twitter.com/#{twitter}" unless twitter.blank?
+    h
+  end
 
   def download
     `curl \"http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=#{parl_gc_id}&Language=E\" > tmp/mps/mp_#{parl_gc_id}`

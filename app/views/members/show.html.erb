@@ -38,11 +38,15 @@
 
   <div id="links" class="block">
     <h3>Links</h3>
-    <ul>
-      <li><a href="">[ link ]</a></li>
-      <li><a href="">[ link ]</a></li>
-      <li><a href="">[ link ]</a></li>
-    </ul>
+    <% if @mp.links.keys.empty? %>
+      None found
+    <% else %>
+      <ul>
+        <% @mp.links.each do |name, link| %>
+          <li><%= link_to(name, link) %></li>
+        <% end %>
+      </ul>
+    <% end %>
   </div>
 
   <div id="articles" class="block">
