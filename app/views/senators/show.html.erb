@@ -1,0 +1,17 @@
+<% @title = @senator.name %>
+
+<pre>
+  create_table "senators", :force => true do |t|
+    t.string   "name"
+    t.string   "affiliation"
+    t.string   "province"
+    t.date     "nomination_date"
+    t.date     "retirement_date"
+    t.string   "appointed_by"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.string   "twitter"
+    t.string   "wikipedia"
+</pre>
+
+<%= render :partial => 'shared/twitter' if @senator.twitter? %>
