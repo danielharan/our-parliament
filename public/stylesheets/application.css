@@ -8,8 +8,8 @@ a.large.button:hover b { background: #FFFFFF; }
 /* Layout */
 div.container { margin: 0 auto; width: 960px; position: relative; }
 #page { overflow: hidden; padding: 40px 0; position: relative; }
-#main { position: relative; background: #FF0000; }
-div.sidebar { width: 220px; float: left; background: #00FF00; }
+#main { position: relative; }
+div.sidebar { width: 220px; float: left; }
 #content.has_sidebar_left #main,
 #content.has_sidebar_right #main { width: 720px; float: left; }
 #content.has_sidebar_left div.sidebar.left { margin: 0 20px 0 0; }
