@@ -12,6 +12,7 @@ ActionController::Routing::Routes.draw do |map|
 
   map.namespace :admin do |admin|
     admin.resources :members
+    admin.resources :senators
   end
 
   map.connect ':controller/:action/:id'
