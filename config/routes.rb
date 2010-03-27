@@ -8,6 +8,7 @@ ActionController::Routing::Routes.draw do |map|
   map.resources :members
   map.resources :hansards
   map.resources :votes
+  map.resources :senators
 
   map.namespace :admin do |admin|
     admin.resources :members

@@ -11,3 +11,12 @@ Factory.define :mp do |mp|
   mp.party "Independent"
   mp.name Factory.next :id
 end
+
+Factory.define :senator do |s|
+  s.name { Factory.next :id}
+  s.affiliation ["C", "Lib"].rand
+  s.province ["ON", "QC", "NS"].rand
+  s.nomination_date Date.parse("1993-03-11")
+  s.retirement_date Date.parse("2019-08-14")
+  s.appointed_by "Mulroney (Prog. Conser.)"
+end
