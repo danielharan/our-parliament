@@ -1,4 +1,126 @@
+<% @content_layout = "has_sidebar_left" %>
 <% @title = @senator.name %>
+
+<% content_for :sidebar_left do %>
+
+  <div id="photo" class="block">
+    <%= link_to image_tag("", :alt => ""), "", :title => "", :class => "photo" %>
+    <p>Do you own a photo of this senator? <%= link_to "Let us use it!", :title => "" %></p>
+  </div>
+
+  <div id="facts" class="block">
+    <h3>The Facts</h3>
+    <ul>
+      <li>Minister of agriculture</li>
+      <li>55 years old (202nd youngest MP)</li>
+      <li>Chair of the <a href="">Very Important Committee</a></li>
+      <li>Vice-chair of the <a href="">Less Important Committee</a></li>
+      <li>Member of the <a href="">Really Boring Committee</a></li>
+      <li>
+        MP for riding name - more words
+        <small>(12/01/2004-12/02/2004)</small>
+      </li>
+      <li>
+        MP for riding name - more words
+        <small>(12/01/2005-12/02/2005)</small>
+      </li>
+    </ul>
+  </div>
+
+  <div id="contact" class="block">
+    <h3>Contact Them</h3>
+    <ul>
+      <li class="address">123 Smith Street<br/>Ottawa, Canada<br/>H4W 3M6</li>
+      <li class="phone">(555) 555 5555</li>
+      <li class="email"><a href="">[ email address ]</a></li>
+    </ul>
+  </div>
+
+  <div id="links" class="block">
+    <h3>Links</h3>
+    <ul>
+      <li><a href="">[ link ]</a></li>
+      <li><a href="">[ link ]</a></li>
+      <li><a href="">[ link ]</a></li>
+    </ul>
+  </div>
+
+  <div id="articles" class="block">
+    <h3>Articles</h3>
+    <ul>
+      <li><a href="">[ article ]</a></li>
+      <li><a href="">[ article ]</a></li>
+      <li><a href="">[ article ]</a></li>
+    </ul>
+  </div>
+
+  <div id="glossary" class="block">
+    <h3>Glossary</h3>
+    <ul>
+      <li><a href="">[ term ]</a></li>
+      <li><a href="">[ term ]</a></li>
+      <li><a href="">[ term ]</a></li>
+      <li><a href="">[ term ]</a></li>
+      <li><a href="">[ term ]</a></li>
+    </ul>
+  </div>
+
+<% end %>
+
+<% content_for :subtitle do %>
+  [ party name ] member for <a href="">[ riding name ]</a>
+<% end %>
+
+<div id="votes" class="block">
+  <h3>Recent Activity</h3>
+  <ul>
+    <li>Voted [ vote ] <a href="">[ bill ]</a>.</li>
+    <li>Voted [ vote ] <a href="">[ bill ]</a>.</li>
+    <li>Voted [ vote ] <a href="">[ bill ]</a>.</li>
+    <li>Voted [ vote ] <a href="">[ bill ]</a>.</li>
+    <li>Voted [ vote ] <a href="">[ bill ]</a>.</li>
+  </ul>
+  <p class="more rss"><a href="">Subscribe to an RSS feed of this Senator&#39;s activities</a></p>
+</div>
+
+<div id="activities" class="block">
+  <h3>What are they doing?</h3>
+  <ul>
+    <li><a href="">Voting Record</a>.</li>
+    <li><a href="">Bills and Motions</a>.</li>
+    <li><a href="">Debates</a>.</li>
+    <li><a href="">Committee Meetings</a>.</li>
+    <li><a href="">Meetings with Lobbyists</a>.</li>
+  </ul>
+</div>
+
+<div id="news" class="block">
+  <h3>News</h3>
+  <ul>
+    <li>
+      <a href="" class="title">[ headline ]</a>
+      <small><a href="">[ source ]</a> &middot; [ date ]</small>
+    </li>
+    <li>
+      <a href="" class="title">[ headline ]</a>
+      <small><a href="">[ source ]</a> &middot; [ date ]</small>
+    </li>
+    <li>
+      <a href="" class="title">[ headline ]</a>
+      <small><a href="">[ source ]</a> &middot; [ date ]</small>
+    </li>
+    <li>
+      <a href="" class="title">[ headline ]</a>
+      <small><a href="">[ source ]</a> &middot; [ date ]</small>
+    </li>
+    <li>
+      <a href="" class="title">[ headline ]</a>
+      <small><a href="">[ source ]</a> &middot; [ date ]</small>
+    </li>
+  </ul>
+</div>
+
+
 
 <pre>
   create_table "senators", :force => true do |t|
