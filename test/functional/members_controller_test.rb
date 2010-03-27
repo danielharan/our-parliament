@@ -18,6 +18,7 @@ class MembersControllerTest < ActionController::TestCase
       get :show, :id => mp.id
     end
     
+    should_assign_to :votes
     should_respond_with :success
   end
 
@@ -56,5 +57,17 @@ class MembersControllerTest < ActionController::TestCase
     should "have updated the mp's name" do
       assert_equal "after", @mp.reload.name
     end
+  end
+  
+  context "on GET to votes" do
+    setup do
+      @mp = Factory(:mp)
+      
+      get :votes, :id => @mp.id
+    end
+    
+    should_assign_to :mp, :votes
+    should_respond_with :success
+    should_respond_with_content_type 'application/rss+xml'
   end
 end

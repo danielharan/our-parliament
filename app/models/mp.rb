@@ -25,6 +25,12 @@ class Mp < ActiveRecord::Base
     end
   end
 
+  def recorded_vote_for(vote)
+    recorded_votes.find_by_vote_id(vote.id) || recorded_votes.new(:stance => "(absent)")
+    
+  end
+
+
   def download
     `curl \"http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=#{parl_gc_id}&Language=E\" > tmp/mps/mp_#{parl_gc_id}`
   end

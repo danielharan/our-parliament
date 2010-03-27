@@ -73,7 +73,7 @@ namespace :scrape do
     votes = VoteList.fetch parliament, session
     
     votes.each do |vote|
-      if Vote.find_by_parliament_and_session_and_number vote.parliament, vote.session, vote.number
+      if Vote.find_by_parliament_and_session_and_number(vote.parliament, vote.session, vote.number)
         puts "already found #{vote.inspect}"
       else
         puts "saving new vote: #{vote.inspect}"

@@ -73,6 +73,15 @@
   <% end %>
 </ul>
 
+<div id="votes" class="block">
+  <h3>Votes</h3>
+  <ul>
+    <% @votes.each do |vote| %>
+      <li><b>Voted <%= @mp.recorded_vote_for(vote).stance %></b> on <%= truncate(vote.context, 70) %></li>
+    <% end %>
+  </ul>
+</div>
+
 <p><%= link_to "vote rss", votes_member_url(@mp) %></p>
 
 <%= render :partial => 'shared/twitter', :locals => {:twitter => @mp} if @mp.twitter? %>
