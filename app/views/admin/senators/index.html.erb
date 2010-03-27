@@ -1,0 +1,24 @@
+<h1>Senator Spreadsheet view</h1>
+
+<%= form_tag({:action => 'update'})  %>
+
+<table>
+  <th>
+    <tr>
+      <td>Senator</td>
+      <td>Twitter</td>
+      <td>Wikipedia</td>
+    </tr>
+  </th>
+  <% @senators.each do |senator| %>
+    <% fields_for "senators[#{senator.id}]", senator, {:builder => ActionView::Helpers::FormBuilder} do |f| %>
+      <tr>
+        <td><%= senator.name  %></td>
+        <td><%= f.text_field :twitter, :size => 12  %></td>
+        <td><%= f.text_field :wikipedia  %></td>
+      </tr>
+    <% end %>
+  <% end %>
+</table>
+<%= submit_tag %>
+</form>

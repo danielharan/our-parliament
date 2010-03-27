@@ -11,4 +11,15 @@ class SenatorsControllerTest < ActionController::TestCase
     should_assign_to :senators
     should_respond_with :success
   end
+  
+  context "on GET to show" do
+    setup do
+      senator = Factory(:senator)
+      
+      get :show, :id => senator.id
+    end
+    
+    should_assign_to :senator
+    should_respond_with :success
+  end
 end

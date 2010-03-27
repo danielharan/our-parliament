@@ -6,7 +6,7 @@ class Admin::MembersController < ApplicationController
   end
   
   def update
-    flash[:notice] = "twitters updated!"
+    flash[:notice] = "mp information updated!"
     
     params[:mps].each do |mpid, attributes|
       Mp.find(mpid).update_attributes(attributes)
