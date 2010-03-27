@@ -14,13 +14,14 @@ class MpTest < ActiveSupport::TestCase
     
     assert_equal "http://en.wikipedia.org/wiki/Alan_Tonks", mp.links["wikipedia"]
     assert_equal "http://en.wikipedia.org/wiki/York_South—Weston", mp.links["wikipedia_riding"]
-    assert_equal "http://twitter.com/tweeter", mp.links["twitter"]
+    assert_equal "http://twitter.com/tweeter", mp.links["@tweeter"]
     assert_equal "http://www.facebook.com/pages/Alan-Tonks/6334782980", mp.links["facebook"]
   end
   
   def test_link_returns_empty
     mp = Factory(:mp)
     mp.twitter = ''
+    mp.wikipedia = ''
     
     assert !mp.links.keys.any?, "should not have links, but had #{mp.links.inspect}"
   end

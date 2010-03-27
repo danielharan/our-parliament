@@ -31,10 +31,13 @@ class Mp < ActiveRecord::Base
 
   def links
     h = {}
-    %w{ wikipedia wikipedia_riding facebook}.each do |key|
-      h[key] = value  unless (value = send(key)).blank?
+    %w{ wikipedia facebook}.each do |key|
+      if !(value = send(key)).blank?
+        h[key] = value
+      end
     end
-    h['twitter'] = "http://twitter.com/#{twitter}" unless twitter.blank?
+    h["wikipedia (riding)"] = wikipedia_riding unless wikipedia_riding.blank?
+    h['@' + twitter] = "http://twitter.com/#{twitter}" unless twitter.blank?
     h
   end
 
