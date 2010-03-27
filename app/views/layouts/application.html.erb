@@ -15,8 +15,7 @@
 
 <div id="header">
   <div class="container">
-    <h1><%= link_to image_tag('logo.gif', :alt => 'OurParliament', :width => '240', :height => '160'), '/', :title => 'Citizen Factory Home' %></h1>
-    <p>Bringing you Hansard 2.0</p>
+    <h1><%= link_to image_tag('logo.gif', :alt => 'OurParliament'), '/', :title => 'Citizen Factory Home' %></h1>
     <ul id="nav">
       <li id="nav_home"><%= link_to 'Home', root_path %></li>
       <li id="nav_members"><%= link_to 'MPs', members_path %></li>
@@ -28,28 +27,53 @@
   </div>
 </div>
 
-<div id="page" class="container">
-  <% if flash[:notice] %>
-    <div class="notice">
-      <%= flash[:notice] %>
+<div id="page">
+  <div class="container">
+    <% if flash[:notice] %>
+      <div class="notice">
+        <%= flash[:notice] %>
+      </div>
+    <% end %>
+    <% if flash[:error] %>
+      <div class="notice">
+        <%= flash[:error] %>
+      </div>
+    <% end %>
+    <div id="content" class="clearfix <%= @content_layout %>">
+      <% if @content_for_sidebar_left %>
+        <div class="sidebar left">
+          <%= yield :sidebar_left %>
+        </div>
+      <% end %>
+      <div id="main">
+        <h2><%= @title %></h2>
+        <%= yield %>
+      </div>
+      <% if @content_for_sidebar_right %>
+        <div class="sidebar right">
+          <%= yield :sidebar_rigt %>
+        </div>
+      <% end %>
     </div>
-  <% end %>
-  <% if flash[:error] %>
-    <div class="notice">
-      <%= flash[:error] %>
-    </div>
-  <% end %>
-  <div id="main">
-    <h2><%= @title %></h2>
-    <%= yield %>
-  </div>
-  <div id="sidebar">
-    <%= yield :sidebar %>
   </div>
 </div>
 
-<div id="footer" class="container">
-  <p>this is a footer</p>
+<div id="footer">
+  <div class="container">
+
+    <div id="footer_disclaimer">
+      <p>
+        Citizen Factory is a tool for Canadian youth developed by <a href="http://apathyisboring.com" target="_blank">Apathy is Boring</a>.
+        Information on the proceedings of the House of Commons and its Committees is reproduced unofﬁcially as
+        per the Speaker’s Permisson. Ofﬁcial Parliamentary information is available online from the
+        <a href="http://www.parl.gc.ca" target="_blank">Parliament of Canada</a>.
+      </p>
+      <p>
+        Need to contact us? Just email <a href="mailto:info@apathyisboring.com">info@apathyisboring.com</a>.
+      </p>
+    </div>
+
+  </div>
 </div>
 
 <script type="text/javascript">

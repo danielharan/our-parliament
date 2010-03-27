@@ -12,7 +12,7 @@ div.container { margin: 0 auto; width: 960px; position: relative; }
 #sidebar { width: 220px; float: right; padding: 10px 0 0; }
 
 /* Header */
-#header { background: #C00000; padding: 20px; position: relative; }
+#header { background: #FFF url('../images/header_bg.gif') repeat-x left 10px; padding: 10px 0 0; position: relative; height: 120px; }
 #header h1 a { font-size: 24px; text-decoration: none; text-decoration: none; }
 #header a { color: #FFFFFF; }
 #header p { color: #EAAAAA; font-size: 18px; margin: 0; }
@@ -21,15 +21,19 @@ div.container { margin: 0 auto; width: 960px; position: relative; }
 #header #utilities li { margin: 0 0 0 10px; float: left; }
 #header #utilities li a { font-size: 12px; }
 
+/* Page */
+#page { background: #FFF; }
+
 /* Footer */
-#footer { padding: 50px 0 ;}
-#footer p { margin: 0; color: #808080; }
+#footer { padding: 40px 0; }
+#footer p { margin: 0 0 1.3em; color: #656565; font-size: 12px; }
+#footer p:last-child { margin: 0; }
 
 /* Navigation */
-ul#nav { position: absolute; top: 0; right: 0; }
+ul#nav { position: absolute; bottom: 7px; right: 0; }
 ul#nav li { display: block; float: left; margin: 0 0 0 5px; }
-ul#nav li a { font-weight: bold; display: block; padding: 5px 10px; line-height: 1; background: #800000; color: #EAAAAA; font-size: 12px; text-decoration: none; -moz-border-radius: 2px; -webkit-border-radius: 2px; }
-ul#nav li a:hover { background: #FFFFFF; color: #C00000; }
+ul#nav li a { font-weight: bold; display: block; padding: 0 10px; line-height: 22px; height: 22px; background: #EEEEEE; color: #656565; font-size: 12px; text-decoration: none; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+ul#nav li a:hover { background: #FFFFFF; color: #FF0066; }
 ul#nav li.active a { background: #FFFFFF; color: #C00000; }
 
 /* Flash Messages */
@@ -53,28 +57,20 @@ table td.options a.delete { background: url('../images/icons/delete.png') no-rep
 table tfoot { background: #F7F7F7; }
 table tfoot td { border: none; text-align: right; font-weight: normal; }
 
-body#application_controller.show { background: #C00000; }
-body#application_controller.show #header,
-body#application_controller.show #main { background: transparent; }
-body#application_controller.show #page { padding: 75px 0; }
+body#application_controller.show #page { padding: 80px 0; }
 body#application_controller.show #main { border: none; padding: 0; width: 100%; text-align: center; }
-body#application_controller.show #header p { display: none; }
-body#application_controller.show #main h3,
-body#application_controller.show #main p,
-body#application_controller.show #main label { color: #EAAAAA; }
-body#application_controller.show #main p.tagline { font-size: 48px; margin: 0 0 70px; line-height: normal; color: #E08080; }
-body#application_controller.show #search { width: 66%; margin: 0 auto; }
+body#application_controller.show #main p.tagline { font-size: 36px; margin: 0 0 40px; line-height: normal; color: #000; font-weight: bold; }
+body#application_controller.show #search { width: 480px; margin: 0 auto; }
 body#application_controller.show #search form { text-align: center; }
+body#application_controller.show #search form div.search_field { background: #EEE; padding: 10px; margin: 0 0 20px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
 body#application_controller.show #search label { color: #EAAAAA; font-size: 18px; display: block; }
-body#application_controller.show #search input.text { border: none; padding: 10px 0; color: #404040; font-size: 28px; width: 100%; -moz-border-radius: 2px; -webkit-border-radius: 2px; margin: 0 0 10px; text-align: center; }
+body#application_controller.show #search input.text { border: none; padding: 10px 0; color: #404040; font-size: 28px; width: 456px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; text-align: center; border: 2px solid #FF0066; }
 body#application_controller.show #search input.text.with_help { color: #808080; }
-body#application_controller.show #main p.intro { font-size: 18px; color: #EAAAAA; margin: 70px auto 0; text-align: left; }
-body#application_controller.show #main p.intro a { color: #FFFFFF;  }
+body#application_controller.show #main p.intro { font-size: 16px; color: #656565; margin: 40px auto 0; }
 body#application_controller.show #main h2,
 body#application_controller.show #search h3,
 body#application_controller.show #sidebar,
 body#application_controller.show #recent_activity { display: none; }
-body#application_controller.show #footer p { color: #EAAAAA; }
 
 
 
