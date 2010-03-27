@@ -8,6 +8,7 @@ class VoteTest < ActiveSupport::TestCase
     
     assert_equal Vote, v.class
     assert_equal 142, v.opposed
+    assert_equal "2009-12-10", v.vote_date.to_s
   end
 
 end

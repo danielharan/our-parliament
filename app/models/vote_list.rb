@@ -20,8 +20,6 @@ class VoteList
   def self.build_vote(node)
     # >> node["Votes"]["Vote"].first.keys
     # => ["parliament", "sitting", "number", "TotalYeas", "date", "session", "Decision", "TotalNays", "TotalPaired", "Description"]
-    puts node.inspect
-
     Vote.new :title     =>  node["Description"],
              :passed    => (node["Decision"] == "Agreed to"),
              :in_favour =>  node["TotalYeas"],
@@ -30,6 +28,7 @@ class VoteList
              :context   =>  node["Description"],
              :parliament => node["parliament"],
              :session    => node["session"],
-             :number     => node["number"]
+             :number     => node["number"],
+             :vote_date  => node["date"]
   end
 end
