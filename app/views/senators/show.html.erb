@@ -14,4 +14,4 @@
     t.string   "wikipedia"
 </pre>
 
-<%= render :partial => 'shared/twitter' if @senator.twitter? %>
+<%= render :partial => 'shared/twitter', :locals => {:twitter => @mp} if @senator.twitter? %>
