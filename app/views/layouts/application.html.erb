@@ -17,12 +17,11 @@
   <div class="container">
     <h1><%= link_to image_tag('logo.gif', :alt => 'CitizenFactory'), '/', :title => 'Citizen Factory Home' %></h1>
     <ul id="nav">
-      <li id="nav_home"><%= link_to 'Home', root_path %></li>
       <li id="nav_members"><%= link_to 'MPs', members_path %></li>
+      <li id="nav_senators"><%= link_to 'Senators', senators_path %></li>
+      <li id="nav_committees"><%= link_to 'Committees', root_path %></li>
       <li id="nav_votes"><%= link_to 'Votes', votes_path %></li>
-      <li id="nav_hansards"><%= link_to 'Hansard', hansards_path %></li>
       <li id="nav_about"><%= link_to 'About', about_path %></li>
-      <li id="nav_contact"><%= link_to 'Contact', contact_path %></li>
     </ul>
   </div>
 </div>
