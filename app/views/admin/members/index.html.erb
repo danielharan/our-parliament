@@ -1,13 +1,28 @@
-<h1>Edit Mps</h1>
-<br/>
+<h1>MP Spreadsheet view</h1>
 
-<%= form_tag :action => 'update' %>
+<%= form_tag({:action => 'update'})  %>
 
-<% @mps.each do |mp| %>
-  <% fields_for "mps[#{mp.id}]", mp do |f| %>
-    <%= mp.name  %> <%= f.text_field :twitter  %>
-    <br/>
+<table>
+  <th>
+    <tr>
+      <td>MP</td>
+      <td>Twitter</td>
+      <td>Facebook</td>
+      <td>Wikipedia (mp)</td>
+      <td>Wikipedia (riding)</td>
+    </tr>
+  </th>
+  <% @mps.each do |mp| %>
+    <% fields_for "mps[#{mp.id}]", mp, {:builder => ActionView::Helpers::FormBuilder} do |f| %>
+      <tr>
+        <td><%= mp.name  %></td>
+        <td><%= f.text_field :twitter, :size => 12  %></td>
+        <td><%= f.text_field :facebook  %></td>
+        <td><%= f.text_field :wikipedia  %></td>
+        <td><%= f.text_field :wikipedia_riding  %></td>
+      </tr>
+    <% end %>
   <% end %>
-<% end %>
+</table>
 <%= submit_tag %>
 </form>
