@@ -29,13 +29,18 @@ div.sidebar { width: 220px; float: left; }
 /* Page */
 #page { background: #FFF; }
 
+/* Page Title */
+#page_title { margin: 0 0 20px; }
+#page_title h2 { margin: 0; }
+#page_title p.subtitle { margin: 0; color: #656565; font-size: 18px; }
+
 /* Footer */
 #footer { padding: 40px 0; }
 #footer p { margin: 0 0 1.3em; color: #656565; font-size: 12px; }
 #footer p:last-child { margin: 0; }
 
 /* Navigation */
-ul#nav { position: absolute; bottom: 7px; right: 0; }
+ul#nav { position: absolute; bottom: 7px; right: 0; margin: 0; }
 ul#nav li { display: block; float: left; margin: 0 0 0 5px; }
 ul#nav li a { font-weight: bold; display: block; padding: 0 10px; line-height: 22px; height: 22px; background: #EEEEEE; color: #656565; font-size: 12px; text-decoration: none; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
 ul#nav li a:hover { background: #FFFFFF; color: #FF0066; }
@@ -62,6 +67,7 @@ table td.options a.delete { background: url('../images/icons/delete.png') no-rep
 table tfoot { background: #F7F7F7; }
 table tfoot td { border: none; text-align: right; font-weight: normal; }
 
+/* Homepage */
 body#application_controller.show #page { padding: 80px 0; }
 body#application_controller.show #main p.tagline { font-size: 36px; margin: 0 0 40px; line-height: normal; color: #000; font-weight: bold; }
 body#application_controller.show #search { width: 480px; margin: 0 auto; }
@@ -76,6 +82,15 @@ body#application_controller.show #search h3,
 body#application_controller.show #sidebar,
 body#application_controller.show #recent_activity { display: none; }
 
+/* Block > News */
+#news.block a.title { font-weight: bold; }
+#news.block small { display: block; font-size: 11px; color: #656565; }
+
+/* Block > Glossary */
+#glossary.block ul { overflow: hidden; margin: 0 0 -5px; }
+#glossary.block ul li { display: block; float: left; margin: 0 5px 5px 0; }
+#glossary.block ul li a { display: block; padding: 0 10px; line-height: 22px; height: 22px; background: #EEEEEE; font-size: 12px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+#glossary.block small { font-size: 11px; color: #656565; }
 
 
 

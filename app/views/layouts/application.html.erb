@@ -46,7 +46,12 @@
         </div>
       <% end %>
       <div id="main">
-        <h2><%= @title %></h2>
+        <div id="page_title">
+          <h2><%= @title %></h2>
+          <% if @content_for_subtitle %>
+            <p class="subtitle"><%= yield :subtitle %></p>
+          <% end %>
+        </div>
         <%= yield %>
       </div>
       <% if @content_for_sidebar_right %>
