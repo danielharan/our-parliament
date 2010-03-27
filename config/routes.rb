@@ -5,7 +5,7 @@ ActionController::Routing::Routes.draw do |map|
 
   map.root :controller => 'application', :action => 'show'
 
-  map.resources :members
+  map.resources :members, :member => {:votes => :get}
   map.resources :hansards
   map.resources :votes
   map.resources :senators
