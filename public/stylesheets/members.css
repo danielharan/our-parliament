@@ -1,25 +1,22 @@
 /* General */
 
 /* Members List */
-ul.members_list li { margin: 0 0 30px; overflow; }
-ul.members_list li a.photo { float: left; display: block; margin: 0 10px 0 0; }
-ul.members_list li a.photo img { width: 50px; }
-ul.members_list li div.who { margin: 0 0 0 60px; }
-ul.members_list li div.who h3 { display: inline; margin: 0; line-height: normal; margin: 0 10px 0 0; }
-ul.members_list li div.who span.meta { font-size: 14px; color: #808080; }
-ul.members_list li div.what { margin: 0 0 0 60px; }
-ul.members_list li div.what div.last_action { overflow: hidden; }
-ul.members_list li div.what div.last_quote { overflow: hidden; }
-ul.members_list li div.what div.tail { padding: 5px 0 0 10px; }
-ul.members_list li div.what div.tail b { display: block; width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 5px solid #FFFFFF; }
-ul.members_list li div.what blockquote { display: block; color: #404040; font-size: 12px; line-height: 1.4; float: left; padding: 5px 10px; background: #FFFFFF; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+ul.members_list li { margin: 0 0 20px; }
+ul.members_list li a.photo { float: left; display: block; margin: 0 10px 0 0; overflow: hidden; height: 40px; width: 40px; }
+ul.members_list li a.photo img { height: 100%; width: 100%; }
+ul.members_list li div.description { margin: 0 0 0 50px; }
+ul.members_list li div.description span.name a { font-weight: bold; }
+ul.members_list li div.description small { display: block; font-size: 11px; color: #656565; }
+ul.members_list li div.description div.quote { overflow: hidden; }
+ul.members_list li div.description div.quote b.tail { margin: 0 0 0 10px; display: block; width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 5px solid #EEE; }
+ul.members_list li div.description div.quote blockquote { display: block; color: #404040; font-size: 12px; padding: 5px 10px; background: #EEE; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
 
 /* Members Activity */
 ul.members_activity li { margin: 0 0 20px; overflow: hidden; }
 ul.members_activity li a.member { margin: 0 5px 0 0; float: left; font-size: 0; display: block; }
 ul.members_activity li a.member img { width: 60px; height: 60px; display: block; }
-ul.members_activity li b.tail { position: relative; top: 20px; float: left; display: block; width: 0; height: 0; border-top: 10px solid transparent; border-bottom: 10px solid transparent; border-right: 10px solid #FFFFFF; }
-ul.members_activity li blockquote { color: #404040; font-size: 16px; line-height: 1.4; float: left; padding: 15px; background: #FFFFFF; -moz-border-radius: 5px; -webkit-border-radius: 5px; min-height: 30px; width: 635px; }
+ul.members_activity li b.tail { position: relative; top: 20px; float: left; display: block; width: 0; height: 0; border-top: 10px solid transparent; border-bottom: 10px solid transparent; border-right: 10px solid #EEE; }
+ul.members_activity li blockquote { color: #404040; font-size: 16px; line-height: 1.4; float: left; padding: 15px; background: #EEE; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
 
 
 
