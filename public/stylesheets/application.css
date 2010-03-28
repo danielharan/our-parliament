@@ -12,7 +12,6 @@ div.sidebar { width: 220px; float: left; }
 /* Header */
 #header { background: #FFF url('../images/header_bg.gif') repeat-x left 10px; padding: 10px 0 0; position: relative; height: 120px; }
 #header h1 a { font-size: 24px; text-decoration: none; text-decoration: none; }
-#header a { color: #FFFFFF; }
 #header p { color: #EAAAAA; font-size: 18px; margin: 0; }
 #header ul { overflow: hidden; }
 #header #utilities { position: absolute; top: 0; right: 0; }
@@ -40,8 +39,13 @@ ul#nav li a {
   color: #656565; font-size: 12px; text-decoration: none;
   border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;
 }
-ul#nav li a:hover { background: #FFFFFF; color: #FF0066; }
+ul#nav li a:hover { background: #FFFFFF; color: #F60057; }
 ul#nav li.active a { background: #FFFFFF; color: #C00000; }
+
+/* Utilities */
+ul#utilities { position: absolute; top: 0; right: 0; }
+ul#utilities li { display: inline; }
+ul#utilities li a { font-size: 12px; font-weight: bold; }
 
 /* Flash Messages */
 div.flash { margin: 0 0 10px; padding: 10px; border: 1px solid #808080; background: #E0E0E0; color: #000000; }
@@ -79,7 +83,7 @@ body#application_controller.show #search label { color: #EAAAAA; font-size: 18px
 body#application_controller.show #search input.text {
   border: none; padding: 10px 0; color: #404040; font-size: 28px; width: 456px;
   border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;
-  text-align: center; border: 2px solid #FF0066;
+  text-align: center; border: 2px solid #F60057;
 }
 body#application_controller.show #search input.text.with_help { color: #808080; }
 body#application_controller.show #search a.button.large { width: 150px; line-height: 2; margin: 0 5px; }
