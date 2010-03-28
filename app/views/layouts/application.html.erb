@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <title><%= @title ? "#{@title} &laquo; Citizen Factory" : "Citizen Factory" %></title>
-  <%= stylesheet_link_tag 'scaffold', 'application', @controller.controller_name %>
+  <%= stylesheet_link_tag 'scaffold', 'application' %>
   <%# Use Google in production/test mode, local version at other times.  This is in case the dev works disconnected. %>
   <%= javascript_include_tag "http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js" unless Rails.env.development? %>
   <%= javascript_include_tag "jquery.min" if Rails.env.development? %>
