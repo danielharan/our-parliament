@@ -158,12 +158,8 @@ ul.profiles_list li div.description { margin: 0 0 0 50px; }
 ul.profiles_list li div.description span.name a { font-weight: bold; }
 ul.profiles_list li div.description small { display: block; font-size: 11px; color: #656565; }
 
-
-
-
-
-
-
+/* Twitter Widget */
+#content div.twtr-widget * { font-family: helvetica, arial, sans-serif; }
 
 
 
