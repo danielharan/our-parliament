@@ -1,10 +1,3 @@
-/* Large Button */
-a.large.button { position: relative; border: 1px solid #E0E0E0; margin: 0 5px; display: inline-block; font-size: 16px; color: #000000; font-weight: bold; text-decoration: none; padding: 8px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-right-color: #C0C0C0; border-bottom-color: #C0C0C0; background: #E0E0E0; width: 150px; }
-a.large.button b { position: absolute; width: 100%; display: block; top: 0; left: 0; height: 50%; background: #F7F7F7; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px; -moz-border-radius-bottomleft: 2px; -webkit-border-bottom-left-radius: 2px; -moz-border-radius-bottomright: 2px; -webkit-border-bottom-right-radius: 2px; }
-a.large.button i { position: relative; z-index: 3; font-style: normal; padding: 0; }
-a.large.button:hover { background: #F0F0F0; }
-a.large.button:hover b { background: #FFFFFF; }
-
 /* Layout */
 div.container { margin: 0 auto; width: 960px; position: relative; }
 #page { overflow: hidden; padding: 40px 0; position: relative; }
@@ -42,7 +35,11 @@ div.sidebar { width: 220px; float: left; }
 /* Navigation */
 ul#nav { position: absolute; bottom: 7px; right: 0; margin: 0; }
 ul#nav li { display: block; float: left; margin: 0 0 0 5px; }
-ul#nav li a { font-weight: bold; display: block; padding: 0 10px; line-height: 22px; height: 22px; background: #EEEEEE; color: #656565; font-size: 12px; text-decoration: none; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+ul#nav li a {
+  font-weight: bold; display: block; padding: 0 10px; line-height: 22px; height: 22px; background: #EEEEEE;
+  color: #656565; font-size: 12px; text-decoration: none;
+  border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;
+}
 ul#nav li a:hover { background: #FFFFFF; color: #FF0066; }
 ul#nav li.active a { background: #FFFFFF; color: #C00000; }
 
@@ -69,14 +66,24 @@ table tfoot td { border: none; text-align: right; font-weight: normal; }
 
 /* Homepage */
 body#application_controller.show #page { padding: 80px 0; }
-body#application_controller.show #main p.tagline { font-size: 36px; margin: 0 0 40px; line-height: normal; color: #000; font-weight: bold; }
+body#application_controller.show #main p.tagline {
+  font-size: 36px; margin: 0 0 40px; line-height: normal; color: #000; font-weight: bold; text-align: center;
+}
 body#application_controller.show #search { width: 480px; margin: 0 auto; }
 body#application_controller.show #search form { text-align: center; }
-body#application_controller.show #search form div.search_field { background: #EEE; padding: 10px; margin: 0 0 20px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+body#application_controller.show #search form div.search_field {
+  background: #EEE; padding: 10px; margin: 0 0 20px;
+  border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;
+}
 body#application_controller.show #search label { color: #EAAAAA; font-size: 18px; display: block; }
-body#application_controller.show #search input.text { border: none; padding: 10px 0; color: #404040; font-size: 28px; width: 456px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; text-align: center; border: 2px solid #FF0066; }
+body#application_controller.show #search input.text {
+  border: none; padding: 10px 0; color: #404040; font-size: 28px; width: 456px;
+  border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;
+  text-align: center; border: 2px solid #FF0066;
+}
 body#application_controller.show #search input.text.with_help { color: #808080; }
-body#application_controller.show #main p.intro { font-size: 16px; color: #656565; margin: 40px auto 0; }
+body#application_controller.show #search a.button.large { width: 150px; line-height: 2; margin: 0 5px; }
+body#application_controller.show #main p.intro { font-size: 16px; color: #656565; margin: 40px auto 0; text-align: center; }
 body#application_controller.show #main h2,
 body#application_controller.show #search h3,
 body#application_controller.show #sidebar,
@@ -89,8 +96,39 @@ body#application_controller.show #recent_activity { display: none; }
 /* Block > Glossary */
 #glossary.block ul { overflow: hidden; margin: 0 0 -5px; }
 #glossary.block ul li { display: block; float: left; margin: 0 5px 5px 0; }
-#glossary.block ul li a { display: block; padding: 0 10px; line-height: 22px; height: 22px; background: #EEEEEE; font-size: 12px; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+#glossary.block ul li a {
+  display: block; padding: 0 10px; line-height: 22px; height: 22px; background: #EEEEEE; font-size: 12px;
+  border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;
+}
 #glossary.block small { font-size: 11px; color: #656565; }
+
+/* Block > Photo */
+#photo.block { text-align: center; }
+#photo.block a.photo { display: block; margin: 0 0 10px; }
+#photo.block p { font-size: 12px; color: #656565; }
+
+/* Block > Facts */
+#facts.block ul li small { font-size: 11px; color: #656565; }
+
+/* Form Elements */
+a.button {
+  position: relative; border: 1px solid #E0E0E0; margin: 0; display: inline-block; font-size: 12px; font-weight: bold;
+  text-decoration: none; padding: 0 10px; color: #000;
+  border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;
+  border-right-color: #C0C0C0; border-bottom-color: #C0C0C0; background: #E0E0E0;
+}
+a.button b {
+  position: absolute; width: 100%; display: block; top: 0; left: 0; height: 50%; background: #F7F7F7;
+  border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;
+  border-bottom-left-radius: 2px; -moz-border-radius-bottomleft: 2px; -webkit-border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px; -moz-border-radius-bottomright: 2px; -webkit-border-bottom-right-radius: 2px;
+}
+a.button i { position: relative; z-index: 3; font-style: normal; padding: 0; }
+a.button:hover { background: #F0F0F0; }
+a.button:hover b { background: #FFFFFF; }
+a.button.large { font-size: 16px; padding: 0 10px; }
+
+
 
 
 
