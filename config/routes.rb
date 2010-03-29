@@ -1,6 +1,7 @@
 ActionController::Routing::Routes.draw do |map|
 
   map.about '/about', :controller => 'application', :action => 'about'
+  map.committees '/committees', :controller => 'application', :action => 'committees'
   map.contact '/contact', :controller => 'application', :action => 'contact'
 
   map.root :controller => 'application', :action => 'show'
