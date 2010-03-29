@@ -1,7 +1,7 @@
 <li>
-  <%= link_to image_tag("placeholder_photo_small.gif", :alt => senator.name), senator_path(senator), :class => 'photo' %>
+  <%= link_to image_tag("placeholder_photo_small.gif", :alt => senator.normalized_name), senator_path(senator), :class => 'photo' %>
   <div class="description">
-    <span class="name"><%= link_to senator.name, senator_path(senator), :title => "" %></span>
+    <span class="name"><%= link_to senator.normalized_name, senator_path(senator), :title => "" %></span>
     <small>
       <span class="affiliation"><%= senator.affiliation %></span>,
       <span class="province"><%= senator.province %></span>

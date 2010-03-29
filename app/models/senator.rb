@@ -2,7 +2,12 @@ require 'open-uri'
 class Senator < ActiveRecord::Base
   
   def news_search_name
-    URI.encode(name.gsub(/^.*Hon. /, '').gsub(',', ''))
+    URI.encode(normalized_name.gsub(/^.*Hon. /, '').gsub(',', ''))
+  end
+  
+  def normalized_name
+    last,first = name.split(',').collect(&:strip)
+    [first, last].join(" ")
   end
   
   class << self
