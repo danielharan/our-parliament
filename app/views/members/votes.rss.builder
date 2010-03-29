@@ -8,7 +8,7 @@ xml.rss :version => "2.0" do
     for vote in @votes
       xml.item do
         xml.title vote.context
-        xml.description "#{@mp.name} voted #{@mp.recorded_vote_for(vote).stance} (#{vote.vote_date})"
+        xml.description "#{@mp.name} #{stance(@mp, vote).downcase} #{truncate(vote.context, 70)} (#{vote.vote_date})"
         xml.pubDate vote.created_at.to_s(:rfc822)
         # xml.link formatted_article_url(article, :rss)
         # xml.guid formatted_article_url(article, :rss)

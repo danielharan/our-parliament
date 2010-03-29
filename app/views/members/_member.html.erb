@@ -2,14 +2,16 @@
   <%= link_to image_tag("placeholder_photo_small.gif", :alt => member.name), member_path(member), :class => 'photo' %>
   <div class="description">
     <span class="name"><%= link_to member.name, member_path(member), :title => "" %></span>
-    <span class="action">voted for <%= link_to 'Bill C02', '', :title => 'Bill C02' %></span>
+    <span class="action">
+    </span>
     <small>
       <span class="caucus"><%= member.party %></span>,
       <span class="constituency"><%= member.constituency_name %></span>
     </small>
     <div class="quote">
       <b class="tail"><!----></b>
-      <blockquote>"Madam Speaker (todo)..."<%#= activity.content %></blockquote>
+      <blockquote><%= stance(member, @last_vote) %></b> vote <%= @last_vote.number %>, <%= truncate(@last_vote.context, :length => 100) %></blockquote>
+      <!--blockquote>"Madam Speaker (todo)..."<%#= activity.content %></blockquote-->
     </div>
   </div>
 </li>

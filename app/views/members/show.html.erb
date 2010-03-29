@@ -75,7 +75,7 @@
   <h3>Votes</h3>
   <ul>
     <% @votes.each do |vote| %>
-      <li><b>Voted <%= @mp.recorded_vote_for(vote).stance %></b> on <%= truncate(vote.context, 70) %></li>
+      <li><b><%= stance(@mp, vote).stance %></b> <%= truncate(vote.context, 70) %></li>
     <% end %>
   </ul>
   <p class="more rss"><%= link_to "Subscribe to this member&#39;s votes", votes_member_url(@mp) %></p>

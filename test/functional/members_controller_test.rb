@@ -3,11 +3,16 @@ require 'test_helper'
 class MembersControllerTest < ActionController::TestCase
   context "on GET to index" do
     setup do
-      3.times { Factory(:mp) }
+      v = Factory(:vote)
+      3.times do
+        mp = Factory(:mp)
+        mp.recorded_votes.create :vote => v, :stance => 'nay'
+      end
       
       get :index
     end
     
+    should_assign_to :mps, :last_vote
     should_respond_with :success
   end
   

@@ -3,7 +3,8 @@ class MembersController < ApplicationController
   before_filter :find_mp,     :only => [:show, :edit, :update, :votes]
   
   def index
-    @mps = Mp.active.all
+    @mps       = Mp.active.all
+    @last_vote = Vote.first :order => "vote_date DESC"
   end
   
   def show

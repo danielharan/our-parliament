@@ -9,7 +9,7 @@ Factory.define :mp do |mp|
   
   mp.constituency_name "Winnipeg"
   mp.party "Independent"
-  mp.name Factory.next :id
+  mp.name { Factory.next :id }
 end
 
 Factory.define :senator do |s|
@@ -19,4 +19,8 @@ Factory.define :senator do |s|
   s.nomination_date Date.parse("1993-03-11")
   s.retirement_date Date.parse("2019-08-14")
   s.appointed_by "Mulroney (Prog. Conser.)"
+end
+
+Factory.define :vote do |v|
+  v.bill_number "C2"
 end

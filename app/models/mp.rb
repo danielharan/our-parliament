@@ -26,7 +26,7 @@ class Mp < ActiveRecord::Base
   end
 
   def recorded_vote_for(vote)
-    recorded_votes.find_by_vote_id(vote.id) || recorded_votes.new(:stance => "(absent)")
+    recorded_votes.find_by_vote_id(vote.id) || recorded_votes.new
   end
 
   def links
