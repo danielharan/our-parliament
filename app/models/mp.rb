@@ -42,7 +42,7 @@ class Mp < ActiveRecord::Base
   end
 
   def news_search_name
-    URI.encode(name.gsub(/^.*Hon. /, '') + " MP")
+    URI.encode(name.gsub(/^.*Hon. /, '').gsub(',', '') + " MP")
   end
 
   def download
