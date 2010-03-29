@@ -7,6 +7,14 @@
     <%= link_to image_tag("placeholder_photo_medium.gif", :alt => ""), "", :title => "", :class => "photo" %>
     <p>Do you own a photo of this senator?<br/><%= link_to "Let us use it!", :title => "" %></p>
   </div>
+  
+  <div id="facts" class="block">
+    <h3>The Facts</h3>
+    <ul>
+      <li><%= @senator.province %></li>
+      <li><%= @senator.affiliation %></li>
+    </ul>
+  </div>
 
   <div id="articles" class="block">
     <h3>Articles</h3>
