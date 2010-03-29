@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100327194102) do
+ActiveRecord::Schema.define(:version => 20100329172039) do
 
   create_table "mps", :force => true do |t|
     t.string  "ed_id"
@@ -69,8 +69,8 @@ ActiveRecord::Schema.define(:version => 20100327194102) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "bill_number"
-    t.string   "context"
-    t.string   "sponsor"
+    t.text     "context"
+    t.text     "sponsor"
     t.date     "vote_date"
   end
 
