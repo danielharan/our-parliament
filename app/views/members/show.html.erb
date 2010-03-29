@@ -4,8 +4,8 @@
 <% content_for :sidebar_left do %>
 
   <div id="photo" class="block">
-    <%= link_to image_tag("", :alt => ""), "", :title => "", :class => "photo" %>
-    <p>Do you own a photo of this MP? <%= link_to "Let us use it!", :title => "" %></p>
+    <%= link_to image_tag("placeholder_photo_medium.gif", :alt => ""), "", :title => "", :class => "photo" %>
+    <p>Do you own a photo of this MP?<br/><%= link_to "Let us use it!", :title => "" %></p>
   </div>
 
 <!-- 
@@ -71,7 +71,7 @@
 
 <% end %>
 
-<p><%= link_to 'edit', edit_member_path(@mp) %></p>
+<p><%= link_to "<b></b><i>Edit</i>", edit_member_path(@mp), :title => "Edit this MP", :class => "button" %></p>
 
 <ul>
   <% %w{ ed_id constituency_name name email website parliamentary_phone parliamentary_fax preferred_language active}.each do |val| %>
@@ -86,6 +86,7 @@
       <li><b>Voted <%= @mp.recorded_vote_for(vote).stance %></b> on <%= truncate(vote.context, 70) %></li>
     <% end %>
   </ul>
+  <p class="more rss"><%= link_to "Subscribe to this member&#39;s votes", votes_member_url(@mp) %></p>
 </div>
 
 <div id="google_news" class="block">
@@ -94,7 +95,5 @@
          src="http://www.google.com/uds/modules/elements/newsshow/iframe.html?q=<%= @mp.news_search_name %>&ned=ca&rsz=large&hl=en&format=728x90">
   </iframe>
 </div>
-
-<p><%= link_to "vote rss", votes_member_url(@mp) %></p>
 
 <%= render :partial => 'shared/twitter', :locals => {:twitter => @mp} if @mp.twitter? %>
