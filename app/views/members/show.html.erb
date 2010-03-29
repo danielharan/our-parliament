@@ -71,14 +71,6 @@
 
 <% end %>
 
-<p><%= link_to "<b></b><i>Edit</i>", edit_member_path(@mp), :title => "Edit this MP", :class => "button" %></p>
-
-<ul>
-  <% %w{ ed_id constituency_name name email website parliamentary_phone parliamentary_fax preferred_language active}.each do |val| %>
-    <li><label><%= val %></label>: <span class="<%= val %>"><%= @mp.send(val) %></span></li>
-  <% end %>
-</ul>
-
 <div id="votes" class="block">
   <h3>Votes</h3>
   <ul>

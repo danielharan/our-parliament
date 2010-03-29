@@ -1,6 +1,10 @@
 require 'open-uri'
 class Senator < ActiveRecord::Base
   
+  def news_search_name
+    URI.encode(name.gsub(/^.*Hon. /, '').gsub(',', ''))
+  end
+  
   class << self
     def spider_list
       # TODO: caching logic should be extracted into scraping tools
