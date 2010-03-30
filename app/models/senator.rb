@@ -1,5 +1,12 @@
 require 'open-uri'
 class Senator < ActiveRecord::Base
+  index do
+    name
+    affiliation
+    province
+    appointed_by
+  end
+
   has_attached_file :image,
                     :styles      => { :medium => "120x120>", :small => "40x40>" },
                     :storage     => :s3,

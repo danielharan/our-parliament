@@ -2,6 +2,26 @@ require 'hpricot'
 require 'open-uri'
 
 class Mp < ActiveRecord::Base
+  index do
+    ed_id
+    parl_gc_id
+    parl_gc_constituency_id
+    constituency_name
+    party
+    name
+    email
+    website
+    parliamentary_phone
+    parliamentary_fax
+    preferred_language
+    constituency_address
+    constituency_city
+    constituency_province
+    constituency_postal_code
+    constituency_phone
+    constituency_fax
+  end 
+
   has_attached_file :image,
                     :styles      => { :medium => "120x120>", :small => "40x40>" },
                     :storage     => :s3,
