@@ -7,7 +7,7 @@ class Mp < ActiveRecord::Base
                     :storage     => :s3,
                     :path        => ":attachment/:id/:style.:extension",
                     :bucket      => 'citizen_factory',
-                    :s3_credentials => ::S3_CREDENTIALS
+                    :s3_credentials => {:access_key_id => ENV["AWS_ACCESS_KEY_ID"], :secret_access_key => ENV["AWS_SECRET_ACCESS_KEY"]}
 
   has_and_belongs_to_many :postal_codes
   has_many :recorded_votes
