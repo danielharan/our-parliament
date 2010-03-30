@@ -1,6 +1,7 @@
 class MembersController < ApplicationController
   before_filter :basic_admin, :only => [:edit, :update]
   before_filter :find_mp,     :only => [:show, :edit, :update, :votes]
+  before_filter :fetch_random_links, :only => [:index, :show]
   
   def index
     @mps       = Mp.active.all
@@ -9,7 +10,6 @@ class MembersController < ApplicationController
   
   def show
     @votes = Vote.last 5
-    fetch_random_links
   end
   
   def edit
