@@ -23,6 +23,13 @@ class Senator < ActiveRecord::Base
     [first, last].join(" ")
   end
   
+  def scrubbed_affiliation
+    {
+      "C" => "Conservative", "Lib." => "Liberal", "" => "Independent", 
+      "Prog. Conser." => "Progressive Conservative", "Ind." => "Independent"
+     }[affiliation]
+  end
+  
   class << self
     def spider_list
       # TODO: caching logic should be extracted into scraping tools

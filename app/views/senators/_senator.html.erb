@@ -3,7 +3,7 @@
   <div class="description">
     <span class="name"><%= link_to senator.normalized_name, senator_path(senator), :title => "" %></span>
     <small>
-      <span class="affiliation"><%= senator.affiliation %></span>,
+      <span class="affiliation"><%= senator.scrubbed_affiliation %></span>,
       <span class="province"><%= senator.province %></span>
     </small>
   </div>
