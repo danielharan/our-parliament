@@ -1,9 +1,20 @@
 <% @title = 'Members of Parliament' %>
 <% @content_layout = "has_sidebar_right" %>
 
-<ul class="activity_feed">
-  <%= render :partial => 'member', :collection => @mps %>
-</ul>
+<% grouped = @mps.group_by(&:constituency_province).sort %>
+
+<lu>
+  <% grouped.collect(&:first).each do |province| %>
+    <li><a href="#<%= province.gsub(' ', '_') %>"><%= province %></a></li>
+  <% end %>
+</lu>
+
+<% grouped.each do |province, mps| %>
+  <h2><a name="<%= province.gsub(' ', '_') %>"><%= province %></a></h2>
+  <ul class="activity_feed">
+    <%= render :partial => 'member', :collection => mps %>
+  </ul>
+<% end %>
 
 <% content_for :sidebar_right do %>
   <p>Perhaps put some content here.</p>

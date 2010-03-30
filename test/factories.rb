@@ -8,6 +8,7 @@ Factory.define :mp do |mp|
   mp.parl_gc_constituency_id { Factory.next :id }
   
   mp.constituency_name "Winnipeg"
+  mp.constituency_province "Manitoba"
   mp.party "Independent"
   mp.name { Factory.next :id }
 end
