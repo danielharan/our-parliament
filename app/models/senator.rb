@@ -5,7 +5,7 @@ class Senator < ActiveRecord::Base
                     :storage     => :s3,
                     :path        => ":attachment/:id/:style.:extension",
                     :bucket      => 'citizen_factory',
-                    :s3_credentials => S3_CREDENTIALS
+                    :s3_credentials => ::S3_CREDENTIALS
 
   def news_search_name
     URI.encode(normalized_name.gsub(/^.*Hon. /, '').gsub(',', ''))
