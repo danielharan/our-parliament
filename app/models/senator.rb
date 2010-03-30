@@ -1,6 +1,12 @@
 require 'open-uri'
 class Senator < ActiveRecord::Base
-  
+  has_attached_file :image,
+                    :styles      => { :medium => "120x120>", :small => "40x40>" },
+                    :storage     => :s3,
+                    :path        => ":attachment/:id/:style.:extension",
+                    :bucket      => 'citizen_factory',
+                    :s3_credentials => S3_CREDENTIALS
+
   def news_search_name
     URI.encode(normalized_name.gsub(/^.*Hon. /, '').gsub(',', ''))
   end

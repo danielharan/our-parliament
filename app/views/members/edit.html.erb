@@ -1,7 +1,9 @@
 <% @title = @mp.name %>
 
-<% form_for @mp, :url => {:action => :update}, :html => {:method => :put} do |f| -%>
+<% form_for @mp, :url => {:action => :update}, :html => {:method => :put, :multipart => true } do |f| -%>
   <%= f.error_messages %>
+  
+  <%= f.file_field :image %>
   
   <%= f.text_field :name, :size => 50 %>
   <%= f.text_field :party, :size => 50 %>

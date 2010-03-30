@@ -2,6 +2,13 @@ require 'hpricot'
 require 'open-uri'
 
 class Mp < ActiveRecord::Base
+  has_attached_file :image,
+                    :styles      => { :medium => "120x120>", :small => "40x40>" },
+                    :storage     => :s3,
+                    :path        => ":attachment/:id/:style.:extension",
+                    :bucket      => 'citizen_factory',
+                    :s3_credentials => S3_CREDENTIALS
+
   has_and_belongs_to_many :postal_codes
   has_many :recorded_votes
   
