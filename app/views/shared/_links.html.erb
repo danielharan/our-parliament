@@ -1,0 +1,18 @@
+<%# TODO: an article / glossary link on each line %>
+<div id="articles" class="block">
+  <h3>Articles</h3>
+  <ul>
+    <% @article_links.each do |article| %>
+      <li><%= link_to article.title, article.url %></li>
+    <% end %>
+  </ul>
+</div>
+
+<div id="glossary" class="block">
+  <h3>Glossary</h3>
+  <ul>
+    <% @glossary_links.each do |glossary| %>
+      <li><%= link_to glossary.title, glossary.url %></li>
+    <% end %>
+  </ul>
+</div>

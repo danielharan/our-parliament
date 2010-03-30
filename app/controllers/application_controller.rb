@@ -13,4 +13,9 @@ class ApplicationController < ActionController::Base
             id == ENV["ADMIN_USER"] && password == ENV["ADMIN_PASSWORD"]
         end
      end
+     
+     def fetch_random_links
+       @article_links  = Link.article.all.sort_by(&:rand)[0,3]  # TODO: nix the .all
+       @glossary_links = Link.glossary.all.sort_by(&:rand)[0,5]
+     end
 end

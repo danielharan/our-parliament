@@ -4,6 +4,7 @@ class SenatorsController < ApplicationController
   end
   
   def show
+    fetch_random_links
     @senator = Senator.find params[:id]
   end
 end

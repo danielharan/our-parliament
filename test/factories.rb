@@ -25,3 +25,9 @@ end
 Factory.define :vote do |v|
   v.bill_number "C2"
 end
+
+Factory.define :link do |l|
+  l.url      "http://example.com"
+  l.title    "example"
+  l.category "glossary"
+end

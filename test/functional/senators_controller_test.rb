@@ -15,11 +15,13 @@ class SenatorsControllerTest < ActionController::TestCase
   context "on GET to show" do
     setup do
       senator = Factory(:senator)
+      5.times { Factory(:link, :category => 'glossary')}
+      5.times { Factory(:link, :category => 'article')}
       
       get :show, :id => senator.id
     end
     
-    should_assign_to :senator
+    should_assign_to :senator, :article_links, :glossary_links
     should_respond_with :success
   end
 end

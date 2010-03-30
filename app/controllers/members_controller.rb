@@ -9,6 +9,7 @@ class MembersController < ApplicationController
   
   def show
     @votes = Vote.last 5
+    fetch_random_links
   end
   
   def edit
