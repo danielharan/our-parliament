@@ -36,9 +36,9 @@
   <div id="contact" class="block">
     <h3>Contact Them</h3>
     <ul>
-      <li class="address">123 Smith Street<br/>Ottawa, Canada<br/>H4W 3M6</li>
-      <li class="phone">(555) 555 5555</li>
-      <li class="email"><a href="">[ email address ]</a></li>
+      <li class="address"><%= @mp.constituency_address %><br/><%= @mp.constituency_city %>, <%= @mp.constituency_province %><br/><%= @mp.constituency_postal_code %></li>
+      <li class="phone"><%= @mp.constituency_phone %></li>
+      <li class="email"><a href="mailto:<%= @mp.email %>"><%= @mp.email %></a></li>
     </ul>
   </div>
 
