@@ -1,0 +1,18 @@
+<% @title = @senator.name %>
+
+<% form_for @senator, :url => {:action => :update}, :html => {:method => :put, :multipart => true } do |f| -%>
+  <%= f.error_messages %>
+  
+  <%= f.file_field :image %>
+  
+  <%= f.text_field :name, :size => 50 %>
+  <%= f.text_field :affiliation, :size => 50 %>
+  <%= f.text_field :province, :size => 50 %>
+  
+  <%= f.text_field :appointed_by, :size => 50 %>
+  
+  <%= f.text_field :wikipedia, :size => 50 %>
+  <%= f.text_field :twitter, :size => 50 %>
+  
+  <%= submit_tag "Save" %>
+<% end -%>
