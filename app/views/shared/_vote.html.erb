@@ -1,12 +1,14 @@
 <li>
   <div class="votes">
-    <%= vote.number %>
+    <%= vote.total_votes %>
     <label>Votes</label>
   </div>
-  <div class="bill">
-    <label>Bill</label>
-    <%= "42" + vote.bill_number.to_s %>
-  </div>
+  <% unless vote.bill_number.nil? %>
+    <div class="bill">
+      <label>Bill</label>
+      <%= vote.bill_number %>
+    </div>
+  <% end %>
   <div class="description">
     <%= vote.title %>
     <small>Voted on <%= vote.vote_date %></small>
