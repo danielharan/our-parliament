@@ -2,8 +2,8 @@ jQuery(function() {
   $("#home_search").blur(function() {
     var currentValue = $(this).val();
     var newValue = currentValue;
-    if (currentValue == "") {
-      newValue = "Enter a Postal Code or Keywords";
+    if (currentValue == "" || currentValue == "Enter a Keyword") {
+      newValue = "Enter a  Keyword";
     }
     $(this).val(newValue);
   });
@@ -11,7 +11,7 @@ jQuery(function() {
   $("#home_search").focus(function() {
       var currentValue = $(this).val();
       var newValue = currentValue;
-      if (currentValue == "Enter a Postal Code or Keywords") {
+      if (currentValue == "Enter a Keyword") {
         newValue = "";
       }
       $(this).val(newValue);
