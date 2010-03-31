@@ -1,0 +1,24 @@
+<% @title = "Search results for #{@q}" %>
+
+<div id="groups" class="block">
+  <ul>
+    <% if @senators.any? %><li><a href="#senators">Senators</a></li><% end %>
+    <% if @mps.any? %><li><a href="#mps">MPs</a></li><% end %>
+    <% if @votes.any? %><li><a href="#votes">Votes</a></li><% end %>
+  </ul>
+</div>
+
+<% if @senators.any? %>
+  <h3>Senators</h3>
+  <%= render :partial => 'shared/senator', :collection => @senators %>
+<% end %>
+
+<% if @mps.any? %>
+  <h3>Mps</h3>
+  <%= render :partial => 'shared/member', :collection => @mps %>
+<% end %>
+
+<% if @votes.any? %>
+  <h3>Votes</h3>
+  <%= render :partial => 'shared/vote', :collection => @votes %>
+<% end %>

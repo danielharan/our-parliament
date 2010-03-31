@@ -1,0 +1,14 @@
+<li>
+  <div class="votes">
+    <%= vote.number %>
+    <label>Votes</label>
+  </div>
+  <div class="bill">
+    <label>Bill</label>
+    <%= "42" + vote.bill_number.to_s %>
+  </div>
+  <div class="description">
+    <%= vote.title %>
+    <small>Voted on <%= vote.vote_date %></small>
+  </div>
+</li>
