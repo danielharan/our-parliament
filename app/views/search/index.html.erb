@@ -8,6 +8,10 @@
   </ul>
 </div>
 
+<% if (@senators.length + @mps.length + @votes.length) == 0 %>
+  No results found for <%= @q %>.
+<% end %>
+
 <% if @senators.any? %>
   <a name="#senators"></a>
   <h3>Senators</h3>
