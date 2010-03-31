@@ -11,17 +11,25 @@
 <% if @senators.any? %>
   <a name="#senators"></a>
   <h3>Senators</h3>
-  <%= render :partial => 'shared/senator', :collection => @senators %>
+  <ul class="activity_feed">
+    <%= render :partial => 'shared/senator', :collection => @senators %>
+  </ul>
 <% end %>
 
 <% if @mps.any? %>
   <a name="#mps"></a>
   <h3>Mps</h3>
-  <%= render :partial => 'shared/member', :collection => @mps %>
+  <ul class="activity_feed">
+    <%= render :partial => 'shared/member', :collection => @mps %>
+  </ul>
 <% end %>
 
 <% if @votes.any? %>
   <a name="#votes"></a>
   <h3>Votes</h3>
-  <%= render :partial => 'shared/vote', :collection => @votes %>
+  <div id="votes" class="block">
+    <ul class="activity_feed">
+      <%= render :partial => 'shared/vote', :collection => @votes %>
+    </ul>
+  </div>
 <% end %>
