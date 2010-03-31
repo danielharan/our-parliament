@@ -9,16 +9,19 @@
 </div>
 
 <% if @senators.any? %>
+  <a name="#senators"></a>
   <h3>Senators</h3>
   <%= render :partial => 'shared/senator', :collection => @senators %>
 <% end %>
 
 <% if @mps.any? %>
+  <a name="#mps"></a>
   <h3>Mps</h3>
   <%= render :partial => 'shared/member', :collection => @mps %>
 <% end %>
 
 <% if @votes.any? %>
+  <a name="#votes"></a>
   <h3>Votes</h3>
   <%= render :partial => 'shared/vote', :collection => @votes %>
 <% end %>
