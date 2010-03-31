@@ -3,14 +3,17 @@
 
 <% grouped = @mps.group_by(&:constituency_province).sort %>
 
-<lu>
-  <% grouped.collect(&:first).each do |province| %>
-    <li><a href="#<%= province.gsub(' ', '_') %>"><%= province %></a></li>
-  <% end %>
-</lu>
+<div id="groups" class="block">
+  <ul>
+    <% grouped.collect(&:first).each do |province| %>
+      <li><a href="#<%= province.gsub(' ', '_') %>"><%= province %></a></li>
+    <% end %>
+  </ul>
+</div>
 
 <% grouped.each do |province, mps| %>
-  <h2><a name="<%= province.gsub(' ', '_') %>"><%= province %></a></h2>
+  <a name="<%= province.gsub(' ', '_') %>"></a>
+  <h3><%= province %></h3>
   <ul class="activity_feed">
     <%= render :partial => 'member', :collection => mps %>
   </ul>

@@ -1,7 +1,6 @@
 <p class="tagline">Parliament is sitting</p>
 
 <div id="search">
-  <h3>Search</h3>
   <% form_tag '' do %>
     <div class="search_field">
       <%= text_field_tag '', 'Enter a Keyword', :class => 'text with_help', :id => 'home_search' %>
@@ -10,28 +9,11 @@
       <%= link_to "<b></b><i>Search</i>", '', :title => "Search", :class => 'large button' %>
     </div>
   <% end %>
-  <br/>
-      <h4>What is your MP up to?</h4><%# TODO: make it an h3 without display:none; lower, centered + bigger please %>
-  <div class="intro">
-
-    <p>MPs represent you, but keeping tabs on elected representatives can be difficult - the info you need is scattered across various websites, archives, newspapers, blogs, and even on Twitter.</p>
-
-    <p>That's where Citizen Factory comes in: it's a tool created by Apathy is Boring to help Canadian youth learn about their government. By aggregating Parliamentary information and making it easily accessible, Citizen Factory allows anyone to find out exactly what MPs are up to.</p>
-
-    <p>Citizen Factory also includes a Teacher's Guide that includes lesson plans and other resources to help students learn about Parliament.</p>
-  </div>
 </div>
 
-<div id="recent_activity">
-  <h3>Recent Activity</h3>
-  <ul>
-    <%# start_loop %>
-      <li class="<%#= activity.type %>">
-        <%= link_to image_tag('http://icanhascheezburger.files.wordpress.com/2009/03/funny-pictures-cat-gets-invisible-chin-scratches.jp', :alt => 'activity.member.name'), 'member_path(activity.member)', :class => 'member' %>
-        <b class="tail"><!----></b>
-        <blockquote><%#= activity.content %></blockquote>
-        <%= link_to 'Go to Hansard', 'hansard_path(activity.hansard)', :class => 'member' %>
-      </li>
-    <%# end_loop %>
-  </ul>
+<div id="intro">
+  <h3>What is your MP up to?</h3>
+  <p>MPs represent you, but keeping tabs on elected representatives can be difficult - the info you need is scattered across various websites, archives, newspapers, blogs, and even on Twitter.</p>
+  <p>That's where Citizen Factory comes in: it's a tool created by Apathy is Boring to help Canadian youth learn about their government. By aggregating Parliamentary information and making it easily accessible, Citizen Factory allows anyone to find out exactly what MPs are up to.</p>
+  <p>Citizen Factory also includes a Teacher's Guide that includes lesson plans and other resources to help students learn about Parliament.</p>
 </div>

@@ -1,15 +1,19 @@
 <% @title = 'Current Senators' %>
+<% @content_layout = "has_sidebar_right" %>
 
 <% grouped = @senators.group_by {|s| s.province.split(' ').first}.sort %>
 
-<lu>
-  <% grouped.collect(&:first).each do |province| %>
-    <li><a href="#<%= province.gsub(' ', '_') %>"><%= province %></a></li>
-  <% end %>
-</lu>
+<div id="groups" class="block">
+  <ul>
+    <% grouped.collect(&:first).each do |province| %>
+      <li><a href="#<%= province.gsub(' ', '_') %>"><%= province %></a></li>
+    <% end %>
+  </ul>
+</div>
 
 <% grouped.each do |province, senators| %>
-  <h2><a name="<%= province.gsub(' ', '_') %>"><%= province %></a></h2>
+  <a name="<%= province.gsub(' ', '_') %>"></a>
+  <h3><%= province %></h3>
   <ul class="profiles_list">
     <%= render :partial => 'senator', :collection => senators %>
   </ul>

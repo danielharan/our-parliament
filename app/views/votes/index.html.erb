@@ -1,7 +1,23 @@
 <% @title = 'Votes' %>
+<% @content_layout = "has_sidebar_right" %>
 
-<ul class="votes_list">
-  <% @votes.each do |vote| %>
-    <li><%= vote.bill_number %>: <%= vote.title %></li>
-  <% end %>
-</ul>
+<div id="votes" class="block">
+  <ul>
+    <% @votes.each do |vote| %>
+      <li>
+        <div class="votes">
+          <%= vote.number %>
+          <label>Votes</label>
+        </div>
+        <div class="bill">
+          <label>Bill</label>
+          <%= "42" + vote.bill_number.to_s %>
+        </div>
+        <div class="description">
+          <%= vote.title %>
+          <small>Voted on <%= vote.vote_date %></small>
+        </div>
+      </li>
+    <% end %>
+  </ul>
+</div>
