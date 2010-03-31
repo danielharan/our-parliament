@@ -3,7 +3,7 @@ jQuery(function() {
     var currentValue = $(this).val();
     var newValue = currentValue;
     if (currentValue == "" || currentValue == "Enter a Keyword") {
-      newValue = "Enter a  Keyword";
+      newValue = "Enter a Keyword";
     }
     $(this).val(newValue);
   });
