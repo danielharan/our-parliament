@@ -12,6 +12,7 @@ div.sidebar { width: 220px; float: left; }
 /* Header */
 #header { background: #FFF url('../images/header_bg.gif') repeat-x left 10px; padding: 10px 0 0; position: relative; height: 120px; }
 #header h1 a { font-size: 24px; text-decoration: none; text-decoration: none; }
+#header div.beta_marker { font-size: 10px; text-transform: uppercase; color: #FFF; font-weight: bold; position: absolute; top: 102px; left: 175px; }
 #header p { color: #EAAAAA; font-size: 18px; margin: 0; }
 #header ul { overflow: hidden; }
 #header #utilities { position: absolute; top: 0; right: 0; }
