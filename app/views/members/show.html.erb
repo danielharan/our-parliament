@@ -69,6 +69,19 @@
   <p class="more rss"><%= link_to "Subscribe to this member&#39;s votes", votes_member_url(@mp) %></p>
 </div>
 
+<div id="quotes" class="block">
+  <h3>Quotes</h3>
+  <ul>
+    <% @quotes.each do |quote| %>
+      <li><strong>Spoke in the house about <%= link_to quote.topic, :controller => :search, :action => :index, :q => quote.topic %></strong>
+	  <p><%= quote.text %></p>
+	  <em><%= time_ago_in_words(quote.time) %> ago</em>
+	  </li>
+    <% end %>
+  </ul>
+  <p class="more rss"><%= link_to "Subscribe to this member&#39;s quotes", :controller => :members, :action => :quotes, :id => @mp.id %></p>
+</div>
+
 <div id="google_news" class="block">
   <h3>News Search</h3>
   <iframe frameborder="0" width="728" height="90" marginwidth="0" marginheight="0"
@@ -77,3 +90,9 @@
 </div>
 
 <%= render :partial => 'shared/twitter', :locals => {:twitter => @mp} if @mp.twitter? %>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+  	$("#quotes li p").truncate({max_length: 200});
+  })
+</script>

@@ -1,6 +1,6 @@
 class MembersController < ApplicationController
   before_filter :basic_admin, :only => [:edit, :update]
-  before_filter :find_mp,     :only => [:show, :edit, :update, :votes]
+  before_filter :find_mp,     :only => [:show, :edit, :update, :votes, :quotes]
   before_filter :fetch_random_links, :only => [:index, :show]
   
   def index
@@ -10,6 +10,7 @@ class MembersController < ApplicationController
   
   def show
     @votes = Vote.last 5
+    @quotes = @mp.hansard_statements.first 5
   end
   
   def edit
@@ -23,6 +24,13 @@ class MembersController < ApplicationController
   
   def votes
     @votes = Vote.all
+    respond_to do |format| 
+      format.rss { render } 
+    end
+  end
+  
+  def quotes
+    @quotes = @mp.hansard_statements
     respond_to do |format| 
       format.rss { render } 
     end
