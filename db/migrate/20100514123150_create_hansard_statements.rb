@@ -10,7 +10,7 @@ class CreateHansardStatements < ActiveRecord::Migration
       t.string :attribution
       t.string :heading
       t.string :topic
-      t.text :text, :limit => 16777216
+      t.text :text
       t.timestamps
     end
   end
