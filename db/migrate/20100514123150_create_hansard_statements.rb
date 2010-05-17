@@ -4,11 +4,13 @@ class CreateHansardStatements < ActiveRecord::Migration
       t.integer :hansard_id
       t.integer :member_id
       t.string :member_name
+      t.integer :parliament
+      t.integer :session
       t.datetime :time
       t.string :attribution
       t.string :heading
       t.string :topic
-      t.text :text
+      t.text :text, :limit => 16777216
       t.timestamps
     end
   end
