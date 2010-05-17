@@ -107,6 +107,6 @@ class Mp < ActiveRecord::Base
   end
   
   def hansard_statements
-    HansardStatement.find_by_sql(["SELECT * FROM hansard_statements WHERE member_name = ? ORDER BY `time` DESC;", name])
+    HansardStatement.find_by_sql(["SELECT * FROM hansard_statements WHERE member_name = ? ORDER BY time DESC;", name])
   end
 end
