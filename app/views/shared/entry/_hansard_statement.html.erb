@@ -1,0 +1,3 @@
+<strong>Spoke in the house about <%= link_to entry.object.topic, :controller => :search, :action => :index, :q => entry.object.topic %></strong>
+<p><%= entry.object.text %></p>
+<em><%= time_ago_in_words(entry.date) %> ago</em>

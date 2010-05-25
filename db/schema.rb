@@ -9,7 +9,32 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100330195631) do
+ActiveRecord::Schema.define(:version => 20100517181918) do
+
+  create_table "hansard_statements", :force => true do |t|
+    t.integer  "hansard_id"
+    t.integer  "member_id"
+    t.string   "member_name"
+    t.datetime "time"
+    t.string   "attribution"
+    t.string   "heading"
+    t.string   "topic"
+    t.text     "text",        :limit => 16777215
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "parliament"
+    t.integer  "session"
+  end
+
+  create_table "hansards", :force => true do |t|
+    t.date     "date"
+    t.integer  "num"
+    t.integer  "parliament"
+    t.integer  "session"
+    t.string   "url"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "links", :force => true do |t|
     t.string   "category"

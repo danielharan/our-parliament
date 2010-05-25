@@ -32,6 +32,7 @@ class Mp < ActiveRecord::Base
   has_and_belongs_to_many :postal_codes
   has_many :recorded_votes
   
+  
   named_scope :active, :conditions => {:active => true}
   
   class << self
@@ -103,5 +104,9 @@ class Mp < ActiveRecord::Base
   def scrape_edid
     constituency_profile = open("http://webinfo.parl.gc.ca/MembersOfParliament/ProfileConstituency.aspx?Key=#{parl_gc_constituency_id}&Language=E").read
     self.update_attribute(:ed_id,constituency_profile.match(/ED=(\d+)/)[1])
+  end
+  
+  def hansard_statements
+    HansardStatement.find_by_sql(["SELECT * FROM hansard_statements WHERE member_name = ? ORDER BY time DESC;", name])
   end
 end
