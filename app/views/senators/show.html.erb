@@ -17,7 +17,22 @@
     <ul>
       <li><%= @senator.province %></li>
       <li><%= @senator.scrubbed_affiliation %></li>
+	  <% if @senator.nomination_date %><li>Nominated <%= @senator.nomination_date %></li><% end %>
+	  <% if @senator.retirement_date %><li>Retired <%= @senator.retirement_date %></li><% end %>
     </ul>
+  </div>
+  
+  <div id="links" class="block">
+    <h3>Links</h3>
+    <% if @senator.links.keys.empty? %>
+      None found
+    <% else %>
+      <ul>
+        <% @senator.links.each do |name, link| %>
+          <li><%= link_to(name, link) %></li>
+        <% end %>
+      </ul>
+    <% end %>
   </div>
 
   <%= render :partial => 'shared/links' %>

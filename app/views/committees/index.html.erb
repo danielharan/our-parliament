@@ -1,0 +1,10 @@
+<% @title = 'Committees' %>
+
+<div id="current_committees" class="section">
+	<h2>Current Standing Committes</h2>
+	<ul>
+	<% for committee in @current_committees %>
+		<li><%= link_to(committee.name, committee_path(committee)) %></li>
+	<% end %>
+	</ul>
+</div>

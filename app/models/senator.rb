@@ -30,6 +30,13 @@ class Senator < ActiveRecord::Base
      }[affiliation]
   end
   
+  def links
+    h = {}
+    h['Personal Website']    = personal_website       unless personal_website.blank?
+    h['Party Website']       = party_website          unless party_website.blank?
+    h
+  end
+  
   class << self
     def spider_list
       # TODO: caching logic should be extracted into scraping tools

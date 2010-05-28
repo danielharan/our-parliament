@@ -17,5 +17,10 @@ class ApplicationController < ActionController::Base
      def fetch_random_links
        @article_links  = Link.article.all.sort_by(&:rand)[0,3]  # TODO: nix the .all
        @glossary_links = Link.glossary.all.sort_by(&:rand)[0,5]
-     end
+   end
+   
+   def cache_page
+     response.headers['Cache-Control'] = 'public, max-age=300'
+ end
+ 
 end

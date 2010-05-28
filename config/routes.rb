@@ -1,7 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
 
   map.about '/about', :controller => 'application', :action => 'about'
-  map.committees '/committees', :controller => 'application', :action => 'committees'
   map.contact '/contact', :controller => 'application', :action => 'contact'
   map.francais '/francais', :controller => 'application', :action => 'francais'
 
@@ -11,6 +10,7 @@ ActionController::Routing::Routes.draw do |map|
   map.resources :hansards
   map.resources :votes
   map.resources :senators
+  map.resources :committees
 
   map.namespace :admin do |admin|
     admin.resources :members

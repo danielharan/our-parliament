@@ -3,7 +3,18 @@
 <div id="search">
   <% form_tag '/search' do %>
     <div class="search_field">
-      <%= text_field_tag 'q', 'Enter a Keyword', :class => 'text with_help', :id => 'home_search' %>
+      <%= text_field_tag 'q', 'Enter a Keyword', :class => 'text with_help default-value', :id => 'home_search' %>
+    </div>
+    <div class="submits">
+      <%= image_submit_tag("search.png", :alt => "search") %>
+    </div>
+  <% end %>
+</div>
+
+<div id="search">
+  <% form_tag '/search/postal_code' do %>
+    <div class="search_field">
+      <%= text_field_tag 'q', 'Enter your Postal Code', :class => 'text with_help default-value', :id => 'postal_code_search' %>
     </div>
     <div class="submits">
       <%= image_submit_tag("search.png", :alt => "search") %>

@@ -2,6 +2,7 @@ class MembersController < ApplicationController
   before_filter :basic_admin, :only => [:edit, :update]
   before_filter :find_mp,     :only => [:show, :edit, :update, :votes, :quotes, :activity]
   before_filter :fetch_random_links, :only => [:index, :show]
+  before_filter :cache_page, :only => [:index]
   
   def index
     @mps       = Mp.active.all

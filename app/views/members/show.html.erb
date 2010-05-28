@@ -12,26 +12,31 @@
     <% end %>
   </div>
 
-<!-- 
+
   <div id="facts" class="block">
     <h3>The Facts</h3>
     <ul>
-      <li>Minister of agriculture</li>
-      <li>55 years old (202nd youngest MP)</li>
-      <li>Chair of the <a href="">Very Important Committee</a></li>
-      <li>Vice-chair of the <a href="">Less Important Committee</a></li>
-      <li>Member of the <a href="">Really Boring Committee</a></li>
-      <li>
+    	<li><%= @mp.age %> years old</li>
+		<% for function in @mp.current_parliamentary_functions %>
+			<li><%= function.title %> <%= function.role %></li>
+		<% end %>
+		<% for committee in @mp.current_committees %>
+			<li><%= committee.role %> of <%= committee.committee.name %></li>
+		<% end %>
+		<li>MP for <%= @mp.constituency_name %></li>
+		<% if not @mp.election_results.empty? %>
+			<li>Elected on <%= @mp.election_results.last.election.date %> with <%= @mp.election_results.last.vote_percentage %>% of the vote</li>
+		<% end %>
+      <!--<li>
         MP for riding name - more words
         <small>(12/01/2004-12/02/2004)</small>
       </li>
       <li>
         MP for riding name - more words
         <small>(12/01/2005-12/02/2005)</small>
-      </li>
+      </li>-->
     </ul>
   </div>
--->
 
   <div id="contact" class="block">
     <h3>Contact Them</h3>

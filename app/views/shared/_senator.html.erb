@@ -1,5 +1,9 @@
 <li>
-  <%= link_to image_tag("placeholder_photo_small.gif", :alt => senator.normalized_name), senator_path(senator), :class => 'photo' %>
+  <% if senator.image? %>
+    <%= link_to image_tag(senator.image.url(:small), :alt => "photo of #{senator.normalized_name}"), "", :title => "", :class => "photo" %>
+  <% else %>
+    <%= link_to image_tag("placeholder_photo_small.gif", :alt => senator.normalized_name), senator_path(senator), :class => 'photo' %>
+  <% end %>
   <div class="description">
     <span class="name"><%= link_to senator.normalized_name, senator_path(senator), :title => "" %></span>
     <small>

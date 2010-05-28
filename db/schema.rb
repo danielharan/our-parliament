@@ -9,7 +9,39 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100517181918) do
+ActiveRecord::Schema.define(:version => 20100528155033) do
+
+  create_table "committee_memberships", :force => true do |t|
+    t.integer "mp_id"
+    t.integer "committee_id"
+    t.string  "role"
+    t.integer "parliament"
+    t.integer "session"
+  end
+
+  create_table "committees", :force => true do |t|
+    t.string "name"
+  end
+
+  create_table "election_results", :force => true do |t|
+    t.integer  "election_id"
+    t.string   "candidate"
+    t.string   "party"
+    t.integer  "mp_id"
+    t.integer  "edid"
+    t.integer  "vote_total"
+    t.float    "vote_percentage"
+    t.integer  "majority"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "elections", :force => true do |t|
+    t.string   "name"
+    t.date     "date"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "hansard_statements", :force => true do |t|
     t.integer  "hansard_id"
@@ -71,6 +103,16 @@ ActiveRecord::Schema.define(:version => 20100517181918) do
     t.string   "image_content_type"
     t.integer  "image_file_size"
     t.datetime "image_updated_at"
+    t.date     "date_of_birth"
+    t.string   "place_of_birth"
+  end
+
+  create_table "parliamentary_functions", :force => true do |t|
+    t.integer "mp_id"
+    t.string  "role"
+    t.string  "title"
+    t.date    "start"
+    t.date    "end"
   end
 
   create_table "recorded_votes", :force => true do |t|
@@ -96,6 +138,8 @@ ActiveRecord::Schema.define(:version => 20100517181918) do
     t.string   "image_content_type"
     t.integer  "image_file_size"
     t.datetime "image_updated_at"
+    t.string   "personal_website"
+    t.string   "party_website"
   end
 
   create_table "votes", :force => true do |t|

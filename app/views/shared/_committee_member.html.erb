@@ -1,0 +1,16 @@
+<li>
+  <% if committee_member.mp.image? %>
+    <%= link_to image_tag(committee_member.mp.image.url(:small), :alt => "photo of #{committee_member.mp.name}"), "", :title => "", :class => "photo" %>
+  <% else %>
+    <%= link_to image_tag("placeholder_photo_small.gif", :alt => committee_member.mp.name), member_path(committee_member.mp), :class => 'photo' %>
+  <% end %>
+  <div class="description">
+    <span class="name"><%= link_to committee_member.mp.name, member_path(committee_member.mp), :title => "" %></span>
+    <span class="action">
+    </span>
+    <small>
+      <span class="caucus"><%= committee_member.mp.party %></span>,
+      <span class="constituency"><%= committee_member.mp.constituency_name %></span>
+    </small>
+  </div>
+</li>

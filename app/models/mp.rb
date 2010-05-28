@@ -31,7 +31,11 @@ class Mp < ActiveRecord::Base
 
   has_and_belongs_to_many :postal_codes
   has_many :recorded_votes
-  
+  has_many :parliamentary_functions
+  has_many :current_parliamentary_functions, :class_name => "ParliamentaryFunction", :conditions => "end IS NULL"
+  has_many :committees, :class_name => "CommitteeMembership", :include => "committee"
+  has_many :current_committees, :class_name => "CommitteeMembership", :conditions => "parliament = #{CURRENT_PARLIAMENT} AND session = #{CURRENT_SESSION}"
+  has_many :election_results, :include => "election"
   
   named_scope :active, :conditions => {:active => true}
   
@@ -52,6 +56,15 @@ class Mp < ActiveRecord::Base
       mps.detect {|mp| mp.name =~ /#{lastname}$/}
     end
   end
+  
+  def age
+    now = Time.now.utc.to_date
+    now.year - date_of_birth.year - (date_of_birth.to_date.change(:year => now.year) > now ? 1 : 0)
+  end
+  
+  def first_elected_date
+    return election_results.empty? ? nil : election_results.last.election.date
+  end
 
   def recorded_vote_for(vote)
     recorded_votes.find_by_vote_id(vote.id) || recorded_votes.new
@@ -63,6 +76,7 @@ class Mp < ActiveRecord::Base
     h['Wikipedia Entry']        = wikipedia                       unless wikipedia.blank?
     h['Wikipedia Riding Entry'] = wikipedia_riding                unless wikipedia_riding.blank?
     h['Twitter Account']        = "http://twitter.com/#{twitter}" unless twitter.blank?
+    h['Personal Website']       = website                         unless website.blank?
     h
   end
 

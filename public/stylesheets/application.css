@@ -168,6 +168,9 @@ ul.profiles_list li div.description small { display: block; font-size: 11px; col
 }
 #groups.block small { font-size: 11px; color: #656565; }
 
+/* Facts */
+#facts ul li { margin: 6px 0; }
+
 /* Articles */
 #articles.block ul { margin: 0 0 -10px; }
 #articles.block ul li { padding: 0 0 0 21px; background: url('../images/icons/quill.png')  no-repeat left 2px; margin: 0 0 10px; line-height: 1.3; }

@@ -1,0 +1,9 @@
+<% @title = @committee.name %>
+
+<div id="committee_members" class="section">
+	<h2>Members (<%= @committee.members.size %>)</h2>
+	<ul>
+		<%= render :partial => 'shared/committee_member', :collection => @committee.members %>
+	</ul>
+</div>
+

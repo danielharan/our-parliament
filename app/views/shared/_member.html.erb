@@ -1,5 +1,9 @@
 <li>
-  <%= link_to image_tag("placeholder_photo_small.gif", :alt => member.name), member_path(member), :class => 'photo' %>
+  <% if member.image? %>
+    <%= link_to image_tag(member.image.url(:small), :alt => "photo of #{member.name}"), "", :title => "", :class => "photo" %>
+  <% else %>
+    <%= link_to image_tag("placeholder_photo_small.gif", :alt => member.name), member_path(member), :class => 'photo' %>
+  <% end %>
   <div class="description">
     <span class="name"><%= link_to member.name, member_path(member), :title => "" %></span>
     <span class="action">
@@ -8,10 +12,5 @@
       <span class="caucus"><%= member.party %></span>,
       <span class="constituency"><%= member.constituency_name %></span>
     </small>
-    <div class="quote">
-      <b class="tail"><!----></b>
-      <blockquote><%= stance(member, @last_vote) %></b> vote <%= @last_vote.number %>, <%= truncate(@last_vote.context, :length => 100) %></blockquote>
-      <!--blockquote>"Madam Speaker (todo)..."<%#= activity.content %></blockquote-->
-    </div>
   </div>
 </li>
