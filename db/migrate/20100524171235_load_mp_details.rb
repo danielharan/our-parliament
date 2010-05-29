@@ -9,8 +9,14 @@ class LoadMpDetails < ActiveRecord::Migration
         mp = Mp.find_by_name(mp_info['name'])
         if mp
           mp_info['functions'].each { |f|
-            parliamentary_function = ParliamentaryFunction.new(f)
-            parliamentary_function.mp_id = mp.id
+            parliamentary_function = ParliamentaryFunction.new({
+              :mp_id => mp.id,
+              :role => f['role'],
+              :title => f['title'],
+              :start_date => f['start'],
+              :end_date => f['end']
+            })
+            
             parliamentary_function.save
           }
           mp_info['committees'].each { |c|
