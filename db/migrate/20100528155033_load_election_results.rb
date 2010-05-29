@@ -8,7 +8,7 @@ class LoadElectionResults < ActiveRecord::Migration
     
     data_file = File.join(RAILS_ROOT, 'db', 'election_data', '40th_federal_election.csv')
     FasterCSV.foreach(data_file, :encoding => 'N', :headers => true, :return_headers => false, :header_converters => :symbol, :converters => :all) do |row|
-      mp = Mp.find_by_name_and_ed_id(row[:candidate], row[:edid])
+      mp = Mp.find_by_name_and_ed_id(row[:candidate], row[:edid].to_s)
       result = ElectionResult.new
       result.election = election
       result.candidate = row[:candidate]
