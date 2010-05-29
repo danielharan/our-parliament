@@ -4,8 +4,8 @@ class CreateParliamentaryFunctions < ActiveRecord::Migration
       t.integer :mp_id
       t.string :role
       t.string :title
-      t.date :start
-      t.date :end
+      t.date :start_date
+      t.date :end_date
     end
   end
 

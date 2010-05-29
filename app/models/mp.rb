@@ -32,7 +32,7 @@ class Mp < ActiveRecord::Base
   has_and_belongs_to_many :postal_codes
   has_many :recorded_votes
   has_many :parliamentary_functions
-  has_many :current_parliamentary_functions, :class_name => "ParliamentaryFunction", :conditions => "end IS NULL"
+  has_many :current_parliamentary_functions, :class_name => "ParliamentaryFunction", :conditions => "end_date IS NULL"
   has_many :committees, :class_name => "CommitteeMembership", :include => "committee"
   has_many :current_committees, :class_name => "CommitteeMembership", :conditions => "parliament = #{ENV['CURRENT_PARLIAMENT'].to_i} AND session = #{ENV['CURRENT_SESSION'].to_i}"
   has_many :election_results, :include => "election"
