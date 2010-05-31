@@ -1,6 +1,13 @@
 class NormalizeRidings < ActiveRecord::Migration
   def self.up
-    rename_column :mps, :ed_id, :riding_id
+    add_column :mps, :riding_id, :integer
+    
+    Mp.find(:all).each { |mp|
+      mp.riding_id = mp.edid.to_i
+      mp.save
+    }
+
+    remove_column :mps, :ed_id
     rename_column :election_results, :edid, :riding_id
     
     data_file = File.join(RAILS_ROOT, 'db', 'riding_data', 'ridings.csv')
