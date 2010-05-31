@@ -34,7 +34,7 @@ class Mp < ActiveRecord::Base
   has_many :parliamentary_functions
   has_many :current_parliamentary_functions, :class_name => "ParliamentaryFunction", :conditions => "end_date IS NULL"
   has_many :committees, :class_name => "CommitteeMembership", :include => "committee"
-  has_many :current_committees, :class_name => "CommitteeMembership", :conditions => "parliament = #{ENV['CURRENT_PARLIAMENT'].to_i} AND session = #{ENV['CURRENT_SESSION'].to_i}", :group => "committee_id"
+  has_many :current_committees, :class_name => "CommitteeMembership", :conditions => "parliament = #{ENV['CURRENT_PARLIAMENT'].to_i} AND session = #{ENV['CURRENT_SESSION'].to_i}"
   has_many :election_results, :include => "election"
   belongs_to :province
   belongs_to :riding, :include => "province"
