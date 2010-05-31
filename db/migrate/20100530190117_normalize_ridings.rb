@@ -3,7 +3,7 @@ class NormalizeRidings < ActiveRecord::Migration
     add_column :mps, :riding_id, :integer
     
     Mp.find(:all).each { |mp|
-      mp.riding_id = mp.edid.to_i
+      mp.riding_id = mp.ed_id.to_i
       mp.save
     }
 
