@@ -1,17 +1,21 @@
+<% if not @article_links.empty? %>
 <div id="articles" class="block">
-  <h3>Articles</h3>
+  <h3><%= t('shared.links.articles') %></h3>
   <ul>
     <% @article_links.each do |article| %>
       <li><%= link_to article.title, article.url %></li>
     <% end %>
   </ul>
 </div>
+<% end %>
 
+<% if not @glossary_links.empty? %>
 <div id="glossary" class="block">
-  <h3>Glossary</h3>
+  <h3><%= t('shared.links.glossary') %></h3>
   <ul>
     <% @glossary_links.each do |glossary| %>
       <li><%= link_to glossary.title, glossary.url %></li>
     <% end %>
   </ul>
 </div>
+<% end %>

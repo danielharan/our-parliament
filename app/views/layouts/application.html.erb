@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title><%= @title ? "#{@title} &laquo; Citizen Factory" : "Citizen Factory" %></title>
+  <title><%= @title.empty? ? t('site_name') : "#{@title} &laquo; #{t('site_name')}" %></title>
   <%= stylesheet_link_tag 'scaffold', 'application' %>
   <%# Use Google in production/test mode, local version at other times.  This is in case the dev works disconnected. %>
   <%= javascript_include_tag "http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js" unless Rails.env.development? %>
@@ -15,17 +15,21 @@
 
 <div id="header">
   <div class="container">
-    <h1><%= link_to image_tag('logo.gif', :alt => 'CitizenFactory'), '/', :title => 'Citizen Factory Home' %></h1>
-    <div class="beta_marker">Beta</div>
+    <h1><%= link_to image_tag("logo.#{I18n.locale}.gif", :alt => t('site_name')), '/', :title => t('site_name') %></h1>
+    <div class="beta_marker"><%= t('beta') %></div>
     <ul id="utilities">
-      <li id="util_language"><%= link_to 'Fran&ccedil;ais', francais_url %></li>
+      <% if I18n.locale == "fr" %>
+      <li id="util_language"><%= link_to 'English', 'http://www.citizenfactory.com' %></li>
+	  <% else %>
+	  <li id="util_language"><%= link_to 'Fran&ccedil;ais', 'http://www.fabriquecitoyenne.com' %></li>
+	  <% end %>
     </ul>
     <ul id="nav">
-      <li id="nav_members"><%= link_to 'MPs', members_path %></li>
-      <li id="nav_senators"><%= link_to 'Senators', senators_path %></li>
-      <li id="nav_committees"><%= link_to 'Committees', committees_path %></li>
-      <li id="nav_votes"><%= link_to 'Votes', votes_path %></li>
-      <li id="nav_about"><%= link_to 'About', about_path %></li>
+      <li id="nav_members"><%= link_to t('navigation.members'), members_path %></li>
+      <li id="nav_senators"><%= link_to t('navigation.senators'), senators_path %></li>
+      <li id="nav_committees"><%= link_to t('navigation.committees'), committees_path %></li>
+      <li id="nav_votes"><%= link_to t('navigation.votes'), votes_path %></li>
+      <li id="nav_about"><%= link_to t('navigation.about'), about_path %></li>
     </ul>
   </div>
 </div>
@@ -66,21 +70,7 @@
   </div>
 </div>
 
-<div id="footer">
-  <div class="container">
-
-    <div id="footer_disclaimer">
-      <%= link_to image_tag("aisb_logo.gif", :alt => "Apathy is Boring logo"), "http://apathyisboring.com", :title => "Apathy is Boring", :class => "aisb_logo", :target => "_blank" %>
-      <p>
-        Citizen Factory is an online tool for Canadian youth created by <a href="http://apathyisboring.com/en">Apathy is Boring</a>. It includes information drawn from the proceedings of the House of Commons and its Committees, which is reproduced in accordance with the <a href="http://www.parl.gc.ca/information/about/copyright/permission_hoc.asp?Language=E">Speaker's Permission</a>. The official record of Parliamentary proceedings is available online through the <a href="http://parl.gc.ca/common/index.asp?Language=E">Library of Parliament</a>.
-      </p>
-      <p>
-        Need to contact us? Just email <a href="mailto:info@apathyisboring.com">info@apathyisboring.com</a>.
-      </p>
-    </div>
-
-  </div>
-</div>
+<%= render :partial => 'shared/footer' %>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

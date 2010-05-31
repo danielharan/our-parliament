@@ -15,5 +15,6 @@ class LoadSenatorDetails < ActiveRecord::Migration
   end
 
   def self.down
+     Senator.delete_all
   end
 end

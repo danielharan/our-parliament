@@ -9,8 +9,9 @@
     <span class="action">
     </span>
     <small>
-      <span class="caucus"><%= committee_member.mp.party %></span>,
-      <span class="constituency"><%= committee_member.mp.constituency_name %></span>
+      <span class="caucus"><%= committee_member.mp.party.name %></span>,
+      <span class="constituency"><%= committee_member.mp.riding.name %></span>
+	  <span class="role"><%= committee_member.role %></span>
     </small>
   </div>
 </li>

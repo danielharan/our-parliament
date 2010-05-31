@@ -34,8 +34,11 @@ class Mp < ActiveRecord::Base
   has_many :parliamentary_functions
   has_many :current_parliamentary_functions, :class_name => "ParliamentaryFunction", :conditions => "end_date IS NULL"
   has_many :committees, :class_name => "CommitteeMembership", :include => "committee"
-  has_many :current_committees, :class_name => "CommitteeMembership", :conditions => "parliament = #{ENV['CURRENT_PARLIAMENT'].to_i} AND session = #{ENV['CURRENT_SESSION'].to_i}"
+  has_many :current_committees, :class_name => "CommitteeMembership", :conditions => "parliament = #{ENV['CURRENT_PARLIAMENT'].to_i} AND session = #{ENV['CURRENT_SESSION'].to_i}", :group => "committee_id"
   has_many :election_results, :include => "election"
+  belongs_to :province
+  belongs_to :riding, :include => "province"
+  belongs_to :party
   
   named_scope :active, :conditions => {:active => true}
   
@@ -59,7 +62,7 @@ class Mp < ActiveRecord::Base
   
   def age
     now = Time.now.utc.to_date
-    now.year - date_of_birth.year - (date_of_birth.to_date.change(:year => now.year) > now ? 1 : 0)
+    return date_of_birth ? now.year - date_of_birth.year - (date_of_birth.to_date.change(:year => now.year) > now ? 1 : 0) : nil
   end
   
   def first_elected_date
@@ -72,11 +75,11 @@ class Mp < ActiveRecord::Base
 
   def links
     h = {}
-    h['Facebook Page']          = facebook                        unless facebook.blank?
-    h['Wikipedia Entry']        = wikipedia                       unless wikipedia.blank?
-    h['Wikipedia Riding Entry'] = wikipedia_riding                unless wikipedia_riding.blank?
-    h['Twitter Account']        = "http://twitter.com/#{twitter}" unless twitter.blank?
-    h['Personal Website']       = website                         unless website.blank?
+    h[I18n.t('weblink.facebook')]         = facebook                        unless facebook.blank?
+    h[I18n.t('weblink.wikipedia')]        = wikipedia                       unless wikipedia.blank?
+    h[I18n.t('weblink.wikipedia_riding')] = wikipedia_riding                unless wikipedia_riding.blank?
+    h[I18n.t('weblink.twitter')]          = "http://twitter.com/#{twitter}" unless twitter.blank?
+    h[I18n.t('weblink.personal')]         = website                         unless website.blank?
     h
   end
 

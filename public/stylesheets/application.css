@@ -196,6 +196,11 @@ ul.profiles_list li div.description small { display: block; font-size: 11px; col
 #votes.block ul li div.description { margin: 0 70px; }
 #votes.block ul li div.description small { display: block; color: #959595; font-size: 12px; }
 
+#votes .votes a {
+	color: #fff;
+	text-decoration: none;
+}
+
 /* Quotes */
 #quotes.block ul li { display: block; padding: 0 0 10px; margin: 0 0 10px; border-bottom: 1px solid #EEE; overflow: hidden; }
 #quotes.block ul li div.bill {
@@ -225,4 +230,4 @@ ul.profiles_list li div.description small { display: block; font-size: 11px; col
 
 #activity_stream.block em { font-size: 9pt; color: #999; }
 
-#activity_stream.block li p { margin: 0; }
+#activity_stream.block li p { margin: 6px 0 0 0; }

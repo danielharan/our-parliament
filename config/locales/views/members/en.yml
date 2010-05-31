@@ -1,0 +1,29 @@
+en:
+    members:
+        activity:
+            title: ""
+        edit:
+            title: ""
+        index:
+            title: "Members of Parliament"
+        quotes:
+            title: ""
+        search:
+            title: ""
+        show:
+            title: ""
+            riding: "MP for {{riding}}"
+        votes:
+            title: ""
+        activity_stream:
+            title: "News Feed"
+            time_ago: "{{time}} ago"
+            hansard:
+                text: "Spoke in the house about"
+            vote:
+                yea: "Voted yes on"
+                nay: "Voted no on"
+                abstained: "Abstained for"
+            rss_link: "Subscribe to this member's activity feed"
+        age: "{{age}} years old"
+        elected_date: "Elected on {{date}} with {{percentage}}% of the vote"

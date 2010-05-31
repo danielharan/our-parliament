@@ -7,8 +7,8 @@
   <div class="description">
     <span class="name"><%= link_to senator.normalized_name, senator_path(senator), :title => "" %></span>
     <small>
-      <span class="affiliation"><%= senator.scrubbed_affiliation %></span>,
-      <span class="province"><%= senator.province %></span>
+      <% if senator.party %><span class="affiliation"><%= senator.party.name %></span>,<% end %>
+      <% if senator.province %><span class="province"><%= senator.province.name %></span><% end %>
     </small>
   </div>
 </li>

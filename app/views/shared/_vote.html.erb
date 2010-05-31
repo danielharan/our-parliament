@@ -1,16 +1,19 @@
 <li>
   <div class="votes">
-    <%= vote.total_votes %>
-    <label>Votes</label>
+    <a href="<%= url_for :action => :show, :id => vote.id %>">
+    	<%= vote.total_votes %>
+    	<label>Votes</label>
+	</a>
   </div>
   <% unless vote.bill_number.nil? %>
     <div class="bill">
       <label>Bill</label>
-      <%= vote.bill_number %>
+	  <%= link_to vote.bill_number, :action => :show, :id => vote.id %>
     </div>
   <% end %>
   <div class="description">
     <%= vote.title %>
-    <small>Voted on <%= vote.vote_date %></small>
+	(<%= link_to t('votes.index.details_link'), :action => :show, :id => vote.id %>)
+    <small><%= t('votes.index.voted_on', :date => vote.vote_date) %></small>
   </div>
 </li>

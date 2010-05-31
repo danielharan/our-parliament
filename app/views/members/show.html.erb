@@ -8,24 +8,28 @@
       <%= link_to image_tag(@mp.image.url, :alt => "photo of #{@mp.name}"), "", :title => "", :class => "photo" %>
     <% else %>
       <%= link_to image_tag("placeholder_photo_medium.gif", :alt => ""), "", :title => "", :class => "photo" %>
-      <p>Do you own a photo of this MP?<br/><%= link_to "Let us use it!", "mailto:info@apathyisboring.com" %></p>
+      <p><%= t('photo.prompt') %><br/><%= link_to t('photo.prompt_link'), "mailto:info@apathyisboring.com" %></p>
     <% end %>
   </div>
 
 
   <div id="facts" class="block">
-    <h3>The Facts</h3>
+    <h3><%= t('section.facts') %></h3>
     <ul>
-    	<li><%= @mp.age %> years old</li>
+    	<% if @mp.age %>
+			<li><%= t('members.age', :age => @mp.age) %></li>
+		<% end %>
 		<% for function in @mp.current_parliamentary_functions %>
-			<li><%= function.title %> <%= function.role %></li>
+			<li><%= function.title %> <% if function.role == "Critic" %><%= function.role %><% end %></li>
 		<% end %>
 		<% for committee in @mp.current_committees %>
 			<li><%= committee.role %> of <%= committee.committee.name %></li>
 		<% end %>
-		<li>MP for <%= @mp.constituency_name %></li>
+		<% if @mp.riding.name %>
+			<li><%= t('members.show.riding', :riding => @mp.riding.name) %></li>
+		<% end %>
 		<% if not @mp.election_results.empty? %>
-			<li>Elected on <%= @mp.election_results.last.election.date %> with <%= @mp.election_results.last.vote_percentage %>% of the vote</li>
+			<li><%= t('members.elected_date', :date => l(@mp.election_results.last.election.date), :percentage => @mp.election_results.last.vote_percentage ) %></li>
 		<% end %>
       <!--<li>
         MP for riding name - more words
@@ -39,16 +43,18 @@
   </div>
 
   <div id="contact" class="block">
-    <h3>Contact Them</h3>
+    <h3><%= t('section.contact') %></h3>
     <ul>
-      <li class="address"><%= @mp.constituency_address %><br/><%= @mp.constituency_city %>, <%= @mp.constituency_province %><br/><%= @mp.constituency_postal_code %></li>
+      <li class="address"><%= @mp.constituency_address %><br/><%= @mp.constituency_city %>, 
+	  <% if @mp.province %><%= @mp.province.name %><br/><% end %>
+	  <%= @mp.constituency_postal_code %></li>
       <li class="phone"><%= @mp.constituency_phone %></li>
       <li class="email"><a href="mailto:<%= @mp.email %>"><%= @mp.email %></a></li>
     </ul>
   </div>
 
   <div id="links" class="block">
-    <h3>Links</h3>
+    <h3><%= t('section.links') %></h3>
     <% if @mp.links.keys.empty? %>
       None found
     <% else %>
@@ -65,17 +71,17 @@
 <% end %>
 
 <div id="activity_stream" class="block">
-	<h3>News Feed</h3>
+	<h3><%= t('members.activity_stream.title') %></h3>
 	<ul>
 		<% for entry in @activity_stream.entries %>
 			<li class="entry <%= entry.object.class.name.underscore.downcase %>"><%= render :partial => "shared/entry/#{entry.object.class.name.underscore.downcase}", :locals => {:entry => entry} %></li>
 		<% end %>
 	</ul>
-	<p class="more rss"><%= link_to "Subscribe to this member&#39;s activity feed", :controller => :members, :action => :activity, :id => @mp.id %></p>
+	<p class="more rss"><%= link_to t('members.activity_stream.rss_link'), :controller => :members, :action => :activity, :id => @mp.id %></p>
 </div>
 
 <div id="google_news" class="block">
-  <h3>News Search</h3>
+  <h3><%= t('section.news') %></h3>
   <iframe frameborder="0" width="728" height="90" marginwidth="0" marginheight="0"
          src="http://www.google.com/uds/modules/elements/newsshow/iframe.html?q=<%= @mp.news_search_name %>&ned=ca&rsz=large&hl=en&format=728x90">
   </iframe>
@@ -85,6 +91,6 @@
 
 <script type="text/javascript">
   $(document).ready(function(){
-  	$("#activity_stream li p").truncate({max_length: 100});
+  	$("#activity_stream li .summary").truncate({max_length: 100,more:'<%= t("jquery.truncator.more") %>',less:'<%= t("jquery.truncator.less") %>'});
   })
 </script>

@@ -3,7 +3,7 @@ require 'fastercsv'
 class LoadElectionResults < ActiveRecord::Migration
   def self.up
     election = Election.find_or_create_by_name("40th Federal Election")
-    election.date = Date.civil(2006, 1, 23)
+    election.date = Date.civil(2008, 10, 14)
     election.save
     
     data_file = File.join(RAILS_ROOT, 'db', 'election_data', '40th_federal_election.csv')
@@ -23,5 +23,7 @@ class LoadElectionResults < ActiveRecord::Migration
   end
 
   def self.down
+    Election.delete_all
+    ElectionResult.delete_all
   end
 end

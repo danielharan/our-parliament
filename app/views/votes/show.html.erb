@@ -1,0 +1,7 @@
+<% @title = @vote.title %>
+
+<div id="votes" class="block">
+  <ul>
+    <%= render :partial => 'shared/vote', :collection => @votes %>
+  </ul>
+</div>

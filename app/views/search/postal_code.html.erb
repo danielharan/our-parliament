@@ -1,19 +1,19 @@
-<% @title = "Search results for #{@q}" %>
+<% @title = t('search.results', :query => @q) %>
 
 <div id="groups" class="block">
   <ul>
-  	<% if @mps.any? %><li><a href="#mps">MPs</a></li><% end %>
-    <% if @senators.any? %><li><a href="#senators">Senators</a></li><% end %>
+  	<% if @mps.any? %><li><a href="#mps"><%= t('search.section.mps') %></a></li><% end %>
+    <% if @senators.any? %><li><a href="#senators"><%= t('search.section.senators') %></a></li><% end %>
   </ul>
 </div>
 
 <% if (@senators.length + @mps.length) == 0 %>
-  No results found for <%= @q %>.
+  <%= t('search.no_results', :query => @q) %>.
 <% end %>
 
 <% if @mps.any? %>
   <a name="#mps"></a>
-  <h3>MPs</h3>
+  <h3><%= t('search.section.mps') %></h3>
   <ul class="activity_feed">
     <%= render :partial => 'shared/member', :collection => @mps %>
   </ul>
@@ -21,7 +21,7 @@
 
 <% if @senators.any? %>
   <a name="#senators"></a>
-  <h3>Senators</h3>
+  <h3><%= t('search.section.senators') %></h3>
   <ul class="activity_feed">
     <%= render :partial => 'shared/senator', :collection => @senators %>
   </ul>

@@ -13,17 +13,17 @@
   </div>
   
   <div id="facts" class="block">
-    <h3>The Facts</h3>
+    <h3><%= t('section.facts') %></h3>
     <ul>
-      <li><%= @senator.province %></li>
-      <li><%= @senator.scrubbed_affiliation %></li>
-	  <% if @senator.nomination_date %><li>Nominated <%= @senator.nomination_date %></li><% end %>
-	  <% if @senator.retirement_date %><li>Retired <%= @senator.retirement_date %></li><% end %>
+      <% if @senator.province %><li><%= @senator.province.name %></li><% end %>
+      <% if @senator.party %><li><%= @senator.party.name %></li><% end %>
+	  <% if @senator.nomination_date %><li><%= t('senators.show.nominated') %> <%= l(@senator.nomination_date) %></li><% end %>
+	  <% if @senator.retirement_date %><li><%= t('senators.show.retires') %> <%= l(@senator.retirement_date) %></li><% end %>
     </ul>
   </div>
   
   <div id="links" class="block">
-    <h3>Links</h3>
+    <h3><%= t('section.links') %></h3>
     <% if @senator.links.keys.empty? %>
       None found
     <% else %>
@@ -40,7 +40,7 @@
 <% end %>
 
 <div id="google_news" class="block">
-  <h3>News Search</h3>
+  <h3><%= t('section.news') %></h3>
   <iframe frameborder="0" width="728" height="90" marginwidth="0" marginheight="0"
          src="http://www.google.com/uds/modules/elements/newsshow/iframe.html?q=<%= @senator.news_search_name %>&ned=ca&rsz=large&hl=en&format=728x90">
   </iframe>

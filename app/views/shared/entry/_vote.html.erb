@@ -1,2 +1,2 @@
-<p><b><%= stance(@mp, entry.object) %></b> <%= entry.object.context %></p>
-<em><%= time_ago_in_words(entry.date) %> ago</em>
+<p><b><%= t("members.activity_stream.vote.#{@mp.recorded_vote_for(entry.object).stance.underscore}") %></b> <%= entry.object.context %></p>
+<em><%= t('members.activity_stream.time_ago', :time => time_ago_in_words(entry.date)) %></em>

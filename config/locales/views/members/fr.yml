@@ -1,0 +1,19 @@
+fr:
+    members:
+        index:
+            title: "Députés de la Chambre des communes"
+        show:
+            title: ""
+            riding: "Député représentant {{riding}}"
+        activity_stream:
+            title: "Nouvelles"
+            time_ago: "Il y a {{time}}"
+            hansard:
+                text: "A parlé à la Chambre au sujet de"
+            vote:
+                yea: "A voté oui sur"
+                nay: "A voté non sur"
+                abstained: "S'est abstenu de"
+            rss_link: "Abonnez-vous aux nouvelles de ce membre"
+        age: "{{age}} ans"
+        elected_date: "Élu le {{date}} avec {{percentage}}% des voix"

@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100528155033) do
+ActiveRecord::Schema.define(:version => 20100530225840) do
 
   create_table "committee_memberships", :force => true do |t|
     t.integer "mp_id"
@@ -26,14 +26,14 @@ ActiveRecord::Schema.define(:version => 20100528155033) do
   create_table "election_results", :force => true do |t|
     t.integer  "election_id"
     t.string   "candidate"
-    t.string   "party"
     t.integer  "mp_id"
-    t.integer  "edid"
+    t.integer  "riding_id"
     t.integer  "vote_total"
     t.float    "vote_percentage"
     t.integer  "majority"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "party_id"
   end
 
   create_table "elections", :force => true do |t|
@@ -47,6 +47,8 @@ ActiveRecord::Schema.define(:version => 20100528155033) do
     t.integer  "hansard_id"
     t.integer  "member_id"
     t.string   "member_name"
+    t.integer  "parliament"
+    t.integer  "session"
     t.datetime "time"
     t.string   "attribution"
     t.string   "heading"
@@ -54,8 +56,6 @@ ActiveRecord::Schema.define(:version => 20100528155033) do
     t.text     "text",        :limit => 16777215
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.integer  "parliament"
-    t.integer  "session"
   end
 
   create_table "hansards", :force => true do |t|
@@ -74,14 +74,13 @@ ActiveRecord::Schema.define(:version => 20100528155033) do
     t.string   "title"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "locale"
   end
 
   create_table "mps", :force => true do |t|
-    t.string   "ed_id"
+    t.string   "riding_id"
     t.string   "parl_gc_id"
     t.string   "parl_gc_constituency_id"
-    t.string   "constituency_name"
-    t.string   "party"
     t.string   "name"
     t.string   "email"
     t.string   "website"
@@ -90,7 +89,6 @@ ActiveRecord::Schema.define(:version => 20100528155033) do
     t.string   "preferred_language"
     t.string   "constituency_address"
     t.string   "constituency_city"
-    t.string   "constituency_province"
     t.string   "constituency_postal_code"
     t.string   "constituency_phone"
     t.string   "constituency_fax"
@@ -105,14 +103,30 @@ ActiveRecord::Schema.define(:version => 20100528155033) do
     t.datetime "image_updated_at"
     t.date     "date_of_birth"
     t.string   "place_of_birth"
+    t.integer  "party_id"
+    t.integer  "province_id"
   end
 
   create_table "parliamentary_functions", :force => true do |t|
     t.integer "mp_id"
     t.string  "role"
     t.string  "title"
-    t.date    "start"
-    t.date    "end"
+    t.date    "start_date"
+    t.date    "end_date"
+  end
+
+  create_table "parties", :force => true do |t|
+    t.string   "name_en"
+    t.string   "name_fr"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "provinces", :force => true do |t|
+    t.string   "name_en"
+    t.string   "name_fr"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "recorded_votes", :force => true do |t|
@@ -123,10 +137,16 @@ ActiveRecord::Schema.define(:version => 20100528155033) do
     t.datetime "updated_at"
   end
 
+  create_table "ridings", :force => true do |t|
+    t.string   "name_en"
+    t.string   "name_fr"
+    t.integer  "province_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "senators", :force => true do |t|
     t.string   "name"
-    t.string   "affiliation"
-    t.string   "province"
     t.date     "nomination_date"
     t.date     "retirement_date"
     t.string   "appointed_by"
@@ -140,6 +160,8 @@ ActiveRecord::Schema.define(:version => 20100528155033) do
     t.datetime "image_updated_at"
     t.string   "personal_website"
     t.string   "party_website"
+    t.integer  "party_id"
+    t.integer  "province_id"
   end
 
   create_table "votes", :force => true do |t|

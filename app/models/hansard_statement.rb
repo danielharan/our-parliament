@@ -9,4 +9,8 @@ class HansardStatement < ActiveRecord::Base
   belongs_to :hansard
   belongs_to :mp
   
+  def text
+    return super.gsub(/\n/, '</p><p>')
+  end
+  
 end

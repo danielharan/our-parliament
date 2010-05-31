@@ -14,6 +14,9 @@ class Senator < ActiveRecord::Base
                     :bucket      => 'citizen_factory',
                     :s3_credentials => {:access_key_id => ENV["AWS_ACCESS_KEY_ID"], :secret_access_key => ENV["AWS_SECRET_ACCESS_KEY"]}
 
+  belongs_to :province
+  belongs_to :party
+
   def news_search_name
     URI.encode(normalized_name.gsub(/^.*Hon. /, '').gsub(',', ''))
   end
@@ -32,8 +35,8 @@ class Senator < ActiveRecord::Base
   
   def links
     h = {}
-    h['Personal Website']    = personal_website       unless personal_website.blank?
-    h['Party Website']       = party_website          unless party_website.blank?
+    h[I18n.t('weblink.personal')]    = personal_website       unless personal_website.blank?
+    h[I18n.t('weblink.party')]       = party_website          unless party_website.blank?
     h
   end
   

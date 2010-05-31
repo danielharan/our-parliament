@@ -9,8 +9,8 @@
     <span class="action">
     </span>
     <small>
-      <span class="caucus"><%= member.party %></span>,
-      <span class="constituency"><%= member.constituency_name %></span>
+      <% if member.party %><span class="caucus"><%= member.party.name %></span>,<% end %>
+      <% if member.riding %><span class="constituency"><%= member.riding.name %></span><% end %>
     </small>
   </div>
 </li>
