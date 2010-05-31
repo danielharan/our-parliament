@@ -22,8 +22,8 @@ class NormalizeProvinces < ActiveRecord::Migration
     add_column :senators, :province, :string
     
     Province.find(:all).each { |province|
-      Mp.update_all("constituency_province = \"#{province.name_en}\"", ["province_id = ?", province.id])
-      Senator.update_all("province = \"#{province.name_en}\"", ["province_id = ?", province.id])
+      Mp.update_all("constituency_province = '#{province.name_en}'", ["province_id = ?", province.id])
+      Senator.update_all("province = '#{province.name_en}'", ["province_id = ?", province.id])
     }
     Province.delete_all
     

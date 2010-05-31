@@ -13,7 +13,7 @@ class NormalizeRidings < ActiveRecord::Migration
       province = Province.find_by_name_en(row[:province])
       riding.province = province if province
       riding.save
-      Mp.update_all("province_id = \"#{province.id}\"", ["riding_id = ?", riding.id]) if province
+      Mp.update_all("province_id = #{province.id}", ["riding_id = ?", riding.id]) if province
     end
     
     remove_column :mps, :constituency_name
@@ -23,7 +23,7 @@ class NormalizeRidings < ActiveRecord::Migration
     add_column :mps, :constituency_name, :string
     
     Riding.find(:all).each { |riding|
-      Mp.update_all("constituency_name = \"#{riding.name_en}\"", ["riding_id = ?", riding.id])
+      Mp.update_all("constituency_name = '#{riding.name_en}'", ["riding_id = ?", riding.id])
     }
     Riding.delete_all
     

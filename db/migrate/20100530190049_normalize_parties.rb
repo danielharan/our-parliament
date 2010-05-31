@@ -11,9 +11,9 @@ class NormalizeParties < ActiveRecord::Migration
         :name_fr => row[:name_fr]
       })
       party.save
-      Mp.update_all("party_id = \"#{party.id}\"", ["party = ?", party.name_en])
-      Senator.update_all("party_id = \"#{party.id}\"", ["affiliation = ?", party.name_en])
-      ElectionResult.update_all("party_id = \"#{party.id}\"", ["party = ?", party.name_en])
+      Mp.update_all("party_id = #{party.id}", ["party = ?", party.name_en])
+      Senator.update_all("party_id = #{party.id}", ["affiliation = ?", party.name_en])
+      ElectionResult.update_all("party_id = #{party.id}", ["party = ?", party.name_en])
     end
     
     remove_column :mps, :party
@@ -27,9 +27,9 @@ class NormalizeParties < ActiveRecord::Migration
     add_column :election_results, :party, :string
     
     Party.find(:all).each { |party|
-      Mp.update_all("party = \"#{party.name_en}\"", ["party_id = ?", party.id])
-      Senator.update_all("affiliation = \"#{party.name_en}\"", ["party_id = ?", party.id])
-      ElectionResult.update_all("party = \"#{party.name_en}\"", ["party_id = ?", party.id])
+      Mp.update_all("party = '#{party.name_en}'", ["party_id = ?", party.id])
+      Senator.update_all("affiliation = '#{party.name_en}'", ["party_id = ?", party.id])
+      ElectionResult.update_all("party = '#{party.name_en}'", ["party_id = ?", party.id])
     }
     Party.delete_all
     
