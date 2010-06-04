@@ -1,0 +1,3 @@
+<strong><%= t('members.activity_stream.twitter.text') %>:</strong>
+<div class="summary"><p><%= auto_link(entry.object.text) %></p></div>
+<em><%= t('members.activity_stream.time_ago', :time => time_ago_in_words(entry.date)) %></em>
