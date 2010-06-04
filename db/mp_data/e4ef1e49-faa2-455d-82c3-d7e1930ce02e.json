@@ -1,80 +1,67 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1950-08-22",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "Lise Zarac",
   "functions": [
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Canadian Heritage"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2009-01-21",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     }
-  ],
-  "professions": [
-    "Executive manager"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Executive manager",
+      "name_fr": "Gestionnaire"
     }
   ],
-  "id": "e4ef1e49-faa2-455d-82c3-d7e1930ce02e",
-  "date_of_birth": "1950-08-22"
+  "id": "e4ef1e49-faa2-455d-82c3-d7e1930ce02e"
 }

@@ -1,721 +1,497 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "",
+  "parties": [
+    {
+      "start_date": "1993-10-25",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    },
+    {
+      "start_date": "1984-09-04",
+      "end_date": "1993-10-24",
+      "name_en": "",
+      "name_fr": ""
+    }
+  ],
+  "date_of_birth": "1962-05-13",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "R\u00e9al M\u00e9nard",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-06-25",
-      "end": "2009-06-25",
-      "title": "Montreal Region"
+      "role_en": "Critic",
+      "start_date": "2008-06-25",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-06-25",
+      "title_en": "Montreal Region",
+      "title_fr": "Montr\u00e9al, R\u00e9gion de"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "end": "2009-09-13",
-      "title": "Justice"
+      "role_en": "Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-09-13",
+      "title_en": "Justice",
+      "title_fr": "Justice"
     },
     {
-      "role": "Critic",
-      "start": "2000-12-20",
-      "end": "2006-02-10",
-      "title": "Montreal Region"
+      "role_en": "Critic",
+      "start_date": "2000-12-20",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-10",
+      "title_en": "Montreal Region",
+      "title_fr": "Montr\u00e9al, R\u00e9gion de"
     },
     {
-      "role": "Critic",
-      "start": "1999-06-30",
-      "end": "2006-02-10",
-      "title": "Health"
+      "role_en": "Critic",
+      "start_date": "1999-06-30",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-10",
+      "title_en": "Health",
+      "title_fr": "Sant\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "1998-03",
-      "end": "1999-06-29",
-      "title": "Housing, Public"
+      "role_en": "Critic",
+      "start_date": "1998-03",
+      "role_fr": "Porte-parole",
+      "end_date": "1999-06-29",
+      "title_en": "Housing, Public",
+      "title_fr": "Logement social"
     },
     {
-      "role": "Critic",
-      "start": "1998-03-18",
-      "end": "1999-06-29",
-      "title": "Montreal Region"
+      "role_en": "Critic",
+      "start_date": "1998-03-18",
+      "role_fr": "Porte-parole",
+      "end_date": "1999-06-29",
+      "title_en": "Montreal Region",
+      "title_fr": "Montr\u00e9al, R\u00e9gion de"
     },
     {
-      "role": "Critic",
-      "start": "1998",
-      "end": "1999-06-29",
-      "title": "Citizenship and Immigration"
+      "role_en": "Critic",
+      "start_date": "1998",
+      "role_fr": "Porte-parole",
+      "end_date": "1999-06-29",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Critic",
-      "start": "1996",
-      "end": "1998-08",
-      "title": "Labour"
+      "role_en": "Critic",
+      "start_date": "1996",
+      "role_fr": "Porte-parole",
+      "end_date": "1998-08",
+      "title_en": "Labour",
+      "title_fr": "Travail"
     },
     {
-      "role": "Critic",
-      "start": "1995",
-      "end": "1996",
-      "title": "AIDS"
+      "role_en": "Critic",
+      "start_date": "1995",
+      "role_fr": "Porte-parole",
+      "end_date": "1996",
+      "title_en": "AIDS",
+      "title_fr": "Droits des conjoints de m\u00eame sexe"
     },
     {
-      "role": "Critic",
-      "start": "1995",
-      "end": "1996",
-      "title": "Rights of Same-sex couples"
+      "role_en": "Critic",
+      "start_date": "1995",
+      "role_fr": "Porte-parole",
+      "end_date": "1996",
+      "title_en": "Rights of Same-sex couples",
+      "title_fr": "SIDA"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1996-05-26",
-      "title": "Science, Research and Development"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1996-05-26",
+      "title_en": "Science, Research and Development",
+      "title_fr": "Sciences, Recherche et D\u00e9veloppement"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1998-08",
-      "title": "National Defence"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-06-25",
-      "end": "2009-06-25",
-      "title": "Montreal Region"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "end": "2009-09-13",
-      "title": "Justice"
-    },
-    {
-      "role": "Critic",
-      "start": "2000-12-20",
-      "end": "2006-02-10",
-      "title": "Montreal Region"
-    },
-    {
-      "role": "Critic",
-      "start": "1999-06-30",
-      "end": "2006-02-10",
-      "title": "Health"
-    },
-    {
-      "role": "Critic",
-      "start": "1998-03",
-      "end": "1999-06-29",
-      "title": "Housing, Public"
-    },
-    {
-      "role": "Critic",
-      "start": "1998-03-18",
-      "end": "1999-06-29",
-      "title": "Montreal Region"
-    },
-    {
-      "role": "Critic",
-      "start": "1998",
-      "end": "1999-06-29",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Critic",
-      "start": "1996",
-      "end": "1998-08",
-      "title": "Labour"
-    },
-    {
-      "role": "Critic",
-      "start": "1995",
-      "end": "1996",
-      "title": "AIDS"
-    },
-    {
-      "role": "Critic",
-      "start": "1995",
-      "end": "1996",
-      "title": "Rights of Same-sex couples"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1996-05-26",
-      "title": "Science, Research and Development"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1998-08",
-      "title": "National Defence"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1998-08",
+      "title_en": "National Defence",
+      "title_fr": "D\u00e9fense nationale"
     }
-  ],
-  "professions": [
-    "Political scientist"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Human Rights and the Status of Disabled Persons",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Rights and the Status of Disabled Persons",
+      "name_fr": "Comit\u00e9 permanent des droits de la personne et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Legislative Committee on Bill C-27",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-27",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-27"
     },
     {
-      "committee": "Legislative Committee on Bill C-35",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-35",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-35",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-35",
+      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35"
     },
     {
-      "committee": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Legislative Committee on Bill C-38",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-38",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Special Committee on the Non-Medical Use of Drugs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Non-Medical Use of Drugs",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments (Projet de loi C-38)"
     },
     {
-      "committee": "Special Committee on Non-Medical Use of Drugs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Special Committee on Non-Medical Use of Drugs",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments"
     },
     {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-20",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 d'\u00e9tudier le projet de loi C-20"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
     },
     {
-      "committee": "Subcommittee on Agenda and procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and procedure of the Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
     },
     {
-      "committee": "Standing Committee on Human Rights and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Rights and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent de l'industrie"
     },
     {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry",
+      "name_fr": "Comit\u00e9 permanent des droits de la personne et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Bill C-3 (An Act to amend the Canada Labour Code (Nuclear Undertakings) and to make a related amendment to another act) of the Standing Committee on Human Resources Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Bill C-3 (An Act to amend the Canada Labour Code (Nuclear Undertakings) and to make a related amendment to another act) of the Standing Committee on Human Resources Development",
+      "name_fr": "Sous-comit\u00e9 dur le projet de loi C-47, Loi concernant les techniques de reproduction humaine et les op\u00e9rations commerciales li\u00e9es \u00e0 la reproduction humaine, du Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Bill C-47, An Act respecting Human Reproductive Technologies and Commercial Transactions Relating to Human Reproduction, of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Bill C-47, An Act respecting Human Reproductive Technologies and Commercial Transactions Relating to Human Reproduction, of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 sur la reconversion de l'industrie militaire \u00e0 des fins civiles du Comit\u00e9 permanent de l'industrie"
     },
     {
-      "committee": "Subcommittee on HIV / AIDS of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on HIV / AIDS of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-3 (Loi modifiant le Code canadien du travail (entreprises nucl\u00e9aires) et une autre loi en cons\u00e9quence) du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines"
     },
     {
-      "committee": "Subcommittee on the Conversion of Military Industries to Civilian Purposes of the Standing Committee on Industry",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on the Conversion of Military Industries to Civilian Purposes of the Standing Committee on Industry",
+      "name_fr": "Sous-comit\u00e9 sur le VIH / SIDA du Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Human Rights and the Status of Disabled Persons",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Rights and the Status of Disabled Persons",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des affaires des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry",
+      "name_fr": "Comit\u00e9 permanent de l'industrie"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des droits de la personne et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on HIV / AIDS of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on HIV / AIDS of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 sur le VIH / SIDA du Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee to Promote Profit-sharing by Employees in Business of the Standing Committee on Finance, Trade and Economic Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 32,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Rights and the Status of Disabled Persons",
-      "role": "Vice-Chair ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-27",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-35",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-35",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-38",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Special Committee on the Non-Medical Use of Drugs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on Non-Medical Use of Drugs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Rights and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Bill C-3 (An Act to amend the Canada Labour Code (Nuclear Undertakings) and to make a related amendment to another act) of the Standing Committee on Human Resources Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Bill C-47, An Act respecting Human Reproductive Technologies and Commercial Transactions Relating to Human Reproduction, of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on HIV / AIDS of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on the Conversion of Military Industries to Civilian Purposes of the Standing Committee on Industry",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Rights and the Status of Disabled Persons",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on HIV / AIDS of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee to Promote Profit-sharing by Employees in Business of the Standing Committee on Finance, Trade and Economic Affairs",
-      "role": "Member ",
-      "parliament": 32,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee to Promote Profit-sharing by Employees in Business of the Standing Committee on Finance, Trade and Economic Affairs",
+      "name_fr": "Sous-comit\u00e9 visant \u00e0 promouvoir la participation des employ\u00e9s aux profits des entreprises du Comit\u00e9 permanent des finances, du commerce et des questions \u00e9conomiques"
     }
   ],
-  "parties": [
+  "language": "",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "1993-10-25"
-    },
-    {
-      "party": "",
-      "start": "1984-09-04",
-      "end": "1993-10-24"
+      "name_en": "Political scientist",
+      "name_fr": "Politicologue"
     }
   ],
-  "id": "595bcf3a-ea43-42d7-937e-1018bfde5547",
-  "date_of_birth": "1962-05-13"
+  "id": "595bcf3a-ea43-42d7-937e-1018bfde5547"
 }

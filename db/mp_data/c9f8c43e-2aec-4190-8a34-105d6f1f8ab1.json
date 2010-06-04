@@ -1,153 +1,116 @@
 {
-  "place_of_birth": "Brockville, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1963-09-03",
+  "place_of_birth": {
+    "name_en": "Brockville, Ontario, Canada",
+    "name_fr": "Brockville, Ontario, Canada"
+  },
   "name": "Mike Wallace",
   "functions": [
 
   ],
-  "professions": [
-    "Sales executive"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Sales executive",
+      "name_fr": "Directeur des ventes"
     }
   ],
-  "id": "c9f8c43e-2aec-4190-8a34-105d6f1f8ab1",
-  "date_of_birth": "1963-09-03"
+  "id": "c9f8c43e-2aec-4190-8a34-105d6f1f8ab1"
 }

@@ -1,161 +1,132 @@
 {
-  "place_of_birth": "New Westminster, British Columbia, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1945-01-24",
+  "place_of_birth": {
+    "name_en": "New Westminster, British Columbia, Canada",
+    "name_fr": "New Westminster, Colombie-Britannique, Canada"
+  },
   "name": "Alex Atamanenko",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Food Security"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Food Security",
+      "title_fr": "S\u00e9curit\u00e9 alimentaire"
     },
     {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Rural Affairs"
+      "role_en": "Critic",
+      "start_date": "2007-09-27",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Rural Affairs",
+      "title_fr": "Affaires rurales"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Agriculture and Agri-Food"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "title_en": "Agriculture and Agri-Food",
+      "title_fr": "Agriculture et Agro-alimentaire"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Canadian Wheat Board"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Food Security"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Rural Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Agriculture and Agri-Food"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Canadian Wheat Board"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "title_en": "Canadian Wheat Board",
+      "title_fr": "Commission canadienne du bl\u00e9"
     }
-  ],
-  "professions": [
-    "Director",
-    "Instructor",
-    "Recreationist",
-    "Teacher"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Agriculture et de l'agroalimentaire"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2004-06-28"
+      "name_en": "Director",
+      "name_fr": "Directeur"
+    },
+    {
+      "name_en": "Instructor",
+      "name_fr": "Enseignant"
+    },
+    {
+      "name_en": "Recreationist",
+      "name_fr": "Instructeur"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "R\u00e9cr\u00e9ologue"
     }
   ],
-  "id": "d89e2700-537a-48d1-96f2-c55ef4f7caf1",
-  "date_of_birth": "1945-01-24"
+  "id": "d89e2700-537a-48d1-96f2-c55ef4f7caf1"
 }

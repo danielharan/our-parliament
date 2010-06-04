@@ -1,45 +1,51 @@
 {
-  "place_of_birth": "Cape Breton, Nova Scotia, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1968-05-07",
+  "place_of_birth": {
+    "name_en": "Cape Breton, Nova Scotia, Canada",
+    "name_fr": "Cap Breton, Nouvelle-\u00c9cosse, Canada"
+  },
   "name": "Lisa Raitt",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "Minister of Labour"
+      "role_en": "Minister",
+      "start_date": "2010-01-19",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Labour",
+      "title_fr": "Ministre du Travail"
     },
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of Natural Resources"
-    },
-    {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "Minister of Labour"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of Natural Resources"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "end_date": "2010-01-18",
+      "title_en": "Minister of Natural Resources",
+      "title_fr": "Ministre des Ressources naturelles"
     }
-  ],
-  "professions": [
-    "Business executive",
-    "Chief executive officer",
-    "President / manager"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Business executive",
+      "name_fr": "Dirigeante d'entreprise"
+    },
+    {
+      "name_en": "Chief executive officer",
+      "name_fr": "Pr\u00e9sidente / g\u00e9rante"
+    },
+    {
+      "name_en": "President / manager",
+      "name_fr": "Pr\u00e9sidente-directrice g\u00e9n\u00e9rale"
     }
   ],
-  "id": "b6808e95-1c75-4909-ab86-319d3519016a",
-  "date_of_birth": "1968-05-07"
+  "id": "b6808e95-1c75-4909-ab86-319d3519016a"
 }

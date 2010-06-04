@@ -1,224 +1,170 @@
 {
-  "place_of_birth": "Winnipeg, Manitoba, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1947-05-11",
+  "place_of_birth": {
+    "name_en": "Winnipeg, Manitoba, Canada",
+    "name_fr": "Winnipeg, Manitoba, Canada"
+  },
   "name": "Laurie Hawn",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2007-10-10",
-      "title": "Parliamentary Secretary to the Minister of National Defence"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2007-10-10",
-      "title": "Parliamentary Secretary to the Minister of National Defence"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2007-10-10",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of National Defence",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale"
     }
-  ],
-  "professions": [
-    "Broker",
-    "Businessman",
-    "Investment counsellor"
   ],
   "committees": [
     {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-30",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-30",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-30",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la Mission canadienne en Afghanistan"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-30",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-30",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-30",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-30",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-30",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Broker",
+      "name_fr": "Conseiller en placements"
+    },
+    {
+      "name_en": "Businessman",
+      "name_fr": "Courtier"
+    },
+    {
+      "name_en": "Investment counsellor",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "6222fa27-d631-48b9-9cec-bd5d6c2de441",
-  "date_of_birth": "1947-05-11"
+  "id": "6222fa27-d631-48b9-9cec-bd5d6c2de441"
 }

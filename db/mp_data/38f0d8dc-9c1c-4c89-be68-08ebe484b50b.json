@@ -1,164 +1,130 @@
 {
-  "place_of_birth": "Victoriaville, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1962-12-18",
+  "place_of_birth": {
+    "name_en": "Victoriaville, Quebec, Canada",
+    "name_fr": "Victoriaville, Qu\u00e9bec, Canada"
+  },
   "name": "Sylvie Boucher",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary for Status of Women"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2008-11-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary for Status of Women",
+      "title_fr": "Secr\u00e9taire parlementaire pour la Condition f\u00e9minine"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2007-10-10",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary to the Prime Minister and for Status of Women"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2007-10-10",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2008-11-06",
+      "title_en": "Parliamentary Secretary to the Prime Minister and for Status of Women",
+      "title_fr": "Secr\u00e9taire parlementaire du Premier ministre et pour la Condition f\u00e9minine"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-04-10",
-      "end": "2007-10-09",
-      "title": "Parliamentary Secretary to the Prime Minister and for La Francophonie and Official Languages"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-04-10",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2007-10-09",
+      "title_en": "Parliamentary Secretary to the Prime Minister and for La Francophonie and Official Languages",
+      "title_fr": "Secr\u00e9taire parlementaire du Premier ministre et pour La Francophonie et les Langues officielles"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2006-04-09",
-      "title": "Parliamentary Secretary to the Prime Minister"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary for Status of Women"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2007-10-10",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary to the Prime Minister and for Status of Women"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-04-10",
-      "end": "2007-10-09",
-      "title": "Parliamentary Secretary to the Prime Minister and for La Francophonie and Official Languages"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2006-04-09",
-      "title": "Parliamentary Secretary to the Prime Minister"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2006-04-09",
+      "title_en": "Parliamentary Secretary to the Prime Minister",
+      "title_fr": "Secr\u00e9taire parlementaire du Premier ministre"
     }
-  ],
-  "professions": [
-    "Administrator",
-    "Political assistant",
-    "Sales and marketing consultant"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Administrator",
+      "name_fr": "Adjointe politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Administratrice"
+    },
+    {
+      "name_en": "Sales and marketing consultant",
+      "name_fr": "Experte-conseil en ventes et en commercialisation"
     }
   ],
-  "id": "38f0d8dc-9c1c-4c89-be68-08ebe484b50b",
-  "date_of_birth": "1962-12-18"
+  "id": "38f0d8dc-9c1c-4c89-be68-08ebe484b50b"
 }

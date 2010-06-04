@@ -1,332 +1,242 @@
 {
-  "place_of_birth": "Victoriaville, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2000-11-27",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1964-06-03",
+  "place_of_birth": {
+    "name_en": "Victoriaville, Quebec, Canada",
+    "name_fr": "Victoriaville, Qu\u00e9bec, Canada"
+  },
   "name": "Andr\u00e9 Bellavance",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Agriculture and Agri-Food"
+      "role_en": "Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole",
+      "title_en": "Agriculture and Agri-Food",
+      "title_fr": "Agriculture et Agro-alimentaire"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Globalization"
+      "role_en": "Assistant Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-02-09",
+      "title_en": "Globalization",
+      "title_fr": "Affaires indiennes et Nord canadien"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Indian Affairs and Northern Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Agriculture and Agri-Food"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Globalization"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Indian Affairs and Northern Development"
+      "role_en": "Assistant Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-02-09",
+      "title_en": "Indian Affairs and Northern Development",
+      "title_fr": "Mondialisation"
     }
-  ],
-  "professions": [
-    "Journalist",
-    "Political assistant",
-    "Radio announcer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 sur la salubrit\u00e9 des aliments du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 sur la salubrit\u00e9 des aliments du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-20",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2000-11-27"
+      "name_en": "Journalist",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Annonceur de radio"
+    },
+    {
+      "name_en": "Radio announcer",
+      "name_fr": "Journaliste"
     }
   ],
-  "id": "8131817f-bf86-4739-9a70-6ef9de6f11b6",
-  "date_of_birth": "1964-06-03"
+  "id": "8131817f-bf86-4739-9a70-6ef9de6f11b6"
 }

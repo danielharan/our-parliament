@@ -1,123 +1,107 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1942-08-17",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "Jean Dorion",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-12-15",
-      "title": "Human Rights"
+      "role_en": "Critic",
+      "start_date": "2009-12-15",
+      "role_fr": "Porte-parole",
+      "title_en": "Human Rights",
+      "title_fr": "Droits de la personne"
     },
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Asia-Pacific"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Asia-Pacific",
+      "title_fr": "Affaires intergouvernementales"
     },
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Intergovernmental Affairs"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Intergovernmental Affairs",
+      "title_fr": "Asie-Pacifique"
     },
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Privy Council"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-12-15",
-      "title": "Human Rights"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Asia-Pacific"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Intergovernmental Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Privy Council"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Privy Council",
+      "title_fr": "Conseil priv\u00e9"
     }
-  ],
-  "professions": [
-    "Labour relations consultant",
-    "Librarian",
-    "Senior public servant",
-    "Sociologist"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2008-10-14"
+      "name_en": "Labour relations consultant",
+      "name_fr": "Biblioth\u00e9caire"
+    },
+    {
+      "name_en": "Librarian",
+      "name_fr": "Conseiller en relations ouvri\u00e8res"
+    },
+    {
+      "name_en": "Senior public servant",
+      "name_fr": "Fonctionnaire principal"
+    },
+    {
+      "name_en": "Sociologist",
+      "name_fr": "Sociologue"
     }
   ],
-  "id": "28eb8079-dada-4810-991a-a5137e0b2366",
-  "date_of_birth": "1942-08-17"
+  "id": "28eb8079-dada-4810-991a-a5137e0b2366"
 }

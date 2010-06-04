@@ -1,67 +1,62 @@
 {
-  "place_of_birth": "Grand Falls-Windsor, Newfoundland and Labrador, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1960-11-11",
+  "place_of_birth": {
+    "name_en": "Grand Falls-Windsor, Newfoundland and Labrador, Canada",
+    "name_fr": "Grand Falls-Windsor, Terre-Neuve-et-Labrador, Canada"
+  },
   "name": "Siobhan Coady",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Treasury Board"
+      "role_en": "Critic",
+      "start_date": "2009-10-06",
+      "role_fr": "Porte-parole",
+      "title_en": "Treasury Board",
+      "title_fr": "Conseil du tr\u00e9sor"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Fisheries and Oceans"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Treasury Board"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Fisheries and Oceans"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-01-21",
+      "title_en": "Fisheries and Oceans",
+      "title_fr": "P\u00eaches et Oc\u00e9ans"
     }
-  ],
-  "professions": [
-    "Business executive",
-    "Businesswoman"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Business executive",
+      "name_fr": "Dirigeante d'entreprise"
+    },
+    {
+      "name_en": "Businesswoman",
+      "name_fr": "Femme d'affaires"
     }
   ],
-  "id": "2cfc0663-3048-4e44-ad6d-95e6a357bed8",
-  "date_of_birth": "1960-11-11"
+  "id": "2cfc0663-3048-4e44-ad6d-95e6a357bed8"
 }

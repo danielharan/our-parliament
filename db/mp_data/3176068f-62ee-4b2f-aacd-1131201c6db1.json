@@ -1,330 +1,234 @@
 {
-  "place_of_birth": "Windsor, Nova Scotia, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "1993-10-25",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1959-11-22",
+  "place_of_birth": {
+    "name_en": "Windsor, Nova Scotia, Canada",
+    "name_fr": "Windsor, Nouvelle-\u00c9cosse, Canada"
+  },
   "name": "Geoff Regan",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2003-12-12",
-      "end": "2006-02-05",
-      "title": "Minister of Fisheries and Oceans"
+      "role_en": "Minister",
+      "start_date": "2003-12-12",
+      "role_fr": "Ministre",
+      "end_date": "2006-02-05",
+      "title_en": "Minister of Fisheries and Oceans",
+      "title_fr": "Ministre des P\u00eaches et des Oc\u00e9ans"
     },
     {
-      "role": "Regional Minister",
-      "start": "2004-01-20",
-      "end": "2006-02-05",
-      "title": "Nova Scotia"
+      "role_en": "Regional Minister",
+      "start_date": "2004-01-20",
+      "role_fr": "Ministre r\u00e9gional",
+      "end_date": "2006-02-05",
+      "title_en": "Nova Scotia",
+      "title_fr": "Nouvelle-\u00c9cosse"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2001-09-13",
-      "end": "2003-12-11",
-      "title": "Parliamentary Secretary to the Leader of the Government in the House of Commons"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2001-09-13",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2003-12-11",
+      "title_en": "Parliamentary Secretary to the Leader of the Government in the House of Commons",
+      "title_fr": "Secr\u00e9taire parlementaire du leader du gouvernement \u00e0 la Chambre des communes"
     },
     {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Natural Resources"
+      "role_en": "Critic",
+      "start_date": "2009-01-22",
+      "role_fr": "Porte-parole",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Human Resources and Skills Development"
-    },
-    {
-      "role": "Minister",
-      "start": "2003-12-12",
-      "end": "2006-02-05",
-      "title": "Minister of Fisheries and Oceans"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2004-01-20",
-      "end": "2006-02-05",
-      "title": "Nova Scotia"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2001-09-13",
-      "end": "2003-12-11",
-      "title": "Parliamentary Secretary to the Leader of the Government in the House of Commons"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Human Resources and Skills Development"
+      "role_en": "Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-01-17",
+      "title_en": "Human Resources and Skills Development",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences"
     }
-  ],
-  "professions": [
-    "Lawyer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Human Resources Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources Development",
+      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques"
     },
     {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry",
+      "name_fr": "Comit\u00e9 permanent de l'industrie"
     },
     {
-      "committee": "Standing Committee on Justice and Legal Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Legal Affairs",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques"
     },
     {
-      "committee": "Standing Committee on Justice and Legal Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Justice and Legal Affairs",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Human Rights of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Legal Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Justice and Legal Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Human Rights of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Human Rights of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 sur les droits de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce internationale"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "1993-10-25"
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
     }
   ],
-  "id": "3176068f-62ee-4b2f-aacd-1131201c6db1",
-  "date_of_birth": "1959-11-22"
+  "id": "3176068f-62ee-4b2f-aacd-1131201c6db1"
 }

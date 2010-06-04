@@ -1,114 +1,90 @@
 {
-  "place_of_birth": "Saskatoon, Saskatchewan, Canada",
-  "language": "English, French",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1967-01-02",
+  "place_of_birth": {
+    "name_en": "Saskatoon, Saskatchewan, Canada",
+    "name_fr": "Saskatoon, Saskatchewan, Canada"
+  },
   "name": "Shelly Glover",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary for Official Languages"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary for Official Languages"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2008-11-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary for Official Languages",
+      "title_fr": "Secr\u00e9taire parlementaire pour les Langues officielles"
     }
-  ],
-  "professions": [
-    "Police officer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Legislative Committee on Bill C-31",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-31",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-31",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "English, French",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Police officer",
+      "name_fr": "Polici\u00e8re"
     }
   ],
-  "id": "64baabef-e32d-4384-a8eb-ac38c91ed3a6",
-  "date_of_birth": "1967-01-02"
+  "id": "64baabef-e32d-4384-a8eb-ac38c91ed3a6"
 }

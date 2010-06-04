@@ -1,184 +1,149 @@
 {
-  "place_of_birth": "Barrie, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2010-04-09",
+      "name_en": "",
+      "name_fr": ""
+    },
+    {
+      "start_date": "2004-06-28",
+      "end_date": "2010-04-08",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1969-02-19",
+  "place_of_birth": {
+    "name_en": "Barrie, Ontario, Canada",
+    "name_fr": "Barrie, Ontario, Canada"
+  },
   "name": "Helena Guergis",
   "functions": [
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "end": "2010-04-08",
-      "title": "Minister of State (Status of Women)Resignation. Is the subject of inquiry concerning allegations regarding her conduct."
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2010-04-08",
+      "title_en": "Minister of State (Status of Women)Resignation. Is the subject of inquiry concerning allegations regarding her conduct.",
+      "title_fr": "Ministre d'\u00c9tat (Condition f\u00e9minine)D\u00e9mission. Est l'objet d'une enqu\u00eate au sujet d'all\u00e9gations en ce qui a trait \u00e0 sa conduite."
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Secretary of State (Foreign Affairs and International Trade) (Sport)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2007-01-04",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2008-10-29",
+      "title_en": "Secretary of State (Foreign Affairs and International Trade) (Sport)",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Affaires \u00e9trang\u00e8res et Commerce international) (Sports)"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-01-03",
-      "title": "Parliamentary Secretary for International Trade"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2007-01-03",
+      "title_en": "Parliamentary Secretary for International Trade",
+      "title_fr": "Secr\u00e9taire parlementaire pour le Commerce international"
     },
     {
-      "role": "Critic",
-      "start": "2005-05-25",
-      "end": "2006-02-05",
-      "title": "CIDA"
+      "role_en": "Critic",
+      "start_date": "2005-05-25",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "CIDA",
+      "title_fr": "ACDI"
     },
     {
-      "role": "Critic",
-      "start": "2005-05-25",
-      "end": "2006-02-05",
-      "title": "International Cooperation"
+      "role_en": "Critic",
+      "start_date": "2005-05-25",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "International Cooperation",
+      "title_fr": "Coop\u00e9ration internationale"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2005-01-24",
-      "end": "2005-06-05",
-      "title": "Seniors"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "end": "2010-04-08",
-      "title": "Minister of State (Status of Women)Resignation. Is the subject of inquiry concerning allegations regarding her conduct."
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Secretary of State (Foreign Affairs and International Trade) (Sport)"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-01-03",
-      "title": "Parliamentary Secretary for International Trade"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-05-25",
-      "end": "2006-02-05",
-      "title": "CIDA"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-05-25",
-      "end": "2006-02-05",
-      "title": "International Cooperation"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2005-01-24",
-      "end": "2005-06-05",
-      "title": "Seniors"
+      "role_en": "Assistant Critic",
+      "start_date": "2005-01-24",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2005-06-05",
+      "title_en": "Seniors",
+      "title_fr": "A\u00een\u00e9s"
     }
-  ],
-  "professions": [
-    "Businesswoman",
-    "Policy adviser",
-    "Political assistant",
-    "Public servant"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "",
-      "start": "2010-04-09"
+      "name_en": "Businesswoman",
+      "name_fr": "Adjointe politique"
     },
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28",
-      "end": "2010-04-08"
+      "name_en": "Policy adviser",
+      "name_fr": "Conseill\u00e8re en politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Fonctionnaire"
+    },
+    {
+      "name_en": "Public servant",
+      "name_fr": "Femme d'affaires"
     }
   ],
-  "id": "35c1a246-9b80-4b4b-b84e-9e4404c1421f",
-  "date_of_birth": "1969-02-19"
+  "id": "35c1a246-9b80-4b4b-b84e-9e4404c1421f"
 }

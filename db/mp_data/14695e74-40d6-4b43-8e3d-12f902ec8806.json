@@ -1,572 +1,395 @@
 {
-  "place_of_birth": "H\u00e9rouxville, Quebec, Canada",
-  "language": "",
+  "parties": [
+    {
+      "start_date": "1993-10-25",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1953-04-08",
+  "place_of_birth": {
+    "name_en": "H\u00e9rouxville, Quebec, Canada",
+    "name_fr": "H\u00e9rouxville, Qu\u00e9bec, Canada"
+  },
   "name": "Paul Cr\u00eate",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2009-05-21",
-      "title": "Foreign Affairs"
+      "role_en": "Critic",
+      "start_date": "2008-06-26",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-05-21",
+      "title_en": "Foreign Affairs",
+      "title_fr": "Affaires \u00e9trang\u00e8res"
     },
     {
-      "role": "Critic",
-      "start": "2007-04-12",
-      "end": "2008-06-26",
-      "title": "Finance"
+      "role_en": "Critic",
+      "start_date": "2007-04-12",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-06-26",
+      "title_en": "Finance",
+      "title_fr": "Finances"
     },
     {
-      "role": "Critic",
-      "start": "2002-06-27",
-      "end": "2007-04-11",
-      "title": "Industry"
+      "role_en": "Critic",
+      "start_date": "2002-06-27",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-04-11",
+      "title_en": "Industry",
+      "title_fr": "Industrie"
     },
     {
-      "role": "Critic",
-      "start": "2002-01",
-      "end": "2002-06-26",
-      "title": "Children and Youth"
+      "role_en": "Critic",
+      "start_date": "2002-01",
+      "role_fr": "Porte-parole",
+      "end_date": "2002-06-26",
+      "title_en": "Children and Youth",
+      "title_fr": "Enfance et Jeunesse"
     },
     {
-      "role": "Critic",
-      "start": "1997-01-01",
-      "end": "2002-06-26",
-      "title": "Human Resources Development"
+      "role_en": "Critic",
+      "start_date": "1997-01-01",
+      "role_fr": "Porte-parole",
+      "end_date": "2002-06-26",
+      "title_en": "Human Resources Development",
+      "title_fr": "D\u00e9veloppement des ressources humaines"
     },
     {
-      "role": "Critic",
-      "start": "1996-05-12",
-      "end": "1998-08",
-      "title": "Pension Reform"
+      "role_en": "Critic",
+      "start_date": "1996-05-12",
+      "role_fr": "Porte-parole",
+      "end_date": "1998-08",
+      "title_en": "Pension Reform",
+      "title_fr": "R\u00e9forme du r\u00e9gime des pensions"
     },
     {
-      "role": "Critic",
-      "start": "1996",
-      "end": "1998-03-17",
-      "title": "Seniors"
+      "role_en": "Critic",
+      "start_date": "1996",
+      "role_fr": "Porte-parole",
+      "end_date": "1998-03-17",
+      "title_en": "Seniors",
+      "title_fr": "A\u00een\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "1996",
-      "end": "1998-03",
-      "title": "Transport(Acting)"
+      "role_en": "Critic",
+      "start_date": "1996",
+      "role_fr": "Porte-parole",
+      "end_date": "1998-03",
+      "title_en": "Transport(Acting)",
+      "title_fr": "Transports(par int\u00e9rim)"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1994",
-      "title": "Regional Development"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1994",
+      "title_en": "Regional Development",
+      "title_fr": "D\u00e9veloppement r\u00e9gional"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1996",
-      "title": "Family Issues"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1996",
+      "title_en": "Family Issues",
+      "title_fr": "Famille"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1998",
-      "title": "Rural Development"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1998",
+      "title_en": "Rural Development",
+      "title_fr": "D\u00e9veloppement rural"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1998-08",
-      "title": "Rural Solidarity"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1998-08",
+      "title_en": "Rural Solidarity",
+      "title_fr": "Solidarit\u00e9 rurale"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1999",
-      "title": "Canada Post Corporation"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2009-05-21",
-      "title": "Foreign Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-04-12",
-      "end": "2008-06-26",
-      "title": "Finance"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-06-27",
-      "end": "2007-04-11",
-      "title": "Industry"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-01",
-      "end": "2002-06-26",
-      "title": "Children and Youth"
-    },
-    {
-      "role": "Critic",
-      "start": "1997-01-01",
-      "end": "2002-06-26",
-      "title": "Human Resources Development"
-    },
-    {
-      "role": "Critic",
-      "start": "1996-05-12",
-      "end": "1998-08",
-      "title": "Pension Reform"
-    },
-    {
-      "role": "Critic",
-      "start": "1996",
-      "end": "1998-03-17",
-      "title": "Seniors"
-    },
-    {
-      "role": "Critic",
-      "start": "1996",
-      "end": "1998-03",
-      "title": "Transport(Acting)"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1994",
-      "title": "Regional Development"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1996",
-      "title": "Family Issues"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1998",
-      "title": "Rural Development"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1998-08",
-      "title": "Rural Solidarity"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1999",
-      "title": "Canada Post Corporation"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1999",
+      "title_en": "Canada Post Corporation",
+      "title_fr": "Soci\u00e9t\u00e9 canadienne des postes"
     }
-  ],
-  "professions": [
-    "Director of human resources"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of  the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of  the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Government Operations",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales"
     },
     {
-      "committee": "Standing Committee on Human Resources Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources Development",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines"
     },
     {
-      "committee": "Standing Committee on Human Resources Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources Development",
+      "name_fr": "Comit\u00e9 permanent de l'industrie"
     },
     {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Vice-Chair ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of  the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines"
     }
   ],
-  "parties": [
+  "language": "",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "1993-10-25"
+      "name_en": "Director of human resources",
+      "name_fr": "Directeur des ressources humaines"
     }
   ],
-  "id": "14695e74-40d6-4b43-8e3d-12f902ec8806",
-  "date_of_birth": "1953-04-08"
+  "id": "14695e74-40d6-4b43-8e3d-12f902ec8806"
 }

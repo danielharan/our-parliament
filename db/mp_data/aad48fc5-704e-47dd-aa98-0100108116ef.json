@@ -1,45 +1,44 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1953-07-10",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "Michelle Simson",
   "functions": [
 
   ],
-  "professions": [
-    "Vice-president and general manager"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Vice-president and general manager",
+      "name_fr": "Vice-pr\u00e9sidente et directrice g\u00e9n\u00e9rale"
     }
   ],
-  "id": "aad48fc5-704e-47dd-aa98-0100108116ef",
-  "date_of_birth": "1953-07-10"
+  "id": "aad48fc5-704e-47dd-aa98-0100108116ef"
 }

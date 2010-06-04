@@ -1,62 +1,60 @@
 {
-  "place_of_birth": "Inuvik, Northwest Territories, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1967-06-28",
+  "place_of_birth": {
+    "name_en": "Inuvik, Northwest Territories, Canada",
+    "name_fr": "Inuvik, Territoires du Nord-Ouest, Canada"
+  },
   "name": "Leona Aglukkaq",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of Health"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Health",
+      "title_fr": "Ministre de la Sant\u00e9"
     },
     {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "Northwest Territories"
+      "role_en": "Regional Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "Northwest Territories",
+      "title_fr": "Nunavut"
     },
     {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "Nunavut"
+      "role_en": "Regional Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "Nunavut",
+      "title_fr": "Territoires du Nord-Ouest"
     },
     {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "Yukon"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of Health"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "Northwest Territories"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "Nunavut"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "Yukon"
+      "role_en": "Regional Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "Yukon",
+      "title_fr": "Yukon"
     }
-  ],
-  "professions": [
-    "Manager",
-    "Senior public servant"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Manager",
+      "name_fr": "Fonctionnaire principale"
+    },
+    {
+      "name_en": "Senior public servant",
+      "name_fr": "G\u00e9rante"
     }
   ],
-  "id": "3ad715ec-41ca-4448-a759-7d1d2b901ae4",
-  "date_of_birth": "1967-06-28"
+  "id": "3ad715ec-41ca-4448-a759-7d1d2b901ae4"
 }

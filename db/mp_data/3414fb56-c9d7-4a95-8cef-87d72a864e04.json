@@ -1,450 +1,321 @@
 {
-  "place_of_birth": "Winnipeg, Manitoba, Canada",
-  "language": "English, French",
+  "parties": [
+    {
+      "start_date": "1993-10-25",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1962-10-16",
+  "place_of_birth": {
+    "name_en": "Winnipeg, Manitoba, Canada",
+    "name_fr": "Winnipeg, Manitoba, Canada"
+  },
   "name": "Dan McTeague",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2004-07-20",
-      "end": "2006-02-05",
-      "title": "Parliamentary Secretary to the Minister of Foreign Affairs"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2004-07-20",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2006-02-05",
+      "title_en": "Parliamentary Secretary to the Minister of Foreign Affairs",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Affaires \u00e9trang\u00e8res"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Parliamentary Secretary to the Minister of Foreign Affairs with special emphasis on Canadians Abroad"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2003-12-12",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2004-07-19",
+      "title_en": "Parliamentary Secretary to the Minister of Foreign Affairs with special emphasis on Canadians Abroad",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Affaires \u00e9trang\u00e8res particuli\u00e8rement charg\u00e9 des Canadiens \u00e0 l'\u00e9tranger"
     },
     {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "end": "2009-10-05",
-      "title": "Treasury Board"
+      "role_en": "Critic",
+      "start_date": "2009-01-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-10-05",
+      "title_en": "Treasury Board",
+      "title_fr": "Conseil du tr\u00e9sor"
     },
     {
-      "role": "Critic",
-      "start": "2007-01-18",
-      "title": "Consular Services"
+      "role_en": "Critic",
+      "start_date": "2007-01-18",
+      "role_fr": "Porte-parole",
+      "title_en": "Consular Services",
+      "title_fr": "Services consulaires"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "title": "Consumer Affairs"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2004-07-20",
-      "end": "2006-02-05",
-      "title": "Parliamentary Secretary to the Minister of Foreign Affairs"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Parliamentary Secretary to the Minister of Foreign Affairs with special emphasis on Canadians Abroad"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "end": "2009-10-05",
-      "title": "Treasury Board"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-01-18",
-      "title": "Consular Services"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "title": "Consumer Affairs"
+      "role_en": "Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole",
+      "title_en": "Consumer Affairs",
+      "title_fr": "Consommation"
     }
-  ],
-  "professions": [
-    "Policy adviser",
-    "Political assistant",
-    "Public relations officer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Oil and Gas and Other Energy Prices",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices",
+      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Oil and Gas and Other Energy Prices",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices",
+      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry",
+      "name_fr": "Comit\u00e9 permanent de l'industrie"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Government Operations",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Oil and Gas and Other Energy Prices",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Oil and Gas and Other Energy Prices",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Government Operations",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales"
     }
   ],
-  "parties": [
+  "language": "English, French",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "1993-10-25"
+      "name_en": "Policy adviser",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Agent de relations publiques"
+    },
+    {
+      "name_en": "Public relations officer",
+      "name_fr": "Conseiller en politique"
     }
   ],
-  "id": "3414fb56-c9d7-4a95-8cef-87d72a864e04",
-  "date_of_birth": "1962-10-16"
+  "id": "3414fb56-c9d7-4a95-8cef-87d72a864e04"
 }

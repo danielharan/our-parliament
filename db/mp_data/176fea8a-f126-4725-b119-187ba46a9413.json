@@ -1,237 +1,175 @@
 {
-  "place_of_birth": "Athens, Greece",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "1988-11-21",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1955-05-02",
+  "place_of_birth": {
+    "name_en": "Athens, Greece",
+    "name_fr": "Ath\u00e8nes, Gr\u00e8ce"
+  },
   "name": "Jim Karygiannis",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2005-10-07",
-      "end": "2006-02-05",
-      "title": "Parliamentary Secretary to the Minister of Human Resources and Skills Development and Minister responsible for Democratic Renewal"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2005-10-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2006-02-05",
+      "title_en": "Parliamentary Secretary to the Minister of Human Resources and Skills Development and Minister responsible for Democratic Renewal",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources humaines et du D\u00e9veloppement des comp\u00e9tences et ministre responsable du Renouveau d\u00e9mocratique"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2004-07-20",
-      "end": "2005-10-06",
-      "title": "Parliamentary Secretary to the Minister of Transport"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2004-07-20",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2005-10-06",
+      "title_en": "Parliamentary Secretary to the Minister of Transport",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Transports"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Parliamentary Secretary to the Minister of Transport with special emphasis on Transport and Environment"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2003-12-12",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2004-07-19",
+      "title_en": "Parliamentary Secretary to the Minister of Transport with special emphasis on Transport and Environment",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Transports particuli\u00e8rement charg\u00e9 du transport et de l'environnement"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Transport"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-05-29",
+      "title_en": "Transport",
+      "title_fr": "Transports"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1990-09-01",
-      "end": "1993",
-      "title": "Multiculturalism and Citizenship"
+      "role_en": "Assistant Critic",
+      "start_date": "1990-09-01",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1993",
+      "title_en": "Multiculturalism and Citizenship",
+      "title_fr": "Multiculturalisme et de la Citoyennet\u00e9"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1990-09",
-      "end": "1993",
-      "title": "National Revenue"
+      "role_en": "Assistant Critic",
+      "start_date": "1990-09",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1993",
+      "title_en": "National Revenue",
+      "title_fr": "Revenu national"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1989-02",
-      "end": "1990-09",
-      "title": "Small Business"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2005-10-07",
-      "end": "2006-02-05",
-      "title": "Parliamentary Secretary to the Minister of Human Resources and Skills Development and Minister responsible for Democratic Renewal"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2004-07-20",
-      "end": "2005-10-06",
-      "title": "Parliamentary Secretary to the Minister of Transport"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Parliamentary Secretary to the Minister of Transport with special emphasis on Transport and Environment"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Transport"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1990-09-01",
-      "end": "1993",
-      "title": "Multiculturalism and Citizenship"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1990-09",
-      "end": "1993",
-      "title": "National Revenue"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1989-02",
-      "end": "1990-09",
-      "title": "Small Business"
+      "role_en": "Assistant Critic",
+      "start_date": "1989-02",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1990-09",
+      "title_en": "Small Business",
+      "title_fr": "Petites entreprises"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Industrial engineer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Multiculturalism and Citizenship",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Multiculturalism and Citizenship",
+      "name_fr": "Comit\u00e9 permanent du multiculturalisme et de la citoyennet\u00e9"
     },
     {
-      "committee": "Legislative Committee on Bill C-56",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Multiculturalism and Citizenship",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-56",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-56",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-56"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "1988-11-21"
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "Industrial engineer",
+      "name_fr": "Ing\u00e9nieur industriel"
     }
   ],
-  "id": "176fea8a-f126-4725-b119-187ba46a9413",
-  "date_of_birth": "1955-05-02"
+  "id": "176fea8a-f126-4725-b119-187ba46a9413"
 }

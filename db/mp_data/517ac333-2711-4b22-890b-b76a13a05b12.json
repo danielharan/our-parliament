@@ -1,76 +1,74 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-07",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "1993-10-25",
+      "end_date": "2003-12-06",
+      "name_en": "Progressive Conservative Party",
+      "name_fr": "Parti progressiste-conservateur"
+    }
+  ],
+  "date_of_birth": "1954-07-14",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "Ed Holder",
   "functions": [
 
   ],
-  "professions": [
-    "Insurance benefits consultant",
-    "Insurance broker",
-    "Insurance executive"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-07"
+      "name_en": "Insurance benefits consultant",
+      "name_fr": "Courtier d'assurance"
     },
     {
-      "party": "Progressive Conservative Party",
-      "start": "1993-10-25",
-      "end": "2003-12-06"
+      "name_en": "Insurance broker",
+      "name_fr": "Directeur des assurances"
+    },
+    {
+      "name_en": "Insurance executive",
+      "name_fr": "Expert-conseil en prestations d'assurance"
     }
   ],
-  "id": "517ac333-2711-4b22-890b-b76a13a05b12",
-  "date_of_birth": "1954-07-14"
+  "id": "517ac333-2711-4b22-890b-b76a13a05b12"
 }

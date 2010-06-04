@@ -1,391 +1,283 @@
 {
-  "place_of_birth": "Winnipeg, Manitoba, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1997-06-02",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1972-04-01",
+  "place_of_birth": {
+    "name_en": "Winnipeg, Manitoba, Canada",
+    "name_fr": "Winnipeg, Manitoba, Canada"
+  },
   "name": "Rob Anders",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Civil Preparedness"
+      "role_en": "Critic",
+      "start_date": "2004-01-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Civil Preparedness",
+      "title_fr": "Protection civile"
     },
     {
-      "role": "Critic",
-      "start": "1998-06-16",
-      "end": "1999",
-      "title": "Senate"
+      "role_en": "Critic",
+      "start_date": "1998-06-16",
+      "role_fr": "Porte-parole",
+      "end_date": "1999",
+      "title_en": "Senate",
+      "title_fr": "S\u00e9nat"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2001-06-18",
-      "end": "2004-07-21",
-      "title": "National Defence"
+      "role_en": "Assistant Critic",
+      "start_date": "2001-06-18",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2004-07-21",
+      "title_en": "National Defence",
+      "title_fr": "D\u00e9fense nationale"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2000-08-01",
-      "end": "2001-06-17",
-      "title": "Citizenship and Immigration"
+      "role_en": "Assistant Critic",
+      "start_date": "2000-08-01",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2001-06-17",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "2000-07-31",
-      "title": "Human Resources Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Civil Preparedness"
-    },
-    {
-      "role": "Critic",
-      "start": "1998-06-16",
-      "end": "1999",
-      "title": "Senate"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2001-06-18",
-      "end": "2004-07-21",
-      "title": "National Defence"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2000-08-01",
-      "end": "2001-06-17",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "2000-07-31",
-      "title": "Human Resources Development"
+      "role_en": "Assistant Critic",
+      "start_date": "1997-06-20",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2000-07-31",
+      "title_en": "Human Resources Development",
+      "title_fr": "D\u00e9veloppement des ressources humaines"
     }
-  ],
-  "professions": [
-    "Administrator",
-    "Labour expert"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
+      "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de Liaison"
     },
     {
-      "committee": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de Liaison"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
+      "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
     },
     {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Administrator",
+      "name_fr": "Administrateur"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2003-12-22"
-    },
-    {
-      "party": "Reform Party",
-      "start": "1997-06-02",
-      "end": "2000-03-26"
+      "name_en": "Labour expert",
+      "name_fr": "Sp\u00e9cialiste du domaine du travail"
     }
   ],
-  "id": "9c14772f-bd8b-4bd3-9854-f7cdeefd507a",
-  "date_of_birth": "1972-04-01"
+  "id": "9c14772f-bd8b-4bd3-9854-f7cdeefd507a"
 }

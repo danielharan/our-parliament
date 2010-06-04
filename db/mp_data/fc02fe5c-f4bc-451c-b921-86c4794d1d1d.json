@@ -1,344 +1,243 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "1997-06-02",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1948-03-21",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "John Norman McKay",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2004-07-20",
-      "end": "2006-02-05",
-      "title": "Parliamentary Secretary to the Minister of Finance"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2004-07-20",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2006-02-05",
+      "title_en": "Parliamentary Secretary to the Minister of Finance",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Parliamentary Secretary to the Minister of Finance with special emphasis on Public Private Partnerships"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2003-12-12",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2004-07-19",
+      "title_en": "Parliamentary Secretary to the Minister of Finance with special emphasis on Public Private Partnerships",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances particuli\u00e8rement charg\u00e9 du partenariat entre les secteurs public et priv\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Small Business"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-01-21",
+      "title_en": "Small Business",
+      "title_fr": "Petite entreprise"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Tourism"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-01-21",
+      "title_en": "Tourism",
+      "title_fr": "Tourisme"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Crown Corporations"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2004-07-20",
-      "end": "2006-02-05",
-      "title": "Parliamentary Secretary to the Minister of Finance"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Parliamentary Secretary to the Minister of Finance with special emphasis on Public Private Partnerships"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Small Business"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Tourism"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Crown Corporations"
+      "role_en": "Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-01-17",
+      "title_en": "Crown Corporations",
+      "title_fr": "Corporations de la Couronne"
     }
-  ],
-  "professions": [
-    "Lawyer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la Citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Subcommittee on Organized Crime of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Organized Crime of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 sur le crime organis\u00e9 du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Organized Crime of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "1997-06-02"
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
     }
   ],
-  "id": "fc02fe5c-f4bc-451c-b921-86c4794d1d1d",
-  "date_of_birth": "1948-03-21"
+  "id": "fc02fe5c-f4bc-451c-b921-86c4794d1d1d"
 }

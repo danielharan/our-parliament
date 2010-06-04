@@ -1,68 +1,66 @@
 {
-  "place_of_birth": "Thunder Bay, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1944-07-27",
+  "place_of_birth": {
+    "name_en": "Thunder Bay, Ontario, Canada",
+    "name_fr": "Thunder Bay, Ontario, Canada"
+  },
   "name": "Beverley J. (Bev) Oda",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "title": "Minister for International Cooperation"
+      "role_en": "Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre",
+      "title_en": "Minister for International Cooperation",
+      "title_fr": "Ministre de la Coop\u00e9ration internationale"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister of Canadian Heritage and Status of WomenFirst Canadian of Japanese origin appointed Cabinet minister."
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2007-08-13",
+      "title_en": "Minister of Canadian Heritage and Status of WomenFirst Canadian of Japanese origin appointed Cabinet minister.",
+      "title_fr": "Ministre du Patrimoine canadien et de la Condition f\u00e9mininePremi\u00e8re Canadienne d'origine japonaise nomm\u00e9e au Cabinet."
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "title": "Minister for International Cooperation"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister of Canadian Heritage and Status of WomenFirst Canadian of Japanese origin appointed Cabinet minister."
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     }
-  ],
-  "professions": [
-    "Broadcasting executive",
-    "Communication consultant",
-    "Teacher"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
+    }
+  ],
+  "language": "English",
+  "professions": [
+    {
+      "name_en": "Broadcasting executive",
+      "name_fr": "Cadre en radiodiffusion"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    }
-  ],
-  "parties": [
+      "name_en": "Communication consultant",
+      "name_fr": "Enseignante"
+    },
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Teacher",
+      "name_fr": "Experte-conseil en communications"
     }
   ],
-  "id": "39a65c4b-9038-463b-a6ba-a22d94707191",
-  "date_of_birth": "1944-07-27"
+  "id": "39a65c4b-9038-463b-a6ba-a22d94707191"
 }

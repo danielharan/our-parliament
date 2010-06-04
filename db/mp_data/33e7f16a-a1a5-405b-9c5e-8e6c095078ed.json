@@ -1,333 +1,239 @@
 {
-  "place_of_birth": "Medora, Manitoba, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1955-08-06",
+  "place_of_birth": {
+    "name_en": "Medora, Manitoba, Canada",
+    "name_fr": "Medora, Manitoba, Canada"
+  },
   "name": "Mervin C. Tweed",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Western Economic Diversification"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Western Economic Diversification"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Western Economic Diversification",
+      "title_fr": "Diversification de l'\u00e9conomie de l'Ouest"
     }
-  ],
-  "professions": [
-    "Automobile dealer",
-    "Businessman"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de liaison"
     },
     {
-      "committee": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de Liaison"
     },
     {
-      "committee": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de Liaison"
     },
     {
-      "committee": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Automobile dealer",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "Businessman",
+      "name_fr": "Marchand d'automobiles"
     }
   ],
-  "id": "33e7f16a-a1a5-405b-9c5e-8e6c095078ed",
-  "date_of_birth": "1955-08-06"
+  "id": "33e7f16a-a1a5-405b-9c5e-8e6c095078ed"
 }

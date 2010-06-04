@@ -1,509 +1,367 @@
 {
-  "place_of_birth": "Toysun, China",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-02-02",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2002-08-27",
+      "end_date": "2004-02-01",
+      "name_en": "Progressive Conservative Party",
+      "name_fr": "Parti progressiste-conservateur"
+    },
+    {
+      "start_date": "2002-04-10",
+      "end_date": "2002-08-26",
+      "name_en": "",
+      "name_fr": ""
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2002-04-09",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1997-06-02",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1947-11-17",
+  "place_of_birth": {
+    "name_en": "Toysun, China",
+    "name_fr": "Toysun, Chine"
+  },
   "name": "Inky Mark",
   "functions": [
     {
-      "role": "House Leader",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Progressive Conservative Party Deputy House Leader"
+      "role_en": "House Leader",
+      "start_date": "2003-09-10",
+      "role_fr": "Leader parlementaire",
+      "end_date": "2004-02-01",
+      "title_en": "Progressive Conservative Party Deputy House Leader",
+      "title_fr": "Leader parlementaire adjoint du Parti progressiste conservateur"
     },
     {
-      "role": "Critic",
-      "start": "2004-03-22",
-      "end": "2004-07-21",
-      "title": "Citizenship and Immigration"
+      "role_en": "Critic",
+      "start_date": "2004-03-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Critic",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Justice"
+      "role_en": "Critic",
+      "start_date": "2003-09-10",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-02-01",
+      "title_en": "Justice",
+      "title_fr": "Justice"
     },
     {
-      "role": "Critic",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Public Security"
+      "role_en": "Critic",
+      "start_date": "2003-09-10",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-02-01",
+      "title_en": "Public Security",
+      "title_fr": "S\u00e9curit\u00e9 publique"
     },
     {
-      "role": "Critic",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Solicitor General"
+      "role_en": "Critic",
+      "start_date": "2003-09-10",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-02-01",
+      "title_en": "Solicitor General",
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral"
     },
     {
-      "role": "Critic",
-      "start": "2002-09-25",
-      "end": "2003-09-09",
-      "title": "Indian Affairs and Northern Development"
+      "role_en": "Critic",
+      "start_date": "2002-09-25",
+      "role_fr": "Porte-parole",
+      "end_date": "2003-09-09",
+      "title_en": "Indian Affairs and Northern Development",
+      "title_fr": "Affaires indiennes et Nord canadien"
     },
     {
-      "role": "Critic",
-      "start": "2002-09-25",
-      "end": "2004-02-01",
-      "title": "Citizenship and Immigration"
+      "role_en": "Critic",
+      "start_date": "2002-09-25",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-02-01",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Critic",
-      "start": "2001-09-19",
-      "end": "2002-04-09",
-      "title": "Citizenship and Immigration"
+      "role_en": "Critic",
+      "start_date": "2001-09-19",
+      "role_fr": "Porte-parole",
+      "end_date": "2002-04-09",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Critic",
-      "start": "2000-08-01",
-      "end": "2001-07-03",
-      "title": "Citizenship and Immigration"
+      "role_en": "Critic",
+      "start_date": "2000-08-01",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-07-03",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Critic",
-      "start": "1998-11-02",
-      "end": "2000-07-31",
-      "title": "Francophonie"
+      "role_en": "Critic",
+      "start_date": "1998-11-02",
+      "role_fr": "Porte-parole",
+      "end_date": "2000-07-31",
+      "title_en": "Francophonie",
+      "title_fr": "Francophonie"
     },
     {
-      "role": "Critic",
-      "start": "1998-06-16",
-      "end": "2000-07-31",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "1998-06-16",
+      "role_fr": "Porte-parole",
+      "end_date": "2000-07-31",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "1998-06-15",
-      "title": "Intergovernmental Affairs"
+      "role_en": "Assistant Critic",
+      "start_date": "1997-06-20",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1998-06-15",
+      "title_en": "Intergovernmental Affairs",
+      "title_fr": "Affaires intergouvernementales"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "1998-06-15",
-      "title": "Privy Council"
-    },
-    {
-      "role": "House Leader",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Progressive Conservative Party Deputy House Leader"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-03-22",
-      "end": "2004-07-21",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Critic",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Justice"
-    },
-    {
-      "role": "Critic",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Public Security"
-    },
-    {
-      "role": "Critic",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Solicitor General"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-09-25",
-      "end": "2003-09-09",
-      "title": "Indian Affairs and Northern Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-09-25",
-      "end": "2004-02-01",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-09-19",
-      "end": "2002-04-09",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Critic",
-      "start": "2000-08-01",
-      "end": "2001-07-03",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Critic",
-      "start": "1998-11-02",
-      "end": "2000-07-31",
-      "title": "Francophonie"
-    },
-    {
-      "role": "Critic",
-      "start": "1998-06-16",
-      "end": "2000-07-31",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "1998-06-15",
-      "title": "Intergovernmental Affairs"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "1998-06-15",
-      "title": "Privy Council"
+      "role_en": "Assistant Critic",
+      "start_date": "1997-06-20",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1998-06-15",
+      "title_en": "Privy Council",
+      "title_fr": "Conseil priv\u00e9"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Teacher"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent de la Citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
+      "name_fr": "Sous-comit\u00e9 sur l'\u00e9tude du Sport au Canada du Comit\u00e9 permanent sur le patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent de la Citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments (Projet de loi C-38)"
     },
     {
-      "committee": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
+      "name_fr": "Sous-comit\u00e9 sur l'\u00e9tude du Sport au Canada du Comit\u00e9 permanent sur le patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
+      "name_fr": "Sous-comit\u00e9 sur l'\u00e9tude du sport au Canada du Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-02-02"
+      "name_en": "Businessman",
+      "name_fr": "Enseignant"
     },
     {
-      "party": "Progressive Conservative Party",
-      "start": "2002-08-27",
-      "end": "2004-02-01"
-    },
-    {
-      "party": "",
-      "start": "2002-04-10",
-      "end": "2002-08-26"
-    },
-    {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2002-04-09"
-    },
-    {
-      "party": "Reform Party",
-      "start": "1997-06-02",
-      "end": "2000-03-26"
+      "name_en": "Teacher",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "53e918f9-6c70-42dc-b2e7-acfd97dfc873",
-  "date_of_birth": "1947-11-17"
+  "id": "53e918f9-6c70-42dc-b2e7-acfd97dfc873"
 }

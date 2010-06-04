@@ -1,88 +1,73 @@
 {
-  "place_of_birth": "Ottawa, Ontario, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2006",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1971-12-25",
+  "place_of_birth": {
+    "name_en": "Ottawa, Ontario, Canada",
+    "name_fr": "Ottawa, Ontario, Canada"
+  },
   "name": "Justin Trudeau",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Multiculturalism"
+      "role_en": "Critic",
+      "start_date": "2009-10-06",
+      "role_fr": "Porte-parole",
+      "title_en": "Multiculturalism",
+      "title_fr": "Jeunesse"
     },
     {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Youth"
+      "role_en": "Critic",
+      "start_date": "2009-10-06",
+      "role_fr": "Porte-parole",
+      "title_en": "Youth",
+      "title_fr": "Multiculturalisme"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Youth"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Multiculturalism"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Youth"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Youth"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2009-01-21",
+      "title_en": "Youth",
+      "title_fr": "Jeunesse"
     }
-  ],
-  "professions": [
-    "Teacher"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2006"
+      "name_en": "Teacher",
+      "name_fr": "Enseignant"
     }
   ],
-  "id": "b8c04eca-f237-48a8-8975-374ccd40d1a9",
-  "date_of_birth": "1971-12-25"
+  "id": "b8c04eca-f237-48a8-8975-374ccd40d1a9"
 }

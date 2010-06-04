@@ -1,57 +1,52 @@
 {
-  "place_of_birth": "Punjab, India",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1958-08-03",
+  "place_of_birth": {
+    "name_en": "Punjab, India",
+    "name_fr": "Pendjab, Inde"
+  },
   "name": "Devinder Shory",
   "functions": [
 
   ],
-  "professions": [
-    "Lawyer"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
     }
   ],
-  "id": "d6291432-a929-439c-a56e-c47bda2d2095",
-  "date_of_birth": "1958-08-03"
+  "id": "d6291432-a929-439c-a56e-c47bda2d2095"
 }

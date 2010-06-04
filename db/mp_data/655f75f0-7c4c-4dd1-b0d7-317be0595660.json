@@ -1,66 +1,58 @@
 {
-  "place_of_birth": "Roberval, Quebec, Canada",
-  "language": "French, English",
+  "parties": [
+    {
+      "start_date": "2007-09-17",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1954-05-26",
+  "place_of_birth": {
+    "name_en": "Roberval, Quebec, Canada",
+    "name_fr": "Roberval, Qu\u00e9bec, Canada"
+  },
   "name": "Denis Lebel",
   "functions": [
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State (Economic Development Agency of Canada for the Regions of Quebec)"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State (Economic Development Agency of Canada for the Regions of Quebec)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister of State (Economic Development Agency of Canada for the Regions of Quebec)",
+      "title_fr": "Ministre d'\u00c9tat (Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec)"
     }
-  ],
-  "professions": [
-    "Politician"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances"
     }
   ],
-  "parties": [
+  "language": "French, English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2007-09-17"
+      "name_en": "Politician",
+      "name_fr": "Politicien"
     }
   ],
-  "id": "655f75f0-7c4c-4dd1-b0d7-317be0595660",
-  "date_of_birth": "1954-05-26"
+  "id": "655f75f0-7c4c-4dd1-b0d7-317be0595660"
 }

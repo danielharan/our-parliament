@@ -1,123 +1,100 @@
 {
-  "place_of_birth": "Ottawa, Ontario, Canada",
-  "language": "English, French",
+  "parties": [
+    {
+      "start_date": "2007-09-17",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1954-10-24",
+  "place_of_birth": {
+    "name_en": "Ottawa, Ontario, Canada",
+    "name_fr": "Ottawa, Ontario, Canada"
+  },
   "name": "Thomas J. Mulcair",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Quebec Region"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Quebec Region",
+      "title_fr": "R\u00e9gion de Qu\u00e9bec"
     },
     {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "title": "Economic Development Agency of Canada for the Regions of Quebec"
+      "role_en": "Critic",
+      "start_date": "2007-09-27",
+      "role_fr": "Porte-parole",
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec"
     },
     {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "title": "Finance"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Quebec Region"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "title": "Economic Development Agency of Canada for the Regions of Quebec"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "title": "Finance"
+      "role_en": "Critic",
+      "start_date": "2007-09-27",
+      "role_fr": "Porte-parole",
+      "title_en": "Finance",
+      "title_fr": "Finances"
     }
-  ],
-  "professions": [
-    "Lawyer",
-    "Professor"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     }
   ],
-  "parties": [
+  "language": "English, French",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2007-09-17"
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "Professeur"
     }
   ],
-  "id": "551183c2-2f3e-41ba-8660-2d194cf60169",
-  "date_of_birth": "1954-10-24"
+  "id": "551183c2-2f3e-41ba-8660-2d194cf60169"
 }

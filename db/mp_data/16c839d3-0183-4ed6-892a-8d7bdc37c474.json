@@ -1,248 +1,186 @@
 {
-  "place_of_birth": "North Bay, Ontario, Canada",
-  "language": "English, French",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1961-05-15",
+  "place_of_birth": {
+    "name_en": "North Bay, Ontario, Canada",
+    "name_fr": "North Bay, Ontario, Canada"
+  },
   "name": "Anthony Rota",
   "functions": [
     {
-      "role": "Caucus Chair",
-      "start": "2007-10-24",
-      "title": "Liberal Party Caucus Chair"
+      "role_en": "Caucus Chair",
+      "start_date": "2007-10-24",
+      "role_fr": "Pr\u00e9sident du caucus",
+      "title_en": "Liberal Party Caucus Chair",
+      "title_fr": "Pr\u00e9sident du caucus du Parti lib\u00e9ral"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Federal Economic Development Initiative for Northern Ontario"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-01-21",
+      "title_en": "Federal Economic Development Initiative for Northern Ontario",
+      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Federal Economic Development Initiative for Northern Ontario"
-    },
-    {
-      "role": "Caucus Chair",
-      "start": "2007-10-24",
-      "title": "Liberal Party Caucus Chair"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Federal Economic Development Initiative for Northern Ontario"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Federal Economic Development Initiative for Northern Ontario"
+      "role_en": "Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-01-17",
+      "title_en": "Federal Economic Development Initiative for Northern Ontario",
+      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario"
     }
-  ],
-  "professions": [
-    "Administrator-manager",
-    "Advisor",
-    "Entrepreneur"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et anciens combattants"
     }
   ],
-  "parties": [
+  "language": "English, French",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Administrator-manager",
+      "name_fr": "Administrateur-gestionnaire"
+    },
+    {
+      "name_en": "Advisor",
+      "name_fr": "Conseiller"
+    },
+    {
+      "name_en": "Entrepreneur",
+      "name_fr": "Entrepreneur"
     }
   ],
-  "id": "16c839d3-0183-4ed6-892a-8d7bdc37c474",
-  "date_of_birth": "1961-05-15"
+  "id": "16c839d3-0183-4ed6-892a-8d7bdc37c474"
 }

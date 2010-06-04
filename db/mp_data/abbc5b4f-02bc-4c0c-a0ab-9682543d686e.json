@@ -1,79 +1,70 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1960-02-05",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "Bonnie Crombie",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Crown Corporations"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Crown Corporations"
+      "role_en": "Critic",
+      "start_date": "2009-10-06",
+      "role_fr": "Porte-parole",
+      "title_en": "Crown Corporations",
+      "title_fr": "Corporations de la Couronne"
     }
-  ],
-  "professions": [
-    "Entrepreneur",
-    "Public affairs consultant"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Entrepreneur",
+      "name_fr": "Entrepreneure"
+    },
+    {
+      "name_en": "Public affairs consultant",
+      "name_fr": "Experte-conseil en affaires publiques"
     }
   ],
-  "id": "abbc5b4f-02bc-4c0c-a0ab-9682543d686e",
-  "date_of_birth": "1960-02-05"
+  "id": "abbc5b4f-02bc-4c0c-a0ab-9682543d686e"
 }

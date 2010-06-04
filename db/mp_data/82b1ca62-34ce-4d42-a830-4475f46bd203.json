@@ -1,301 +1,217 @@
 {
-  "place_of_birth": "Windsor, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-02-02",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-11-27",
+      "end_date": "2004-02-01",
+      "name_en": "Progressive Conservative Party",
+      "name_fr": "Parti progressiste-conservateur"
+    }
+  ],
+  "date_of_birth": "1971-11-22",
+  "place_of_birth": {
+    "name_en": "Windsor, Ontario, Canada",
+    "name_fr": "Windsor, Ontario, Canada"
+  },
   "name": "Michael D. Chong",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2006-11-26",
-      "title": "Minister of Intergovernmental AffairsResignation. Disagrees with Prime Minister Stephen Harper's motion on Qu\u00e9b\u00e9cois as a nation."
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2006-11-26",
+      "title_en": "Minister of Intergovernmental AffairsResignation. Disagrees with Prime Minister Stephen Harper's motion on Qu\u00e9b\u00e9cois as a nation.",
+      "title_fr": "Ministre des Affaires intergouvernementalesD\u00e9mission. En d\u00e9saccord avec la motion pr\u00e9sent\u00e9e par le premier ministre Stephen Harper, qui reconna\u00eet que \u00ab les Qu\u00e9b\u00e9cois forment une nation au sein d'un Canada uni \u00bb."
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2006-11-26",
-      "title": "President of the Queen's Privy CouncilResignation. Disagrees with Prime Minister Stephen Harper's motion on Qu\u00e9b\u00e9cois as a nation."
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2006-11-26",
+      "title_en": "President of the Queen's Privy CouncilResignation. Disagrees with Prime Minister Stephen Harper's motion on Qu\u00e9b\u00e9cois as a nation.",
+      "title_fr": "Pr\u00e9sident du Conseil priv\u00e9D\u00e9mission. En d\u00e9saccord avec la motion pr\u00e9sent\u00e9e par le premier ministre Stephen Harper, qui reconna\u00eet que \u00ab les Qu\u00e9b\u00e9cois forment une nation au sein d'un Canada uni \u00bb."
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2006-02-06",
-      "end": "2006-11-26",
-      "title": "Minister for SportResignation. Disagrees with Prime Minister Stephen Harper's motion on Qu\u00e9b\u00e9cois as a nation."
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2006-11-26",
-      "title": "Minister of Intergovernmental AffairsResignation. Disagrees with Prime Minister Stephen Harper's motion on Qu\u00e9b\u00e9cois as a nation."
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2006-11-26",
-      "title": "President of the Queen's Privy CouncilResignation. Disagrees with Prime Minister Stephen Harper's motion on Qu\u00e9b\u00e9cois as a nation."
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2006-02-06",
-      "end": "2006-11-26",
-      "title": "Minister for SportResignation. Disagrees with Prime Minister Stephen Harper's motion on Qu\u00e9b\u00e9cois as a nation."
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2006-11-26",
+      "title_en": "Minister for SportResignation. Disagrees with Prime Minister Stephen Harper's motion on Qu\u00e9b\u00e9cois as a nation.",
+      "title_fr": "Ministre des SportsD\u00e9mission. En d\u00e9saccord avec la motion pr\u00e9sent\u00e9e par le premier ministre Stephen Harper, qui reconna\u00eet que \u00ab les Qu\u00e9b\u00e9cois forment une nation au sein d'un Canada uni \u00bb."
     }
-  ],
-  "professions": [
-    "Information technology executive"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-20",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-02-02"
-    },
-    {
-      "party": "Progressive Conservative Party",
-      "start": "2000-11-27",
-      "end": "2004-02-01"
+      "name_en": "Information technology executive",
+      "name_fr": "Gestionnaire en technologie de l'information"
     }
   ],
-  "id": "82b1ca62-34ce-4d42-a830-4475f46bd203",
-  "date_of_birth": "1971-11-22"
+  "id": "82b1ca62-34ce-4d42-a830-4475f46bd203"
 }

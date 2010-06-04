@@ -1,201 +1,151 @@
 {
-  "place_of_birth": "Steinbach, Manitoba, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1969-02-08",
+  "place_of_birth": {
+    "name_en": "Steinbach, Manitoba, Canada",
+    "name_fr": "Steinbach, Manitoba, Canada"
+  },
   "name": "Russ Hiebert",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2007-10-10",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary to the Minister of Intergovernmental Affairs and Minister of Western Economic Diversification"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2007-10-10",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2008-11-06",
+      "title_en": "Parliamentary Secretary to the Minister of Intergovernmental Affairs and Minister of Western Economic Diversification",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Affaires intergouvernementales et ministre de la Diversification de l'\u00e9conomie de l'Ouest canadien"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-10-09",
-      "title": "Parliamentary Secretary to the Minister of National Defence"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2007-10-10",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary to the Minister of Intergovernmental Affairs and Minister of Western Economic Diversification"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-10-09",
-      "title": "Parliamentary Secretary to the Minister of National Defence"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2007-10-09",
+      "title_en": "Parliamentary Secretary to the Minister of National Defence",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale"
     }
-  ],
-  "professions": [
-    "Attorney",
-    "Businessman"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Legislative Committee on Bill C-38",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-38",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-38",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Attorney",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "Businessman",
+      "name_fr": "Procureur"
     }
   ],
-  "id": "76139309-b711-421b-9378-f612f15fc80d",
-  "date_of_birth": "1969-02-08"
+  "id": "76139309-b711-421b-9378-f612f15fc80d"
 }

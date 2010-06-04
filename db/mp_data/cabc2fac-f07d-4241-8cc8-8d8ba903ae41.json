@@ -1,339 +1,249 @@
 {
-  "place_of_birth": "Sebringville, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-02-02",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2003-05-12",
+      "end_date": "2004-02-01",
+      "name_en": "Progressive Conservative Party",
+      "name_fr": "Parti progressiste-conservateur"
+    }
+  ],
+  "date_of_birth": "1943-09-15",
+  "place_of_birth": {
+    "name_en": "Sebringville, Ontario, Canada",
+    "name_fr": "Sebringville, Ontario, Canada"
+  },
   "name": "Gary Schellenberger",
   "functions": [
     {
-      "role": "Whip",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Deputy Whip of the Progressive Conservative Party"
+      "role_en": "Whip",
+      "start_date": "2003-09-10",
+      "role_fr": "Whip",
+      "end_date": "2004-02-01",
+      "title_en": "Deputy Whip of the Progressive Conservative Party",
+      "title_fr": "Whip adjoint du Parti progressiste-conservateur"
     },
     {
-      "role": "Critic",
-      "start": "2004-02-02",
-      "end": "2004-07-21",
-      "title": "Sport"
+      "role_en": "Critic",
+      "start_date": "2004-02-02",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Sport",
+      "title_fr": "Sport"
     },
     {
-      "role": "Critic",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2003-09-10",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-02-01",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Affaires indiennes et Nord canadien"
     },
     {
-      "role": "Critic",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Indian Affairs and Northern Development"
-    },
-    {
-      "role": "Whip",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Deputy Whip of the Progressive Conservative Party"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-02-02",
-      "end": "2004-07-21",
-      "title": "Sport"
-    },
-    {
-      "role": "Critic",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2003-09-10",
-      "end": "2004-02-01",
-      "title": "Indian Affairs and Northern Development"
+      "role_en": "Critic",
+      "start_date": "2003-09-10",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-02-01",
+      "title_en": "Indian Affairs and Northern Development",
+      "title_fr": "Patrimoine canadien"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Interior decorator",
-    "Painter"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on National Resources and Public Works",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 30,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Resources and Public Works",
+      "name_fr": "Comit\u00e9 permanent des ressources nationales et des travaux publics"
     },
     {
-      "committee": "Standing Committee on Indian Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 30,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Indian Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires indiennes et du d\u00e9veloppement du Nord canadien"
     },
     {
-      "committee": "Standing Committee on Miscellaneous Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 30,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Resources and Public Works",
-      "role": "Member ",
-      "parliament": 30,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Indian Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 30,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Miscellaneous Estimates",
-      "role": "Member ",
-      "parliament": 30,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Miscellaneous Estimates",
+      "name_fr": "Comit\u00e9 permanent des pr\u00e9visions budg\u00e9taires en g\u00e9n\u00e9ral"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-02-02"
+      "name_en": "Businessman",
+      "name_fr": "D\u00e9corateur d'int\u00e9rieur"
     },
     {
-      "party": "Progressive Conservative Party",
-      "start": "2003-05-12",
-      "end": "2004-02-01"
+      "name_en": "Interior decorator",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "Painter",
+      "name_fr": "Peintre"
     }
   ],
-  "id": "cabc2fac-f07d-4241-8cc8-8d8ba903ae41",
-  "date_of_birth": "1943-09-15"
+  "id": "cabc2fac-f07d-4241-8cc8-8d8ba903ae41"
 }

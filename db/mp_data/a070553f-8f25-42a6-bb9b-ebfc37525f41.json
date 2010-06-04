@@ -1,286 +1,218 @@
 {
-  "place_of_birth": "Barrie, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-03-28",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    }
+  ],
+  "date_of_birth": "1950-08-16",
+  "place_of_birth": {
+    "name_en": "Barrie, Ontario, Canada",
+    "name_fr": "Barrie, Ontario, Canada"
+  },
   "name": "Stockwell Burt Day",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "President of the Treasury Board"
+      "role_en": "Minister",
+      "start_date": "2010-01-19",
+      "role_fr": "Ministre",
+      "title_en": "President of the Treasury Board",
+      "title_fr": "Pr\u00e9sident du Conseil du Tr\u00e9sor"
     },
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of International Trade"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "end_date": "2010-01-18",
+      "title_en": "Minister of International Trade",
+      "title_fr": "Ministre du Commerce international"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2008-10-29",
-      "title": "Minister of Public Safety"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister of Public Safety",
+      "title_fr": "Ministre de la S\u00e9curit\u00e9 publique"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister for the Asia-Pacific Gateway"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister for the Asia-Pacific Gateway",
+      "title_fr": "Ministre de la porte d'entr\u00e9e de l'Asie-Pacifique"
     },
     {
-      "role": "Regional Minister",
-      "start": "2007-08-14",
-      "title": "British Columbia"
+      "role_en": "Regional Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "British Columbia",
+      "title_fr": "Colombie-Britannique"
     },
     {
-      "role": "Leader of the Official Opposition",
-      "start": "2000-09-11",
-      "end": "2001-12-11",
-      "title": "Leader of the Official Opposition"
+      "role_en": "Leader of the Official Opposition",
+      "start_date": "2000-09-11",
+      "role_fr": "Chef de l'Opposition Officielle",
+      "end_date": "2001-12-11",
+      "title_en": "Leader of the Official Opposition",
+      "title_fr": "Chef de l'Opposition officielle"
     },
     {
-      "role": "Critic",
-      "start": "2002-04-04",
-      "end": "2006-02-05",
-      "title": "Foreign Affairs"
+      "role_en": "Critic",
+      "start_date": "2002-04-04",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Foreign Affairs",
+      "title_fr": "Affaires \u00e9trang\u00e8res"
     },
     {
-      "role": "Critic",
-      "start": "2000-09-11",
-      "end": "2001-12-11",
-      "title": "Prime Minister"
-    },
-    {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "President of the Treasury Board"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of International Trade"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2008-10-29",
-      "title": "Minister of Public Safety"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister for the Asia-Pacific Gateway"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2007-08-14",
-      "title": "British Columbia"
-    },
-    {
-      "role": "Leader of the Official Opposition",
-      "start": "2000-09-11",
-      "end": "2001-12-11",
-      "title": "Leader of the Official Opposition"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-04-04",
-      "end": "2006-02-05",
-      "title": "Foreign Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2000-09-11",
-      "end": "2001-12-11",
-      "title": "Prime Minister"
+      "role_en": "Critic",
+      "start_date": "2000-09-11",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-12-11",
+      "title_en": "Prime Minister",
+      "title_fr": "Premier ministre"
     }
-  ],
-  "professions": [
-    "Auctioneer",
-    "Businessman",
-    "Contractor",
-    "School administrator"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Auctioneer",
+      "name_fr": "Administrateur scolaire"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-28",
-      "end": "2003-12-22"
+      "name_en": "Businessman",
+      "name_fr": "Commissaire-priseur"
+    },
+    {
+      "name_en": "Contractor",
+      "name_fr": "Entrepreneur"
+    },
+    {
+      "name_en": "School administrator",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "a070553f-8f25-42a6-bb9b-ebfc37525f41",
-  "date_of_birth": "1950-08-16"
+  "id": "a070553f-8f25-42a6-bb9b-ebfc37525f41"
 }

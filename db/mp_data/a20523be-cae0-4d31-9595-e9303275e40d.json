@@ -1,70 +1,64 @@
 {
-  "place_of_birth": "Kitchener, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1964-01-07",
+  "place_of_birth": {
+    "name_en": "Kitchener, Ontario, Canada",
+    "name_fr": "Kitchener, Ontario, Canada"
+  },
   "name": "Peter Braid",
   "functions": [
 
   ],
-  "professions": [
-    "Account manager",
-    "Communication consultant"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Account manager",
+      "name_fr": "Expert-conseil en communications"
+    },
+    {
+      "name_en": "Communication consultant",
+      "name_fr": "Gestionnaire de comptes"
     }
   ],
-  "id": "a20523be-cae0-4d31-9595-e9303275e40d",
-  "date_of_birth": "1964-01-07"
+  "id": "a20523be-cae0-4d31-9595-e9303275e40d"
 }

@@ -1,606 +1,418 @@
 {
-  "place_of_birth": "St-Jean-sur-Richelieu, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "1993-10-25",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1951-01-03",
+  "place_of_birth": {
+    "name_en": "St-Jean-sur-Richelieu, Quebec, Canada",
+    "name_fr": "Saint-Jean-sur-Richelieu, Qu\u00e9bec, Canada"
+  },
   "name": "Claude Bachand",
   "functions": [
     {
-      "role": "Caucus Chair",
-      "start": "2000",
-      "end": "2002-06-18",
-      "title": "Bloc Qu\u00e9b\u00e9cois Caucus Chair"
+      "role_en": "Caucus Chair",
+      "start_date": "2000",
+      "role_fr": "Pr\u00e9sident du caucus",
+      "end_date": "2002-06-18",
+      "title_en": "Bloc Qu\u00e9b\u00e9cois Caucus Chair",
+      "title_fr": "Pr\u00e9sident du caucus du Bloc Qu\u00e9b\u00e9cois"
     },
     {
-      "role": "Critic",
-      "start": "2004-01-19",
-      "end": "2004-08-05",
-      "title": "Veterans Affairs"
+      "role_en": "Critic",
+      "start_date": "2004-01-19",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-08-05",
+      "title_en": "Veterans Affairs",
+      "title_fr": "Anciens combattants"
     },
     {
-      "role": "Critic",
-      "start": "2000-12-20",
-      "title": "National Defence"
+      "role_en": "Critic",
+      "start_date": "2000-12-20",
+      "role_fr": "Porte-parole",
+      "title_en": "National Defence",
+      "title_fr": "D\u00e9fense nationale"
     },
     {
-      "role": "Critic",
-      "start": "1998-03-18",
-      "end": "1999-06-29",
-      "title": "Cultural Communities"
+      "role_en": "Critic",
+      "start_date": "1998-03-18",
+      "role_fr": "Porte-parole",
+      "end_date": "1999-06-29",
+      "title_en": "Cultural Communities",
+      "title_fr": "Communaut\u00e9s culturelles"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "2000-12-19",
-      "title": "Indian Affairs and Northern Development"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "2000-12-19",
+      "title_en": "Indian Affairs and Northern Development",
+      "title_fr": "Affaires indiennes et Nord canadien"
     },
     {
-      "role": "Critic",
-      "start": "1994-01-01",
-      "end": "2000-12-19",
-      "title": "Northern Development"
-    },
-    {
-      "role": "Caucus Chair",
-      "start": "2000",
-      "end": "2002-06-18",
-      "title": "Bloc Qu\u00e9b\u00e9cois Caucus Chair"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-01-19",
-      "end": "2004-08-05",
-      "title": "Veterans Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2000-12-20",
-      "title": "National Defence"
-    },
-    {
-      "role": "Critic",
-      "start": "1998-03-18",
-      "end": "1999-06-29",
-      "title": "Cultural Communities"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "2000-12-19",
-      "title": "Indian Affairs and Northern Development"
-    },
-    {
-      "role": "Critic",
-      "start": "1994-01-01",
-      "end": "2000-12-19",
-      "title": "Northern Development"
+      "role_en": "Critic",
+      "start_date": "1994-01-01",
+      "role_fr": "Porte-parole",
+      "end_date": "2000-12-19",
+      "title_en": "Northern Development",
+      "title_fr": "Developpement du Nord"
     }
-  ],
-  "professions": [
-    "Educator"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 de l'\u00e9ducation des autochtones du Comit\u00e9 permanent des affaires autochtone et du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Miscellaneous Private Bills and Standing Orders",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 32,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Miscellaneous Private Bills and Standing Orders",
+      "name_fr": "Comit\u00e9 permanent des projets de loi priv\u00e9s en g\u00e9n\u00e9ral et du r\u00e8glement"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 de la d\u00e9fense nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et anciens combattants"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Legislative Committee on Bill C-55",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-55",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-55"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on  Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on  Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 de l'\u00e9ducation des autochtones du Comit\u00e9 permanent des affaires autochtone et du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 charg\u00e9 d'examiner l'\u00e9bauche de rapport sur la cogestion des ressources naturelles du Comit\u00e9 permanent des affaires autochtones et d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee to Review the Draft Report on Co-Management of Natural Resources of lthe Standing Committee on aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee to Review the Draft Report on Co-Management of Natural Resources of lthe Standing Committee on aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 de l'\u00e9ducation des autochtones du Comit\u00e9 permanent des affaires autochtone et du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Agriculture",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 32,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture"
     },
     {
-      "committee": "Standing Committee on Miscellaneous Private Bills and Standing Orders",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 32,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Miscellaneous Private Bills and Standing Orders",
-      "role": "Vice-Chair ",
-      "parliament": 32,
-      "session": 1
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-55",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on  Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee to Review the Draft Report on Co-Management of Natural Resources of lthe Standing Committee on aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture",
-      "role": "Member ",
-      "parliament": 32,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Miscellaneous Private Bills and Standing Orders",
-      "role": "Member ",
-      "parliament": 32,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Miscellaneous Private Bills and Standing Orders",
+      "name_fr": "Comit\u00e9 permanent des projets de loi priv\u00e9s en g\u00e9n\u00e9ral et du r\u00e8glement"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "1993-10-25"
+      "name_en": "Educator",
+      "name_fr": "P\u00e9dagogue"
     }
   ],
-  "id": "795dab30-535c-483b-b685-50327f2cdcf2",
-  "date_of_birth": "1951-01-03"
+  "id": "795dab30-535c-483b-b685-50327f2cdcf2"
 }

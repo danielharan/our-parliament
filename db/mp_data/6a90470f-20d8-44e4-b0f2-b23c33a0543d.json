@@ -1,234 +1,170 @@
 {
-  "place_of_birth": "Claresholm, Alberta, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1952-02-18",
+  "place_of_birth": {
+    "name_en": "Claresholm, Alberta, Canada",
+    "name_fr": "Claresholm, Alberta, Canada"
+  },
   "name": "Ted Menzies",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2007-10-10",
-      "title": "Parliamentary Secretary to the Minister of Finance"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2007-10-10",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Finance",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2007-01-24",
-      "end": "2007-10-09",
-      "title": "Parliamentary Secretary to the Minister of International Trade and to the Minister of International Cooperation"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2007-01-24",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2007-10-09",
+      "title_en": "Parliamentary Secretary to the Minister of International Trade and to the Minister of International Cooperation",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre du Commerce international et du ministre de la Coop\u00e9ration internationale"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-01-23",
-      "title": "Parliamentary Secretary to the Minister for International Cooperation"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2007-01-23",
+      "title_en": "Parliamentary Secretary to the Minister for International Cooperation",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Coop\u00e9ration internationale"
     },
     {
-      "role": "Critic",
-      "start": "2005-05-25",
-      "end": "2006-02-05",
-      "title": "International Trade"
+      "role_en": "Critic",
+      "start_date": "2005-05-25",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "International Trade",
+      "title_fr": "Commerce ext\u00e9rieur"
     },
     {
-      "role": "Critic",
-      "start": "2005-05-25",
-      "end": "2006-02-05",
-      "title": "Interprovincial Trade"
+      "role_en": "Critic",
+      "start_date": "2005-05-25",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Interprovincial Trade",
+      "title_fr": "Commerce interprovincial"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-05-24",
-      "title": "CIDA"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-05-24",
+      "title_en": "CIDA",
+      "title_fr": "ACDI"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-05-24",
-      "title": "International Cooperation"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2007-10-10",
-      "title": "Parliamentary Secretary to the Minister of Finance"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2007-01-24",
-      "end": "2007-10-09",
-      "title": "Parliamentary Secretary to the Minister of International Trade and to the Minister of International Cooperation"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-01-23",
-      "title": "Parliamentary Secretary to the Minister for International Cooperation"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-05-25",
-      "end": "2006-02-05",
-      "title": "International Trade"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-05-25",
-      "end": "2006-02-05",
-      "title": "Interprovincial Trade"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-05-24",
-      "title": "CIDA"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-05-24",
-      "title": "International Cooperation"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-05-24",
+      "title_en": "International Cooperation",
+      "title_fr": "Coop\u00e9ration internationale"
     }
-  ],
-  "professions": [
-    "Farmer"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Farmer",
+      "name_fr": "Agriculteur"
     }
   ],
-  "id": "6a90470f-20d8-44e4-b0f2-b23c33a0543d",
-  "date_of_birth": "1952-02-18"
+  "id": "6a90470f-20d8-44e4-b0f2-b23c33a0543d"
 }

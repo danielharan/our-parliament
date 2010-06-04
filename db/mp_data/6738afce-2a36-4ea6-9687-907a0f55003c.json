@@ -1,175 +1,134 @@
 {
-  "place_of_birth": "Contrecoeur, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1973-11-02",
+  "place_of_birth": {
+    "name_en": "Contrecoeur, Quebec, Canada",
+    "name_fr": "Contrecoeur, Qu\u00e9bec, Canada"
+  },
   "name": "Luc Malo",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "title": "Health"
+      "role_en": "Critic",
+      "start_date": "2008-06-26",
+      "role_fr": "Porte-parole",
+      "title_en": "Health",
+      "title_fr": "Sant\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "end": "2008-06-25",
-      "title": "Sports"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "title": "Health"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "end": "2008-06-25",
-      "title": "Sports"
+      "role_en": "Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-06-25",
+      "title_en": "Sports",
+      "title_fr": "Sports"
     }
-  ],
-  "professions": [
-    "Advisor",
-    "Business development consultant"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2006-01-23"
+      "name_en": "Advisor",
+      "name_fr": "Conseiller"
+    },
+    {
+      "name_en": "Business development consultant",
+      "name_fr": "Conseiller en d\u00e9veloppement des affaires"
     }
   ],
-  "id": "6738afce-2a36-4ea6-9687-907a0f55003c",
-  "date_of_birth": "1973-11-02"
+  "id": "6738afce-2a36-4ea6-9687-907a0f55003c"
 }

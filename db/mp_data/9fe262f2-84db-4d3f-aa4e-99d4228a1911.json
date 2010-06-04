@@ -1,619 +1,435 @@
 {
-  "place_of_birth": "Lloydminster, Saskatchewan, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1993-10-25",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1950-07-07",
+  "place_of_birth": {
+    "name_en": "Lloydminster, Saskatchewan, Canada",
+    "name_fr": "Lloydminster, Saskatchewan, Canada"
+  },
   "name": "Leon Earl Benoit",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Canadian Wheat Board"
+      "role_en": "Critic",
+      "start_date": "2004-01-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Canadian Wheat Board",
+      "title_fr": "Commission canadienne du bl\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2003-06-23",
-      "end": "2004-07-21",
-      "title": "Public Works and Government Services"
+      "role_en": "Critic",
+      "start_date": "2003-06-23",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Public Works and Government Services",
+      "title_fr": "Travaux publics et Services gouvernementaux"
     },
     {
-      "role": "Critic",
-      "start": "2001-06-18",
-      "end": "2003-06-22",
-      "title": "National Defence"
+      "role_en": "Critic",
+      "start_date": "2001-06-18",
+      "role_fr": "Porte-parole",
+      "end_date": "2003-06-22",
+      "title_en": "National Defence",
+      "title_fr": "D\u00e9fense nationale"
     },
     {
-      "role": "Critic",
-      "start": "1999-10-08",
-      "end": "2000-07-31",
-      "title": "Citizenship and Immigration"
+      "role_en": "Critic",
+      "start_date": "1999-10-08",
+      "role_fr": "Porte-parole",
+      "end_date": "2000-07-31",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Critic",
-      "start": "1997-02-17",
-      "end": "1997-06-19",
-      "title": "Intergovernmental Affairs"
+      "role_en": "Critic",
+      "start_date": "1997-02-17",
+      "role_fr": "Porte-parole",
+      "end_date": "1997-06-19",
+      "title_en": "Intergovernmental Affairs",
+      "title_fr": "Affaires intergouvernementales"
     },
     {
-      "role": "Critic",
-      "start": "1994-07-01",
-      "end": "1995-06-30",
-      "title": "Agriculture"
+      "role_en": "Critic",
+      "start_date": "1994-07-01",
+      "role_fr": "Porte-parole",
+      "end_date": "1995-06-30",
+      "title_en": "Agriculture",
+      "title_fr": "Agriculture"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2000-08-01",
-      "end": "2001-06-17",
-      "title": "Citizenship and Immigration"
+      "role_en": "Assistant Critic",
+      "start_date": "2000-08-01",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2001-06-17",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "1998-06-16",
-      "title": "Agriculture and Agri-Food"
+      "role_en": "Assistant Critic",
+      "start_date": "1997-06-20",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1998-06-16",
+      "title_en": "Agriculture and Agri-Food",
+      "title_fr": "Agriculture et Agro-alimentaire"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "2001-06-17",
-      "title": "National Defence"
+      "role_en": "Assistant Critic",
+      "start_date": "1997-06-20",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2001-06-17",
+      "title_en": "National Defence",
+      "title_fr": "D\u00e9fense nationale"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1995-06",
-      "end": "1997",
-      "title": "International Trade"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Canadian Wheat Board"
-    },
-    {
-      "role": "Critic",
-      "start": "2003-06-23",
-      "end": "2004-07-21",
-      "title": "Public Works and Government Services"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-06-18",
-      "end": "2003-06-22",
-      "title": "National Defence"
-    },
-    {
-      "role": "Critic",
-      "start": "1999-10-08",
-      "end": "2000-07-31",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Critic",
-      "start": "1997-02-17",
-      "end": "1997-06-19",
-      "title": "Intergovernmental Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "1994-07-01",
-      "end": "1995-06-30",
-      "title": "Agriculture"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2000-08-01",
-      "end": "2001-06-17",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "1998-06-16",
-      "title": "Agriculture and Agri-Food"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "2001-06-17",
-      "title": "National Defence"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1995-06",
-      "end": "1997",
-      "title": "International Trade"
+      "role_en": "Assistant Critic",
+      "start_date": "1995-06",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1997",
+      "title_en": "International Trade",
+      "title_fr": "Commerce ext\u00e9rieur"
     }
-  ],
-  "professions": [
-    "Economist",
-    "Farmer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on  Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on  Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la Citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de Liaison"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-30",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de Liaison"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Subcommittee on Agenda and procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and procedure of the Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on  Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Economist",
+      "name_fr": "Agriculteur"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2003-12-22"
-    },
-    {
-      "party": "Reform Party",
-      "start": "1993-10-25",
-      "end": "2000-03-26"
+      "name_en": "Farmer",
+      "name_fr": "\u00e9conomiste"
     }
   ],
-  "id": "9fe262f2-84db-4d3f-aa4e-99d4228a1911",
-  "date_of_birth": "1950-07-07"
+  "id": "9fe262f2-84db-4d3f-aa4e-99d4228a1911"
 }

@@ -1,296 +1,211 @@
 {
-  "place_of_birth": "Acores, Portugal",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1966-06-11",
+  "place_of_birth": {
+    "name_en": "Acores, Portugal",
+    "name_fr": "Acores, Portugal"
+  },
   "name": "Mario Silva",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Americas"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-01-21",
+      "title_en": "Americas",
+      "title_fr": "Am\u00e9riques"
     },
     {
-      "role": "Critic",
-      "start": "2007-10-09",
-      "end": "2008-11-13",
-      "title": "Treasury Board"
+      "role_en": "Critic",
+      "start_date": "2007-10-09",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-13",
+      "title_en": "Treasury Board",
+      "title_fr": "Conseil du tr\u00e9sor"
     },
     {
-      "role": "Critic",
-      "start": "2007-01-18",
-      "end": "2007-10-09",
-      "title": "Labour"
+      "role_en": "Critic",
+      "start_date": "2007-01-18",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-10-09",
+      "title_en": "Labour",
+      "title_fr": "Travail"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-05-30",
-      "end": "2007-01-17",
-      "title": "Human Resources and Skills Development"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-05-30",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2007-01-17",
+      "title_en": "Human Resources and Skills Development",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Americas"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-10-09",
-      "end": "2008-11-13",
-      "title": "Treasury Board"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-01-18",
-      "end": "2007-10-09",
-      "title": "Labour"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-05-30",
-      "end": "2007-01-17",
-      "title": "Human Resources and Skills Development"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Canadian Heritage"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-05-29",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     }
-  ],
-  "professions": [
-    "Educator"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de Liaison"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Educator",
+      "name_fr": "P\u00e9dagogue"
     }
   ],
-  "id": "c9e94bb2-ee91-4587-a0a4-ae4ec2056ec7",
-  "date_of_birth": "1966-06-11"
+  "id": "c9e94bb2-ee91-4587-a0a4-ae4ec2056ec7"
 }

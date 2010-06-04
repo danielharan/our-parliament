@@ -1,223 +1,166 @@
 {
-  "place_of_birth": "Port-Daniel, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2000-11-27",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1954-01-05",
+  "place_of_birth": {
+    "name_en": "Port-Daniel, Quebec, Canada",
+    "name_fr": "Port-Daniel, Qu\u00e9bec, Canada"
+  },
   "name": "Raynald Blais",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2006-09-12",
-      "title": "Fisheries and Oceans"
+      "role_en": "Critic",
+      "start_date": "2006-09-12",
+      "role_fr": "Porte-parole",
+      "title_en": "Fisheries and Oceans",
+      "title_fr": "P\u00eaches et Oc\u00e9ans"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-09-11",
-      "title": "Fisheries and Oceans"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-09-12",
-      "title": "Fisheries and Oceans"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-09-11",
-      "title": "Fisheries and Oceans"
+      "role_en": "Assistant Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-09-11",
+      "title_en": "Fisheries and Oceans",
+      "title_fr": "P\u00eaches et Oc\u00e9ans"
     }
-  ],
-  "professions": [
-    "Journalist",
-    "Political assistant"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2000-11-27"
+      "name_en": "Journalist",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Journaliste"
     }
   ],
-  "id": "f3e52391-6dd1-4e5d-8999-f2272b25e2f7",
-  "date_of_birth": "1954-01-05"
+  "id": "f3e52391-6dd1-4e5d-8999-f2272b25e2f7"
 }

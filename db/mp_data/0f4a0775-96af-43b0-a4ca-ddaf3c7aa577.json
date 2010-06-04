@@ -1,195 +1,148 @@
 {
-  "place_of_birth": "St-Jovite, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2000-11-27",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1959-04-02",
+  "place_of_birth": {
+    "name_en": "St-Jovite, Quebec, Canada",
+    "name_fr": "St-Jovite, Qu\u00e9bec, Canada"
+  },
   "name": "Johanne Deschamps",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-05-22",
-      "title": "International Cooperation"
+      "role_en": "Critic",
+      "start_date": "2009-05-22",
+      "role_fr": "Porte-parole",
+      "title_en": "International Cooperation",
+      "title_fr": "Coop\u00e9ration internationale"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Latin America and Africa"
+      "role_en": "Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole",
+      "title_en": "Latin America and Africa",
+      "title_fr": "Am\u00e9rique latine et Afrique"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-10-31",
-      "title": "Foreign Affairs"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Foreign Affairs",
+      "title_fr": "Affaires \u00e9trang\u00e8res"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2007-04-12",
-      "end": "2009-09-01",
-      "title": "Status of Women"
+      "role_en": "Assistant Critic",
+      "start_date": "2007-04-12",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2009-09-01",
+      "title_en": "Status of Women",
+      "title_fr": "Condition f\u00e9minine"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Citizenship and Immigration"
+      "role_en": "Assistant Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-02-09",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "International Trade"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-05-22",
-      "title": "International Cooperation"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Latin America and Africa"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-10-31",
-      "title": "Foreign Affairs"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2007-04-12",
-      "end": "2009-09-01",
-      "title": "Status of Women"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "International Trade"
+      "role_en": "Assistant Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-02-09",
+      "title_en": "International Trade",
+      "title_fr": "Commerce ext\u00e9rieur"
     }
-  ],
-  "professions": [
-    "Administrative assistant",
-    "Political attach\u00e9"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2000-11-27"
+      "name_en": "Administrative assistant",
+      "name_fr": "Adjointe administrative"
+    },
+    {
+      "name_en": "Political attach\u00e9",
+      "name_fr": "Attach\u00e9e politique"
     }
   ],
-  "id": "0f4a0775-96af-43b0-a4ca-ddaf3c7aa577",
-  "date_of_birth": "1959-04-02"
+  "id": "0f4a0775-96af-43b0-a4ca-ddaf3c7aa577"
 }

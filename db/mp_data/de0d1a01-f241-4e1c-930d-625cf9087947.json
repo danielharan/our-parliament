@@ -1,89 +1,77 @@
 {
-  "place_of_birth": "The Pas, Manitoba, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006-04-05",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1960-07-24",
+  "place_of_birth": {
+    "name_en": "The Pas, Manitoba, Canada",
+    "name_fr": "The Pas, Manitoba, Canada"
+  },
   "name": "Gerard Kennedy",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Cities"
+      "role_en": "Critic",
+      "start_date": "2009-01-22",
+      "role_fr": "Porte-parole",
+      "title_en": "Cities",
+      "title_fr": "Infrastructure et Collectivit\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Infrastructure and Communities"
+      "role_en": "Critic",
+      "start_date": "2009-01-22",
+      "role_fr": "Porte-parole",
+      "title_en": "Infrastructure and Communities",
+      "title_fr": "Villes"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Industry"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-01-21",
+      "title_en": "Industry",
+      "title_fr": "Industrie"
     },
     {
-      "role": "Critic",
-      "start": "2008-03-31",
-      "end": "2008-11-13",
-      "title": "Intergovernmental Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Cities"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Infrastructure and Communities"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Industry"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-03-31",
-      "end": "2008-11-13",
-      "title": "Intergovernmental Affairs"
+      "role_en": "Critic",
+      "start_date": "2008-03-31",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-13",
+      "title_en": "Intergovernmental Affairs",
+      "title_fr": "Affaires intergouvernementales"
     }
-  ],
-  "professions": [
-    "Food bank director",
-    "Professor"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2006-04-05"
+      "name_en": "Food bank director",
+      "name_fr": "Directeur - banque alimentaire"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "Professeur"
     }
   ],
-  "id": "de0d1a01-f241-4e1c-930d-625cf9087947",
-  "date_of_birth": "1960-07-24"
+  "id": "de0d1a01-f241-4e1c-930d-625cf9087947"
 }

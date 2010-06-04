@@ -1,151 +1,118 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1950-01-15",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "Nicole Demers",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2007-01-23",
-      "title": "Status of Women"
+      "role_en": "Critic",
+      "start_date": "2007-01-23",
+      "role_fr": "Porte-parole",
+      "title_en": "Status of Women",
+      "title_fr": "Condition f\u00e9minine"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "end": "2007-01-22",
-      "title": "Seniors"
+      "role_en": "Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-01-22",
+      "title_en": "Seniors",
+      "title_fr": "A\u00een\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Families and Caregivers"
+      "role_en": "Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-09",
+      "title_en": "Families and Caregivers",
+      "title_fr": "Famille et Aidants naturels"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2007-01-22",
-      "title": "Health"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-01-23",
-      "title": "Status of Women"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "end": "2007-01-22",
-      "title": "Seniors"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Families and Caregivers"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2007-01-22",
-      "title": "Health"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2007-01-22",
+      "title_en": "Health",
+      "title_fr": "Sant\u00e9"
     }
-  ],
-  "professions": [
-    "Administrator (health services)",
-    "Restaurant owner"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2004-06-28"
+      "name_en": "Administrator (health services)",
+      "name_fr": "Administratrice (services de sant\u00e9)"
+    },
+    {
+      "name_en": "Restaurant owner",
+      "name_fr": "Propri\u00e9taire de restaurant"
     }
   ],
-  "id": "7f2075f9-a604-40bd-a583-0daacd6b8b81",
-  "date_of_birth": "1950-01-15"
+  "id": "7f2075f9-a604-40bd-a583-0daacd6b8b81"
 }

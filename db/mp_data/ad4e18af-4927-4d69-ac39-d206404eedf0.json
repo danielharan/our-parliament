@@ -1,76 +1,74 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "1974-07-08",
+      "end_date": "1995-06",
+      "name_en": "",
+      "name_fr": ""
+    }
+  ],
+  "date_of_birth": "1952-07-24",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "Terence H. Young",
   "functions": [
 
   ],
-  "professions": [
-    "Author",
-    "Consultant",
-    "Public servant"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Author",
+      "name_fr": "Auteur"
     },
     {
-      "party": "",
-      "start": "1974-07-08",
-      "end": "1995-06"
+      "name_en": "Consultant",
+      "name_fr": "Expert-conseil"
+    },
+    {
+      "name_en": "Public servant",
+      "name_fr": "Fonctionnaire"
     }
   ],
-  "id": "ad4e18af-4927-4d69-ac39-d206404eedf0",
-  "date_of_birth": "1952-07-24"
+  "id": "ad4e18af-4927-4d69-ac39-d206404eedf0"
 }

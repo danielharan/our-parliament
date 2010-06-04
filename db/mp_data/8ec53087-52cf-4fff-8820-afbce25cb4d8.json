@@ -1,142 +1,122 @@
 {
-  "place_of_birth": "Lac-au-Saumon, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1940-03-10",
+  "place_of_birth": {
+    "name_en": "Lac-au-Saumon, Quebec, Canada",
+    "name_fr": "Lac-au-Saumon, Qu\u00e9bec, Canada"
+  },
   "name": "Yvon L\u00e9vesque",
   "functions": [
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "title": "Indian Affairs and Northern Development"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Indian Affairs and Northern Development",
+      "title_fr": "Affaires indiennes et Nord canadien"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Regional Development"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "title": "Indian Affairs and Northern Development"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Regional Development"
+      "role_en": "Assistant Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-02-09",
+      "title_en": "Regional Development",
+      "title_fr": "D\u00e9veloppement r\u00e9gional"
     }
-  ],
-  "professions": [
-    "Electrician",
-    "Foreman",
-    "Labour relations consultant",
-    "Labour representative",
-    "Superintendent"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-20",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2004-06-28"
+      "name_en": "Electrician",
+      "name_fr": "Conseiller en relations ouvri\u00e8res"
+    },
+    {
+      "name_en": "Foreman",
+      "name_fr": "Contrema\u00eetre"
+    },
+    {
+      "name_en": "Labour relations consultant",
+      "name_fr": "\u00e9lectricien"
+    },
+    {
+      "name_en": "Labour representative",
+      "name_fr": "Repr\u00e9sentant ouvrier"
+    },
+    {
+      "name_en": "Superintendent",
+      "name_fr": "Surintendant"
     }
   ],
-  "id": "8ec53087-52cf-4fff-8820-afbce25cb4d8",
-  "date_of_birth": "1940-03-10"
+  "id": "8ec53087-52cf-4fff-8820-afbce25cb4d8"
 }

@@ -1,119 +1,110 @@
 {
-  "place_of_birth": "Etobicoke, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1966-10-31",
+  "place_of_birth": {
+    "name_en": "Etobicoke, Ontario, Canada",
+    "name_fr": "Etobicoke, Ontario, Canada"
+  },
   "name": "Kirsty Duncan",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Health, Public"
+      "role_en": "Critic",
+      "start_date": "2009-10-06",
+      "role_fr": "Porte-parole",
+      "title_en": "Health, Public",
+      "title_fr": "Sant\u00e9 publique"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Health, Public"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Health, Public"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Health, Public"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2009-01-21",
+      "title_en": "Health, Public",
+      "title_fr": "Sant\u00e9 publique"
     }
-  ],
-  "professions": [
-    "Athlete",
-    "Author",
-    "Geographer",
-    "Lecturer",
-    "Professor",
-    "Teacher"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Athlete",
+      "name_fr": "Athl\u00e8te"
+    },
+    {
+      "name_en": "Author",
+      "name_fr": "Auteure"
+    },
+    {
+      "name_en": "Geographer",
+      "name_fr": "Charg\u00e9e de cours"
+    },
+    {
+      "name_en": "Lecturer",
+      "name_fr": "Enseignante"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "G\u00e9ographe"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "Professeure"
     }
   ],
-  "id": "c5378648-5d94-4645-bc05-339090e1077b",
-  "date_of_birth": "1966-10-31"
+  "id": "c5378648-5d94-4645-bc05-339090e1077b"
 }

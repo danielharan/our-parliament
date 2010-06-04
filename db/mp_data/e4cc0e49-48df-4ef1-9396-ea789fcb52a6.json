@@ -1,204 +1,151 @@
 {
-  "place_of_birth": "St-Urbain, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "",
+  "place_of_birth": {
+    "name_en": "St-Urbain, Quebec, Canada",
+    "name_fr": "St-Urbain, Qu\u00e9bec, Canada"
+  },
   "name": "Carole Freeman",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Access to Information"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Access to Information",
+      "title_fr": "Acc\u00e8s \u00e0 l'information"
     },
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Government Ethics"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Government Ethics",
+      "title_fr": "A\u00een\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Privacy and Ethics"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Privacy and Ethics",
+      "title_fr": "\u00c9thique du gouvernement"
     },
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Seniors"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Seniors",
+      "title_fr": "Vie priv\u00e9e et \u00c9thique"
     },
     {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Natural Resources"
+      "role_en": "Critic",
+      "start_date": "2008-06-26",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-10-30",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2008-06-25",
-      "title": "Justice"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Access to Information"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Government Ethics"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Privacy and Ethics"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Seniors"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2008-06-25",
-      "title": "Justice"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2008-06-25",
+      "title_en": "Justice",
+      "title_fr": "Justice"
     }
-  ],
-  "professions": [
-    "Lawyer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Legislative Committee on Bill C-27",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-27",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-27"
     },
     {
-      "committee": "Legislative Committee on Bill C-35",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-35",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-27",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-35",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2006-01-23"
+      "name_en": "Lawyer",
+      "name_fr": "Avocate"
     }
   ],
-  "id": "e4cc0e49-48df-4ef1-9396-ea789fcb52a6",
-  "date_of_birth": ""
+  "id": "e4cc0e49-48df-4ef1-9396-ea789fcb52a6"
 }

@@ -1,188 +1,146 @@
 {
-  "place_of_birth": "London, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1963-04-09",
+  "place_of_birth": {
+    "name_en": "London, Ontario, Canada",
+    "name_fr": "London, Ontario, Canada"
+  },
   "name": "Pierre Lemieux",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary to the Minister of Agriculture"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2008-11-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Agriculture",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Agriculture"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2007-10-10",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary for Official Languages"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary to the Minister of Agriculture"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2007-10-10",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary for Official Languages"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2007-10-10",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2008-11-06",
+      "title_en": "Parliamentary Secretary for Official Languages",
+      "title_fr": "Secr\u00e9taire parlementaire pour les Langues officielles"
     }
-  ],
-  "professions": [
-    "Company head",
-    "Consultant",
-    "Mechanical engineer"
   ],
   "committees": [
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la Mission canadienne en Afghanistan"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la Mission canadienne en Afghanistan"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Company head",
+      "name_fr": "Chef d'entreprise"
+    },
+    {
+      "name_en": "Consultant",
+      "name_fr": "Expert-conseil"
+    },
+    {
+      "name_en": "Mechanical engineer",
+      "name_fr": "Ing\u00e9nieur m\u00e9canicien"
     }
   ],
-  "id": "213c7c78-812a-4123-ac14-dc73da49de1f",
-  "date_of_birth": "1963-04-09"
+  "id": "213c7c78-812a-4123-ac14-dc73da49de1f"
 }

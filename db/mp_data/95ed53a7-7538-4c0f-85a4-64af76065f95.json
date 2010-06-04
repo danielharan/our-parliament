@@ -1,132 +1,110 @@
 {
-  "place_of_birth": "Edmonton, Alberta, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1963-01-16",
+  "place_of_birth": {
+    "name_en": "Edmonton, Alberta, Canada",
+    "name_fr": "Edmonton, Alberta, Canada"
+  },
   "name": "Don Davies",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-04-20",
-      "title": "Public Safety"
+      "role_en": "Critic",
+      "start_date": "2009-04-20",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Safety",
+      "title_fr": "S\u00e9curit\u00e9 publique"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Multiculturalism"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Multiculturalism",
+      "title_fr": "Diversification de l'\u00e9conomie de l'Ouest"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Vancouver Region"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Vancouver Region",
+      "title_fr": "Multiculturalisme"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Western Economic Diversification"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Western Economic Diversification",
+      "title_fr": "Vancouver, R\u00e9gion de"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-04-20",
-      "title": "Public Safety"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Multiculturalism"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Vancouver Region"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Western Economic Diversification"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Citizenship and Immigration"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     }
-  ],
-  "professions": [
-    "Executive assistant",
-    "Lawyer",
-    "Researcher"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2008-10-14"
+      "name_en": "Executive assistant",
+      "name_fr": "Adjoint ex\u00e9cutif"
+    },
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Researcher",
+      "name_fr": "Recherchiste"
     }
   ],
-  "id": "95ed53a7-7538-4c0f-85a4-64af76065f95",
-  "date_of_birth": "1963-01-16"
+  "id": "95ed53a7-7538-4c0f-85a4-64af76065f95"
 }

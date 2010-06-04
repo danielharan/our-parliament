@@ -1,169 +1,131 @@
 {
-  "place_of_birth": "Sisson Ridge, New Brunswick, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "1993-10-25",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1947-02-27",
+  "place_of_birth": {
+    "name_en": "Sisson Ridge, New Brunswick, Canada",
+    "name_fr": "Sisson Ridge, Nouveau-Brunswick, Canada"
+  },
   "name": "Wayne Marston",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Human Rights"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Human Rights",
+      "title_fr": "A\u00een\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Pensions"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Pensions",
+      "title_fr": "Droits de la personne"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Seniors"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Seniors",
+      "title_fr": "Pensions"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Multiculturalism"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Multiculturalism",
+      "title_fr": "Multiculturalisme"
     },
     {
-      "role": "Critic",
-      "start": "2006",
-      "end": "2008-11-16",
-      "title": "Sports"
+      "role_en": "Critic",
+      "start_date": "2006",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Sports",
+      "title_fr": "Sports"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008",
-      "end": "2008-11-16",
-      "title": "Foreign Affairs"
+      "role_en": "Assistant Critic",
+      "start_date": "2008",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2008-11-16",
+      "title_en": "Foreign Affairs",
+      "title_fr": "Affaires \u00e9trang\u00e8res"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2007-09-27",
-      "title": "Steel Policy"
+      "role_en": "Assistant Critic",
+      "start_date": "2007-09-27",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Steel Policy",
+      "title_fr": "Politique de l'acier"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Human Rights"
+      "role_en": "Assistant Critic",
+      "start_date": "2007-09-27",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2008-11-16",
+      "title_en": "Human Rights",
+      "title_fr": "Droits de la personne"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "International Human Rights"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Human Rights"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Pensions"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Seniors"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Multiculturalism"
-    },
-    {
-      "role": "Critic",
-      "start": "2006",
-      "end": "2008-11-16",
-      "title": "Sports"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008",
-      "end": "2008-11-16",
-      "title": "Foreign Affairs"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2007-09-27",
-      "title": "Steel Policy"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Human Rights"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "International Human Rights"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2007-09-26",
+      "title_en": "International Human Rights",
+      "title_fr": "Droits de la personne au niveau international"
     }
-  ],
-  "professions": [
-    "Property manager",
-    "Technician"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "1993-10-25"
+      "name_en": "Property manager",
+      "name_fr": "Chef du service de la gestion des immeubles"
+    },
+    {
+      "name_en": "Technician",
+      "name_fr": "Technicien"
     }
   ],
-  "id": "80fdddaa-42db-4d48-a964-b1fa32fc517a",
-  "date_of_birth": "1947-02-27"
+  "id": "80fdddaa-42db-4d48-a964-b1fa32fc517a"
 }

@@ -1,73 +1,76 @@
 {
-  "place_of_birth": "Olds, Alberta, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1974-11-08",
+  "place_of_birth": {
+    "name_en": "Olds, Alberta, Canada",
+    "name_fr": "Olds, Alberta, Canada"
+  },
   "name": "Blake Richards",
   "functions": [
 
   ],
-  "professions": [
-    "Businessman",
-    "Fire fighter",
-    "Volunteer",
-    "Political assistant",
-    "Realtor"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Businessman",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Fire fighter",
+      "name_fr": "Courtier en immeubles"
+    },
+    {
+      "name_en": "Volunteer",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Pompier volontaire"
+    },
+    {
+      "name_en": "Realtor",
+      "name_fr": null
     }
   ],
-  "id": "62bfd797-8d32-425b-91b1-1422ca16694f",
-  "date_of_birth": "1974-11-08"
+  "id": "62bfd797-8d32-425b-91b1-1422ca16694f"
 }

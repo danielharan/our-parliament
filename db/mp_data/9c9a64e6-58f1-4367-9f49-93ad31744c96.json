@@ -1,92 +1,84 @@
 {
-  "place_of_birth": "Kingston, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000",
+      "end_date": "2003",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1987",
+      "end_date": "2000",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1957-06-12",
+  "place_of_birth": {
+    "name_en": "Kingston, Ontario, Canada",
+    "name_fr": "Kingston, Ontario, Canada"
+  },
   "name": "Cathy McLeod",
   "functions": [
 
   ],
-  "professions": [
-    "Administrator (health services)",
-    "Registered nurse"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003"
+      "name_en": "Administrator (health services)",
+      "name_fr": "Administratrice (services de sant\u00e9)"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000",
-      "end": "2003"
-    },
-    {
-      "party": "Reform Party",
-      "start": "1987",
-      "end": "2000"
+      "name_en": "Registered nurse",
+      "name_fr": "Infirmi\u00e8re autoris\u00e9e"
     }
   ],
-  "id": "9c9a64e6-58f1-4367-9f49-93ad31744c96",
-  "date_of_birth": "1957-06-12"
+  "id": "9c9a64e6-58f1-4367-9f49-93ad31744c96"
 }

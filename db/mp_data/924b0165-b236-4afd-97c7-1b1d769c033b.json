@@ -1,54 +1,50 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1987-06-01",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "Nicolas Dufour",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Youth"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Youth"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Youth",
+      "title_fr": "Jeunesse"
     }
-  ],
-  "professions": [
-    "Political attach\u00e9"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2008-10-14"
+      "name_en": "Political attach\u00e9",
+      "name_fr": "Attach\u00e9 politique"
     }
   ],
-  "id": "924b0165-b236-4afd-97c7-1b1d769c033b",
-  "date_of_birth": "1987-06-01"
+  "id": "924b0165-b236-4afd-97c7-1b1d769c033b"
 }

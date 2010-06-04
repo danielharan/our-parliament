@@ -1,51 +1,49 @@
 {
-  "place_of_birth": "Chelmsford, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1949-10-26",
+  "place_of_birth": {
+    "name_en": "Chelmsford, Ontario, Canada",
+    "name_fr": "Chelmsford, Ontario, Canada"
+  },
   "name": "Claude Gravelle",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Federal Economic Development Initiative for Northern Ontario"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Federal Economic Development Initiative for Northern Ontario",
+      "title_fr": "Francophonie"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Francophonie"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Francophonie",
+      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Mines"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Federal Economic Development Initiative for Northern Ontario"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Francophonie"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Mines"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Mines",
+      "title_fr": "Mines"
     }
-  ],
-  "professions": [
-    "Machinist"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2004-06-28"
+      "name_en": "Machinist",
+      "name_fr": "Machiniste"
     }
   ],
-  "id": "bfdca679-680e-498a-ae44-3d75b0950da0",
-  "date_of_birth": "1949-10-26"
+  "id": "bfdca679-680e-498a-ae44-3d75b0950da0"
 }

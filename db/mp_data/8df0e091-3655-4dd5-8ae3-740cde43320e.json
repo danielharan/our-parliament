@@ -1,34 +1,40 @@
 {
-  "place_of_birth": "Chilliwack, British Columbia, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1950-07-09",
+  "place_of_birth": {
+    "name_en": "Chilliwack, British Columbia, Canada",
+    "name_fr": "Chilliwack, Colombie-Britannique, Canada"
+  },
   "name": "Dona Cadman",
   "functions": [
 
   ],
-  "professions": [
-    "Advocate",
-    "Public servant"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
+    }
+  ],
+  "language": "English",
+  "professions": [
+    {
+      "name_en": "Advocate",
+      "name_fr": "D\u00e9fenseur"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "name_en": "Public servant",
+      "name_fr": "Fonctionnaire"
     }
   ],
-  "parties": [
-    {
-      "party": "Conservative Party of Canada",
-      "start": "2008-10-14"
-    }
-  ],
-  "id": "8df0e091-3655-4dd5-8ae3-740cde43320e",
-  "date_of_birth": "1950-07-09"
+  "id": "8df0e091-3655-4dd5-8ae3-740cde43320e"
 }

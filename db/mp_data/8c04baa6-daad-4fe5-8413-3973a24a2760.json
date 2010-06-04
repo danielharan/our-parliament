@@ -1,201 +1,151 @@
 {
-  "place_of_birth": "Beauce, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1963-01-18",
+  "place_of_birth": {
+    "name_en": "Beauce, Quebec, Canada",
+    "name_fr": "Beauce, Qu\u00e9bec, Canada"
+  },
   "name": "Maxime Bernier",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "end": "2008-05-26",
-      "title": "Minister of Foreign AffairsResignation. Security breach involving classified government documents left behind at a private residence."
+      "role_en": "Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre",
+      "end_date": "2008-05-26",
+      "title_en": "Minister of Foreign AffairsResignation. Security breach involving classified government documents left behind at a private residence.",
+      "title_fr": "Ministre des Affaires \u00e9trang\u00e8resD\u00e9mission. Infraction \u00e0 la s\u00e9curit\u00e9 impliquant des documents classifi\u00e9s du gouvernement oubli\u00e9s \u00e0 une r\u00e9sidence priv\u00e9e."
     },
     {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "end": "2008-05-26",
-      "title": "Minister responsible for La Francophonie"
+      "role_en": "Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre",
+      "end_date": "2008-05-26",
+      "title_en": "Minister responsible for La Francophonie",
+      "title_fr": "Ministre responsable de la Francophonie"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister of Industry"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "end": "2008-05-26",
-      "title": "Minister of Foreign AffairsResignation. Security breach involving classified government documents left behind at a private residence."
-    },
-    {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "end": "2008-05-26",
-      "title": "Minister responsible for La Francophonie"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister of Industry"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2007-08-13",
+      "title_en": "Minister of Industry",
+      "title_fr": "Ministre de l'Industrie"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Lawyer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Businessman",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "8c04baa6-daad-4fe5-8413-3973a24a2760",
-  "date_of_birth": "1963-01-18"
+  "id": "8c04baa6-daad-4fe5-8413-3973a24a2760"
 }

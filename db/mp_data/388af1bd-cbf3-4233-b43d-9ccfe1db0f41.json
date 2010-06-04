@@ -1,376 +1,265 @@
 {
-  "place_of_birth": "Notre-Dame-de-la-Paix, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2000-11-27",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1957-11-07",
+  "place_of_birth": {
+    "name_en": "Notre-Dame-de-la-Paix, Quebec, Canada",
+    "name_fr": "Notre-Dame-de-la-Paix, Qu\u00e9bec, Canada"
+  },
   "name": "Mario Laframboise",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Infrastructure and Communities"
+      "role_en": "Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole",
+      "title_en": "Infrastructure and Communities",
+      "title_fr": "Infrastructure et Collectivit\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Transport, Infrastructure and Communities"
+      "role_en": "Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole",
+      "title_en": "Transport, Infrastructure and Communities",
+      "title_fr": "Transports, Infrastructure et Collectivit\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Infrastructure"
+      "role_en": "Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-09",
+      "title_en": "Infrastructure",
+      "title_fr": "Infrastructure"
     },
     {
-      "role": "Critic",
-      "start": "2000-12-20",
-      "end": "2004-08-05",
-      "title": "Transport"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Infrastructure and Communities"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Transport, Infrastructure and Communities"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Infrastructure"
-    },
-    {
-      "role": "Critic",
-      "start": "2000-12-20",
-      "end": "2004-08-05",
-      "title": "Transport"
+      "role_en": "Critic",
+      "start_date": "2000-12-20",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-08-05",
+      "title_en": "Transport",
+      "title_fr": "Transports"
     }
-  ],
-  "professions": [
-    "Notary"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Subcommittee on the Disclosure Statement under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Disclosure Statement under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 sur la D\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Legislative Committee on Bill C-55",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-55",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-55"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Transport and Government Operations",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Disclosure Statement under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-55",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport and Government Operations",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport and Government Operations",
+      "name_fr": "Comit\u00e9 permanent des transports et des op\u00e9rations gouvernementales"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2000-11-27"
+      "name_en": "Notary",
+      "name_fr": "Notaire"
     }
   ],
-  "id": "388af1bd-cbf3-4233-b43d-9ccfe1db0f41",
-  "date_of_birth": "1957-11-07"
+  "id": "388af1bd-cbf3-4233-b43d-9ccfe1db0f41"
 }

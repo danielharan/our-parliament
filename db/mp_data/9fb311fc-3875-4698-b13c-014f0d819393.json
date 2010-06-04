@@ -1,131 +1,104 @@
 {
-  "place_of_birth": "Hamilton, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-02-02",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2002",
+      "end_date": "2004-02-01",
+      "name_en": "Progressive Conservative Party",
+      "name_fr": "Parti progressiste-conservateur"
+    }
+  ],
+  "date_of_birth": "1962-04-11",
+  "place_of_birth": {
+    "name_en": "Hamilton, Ontario, Canada",
+    "name_fr": "Hamilton, Ontario, Canada"
+  },
   "name": "Colin Carrie",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary to the Minister of Health"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2008-11-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Health",
+      "title_fr": "Secr\u00e9taire parlementaire de la ministre de la Sant\u00e9"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary to the Minister of Industry"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary to the Minister of Health"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary to the Minister of Industry"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2008-11-06",
+      "title_en": "Parliamentary Secretary to the Minister of Industry",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Industrie"
     }
-  ],
-  "professions": [
-    "Chiropractor"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Oil and Gas and Other Energy Prices",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices",
+      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Oil and Gas and Other Energy Prices",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-02-02"
-    },
-    {
-      "party": "Progressive Conservative Party",
-      "start": "2002",
-      "end": "2004-02-01"
+      "name_en": "Chiropractor",
+      "name_fr": "Chiropraticien"
     }
   ],
-  "id": "9fb311fc-3875-4698-b13c-014f0d819393",
-  "date_of_birth": "1962-04-11"
+  "id": "9fb311fc-3875-4698-b13c-014f0d819393"
 }

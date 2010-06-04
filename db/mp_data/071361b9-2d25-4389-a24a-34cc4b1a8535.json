@@ -1,139 +1,117 @@
 {
-  "place_of_birth": "South Porcupine, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1956-07-20",
+  "place_of_birth": {
+    "name_en": "South Porcupine, Ontario, Canada",
+    "name_fr": "South Porcupine, Ontario, Canada"
+  },
   "name": "Jim Prentice",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of the Environment"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "title_en": "Minister of the Environment",
+      "title_fr": "Ministre de l'Environnement"
     },
     {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Minister of Industry"
+      "role_en": "Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister of Industry",
+      "title_fr": "Ministre de l'Industrie"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Federal Interlocutor for Metis and Non-Status Indians"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2007-08-13",
+      "title_en": "Federal Interlocutor for Metis and Non-Status Indians",
+      "title_fr": "Interlocuteur f\u00e9d\u00e9ral aupr\u00e8s des M\u00e9tis et des Indiens non-inscrits"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister of Indian Affairs and Northern Development"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2007-08-13",
+      "title_en": "Minister of Indian Affairs and Northern Development",
+      "title_fr": "Ministre des Affaires indiennes et du Nord canadien"
     },
     {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "title": "AlbertaSouthern Alberta representative"
+      "role_en": "Regional Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "AlbertaSouthern Alberta representative",
+      "title_fr": "AlbertaRepr\u00e9sentant du Sud de l'Alberta"
     },
     {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Northwest Territories"
+      "role_en": "Regional Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre r\u00e9gional",
+      "end_date": "2007-08-13",
+      "title_en": "Northwest Territories",
+      "title_fr": "Nunavut"
     },
     {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Nunavut"
+      "role_en": "Regional Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre r\u00e9gional",
+      "end_date": "2007-08-13",
+      "title_en": "Nunavut",
+      "title_fr": "Territoires du Nord-Ouest"
     },
     {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Yukon"
+      "role_en": "Regional Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre r\u00e9gional",
+      "end_date": "2007-08-13",
+      "title_en": "Yukon",
+      "title_fr": "Yukon"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Indian Affairs and Northern Development"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of the Environment"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Minister of Industry"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Federal Interlocutor for Metis and Non-Status Indians"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister of Indian Affairs and Northern Development"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "title": "AlbertaSouthern Alberta representative"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Northwest Territories"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Nunavut"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Yukon"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Indian Affairs and Northern Development"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Indian Affairs and Northern Development",
+      "title_fr": "Affaires indiennes et Nord canadien"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Developer",
-    "Lawyer",
-    "Newspaper owner"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
+    }
+  ],
+  "language": "English",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Avocat"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    }
-  ],
-  "parties": [
+      "name_en": "Developer",
+      "name_fr": "Homme d'affaires"
+    },
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Lawyer",
+      "name_fr": "Promoteur de construction"
+    },
+    {
+      "name_en": "Newspaper owner",
+      "name_fr": "Propri\u00e9taire de journal"
     }
   ],
-  "id": "071361b9-2d25-4389-a24a-34cc4b1a8535",
-  "date_of_birth": "1956-07-20"
+  "id": "071361b9-2d25-4389-a24a-34cc4b1a8535"
 }

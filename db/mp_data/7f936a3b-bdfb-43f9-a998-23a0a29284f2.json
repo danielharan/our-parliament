@@ -1,260 +1,194 @@
 {
-  "place_of_birth": "St-Blaise-de-Barville, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1943-01-02",
+  "place_of_birth": {
+    "name_en": "St-Blaise-de-Barville, Quebec, Canada",
+    "name_fr": "St-Blaise-de-Barville, Qu\u00e9bec, Canada"
+  },
   "name": "Yves Lessard",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Human Resources and Social Development"
+      "role_en": "Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole",
+      "title_en": "Human Resources and Social Development",
+      "title_fr": "Ressources humaines et D\u00e9veloppement social"
     },
     {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Human Resources and Skills Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Human Resources and Social Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Human Resources and Skills Development"
+      "role_en": "Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-09",
+      "title_en": "Human Resources and Skills Development",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Labour relations consultant",
-    "Union advisor"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Co-Chair ",
+      "role_en": "Co-Chair",
+      "role_fr": "Co-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des Ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des Ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-Comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des Ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Co-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 sur les fonds de l'assurance-emploi du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2004-06-28"
+      "name_en": "Businessman",
+      "name_fr": "Conseiller en relations ouvri\u00e8res"
+    },
+    {
+      "name_en": "Labour relations consultant",
+      "name_fr": "Conseiller syndical"
+    },
+    {
+      "name_en": "Union advisor",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "7f936a3b-bdfb-43f9-a998-23a0a29284f2",
-  "date_of_birth": "1943-01-02"
+  "id": "7f936a3b-bdfb-43f9-a998-23a0a29284f2"
 }

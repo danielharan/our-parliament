@@ -1,101 +1,85 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1934-04-22",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "Christian Ouellet",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Housing, Public"
+      "role_en": "Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole",
+      "title_en": "Housing, Public",
+      "title_fr": "Logement social"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2009-09",
-      "title": "Environment"
+      "role_en": "Assistant Critic",
+      "start_date": "2009-09",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Environment",
+      "title_fr": "Environnement"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2007-04-12",
-      "end": "2009-09",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "title": "Housing, Public"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2009-09",
-      "title": "Environment"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2007-04-12",
-      "end": "2009-09",
-      "title": "Natural Resources"
+      "role_en": "Assistant Critic",
+      "start_date": "2007-04-12",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2009-09",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     }
-  ],
-  "professions": [
-    "Architect",
-    "Professor"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2004-06-28"
+      "name_en": "Architect",
+      "name_fr": "Architecte"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "Professeur"
     }
   ],
-  "id": "a168111c-6606-48ba-b482-6a725fb23a72",
-  "date_of_birth": "1934-04-22"
+  "id": "a168111c-6606-48ba-b482-6a725fb23a72"
 }

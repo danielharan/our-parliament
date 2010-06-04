@@ -1,410 +1,295 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1952-07-07",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "Jean Crowder",
   "functions": [
     {
-      "role": "Whip",
-      "start": "2006-02-27",
-      "end": "2007-10-16",
-      "title": "Deputy Whip of the N.D.P."
+      "role_en": "Whip",
+      "start_date": "2006-02-27",
+      "role_fr": "Whip",
+      "end_date": "2007-10-16",
+      "title_en": "Deputy Whip of the N.D.P.",
+      "title_fr": "Whip adjointe du N.P.D."
     },
     {
-      "role": "Caucus Chair",
-      "start": "2009-01-20",
-      "title": "N.D.P. Caucus Chair"
+      "role_en": "Caucus Chair",
+      "start_date": "2009-01-20",
+      "role_fr": "Pr\u00e9sident du caucus",
+      "title_en": "N.D.P. Caucus Chair",
+      "title_fr": "Pr\u00e9sidente du caucus du N.P.D."
     },
     {
-      "role": "Caucus Chair",
-      "start": "2008-11-12",
-      "end": "2009-01-19",
-      "title": "N.D.P. Deputy Caucus Chair"
+      "role_en": "Caucus Chair",
+      "start_date": "2008-11-12",
+      "role_fr": "Pr\u00e9sident du caucus",
+      "end_date": "2009-01-19",
+      "title_en": "N.D.P. Deputy Caucus Chair",
+      "title_fr": "Pr\u00e9sidente adjointe du caucus du N.P.D."
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Metis and Non-Status Indians"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Metis and Non-Status Indians",
+      "title_fr": "M\u00e9tis et Indiens non-inscrits"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Aboriginal Affairs"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "title_en": "Aboriginal Affairs",
+      "title_fr": "Affaires autochtone"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Indian Affairs"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "title_en": "Indian Affairs",
+      "title_fr": "Affaires indiennes"
     },
     {
-      "role": "Critic",
-      "start": "2005-01-31",
-      "end": "2006-02-13",
-      "title": "Health"
+      "role_en": "Critic",
+      "start_date": "2005-01-31",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Health",
+      "title_fr": "Sant\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-01-30",
-      "title": "Forestry"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-01-30",
+      "title_en": "Forestry",
+      "title_fr": "For\u00eats"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Community Economic Development"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Community Economic Development",
+      "title_fr": "Condition f\u00e9minine"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Natural Resources"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Natural Resources",
+      "title_fr": "D\u00e9veloppement \u00e9conomique communautaire"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Status of Women"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Status of Women",
+      "title_fr": "Ressources naturelles"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "West Coast Fisheries"
-    },
-    {
-      "role": "Whip",
-      "start": "2006-02-27",
-      "end": "2007-10-16",
-      "title": "Deputy Whip of the N.D.P."
-    },
-    {
-      "role": "Caucus Chair",
-      "start": "2009-01-20",
-      "title": "N.D.P. Caucus Chair"
-    },
-    {
-      "role": "Caucus Chair",
-      "start": "2008-11-12",
-      "end": "2009-01-19",
-      "title": "N.D.P. Deputy Caucus Chair"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Metis and Non-Status Indians"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Aboriginal Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Indian Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-01-31",
-      "end": "2006-02-13",
-      "title": "Health"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-01-30",
-      "title": "Forestry"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Community Economic Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Status of Women"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "West Coast Fisheries"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2007-09-26",
+      "title_en": "West Coast Fisheries",
+      "title_fr": "P\u00eaches dans l'Ouest"
     }
-  ],
-  "professions": [
-    "Consultant",
-    "Human resources consultant",
-    "Manager"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de Liaison"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommitee on Agenda and Procedure of the Standing Committee of the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommitee on Agenda and Procedure of the Standing Committee of the Status of Women",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommitee on Agenda and Procedure of the Standing Committee of the Status of Women",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2004-06-28"
+      "name_en": "Consultant",
+      "name_fr": "Experte-conseil"
+    },
+    {
+      "name_en": "Human resources consultant",
+      "name_fr": "Experte-conseil en ressources humaines"
+    },
+    {
+      "name_en": "Manager",
+      "name_fr": "G\u00e9rante"
     }
   ],
-  "id": "8977ace2-9337-4d5d-969b-806da407194c",
-  "date_of_birth": "1952-07-07"
+  "id": "8977ace2-9337-4d5d-969b-806da407194c"
 }

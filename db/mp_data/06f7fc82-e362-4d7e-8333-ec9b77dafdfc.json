@@ -1,204 +1,156 @@
 {
-  "place_of_birth": "Gander, Newfoundland, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-11-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    }
+  ],
+  "date_of_birth": "1974-05-14",
+  "place_of_birth": {
+    "name_en": "Gander, Newfoundland, Canada",
+    "name_fr": "Gander, Terre-Neuve, Canada"
+  },
   "name": "Rob Moore",
   "functions": [
     {
-      "role": "Minister / Secretary of State",
-      "start": "2010-01-19",
-      "title": "Minister of State (Small Business and Tourism)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2010-01-19",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister of State (Small Business and Tourism)",
+      "title_fr": "Ministre d'\u00c9tat (Petite entreprise et Tourisme)"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2010-01-18",
-      "title": "Parliamentary Secretary to the Minister of Justice"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2010-01-18",
+      "title_en": "Parliamentary Secretary to the Minister of Justice",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Justice"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2005-02-22",
-      "end": "2006-02-05",
-      "title": "Agriculture and Agri-Food"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2010-01-19",
-      "title": "Minister of State (Small Business and Tourism)"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2010-01-18",
-      "title": "Parliamentary Secretary to the Minister of Justice"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2005-02-22",
-      "end": "2006-02-05",
-      "title": "Agriculture and Agri-Food"
+      "role_en": "Assistant Critic",
+      "start_date": "2005-02-22",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-02-05",
+      "title_en": "Agriculture and Agri-Food",
+      "title_fr": "Agriculture et Agro-alimentaire"
     }
-  ],
-  "professions": [
-    "Lawyer",
-    "Policy adviser"
   ],
   "committees": [
     {
-      "committee": "Legislative Committee on Bill C-31",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-31",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-20",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Legislative Committee on Bill C-27",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-27",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-27"
     },
     {
-      "committee": "Legislative Committee on Bill C-35",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-35",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Legislative Committee on Bill C-38",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-38",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-38",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-38",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
     },
     {
-      "committee": "Subcommittee on the process for appointment to the Federal Judiciary of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-31",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-27",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-35",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-38",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-38",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the process for appointment to the Federal Judiciary of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the process for appointment to the Federal Judiciary of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
+      "name_fr": "Sous-comit\u00e9 sur le processus de nomination \u00e0 la magistrature f\u00e9d\u00e9rale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-11-27",
-      "end": "2003-12-22"
+      "name_en": "Policy adviser",
+      "name_fr": "Conseiller en politique"
     }
   ],
-  "id": "06f7fc82-e362-4d7e-8333-ec9b77dafdfc",
-  "date_of_birth": "1974-05-14"
+  "id": "06f7fc82-e362-4d7e-8333-ec9b77dafdfc"
 }

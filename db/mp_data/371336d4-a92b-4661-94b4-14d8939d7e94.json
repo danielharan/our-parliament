@@ -1,379 +1,275 @@
 {
-  "place_of_birth": "Wadena, Saskatchewan, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1997-06-02",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "",
+  "place_of_birth": {
+    "name_en": "Wadena, Saskatchewan, Canada",
+    "name_fr": "Wadena, Saskatchewan, Canada"
+  },
   "name": "Maurice Vellacott",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Office of Indian Residential Schools Resolution"
+      "role_en": "Critic",
+      "start_date": "2004-01-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Office of Indian Residential Schools Resolution",
+      "title_fr": "R\u00e8glement des questions des pensionnats autochtones"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2001-06-18",
-      "end": "2004-07-21",
-      "title": "Indian Affairs and Northern Development"
+      "role_en": "Assistant Critic",
+      "start_date": "2001-06-18",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2004-07-21",
+      "title_en": "Indian Affairs and Northern Development",
+      "title_fr": "Affaires indiennes et Nord canadien"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1998-06-16",
-      "end": "2001-06-17",
-      "title": "Human Resources Development"
+      "role_en": "Assistant Critic",
+      "start_date": "1998-06-16",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2001-06-17",
+      "title_en": "Human Resources Development",
+      "title_fr": "D\u00e9veloppement des ressources humaines"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "1998-06-16",
-      "title": "Health"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Office of Indian Residential Schools Resolution"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2001-06-18",
-      "end": "2004-07-21",
-      "title": "Indian Affairs and Northern Development"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1998-06-16",
-      "end": "2001-06-17",
-      "title": "Human Resources Development"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "1998-06-16",
-      "title": "Health"
+      "role_en": "Assistant Critic",
+      "start_date": "1997-06-20",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1998-06-16",
+      "title_en": "Health",
+      "title_fr": "Sant\u00e9"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Minister"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-30",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of  the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of  the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human  Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human  Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 sur la condition des personnes handicap\u00e9es du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of  the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human  Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2003-12-22"
-    },
-    {
-      "party": "Reform Party",
-      "start": "1997-06-02",
-      "end": "2000-03-26"
+      "name_en": "Minister",
+      "name_fr": "Ministre du culte"
     }
   ],
-  "id": "371336d4-a92b-4661-94b4-14d8939d7e94",
-  "date_of_birth": ""
+  "id": "371336d4-a92b-4661-94b4-14d8939d7e94"
 }

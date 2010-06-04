@@ -1,32 +1,39 @@
 {
-  "place_of_birth": "Bramshott, Sussex, England",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1943-07-27",
+  "place_of_birth": {
+    "name_en": "Bramshott, Sussex, England",
+    "name_fr": "Bramshott, Sussex, Angleterre"
+  },
   "name": "Peter Kent",
   "functions": [
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State of Foreign Affairs (Americas)"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State of Foreign Affairs (Americas)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister of State of Foreign Affairs (Americas)",
+      "title_fr": "Ministre d'\u00c9tat des Affaires \u00e9trang\u00e8res (Am\u00e9riques)"
     }
-  ],
-  "professions": [
-    "Broadcast journalist",
-    "Broadcasting executive"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Broadcast journalist",
+      "name_fr": "Cadre en radiodiffusion"
+    },
+    {
+      "name_en": "Broadcasting executive",
+      "name_fr": "Journaliste de radiot\u00e9l\u00e9vision"
     }
   ],
-  "id": "0bd5970c-e4c2-4044-8344-8123b16d75bd",
-  "date_of_birth": "1943-07-27"
+  "id": "0bd5970c-e4c2-4044-8344-8123b16d75bd"
 }

@@ -1,77 +1,78 @@
 {
-  "place_of_birth": "New Westminster, British Columbia, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-11-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    }
+  ],
+  "date_of_birth": "1974-11-17",
+  "place_of_birth": {
+    "name_en": "New Westminster, British Columbia, Canada",
+    "name_fr": "New Westminster, Colombie-Britannique, Canada"
+  },
   "name": "Tim Uppal",
   "functions": [
 
   ],
-  "professions": [
-    "Bank manager",
-    "Business manager",
-    "Businessman",
-    "Radio host"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Bank manager",
+      "name_fr": "Animateur \u00e0 la radio"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-11-27",
-      "end": "2003-12-22"
+      "name_en": "Business manager",
+      "name_fr": "Directeur de banque"
+    },
+    {
+      "name_en": "Businessman",
+      "name_fr": "Directeur d'entreprise"
+    },
+    {
+      "name_en": "Radio host",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "51262463-8287-4bde-8e32-bb4f2302e2a2",
-  "date_of_birth": "1974-11-17"
+  "id": "51262463-8287-4bde-8e32-bb4f2302e2a2"
 }

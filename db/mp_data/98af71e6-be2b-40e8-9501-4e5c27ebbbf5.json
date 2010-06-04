@@ -1,167 +1,128 @@
 {
-  "place_of_birth": "Ottawa, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006-04-05",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    },
+    {
+      "start_date": "1978-10-16",
+      "end_date": "2002-04-16",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1948-08-02",
+  "place_of_birth": {
+    "name_en": "Ottawa, Ontario, Canada",
+    "name_fr": "Ottawa, Ontario, Canada"
+  },
   "name": "Bob Rae",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Foreign Affairs"
+      "role_en": "Critic",
+      "start_date": "2009-01-22",
+      "role_fr": "Porte-parole",
+      "title_en": "Foreign Affairs",
+      "title_fr": "Affaires \u00e9trang\u00e8res"
     },
     {
-      "role": "Critic",
-      "start": "2007-10-09",
-      "end": "2008-11-13",
-      "title": "Foreign Affairs"
+      "role_en": "Critic",
+      "start_date": "2007-10-09",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-13",
+      "title_en": "Foreign Affairs",
+      "title_fr": "Affaires \u00e9trang\u00e8res"
     },
     {
-      "role": "Critic",
-      "start": "1980-04",
-      "end": "1982",
-      "title": "Finance"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Foreign Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-10-09",
-      "end": "2008-11-13",
-      "title": "Foreign Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "1980-04",
-      "end": "1982",
-      "title": "Finance"
+      "role_en": "Critic",
+      "start_date": "1980-04",
+      "role_fr": "Porte-parole",
+      "end_date": "1982",
+      "title_en": "Finance",
+      "title_fr": "Finances"
     }
-  ],
-  "professions": [
-    "Lawyer"
   ],
   "committees": [
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Standing Committee on Finance, Trade and Economic Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 32,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance, Trade and Economic Affairs",
+      "name_fr": "Comit\u00e9 permanent des finances, du commerce et des questions \u00e9conomiques"
     },
     {
-      "committee": "Standing Committee on Finance, Trade and Economic Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 31,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance, Trade and Economic Affairs",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 31,
-      "session": 1
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance, Trade and Economic Affairs",
-      "role": "Member ",
-      "parliament": 32,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance, Trade and Economic Affairs",
-      "role": "Member ",
-      "parliament": 31,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 31,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des finances, du commerce et des questions \u00e9conomiques"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2006-04-05"
-    },
-    {
-      "party": "New Democratic Party",
-      "start": "1978-10-16",
-      "end": "2002-04-16"
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
     }
   ],
-  "id": "98af71e6-be2b-40e8-9501-4e5c27ebbbf5",
-  "date_of_birth": "1948-08-02"
+  "id": "98af71e6-be2b-40e8-9501-4e5c27ebbbf5"
 }

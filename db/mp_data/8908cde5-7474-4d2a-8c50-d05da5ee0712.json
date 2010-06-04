@@ -1,209 +1,157 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1977-06-16",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "Navdeep Singh Bains",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2005-10-07",
-      "end": "2006-02-05",
-      "title": "Parliamentary Secretary to the Prime Minister"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2005-10-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2006-02-05",
+      "title_en": "Parliamentary Secretary to the Prime Minister",
+      "title_fr": "Secr\u00e9taire parlementaire du Premier ministre"
     },
     {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Small Business"
+      "role_en": "Critic",
+      "start_date": "2009-10-06",
+      "role_fr": "Porte-parole",
+      "title_en": "Small Business",
+      "title_fr": "Petite entreprise"
     },
     {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Tourism"
+      "role_en": "Critic",
+      "start_date": "2009-10-06",
+      "role_fr": "Porte-parole",
+      "title_en": "Tourism",
+      "title_fr": "Tourisme"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Natural Resources"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-01-21",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     },
     {
-      "role": "Critic",
-      "start": "2007-01-17",
-      "end": "2008-11-13",
-      "title": "International Trade"
+      "role_en": "Critic",
+      "start_date": "2007-01-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-13",
+      "title_en": "International Trade",
+      "title_fr": "Commerce international"
     },
     {
-      "role": "Critic",
-      "start": "2006-05-30",
-      "end": "2007-01-17",
-      "title": "Treasury Board"
+      "role_en": "Critic",
+      "start_date": "2006-05-30",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-01-17",
+      "title_en": "Treasury Board",
+      "title_fr": "Conseil du tr\u00e9sor"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Public Works and Government Services"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2005-10-07",
-      "end": "2006-02-05",
-      "title": "Parliamentary Secretary to the Prime Minister"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Small Business"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-10-06",
-      "title": "Tourism"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-01-17",
-      "end": "2008-11-13",
-      "title": "International Trade"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-05-30",
-      "end": "2007-01-17",
-      "title": "Treasury Board"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Public Works and Government Services"
+      "role_en": "Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-05-29",
+      "title_en": "Public Works and Government Services",
+      "title_fr": "Travaux publics et Services gouvernementaux"
     }
-  ],
-  "professions": [
-    "Certified management accountant",
-    "Financial analyst"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Certified management accountant",
+      "name_fr": "Analyste financier"
+    },
+    {
+      "name_en": "Financial analyst",
+      "name_fr": "Comptable en management accr\u00e9dit\u00e9"
     }
   ],
-  "id": "8908cde5-7474-4d2a-8c50-d05da5ee0712",
-  "date_of_birth": "1977-06-16"
+  "id": "8908cde5-7474-4d2a-8c50-d05da5ee0712"
 }

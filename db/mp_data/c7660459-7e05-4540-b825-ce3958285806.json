@@ -1,321 +1,231 @@
 {
-  "place_of_birth": "New Westminster, British Columbia, Canada",
-  "language": "English, French",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-11-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    }
+  ],
+  "date_of_birth": "1976-06-10",
+  "place_of_birth": {
+    "name_en": "New Westminster, British Columbia, Canada",
+    "name_fr": "New Westminster, Colombie-Britannique, Canada"
+  },
   "name": "James Moore",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of Canadian Heritage"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Canadian Heritage",
+      "title_fr": "Ministre du Patrimoine canadien"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister for Official Languages"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister for Official Languages",
+      "title_fr": "Ministre des Langues officielles"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-06-25",
-      "end": "2008-10-29",
-      "title": "Secretary of State (Asia-Pacific Gateway) (2010 Olympics) (Official Languages)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-06-25",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2008-10-29",
+      "title_en": "Secretary of State (Asia-Pacific Gateway) (2010 Olympics) (Official Languages)",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Porte d'entr\u00e9es de l'Asie-Pacifique) (Olympiques de 2010) (Langues officielles)"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-04-10",
-      "end": "2008-06-24",
-      "title": "Parliamentary Secretary to the Minister of Public Works and Government Services and for the Pacific Gateway and the Vancouver-Whistler Olympics"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-04-10",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2008-06-24",
+      "title_en": "Parliamentary Secretary to the Minister of Public Works and Government Services and for the Pacific Gateway and the Vancouver-Whistler Olympics",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Travaux publics et des Services gouvernementaux et pour la porte d'entr\u00e9e du Pacifique et des Olympiques de Vancouver-Whistler"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2006-04-09",
-      "title": "Parliamentary Secretary to the Minister of Public Works and Government Services"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2006-04-09",
+      "title_en": "Parliamentary Secretary to the Minister of Public Works and Government Services",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Travaux publics et des Services gouvernementaux"
     },
     {
-      "role": "Critic",
-      "start": "2005-05-02",
-      "end": "2006-02-05",
-      "title": "Transport"
+      "role_en": "Critic",
+      "start_date": "2005-05-02",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Transport",
+      "title_fr": "Transports"
     },
     {
-      "role": "Critic",
-      "start": "2005-01-24",
-      "end": "2006-02-05",
-      "title": "Sport"
+      "role_en": "Critic",
+      "start_date": "2005-01-24",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Sport",
+      "title_fr": "Sport"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-04-27",
-      "title": "Public Works and Government Services"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-04-27",
+      "title_en": "Public Works and Government Services",
+      "title_fr": "Travaux publics et Services gouvernementaux"
     },
     {
-      "role": "Critic",
-      "start": "2001-06-18",
-      "end": "2004-07-21",
-      "title": "Transport"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of Canadian Heritage"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister for Official Languages"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-06-25",
-      "end": "2008-10-29",
-      "title": "Secretary of State (Asia-Pacific Gateway) (2010 Olympics) (Official Languages)"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-04-10",
-      "end": "2008-06-24",
-      "title": "Parliamentary Secretary to the Minister of Public Works and Government Services and for the Pacific Gateway and the Vancouver-Whistler Olympics"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2006-04-09",
-      "title": "Parliamentary Secretary to the Minister of Public Works and Government Services"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-05-02",
-      "end": "2006-02-05",
-      "title": "Transport"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-01-24",
-      "end": "2006-02-05",
-      "title": "Sport"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-04-27",
-      "title": "Public Works and Government Services"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-06-18",
-      "end": "2004-07-21",
-      "title": "Transport"
+      "role_en": "Critic",
+      "start_date": "2001-06-18",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Transport",
+      "title_fr": "Transports"
     }
-  ],
-  "professions": [
-    "Broadcaster"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Transport and Government Operations",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport and Government Operations",
+      "name_fr": "Comit\u00e9 permanent des transports et des op\u00e9rations gouvernementales"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Legislative Committee on Bill C-55",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-55",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-55"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport and Government Operations",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-55",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     }
   ],
-  "parties": [
+  "language": "English, French",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
-    },
-    {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-11-27",
-      "end": "2003-12-22"
+      "name_en": "Broadcaster",
+      "name_fr": "Radiodiffuseur"
     }
   ],
-  "id": "c7660459-7e05-4540-b825-ce3958285806",
-  "date_of_birth": "1976-06-10"
+  "id": "c7660459-7e05-4540-b825-ce3958285806"
 }

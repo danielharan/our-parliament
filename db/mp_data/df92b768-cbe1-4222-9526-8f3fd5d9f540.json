@@ -1,74 +1,75 @@
 {
-  "place_of_birth": "Hartford, Connecticut, United States",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1946-08-06",
+  "place_of_birth": {
+    "name_en": "Hartford, Connecticut, United States",
+    "name_fr": "Hartford, Connecticut, \u00c9tats-Unis"
+  },
   "name": "Bruce Hyer",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Small Business"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Small Business",
+      "title_fr": "Petite entreprise"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Tourism"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Tourism",
+      "title_fr": "Tourisme"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Climate Change"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Climate Change",
+      "title_fr": "Changements climatiques"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "National Parks"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "National Parks",
+      "title_fr": "Eaux"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Water"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Small Business"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Tourism"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Climate Change"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "National Parks"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Water"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Water",
+      "title_fr": "Parcs nationaux"
     }
-  ],
-  "professions": [
-    "Biologist",
-    "Businessman",
-    "Ecologist",
-    "Forester"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2004-06-28"
+      "name_en": "Biologist",
+      "name_fr": "Biologiste"
+    },
+    {
+      "name_en": "Businessman",
+      "name_fr": "\u00e9cologue"
+    },
+    {
+      "name_en": "Ecologist",
+      "name_fr": "Forestier"
+    },
+    {
+      "name_en": "Forester",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "df92b768-cbe1-4222-9526-8f3fd5d9f540",
-  "date_of_birth": "1946-08-06"
+  "id": "df92b768-cbe1-4222-9526-8f3fd5d9f540"
 }

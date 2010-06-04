@@ -1,95 +1,94 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2009-11-09",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1950-04-01",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "Daniel Paill\u00e9",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-12-15",
-      "title": "Finance"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-12-15",
-      "title": "Finance"
+      "role_en": "Critic",
+      "start_date": "2009-12-15",
+      "role_fr": "Porte-parole",
+      "title_en": "Finance",
+      "title_fr": "Finances"
     }
-  ],
-  "professions": [
-    "Administrator-manager",
-    "Director general",
-    "Economist",
-    "Executive assistant",
-    "Financial analyst",
-    "Professor"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2009-11-09"
+      "name_en": "Administrator-manager",
+      "name_fr": "Adjoint ex\u00e9cutif"
+    },
+    {
+      "name_en": "Director general",
+      "name_fr": "Administrateur-gestionnaire"
+    },
+    {
+      "name_en": "Economist",
+      "name_fr": "Analyste financier"
+    },
+    {
+      "name_en": "Executive assistant",
+      "name_fr": "Directeur g\u00e9n\u00e9ral"
+    },
+    {
+      "name_en": "Financial analyst",
+      "name_fr": "\u00e9conomiste"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "Professeur"
     }
   ],
-  "id": "ab653798-9940-43d4-9b18-c9bc015eb94e",
-  "date_of_birth": "1950-04-01"
+  "id": "ab653798-9940-43d4-9b18-c9bc015eb94e"
 }

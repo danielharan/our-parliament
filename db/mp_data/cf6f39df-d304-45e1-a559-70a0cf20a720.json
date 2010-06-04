@@ -1,196 +1,159 @@
 {
-  "place_of_birth": "Valleyview, Alberta, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1969-03-15",
+  "place_of_birth": {
+    "name_en": "Valleyview, Alberta, Canada",
+    "name_fr": "Valleyview, Alberta, Canada"
+  },
   "name": "Rona Ambrose",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2010-04-09",
-      "title": "Minister for Status of Women"
+      "role_en": "Minister",
+      "start_date": "2010-04-09",
+      "role_fr": "Ministre",
+      "title_en": "Minister for Status of Women",
+      "title_fr": "Ministre de la Condition f\u00e9minine"
     },
     {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "Minister of Public Works and Government Services"
+      "role_en": "Minister",
+      "start_date": "2010-01-19",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Public Works and Government Services",
+      "title_fr": "Ministre des Travaux publics et des Services gouvernementaux"
     },
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of Labour"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "end_date": "2010-01-18",
+      "title_en": "Minister of Labour",
+      "title_fr": "Ministre du Travail"
     },
     {
-      "role": "Minister",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Minister of Intergovernmental Affairs"
+      "role_en": "Minister",
+      "start_date": "2007-01-04",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister of Intergovernmental Affairs",
+      "title_fr": "Ministre de la Diversification de l'\u00e9conomie de l'Ouest"
     },
     {
-      "role": "Minister",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Minister of Western Economic Diversification"
+      "role_en": "Minister",
+      "start_date": "2007-01-04",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister of Western Economic Diversification",
+      "title_fr": "Ministre des Affaires intergouvernementales"
     },
     {
-      "role": "Minister",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "President of the Queen's Privy Council"
+      "role_en": "Minister",
+      "start_date": "2007-01-04",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "President of the Queen's Privy Council",
+      "title_fr": "Pr\u00e9sidente du Conseil priv\u00e9"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-01-03",
-      "title": "Minister of the Environment"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2007-01-03",
+      "title_en": "Minister of the Environment",
+      "title_fr": "Ministre de l'Environnement"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2010-04-09",
-      "title": "Minister for Status of Women"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2010-04-09",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister for Status of Women",
+      "title_fr": "Ministre de la Condition f\u00e9minine"
     },
     {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "AlbertaNorthern Alberta representative"
+      "role_en": "Regional Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "AlbertaNorthern Alberta representative",
+      "title_fr": "AlbertaRepr\u00e9sentante du Nord de l'Alberta"
     },
     {
-      "role": "Critic",
-      "start": "2005-05-17",
-      "end": "2005-05-24",
-      "title": "International Trade(Acting)"
+      "role_en": "Critic",
+      "start_date": "2005-05-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-05-24",
+      "title_en": "International Trade(Acting)",
+      "title_fr": "Commerce international(par int\u00e9rim)"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Intergovernmental Affairs"
-    },
-    {
-      "role": "Minister",
-      "start": "2010-04-09",
-      "title": "Minister for Status of Women"
-    },
-    {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "Minister of Public Works and Government Services"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of Labour"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Minister of Intergovernmental Affairs"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Minister of Western Economic Diversification"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "President of the Queen's Privy Council"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-01-03",
-      "title": "Minister of the Environment"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2010-04-09",
-      "title": "Minister for Status of Women"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "AlbertaNorthern Alberta representative"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-05-17",
-      "end": "2005-05-24",
-      "title": "International Trade(Acting)"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Intergovernmental Affairs"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Intergovernmental Affairs",
+      "title_fr": "Affaires intergouvernementales"
     }
-  ],
-  "professions": [
-    "Columnist",
-    "Communication consultant",
-    "Policy analyst",
-    "Public policy consultant",
-    "Senior public servant"
   ],
   "committees": [
     {
-      "committee": "Legislative Committee on Bill C-38",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-38",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Fiscal Imbalance of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-38",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Fiscal Imbalance of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Fiscal Imbalance of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 sur le d\u00e9s\u00e9quilibre fiscal du comit\u00e9 permanent des finances"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Columnist",
+      "name_fr": "Analyste de la politique"
+    },
+    {
+      "name_en": "Communication consultant",
+      "name_fr": "Chroniqueuse"
+    },
+    {
+      "name_en": "Policy analyst",
+      "name_fr": "Experte-conseil en communications"
+    },
+    {
+      "name_en": "Public policy consultant",
+      "name_fr": "Experte-conseil en politique gouvernementale"
+    },
+    {
+      "name_en": "Senior public servant",
+      "name_fr": "Fonctionnaire principale"
     }
   ],
-  "id": "cf6f39df-d304-45e1-a559-70a0cf20a720",
-  "date_of_birth": "1969-03-15"
+  "id": "cf6f39df-d304-45e1-a559-70a0cf20a720"
 }

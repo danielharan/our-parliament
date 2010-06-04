@@ -1,267 +1,196 @@
 {
-  "place_of_birth": "Drogheda, County Lough, Ireland",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1948-08-31",
+  "place_of_birth": {
+    "name_en": "Drogheda, County Lough, Ireland",
+    "name_fr": "Drogheda, Comt\u00e9 de Lough, Irlande"
+  },
   "name": "Tony Martin",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2010-05-03",
-      "title": "Persons with Disabilities"
+      "role_en": "Critic",
+      "start_date": "2010-05-03",
+      "role_fr": "Porte-parole",
+      "title_en": "Persons with Disabilities",
+      "title_fr": "Personnes handicap\u00e9es"
     },
     {
-      "role": "Critic",
-      "start": "2008-03-01",
-      "title": "Poverty"
+      "role_en": "Critic",
+      "start_date": "2008-03-01",
+      "role_fr": "Porte-parole",
+      "title_en": "Poverty",
+      "title_fr": "Pauvret\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Human Resources and Skills Development"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "title_en": "Human Resources and Skills Development",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Social Development"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Social Development",
+      "title_fr": "D\u00e9veloppement social"
     },
     {
-      "role": "Critic",
-      "start": "2005-01-31",
-      "end": "2006-02-13",
-      "title": "Human Resources and Skills Development"
+      "role_en": "Critic",
+      "start_date": "2005-01-31",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Human Resources and Skills Development",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-01-30",
-      "title": "Families and Caregivers"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-01-30",
+      "title_en": "Families and Caregivers",
+      "title_fr": "D\u00e9veloppement des ressources humaines"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-01-30",
-      "title": "Human Resources Development"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-01-30",
+      "title_en": "Human Resources Development",
+      "title_fr": "D\u00e9veloppement social"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-01-30",
-      "title": "Social Development"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-01-30",
+      "title_en": "Social Development",
+      "title_fr": "Famille et Aidants naturels"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Child Care"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Child Care",
+      "title_fr": "Soins aux enfants"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2007-09-26",
-      "title": "Social Policy"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-09-26",
+      "title_en": "Social Policy",
+      "title_fr": "Politique sociale"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2008-11-16",
-      "title": "Federal Economic Development Initiative for Northern Ontario"
-    },
-    {
-      "role": "Critic",
-      "start": "2010-05-03",
-      "title": "Persons with Disabilities"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-03-01",
-      "title": "Poverty"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Human Resources and Skills Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Social Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-01-31",
-      "end": "2006-02-13",
-      "title": "Human Resources and Skills Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-01-30",
-      "title": "Families and Caregivers"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-01-30",
-      "title": "Human Resources Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-01-30",
-      "title": "Social Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Child Care"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2007-09-26",
-      "title": "Social Policy"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2008-11-16",
-      "title": "Federal Economic Development Initiative for Northern Ontario"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Federal Economic Development Initiative for Northern Ontario",
+      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Community-development worker"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-Comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des Ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilties",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilties",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilties",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicapp\u00e9es"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2004-06-28"
+      "name_en": "Businessman",
+      "name_fr": "Animateur social de quartier"
+    },
+    {
+      "name_en": "Community-development worker",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "30c0020c-4c7d-4d7c-b9c2-3328d22763cf",
-  "date_of_birth": "1948-08-31"
+  "id": "30c0020c-4c7d-4d7c-b9c2-3328d22763cf"
 }

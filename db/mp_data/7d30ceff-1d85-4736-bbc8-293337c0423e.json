@@ -1,228 +1,172 @@
 {
-  "place_of_birth": "Saskatoon, Saskatchewan, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-11-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    }
+  ],
+  "date_of_birth": "1953-03-24",
+  "place_of_birth": {
+    "name_en": "Saskatoon, Saskatchewan, Canada",
+    "name_fr": "Saskatoon, Saskatchewan, Canada"
+  },
   "name": "Lynne Yelich",
   "functions": [
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State (Western Economic Diversification)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister of State (Western Economic Diversification)",
+      "title_fr": "Ministre d'\u00c9tat (Diversification de l'\u00e9conomie de l'Ouest canadien)"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2008-10-29",
-      "title": "Parliamentary Secretary to the Minister of Human Resources and Social Development"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2008-10-29",
+      "title_en": "Parliamentary Secretary to the Minister of Human Resources and Social Development",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources humaines et du D\u00e9veloppement social"
     },
     {
-      "role": "Critic",
-      "start": "2005-10-19",
-      "end": "2006-02-05",
-      "title": "Women Entrepreneurs"
+      "role_en": "Critic",
+      "start_date": "2005-10-19",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Women Entrepreneurs",
+      "title_fr": "Femmes entrepreneurs"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Families and Caregivers"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Families and Caregivers",
+      "title_fr": "Condition f\u00e9minine"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Status of Women"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Status of Women",
+      "title_fr": "Famille et Aidants naturels"
     },
     {
-      "role": "Critic",
-      "start": "2003-01-22",
-      "end": "2004-07-21",
-      "title": "Cities"
+      "role_en": "Critic",
+      "start_date": "2003-01-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Cities",
+      "title_fr": "Villes"
     },
     {
-      "role": "Critic",
-      "start": "2002-12-05",
-      "end": "2004-01-21",
-      "title": "Grain Transportation"
+      "role_en": "Critic",
+      "start_date": "2002-12-05",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-01-21",
+      "title_en": "Grain Transportation",
+      "title_fr": "Transport du grain"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2003-06-23",
-      "end": "2004-01-21",
-      "title": "Transport"
+      "role_en": "Assistant Critic",
+      "start_date": "2003-06-23",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2004-01-21",
+      "title_en": "Transport",
+      "title_fr": "Transports"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2001-06-18",
-      "end": "2003-06-22",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State (Western Economic Diversification)"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2008-10-29",
-      "title": "Parliamentary Secretary to the Minister of Human Resources and Social Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-10-19",
-      "end": "2006-02-05",
-      "title": "Women Entrepreneurs"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Families and Caregivers"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Status of Women"
-    },
-    {
-      "role": "Critic",
-      "start": "2003-01-22",
-      "end": "2004-07-21",
-      "title": "Cities"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-12-05",
-      "end": "2004-01-21",
-      "title": "Grain Transportation"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2003-06-23",
-      "end": "2004-01-21",
-      "title": "Transport"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2001-06-18",
-      "end": "2003-06-22",
-      "title": "Citizenship and Immigration"
+      "role_en": "Assistant Critic",
+      "start_date": "2001-06-18",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2003-06-22",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     }
-  ],
-  "professions": [
-    "Administrator",
-    "Executive assistant"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Administrator",
+      "name_fr": "Adjointe ex\u00e9cutive"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-11-27",
-      "end": "2003-12-22"
+      "name_en": "Executive assistant",
+      "name_fr": "Administratrice"
     }
   ],
-  "id": "7d30ceff-1d85-4736-bbc8-293337c0423e",
-  "date_of_birth": "1953-03-24"
+  "id": "7d30ceff-1d85-4736-bbc8-293337c0423e"
 }

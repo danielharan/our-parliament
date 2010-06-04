@@ -1,66 +1,62 @@
 {
-  "place_of_birth": "Nepean, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1969-05-26",
+  "place_of_birth": {
+    "name_en": "Nepean, Ontario, Canada",
+    "name_fr": "Nepean, Ontario, Canada"
+  },
   "name": "John Baird",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of Transport, Infrastructure and Communities"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Transport, Infrastructure and Communities",
+      "title_fr": "Ministre des Transports, de l'Infrastructure et des Collectivit\u00e9s"
     },
     {
-      "role": "Minister",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Minister of the Environment"
+      "role_en": "Minister",
+      "start_date": "2007-01-04",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister of the Environment",
+      "title_fr": "Ministre de l'Environnement"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-01-03",
-      "title": "President of the Treasury Board"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2007-01-03",
+      "title_en": "President of the Treasury Board",
+      "title_fr": "Pr\u00e9sident du Conseil du Tr\u00e9sor"
     },
     {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "title": "OntarioEastern and Northern Ontario representative"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of Transport, Infrastructure and Communities"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Minister of the Environment"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-01-03",
-      "title": "President of the Treasury Board"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "title": "OntarioEastern and Northern Ontario representative"
+      "role_en": "Regional Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "OntarioEastern and Northern Ontario representative",
+      "title_fr": "OntarioRepr\u00e9sentant du Nord et du Sud de l'Ontario"
     }
-  ],
-  "professions": [
-    "Consultant",
-    "Politician"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Consultant",
+      "name_fr": "Expert-conseil"
+    },
+    {
+      "name_en": "Politician",
+      "name_fr": "Politicien"
     }
   ],
-  "id": "abeb1396-5319-4cef-8b3a-a2417c0f43ce",
-  "date_of_birth": "1969-05-26"
+  "id": "abeb1396-5319-4cef-8b3a-a2417c0f43ce"
 }

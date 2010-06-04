@@ -9,18 +9,26 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100530225840) do
+ActiveRecord::Schema.define(:version => 20100604084820) do
 
   create_table "committee_memberships", :force => true do |t|
     t.integer "mp_id"
     t.integer "committee_id"
-    t.string  "role"
     t.integer "parliament"
     t.integer "session"
+    t.integer "committee_role_id"
+  end
+
+  create_table "committee_roles", :force => true do |t|
+    t.string   "name_en"
+    t.string   "name_fr"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "committees", :force => true do |t|
-    t.string "name"
+    t.string "name_en"
+    t.string "name_fr"
   end
 
   create_table "election_results", :force => true do |t|
@@ -109,10 +117,18 @@ ActiveRecord::Schema.define(:version => 20100530225840) do
 
   create_table "parliamentary_functions", :force => true do |t|
     t.integer "mp_id"
-    t.string  "role"
-    t.string  "title"
     t.date    "start_date"
     t.date    "end_date"
+    t.integer "parliamentary_title_id"
+  end
+
+  create_table "parliamentary_titles", :force => true do |t|
+    t.string   "name_en"
+    t.string   "name_fr"
+    t.string   "role_en"
+    t.string   "role_fr"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "parties", :force => true do |t|
@@ -162,6 +178,13 @@ ActiveRecord::Schema.define(:version => 20100530225840) do
     t.string   "party_website"
     t.integer  "party_id"
     t.integer  "province_id"
+  end
+
+  create_table "tweets", :force => true do |t|
+    t.integer  "mp_id"
+    t.integer  "twitter_id", :limit => 8
+    t.string   "text"
+    t.datetime "created_at"
   end
 
   create_table "votes", :force => true do |t|

@@ -1,34 +1,40 @@
 {
-  "place_of_birth": "Truro, Nova Scotia, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2009-11-09",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1966-07-09",
+  "place_of_birth": {
+    "name_en": "Truro, Nova Scotia, Canada",
+    "name_fr": "Truro, Nouvelle-\u00c9cosse, Canada"
+  },
   "name": "Scott Armstrong",
   "functions": [
 
   ],
-  "professions": [
-    "Educator",
-    "School principal"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+    }
+  ],
+  "language": "English",
+  "professions": [
+    {
+      "name_en": "Educator",
+      "name_fr": "Directeur d'\u00e9cole"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
+      "name_en": "School principal",
+      "name_fr": "P\u00e9dagogue"
     }
   ],
-  "parties": [
-    {
-      "party": "Conservative Party of Canada",
-      "start": "2009-11-09"
-    }
-  ],
-  "id": "d34b2845-a4e3-457b-b0eb-e95ac232d51d",
-  "date_of_birth": "1966-07-09"
+  "id": "d34b2845-a4e3-457b-b0eb-e95ac232d51d"
 }

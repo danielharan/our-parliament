@@ -1,629 +1,437 @@
 {
-  "place_of_birth": "Chicoutimi, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "1993-10-25",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1948-04-16",
+  "place_of_birth": {
+    "name_en": "Chicoutimi, Quebec, Canada",
+    "name_fr": "Chicoutimi, Qu\u00e9bec, Canada"
+  },
   "name": "Christiane Gagnon",
   "functions": [
     {
-      "role": "House Leader",
-      "start": "2008-10-22",
-      "title": "Bloc Qu\u00e9b\u00e9cois Deputy House Leader"
+      "role_en": "House Leader",
+      "start_date": "2008-10-22",
+      "role_fr": "Leader parlementaire",
+      "title_en": "Bloc Qu\u00e9b\u00e9cois Deputy House Leader",
+      "title_fr": "Leader parlementaire adjointe du Bloc qu\u00e9b\u00e9cois"
     },
     {
-      "role": "Caucus Chair",
-      "start": "1996-09-25",
-      "end": "1998-06-16",
-      "title": "Bloc Qu\u00e9b\u00e9cois Caucus Chair"
+      "role_en": "Caucus Chair",
+      "start_date": "1996-09-25",
+      "role_fr": "Pr\u00e9sident du caucus",
+      "end_date": "1998-06-16",
+      "title_en": "Bloc Qu\u00e9b\u00e9cois Caucus Chair",
+      "title_fr": "Pr\u00e9sidente du caucus du Bloc Qu\u00e9b\u00e9cois"
     },
     {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "title": "Quebec Region"
+      "role_en": "Critic",
+      "start_date": "2008-06-26",
+      "role_fr": "Porte-parole",
+      "title_en": "Quebec Region",
+      "title_fr": "R\u00e9gion de Qu\u00e9bec"
     },
     {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Intergovernmental Affairs"
+      "role_en": "Critic",
+      "start_date": "2008-06-26",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-10-30",
+      "title_en": "Intergovernmental Affairs",
+      "title_fr": "Affaires intergouvernementales"
     },
     {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Privy Council"
+      "role_en": "Critic",
+      "start_date": "2008-06-26",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-10-30",
+      "title_en": "Privy Council",
+      "title_fr": "Conseil priv\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "end": "2008-06-25",
-      "title": "Health"
+      "role_en": "Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-06-25",
+      "title_en": "Health",
+      "title_fr": "Sant\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-05",
-      "title": "Social Development"
+      "role_en": "Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Social Development",
+      "title_fr": "D\u00e9veloppement social"
     },
     {
-      "role": "Critic",
-      "start": "2003-01-26",
-      "end": "2006-02-09",
-      "title": "National Capital of Quebec"
+      "role_en": "Critic",
+      "start_date": "2003-01-26",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-09",
+      "title_en": "National Capital of Quebec",
+      "title_fr": "Capitale nationale du Qu\u00e9bec"
     },
     {
-      "role": "Critic",
-      "start": "2002-01-15",
-      "end": "2003-01-25",
-      "title": "National Capital Region"
+      "role_en": "Critic",
+      "start_date": "2002-01-15",
+      "role_fr": "Porte-parole",
+      "end_date": "2003-01-25",
+      "title_en": "National Capital Region",
+      "title_fr": "R\u00e9gion de la Capitale nationale"
     },
     {
-      "role": "Critic",
-      "start": "2001-09-14",
-      "end": "2002-01-14",
-      "title": "National Capital Commission"
+      "role_en": "Critic",
+      "start_date": "2001-09-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2002-01-14",
+      "title_en": "National Capital Commission",
+      "title_fr": "Commission de la Capitale nationale"
     },
     {
-      "role": "Critic",
-      "start": "2000-12-20",
-      "end": "2004-08-05",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2000-12-20",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-08-05",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Critic",
-      "start": "1999-06-30",
-      "end": "2000-12-19",
-      "title": "HousingSocial housing"
+      "role_en": "Critic",
+      "start_date": "1999-06-30",
+      "role_fr": "Porte-parole",
+      "end_date": "2000-12-19",
+      "title_en": "HousingSocial housing",
+      "title_fr": "HabitationLogement social"
     },
     {
-      "role": "Critic",
-      "start": "1999-06-30",
-      "end": "2000-12-19",
-      "title": "Poverty"
+      "role_en": "Critic",
+      "start_date": "1999-06-30",
+      "role_fr": "Porte-parole",
+      "end_date": "2000-12-19",
+      "title_en": "Poverty",
+      "title_fr": "Pauvret\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "1998-03-18",
-      "end": "2001",
-      "title": "National Capital of Quebec"
+      "role_en": "Critic",
+      "start_date": "1998-03-18",
+      "role_fr": "Porte-parole",
+      "end_date": "2001",
+      "title_en": "National Capital of Quebec",
+      "title_fr": "Capitale nationale du Qu\u00e9bec"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1995",
-      "title": "Multiculturalism"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1995",
+      "title_en": "Multiculturalism",
+      "title_fr": "Multiculturalisme"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1998-08-04",
-      "title": "Status of Women"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1998-08-04",
+      "title_en": "Status of Women",
+      "title_fr": "Situation de la femme"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1998-09-15",
-      "end": "1999",
-      "title": "Human Resources Development"
-    },
-    {
-      "role": "House Leader",
-      "start": "2008-10-22",
-      "title": "Bloc Qu\u00e9b\u00e9cois Deputy House Leader"
-    },
-    {
-      "role": "Caucus Chair",
-      "start": "1996-09-25",
-      "end": "1998-06-16",
-      "title": "Bloc Qu\u00e9b\u00e9cois Caucus Chair"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "title": "Quebec Region"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Intergovernmental Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Privy Council"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-10",
-      "end": "2008-06-25",
-      "title": "Health"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-05",
-      "title": "Social Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2003-01-26",
-      "end": "2006-02-09",
-      "title": "National Capital of Quebec"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-01-15",
-      "end": "2003-01-25",
-      "title": "National Capital Region"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-09-14",
-      "end": "2002-01-14",
-      "title": "National Capital Commission"
-    },
-    {
-      "role": "Critic",
-      "start": "2000-12-20",
-      "end": "2004-08-05",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "1999-06-30",
-      "end": "2000-12-19",
-      "title": "HousingSocial housing"
-    },
-    {
-      "role": "Critic",
-      "start": "1999-06-30",
-      "end": "2000-12-19",
-      "title": "Poverty"
-    },
-    {
-      "role": "Critic",
-      "start": "1998-03-18",
-      "end": "2001",
-      "title": "National Capital of Quebec"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1995",
-      "title": "Multiculturalism"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1998-08-04",
-      "title": "Status of Women"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1998-09-15",
-      "end": "1999",
-      "title": "Human Resources Development"
+      "role_en": "Assistant Critic",
+      "start_date": "1998-09-15",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1999",
+      "title_en": "Human Resources Development",
+      "title_fr": "D\u00e9veloppement des ressources humaines"
     }
-  ],
-  "professions": [
-    "Businesswoman",
-    "Real estate agent"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Health",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la Sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilties",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilties",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicapp\u00e9es"
     },
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-20",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la Sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommitee on Agenda and Procedure of the Standing Committee of the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommitee on Agenda and Procedure of the Standing Committee of the Status of Women",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilties",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilties",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicapp\u00e9es"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 sur les enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales"
     },
     {
-      "committee": "Standing Committee on Natural Resources and Government Operations",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Natural Resources and Government Operations",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Children & Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Children & Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 sur les enfants et  jeunes \u00e0 risque du Comit\u00e9 permanent des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Human Resources Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources Development",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Legislative Committee on Bill C-85",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilties",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommitee on Agenda and Procedure of the Standing Committee of the Status of Women",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilties",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources and Government Operations",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Children & Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-85",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-85",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-85"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "1993-10-25"
+      "name_en": "Businesswoman",
+      "name_fr": "Agente immobili\u00e8re"
+    },
+    {
+      "name_en": "Real estate agent",
+      "name_fr": "Femme d'affaires"
     }
   ],
-  "id": "3229bef4-413f-4512-8330-b6b72563e608",
-  "date_of_birth": "1948-04-16"
+  "id": "3229bef4-413f-4512-8330-b6b72563e608"
 }

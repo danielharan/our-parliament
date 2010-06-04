@@ -1,54 +1,57 @@
 {
-  "place_of_birth": "Sudbury, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1969-10-23",
+  "place_of_birth": {
+    "name_en": "Sudbury, Ontario, Canada",
+    "name_fr": "Sudbury, Ontario, Canada"
+  },
   "name": "Glenn Thibeault",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Consumer Affairs"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Consumer Affairs",
+      "title_fr": "Consommation"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Sports"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Consumer Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Sports"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Sports",
+      "title_fr": "Sports"
     }
-  ],
-  "professions": [
-    "Broadcast journalist",
-    "Executive director",
-    "Manager"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
+    }
+  ],
+  "language": "English",
+  "professions": [
+    {
+      "name_en": "Broadcast journalist",
+      "name_fr": "Directeur ex\u00e9cutif"
     },
     {
-      "committee": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    }
-  ],
-  "parties": [
+      "name_en": "Executive director",
+      "name_fr": "G\u00e9rant"
+    },
     {
-      "party": "New Democratic Party",
-      "start": "2008-10-14"
+      "name_en": "Manager",
+      "name_fr": "Journaliste de radiot\u00e9l\u00e9vision"
     }
   ],
-  "id": "6f07c370-1b80-4b71-a801-e5e8e70cf1d4",
-  "date_of_birth": "1969-10-23"
+  "id": "6f07c370-1b80-4b71-a801-e5e8e70cf1d4"
 }

@@ -1,398 +1,292 @@
 {
-  "place_of_birth": "Delisle, Saskatchewan, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1997-06-02",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1951-08-19",
+  "place_of_birth": {
+    "name_en": "Delisle, Saskatchewan, Canada",
+    "name_fr": "Delisle, Saskatchewan, Canada"
+  },
   "name": "Gerry Ritz",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister for the Canadian Wheat Board"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "title_en": "Minister for the Canadian Wheat Board",
+      "title_fr": "Ministre de la Commission canadienne du bl\u00e9"
     },
     {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "title": "Minister of Agriculture and Agri-Food"
+      "role_en": "Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Agriculture and Agri-Food",
+      "title_fr": "Ministre de l'Agriculture et de l'Agro-alimentaire"
     },
     {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Minister responsible for the Canadian Wheat Board"
+      "role_en": "Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister responsible for the Canadian Wheat Board",
+      "title_fr": "Ministre responsable de la Commission canadienne du bl\u00e9"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2007-01-04",
-      "end": "2007-08-13",
-      "title": "Secretary of State (Small Business and Tourism)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2007-01-04",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2007-08-13",
+      "title_en": "Secretary of State (Small Business and Tourism)",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Petite Entreprise et Tourisme)"
     },
     {
-      "role": "Regional Minister",
-      "start": "2007-08-14",
-      "title": "Saskatchewan"
+      "role_en": "Regional Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "Saskatchewan",
+      "title_fr": "Saskatchewan"
     },
     {
-      "role": "Whip",
-      "start": "2001-12-18",
-      "end": "2002-04-03",
-      "title": "Deputy Whip of the Official Opposition"
+      "role_en": "Whip",
+      "start_date": "2001-12-18",
+      "role_fr": "Whip",
+      "end_date": "2002-04-03",
+      "title_en": "Deputy Whip of the Official Opposition",
+      "title_fr": "Whip adjoint de l'Opposition officielle"
     },
     {
-      "role": "Critic",
-      "start": "2003-06-23",
-      "end": "2004-07-21",
-      "title": "Agriculture and Agri-Food"
+      "role_en": "Critic",
+      "start_date": "2003-06-23",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Agriculture and Agri-Food",
+      "title_fr": "Agriculture et Agro-alimentaire"
     },
     {
-      "role": "Critic",
-      "start": "2002-04-04",
-      "end": "2003-06-22",
-      "title": "Public Works and Government Services"
+      "role_en": "Critic",
+      "start_date": "2002-04-04",
+      "role_fr": "Porte-parole",
+      "end_date": "2003-06-22",
+      "title_en": "Public Works and Government Services",
+      "title_fr": "Travaux publics et Services gouvernementaux"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2000-08-01",
-      "end": "2002-04-03",
-      "title": "Agriculture and Agri-Food"
+      "role_en": "Assistant Critic",
+      "start_date": "2000-08-01",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2002-04-03",
+      "title_en": "Agriculture and Agri-Food",
+      "title_fr": "Agriculture et Agro-alimentaire"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "2000-07-31",
-      "title": "Finance"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister for the Canadian Wheat Board"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "title": "Minister of Agriculture and Agri-Food"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Minister responsible for the Canadian Wheat Board"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2007-01-04",
-      "end": "2007-08-13",
-      "title": "Secretary of State (Small Business and Tourism)"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2007-08-14",
-      "title": "Saskatchewan"
-    },
-    {
-      "role": "Whip",
-      "start": "2001-12-18",
-      "end": "2002-04-03",
-      "title": "Deputy Whip of the Official Opposition"
-    },
-    {
-      "role": "Critic",
-      "start": "2003-06-23",
-      "end": "2004-07-21",
-      "title": "Agriculture and Agri-Food"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-04-04",
-      "end": "2003-06-22",
-      "title": "Public Works and Government Services"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2000-08-01",
-      "end": "2002-04-03",
-      "title": "Agriculture and Agri-Food"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "2000-07-31",
-      "title": "Finance"
+      "role_en": "Assistant Critic",
+      "start_date": "1997-06-20",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2000-07-31",
+      "title_en": "Finance",
+      "title_fr": "Finances"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Contractor",
-    "Farmer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on the Estimates Process of the Standing Committee on Government Operations and Estimates",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on the Estimates Process of the Standing Committee on Government Operations and Estimates",
+      "name_fr": "Sous-comit\u00e9 du processus budg\u00e9taire du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Liaison Committee",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Liaison Committee",
+      "name_fr": "Comit\u00e9 de liaison"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Subcommittee on the Estimates Process of the Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on the Estimates Process of the Standing Committee on Government Operations and Estimates",
+      "name_fr": "Sous-comit\u00e9 du processus budg\u00e9taire du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Transport and Government Operations",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport and Government Operations",
+      "name_fr": "Comit\u00e9 permanent des transports et des op\u00e9rations gouvernementales"
     },
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Estimates Process of the Standing Committee on Government Operations and Estimates",
-      "role": "Chair ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Liaison Committee",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on the Estimates Process of the Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport and Government Operations",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Businessman",
+      "name_fr": "Agriculteur"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2003-12-22"
+      "name_en": "Contractor",
+      "name_fr": "Entrepreneur"
     },
     {
-      "party": "Reform Party",
-      "start": "1997-06-02",
-      "end": "2000-03-26"
+      "name_en": "Farmer",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "febe5b3f-1a40-472b-873d-11be938a0e59",
-  "date_of_birth": "1951-08-19"
+  "id": "febe5b3f-1a40-472b-873d-11be938a0e59"
 }

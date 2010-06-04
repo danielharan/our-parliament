@@ -1,135 +1,123 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1973-09-29",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "Megan Leslie",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2010-05-03",
-      "title": "Health"
+      "role_en": "Critic",
+      "start_date": "2010-05-03",
+      "role_fr": "Porte-parole",
+      "title_en": "Health",
+      "title_fr": "Sant\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2009-02-13",
-      "title": "Canada Mortgage and Housing Corporation"
+      "role_en": "Critic",
+      "start_date": "2009-02-13",
+      "role_fr": "Porte-parole",
+      "title_en": "Canada Mortgage and Housing Corporation",
+      "title_fr": "Soci\u00e9t\u00e9 canadienne d'hypoth\u00e8ques et de logement"
     },
     {
-      "role": "Critic",
-      "start": "2009-02-13",
-      "end": "2010-05-02",
-      "title": "Homelessness"
+      "role_en": "Critic",
+      "start_date": "2009-02-13",
+      "role_fr": "Porte-parole",
+      "end_date": "2010-05-02",
+      "title_en": "Homelessness",
+      "title_fr": "Itin\u00e9rance"
     },
     {
-      "role": "Critic",
-      "start": "2009-02-13",
-      "end": "2010-05-02",
-      "title": "Housing"
+      "role_en": "Critic",
+      "start_date": "2009-02-13",
+      "role_fr": "Porte-parole",
+      "end_date": "2010-05-02",
+      "title_en": "Housing",
+      "title_fr": "Logement"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Literacy"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-02-12",
+      "title_en": "Literacy",
+      "title_fr": "Alphab\u00e9tisation"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Post Secondary Education"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-02-12",
+      "title_en": "Post Secondary Education",
+      "title_fr": "\u00c9ducation post secondaire"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Aboriginal AffairsArea of responsibility: Urban Issues"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Aboriginal AffairsArea of responsibility: Urban Issues",
+      "title_fr": "Affaires autochtoneChamp de responsabilit\u00e9: Enjeux urbains"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Justice"
-    },
-    {
-      "role": "Critic",
-      "start": "2010-05-03",
-      "title": "Health"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-02-13",
-      "title": "Canada Mortgage and Housing Corporation"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-02-13",
-      "end": "2010-05-02",
-      "title": "Homelessness"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-02-13",
-      "end": "2010-05-02",
-      "title": "Housing"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Literacy"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Post Secondary Education"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Aboriginal AffairsArea of responsibility: Urban Issues"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Justice"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Justice",
+      "title_fr": "Justice"
     }
-  ],
-  "professions": [
-    "Community activist",
-    "Community legal worker",
-    "Environmentalist",
-    "Legal counsel"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Neurological Disease of the Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2008-10-14"
+      "name_en": "Community activist",
+      "name_fr": "Activiste communautaire"
+    },
+    {
+      "name_en": "Community legal worker",
+      "name_fr": "Auxiliare juridique communautaire"
+    },
+    {
+      "name_en": "Environmentalist",
+      "name_fr": "Conseill\u00e8re juridique"
+    },
+    {
+      "name_en": "Legal counsel",
+      "name_fr": "Environnementaliste"
     }
   ],
-  "id": "37174f12-1dc0-44f0-8065-4c09cf9ebca1",
-  "date_of_birth": "1973-09-29"
+  "id": "37174f12-1dc0-44f0-8065-4c09cf9ebca1"
 }

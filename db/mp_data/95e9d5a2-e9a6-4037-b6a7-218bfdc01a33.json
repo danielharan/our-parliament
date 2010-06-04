@@ -1,41 +1,42 @@
 {
-  "place_of_birth": "Lachine, Quebec, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1949-12-30",
+  "place_of_birth": {
+    "name_en": "Lachine, Quebec, Canada",
+    "name_fr": "Lachine, Qu\u00e9bec, Canada"
+  },
   "name": "James Michael (Jim) Flaherty",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "title": "Minister of Finance"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Finance",
+      "title_fr": "Ministre des Finances"
     },
     {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "title": "OntarioCentral Ontario and GTA representative"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "title": "Minister of Finance"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "title": "OntarioCentral Ontario and GTA representative"
+      "role_en": "Regional Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "OntarioCentral Ontario and GTA representative",
+      "title_fr": "OntarioRepr\u00e9sentant du Centre de l'Ontario et de la r\u00e9gion du Grand Toronto"
     }
-  ],
-  "professions": [
-    "Lawyer"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
     }
   ],
-  "id": "95e9d5a2-e9a6-4037-b6a7-218bfdc01a33",
-  "date_of_birth": "1949-12-30"
+  "id": "95e9d5a2-e9a6-4037-b6a7-218bfdc01a33"
 }

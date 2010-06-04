@@ -1,198 +1,146 @@
 {
-  "place_of_birth": "Salaberry-de-Valleyfield, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1963-12-13",
+  "place_of_birth": {
+    "name_en": "Salaberry-de-Valleyfield, Quebec, Canada",
+    "name_fr": "Salaberry-de-Valleyfield, Qu\u00e9bec, Canada"
+  },
   "name": "Claude DeBellefeuille",
   "functions": [
     {
-      "role": "Whip",
-      "start": "2008-10-31",
-      "title": "Deputy Whip of the Bloc Qu\u00e9b\u00e9cois"
+      "role_en": "Whip",
+      "start_date": "2008-10-31",
+      "role_fr": "Whip",
+      "title_en": "Deputy Whip of the Bloc Qu\u00e9b\u00e9cois",
+      "title_fr": "Whip adjointe du Bloc qu\u00e9b\u00e9cois"
     },
     {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2008-06-26",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-10-30",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine"
     },
     {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Heritage"
+      "role_en": "Critic",
+      "start_date": "2008-06-26",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-10-30",
+      "title_en": "Heritage",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Critic",
-      "start": "2006-09-12",
-      "end": "2008-06-25",
-      "title": "Natural Resources"
+      "role_en": "Critic",
+      "start_date": "2006-09-12",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-06-25",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2006-09-11",
-      "title": "Agriculture and Agri-Food"
-    },
-    {
-      "role": "Whip",
-      "start": "2008-10-31",
-      "title": "Deputy Whip of the Bloc Qu\u00e9b\u00e9cois"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-09-12",
-      "end": "2008-06-25",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2006-09-11",
-      "title": "Agriculture and Agri-Food"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-09-11",
+      "title_en": "Agriculture and Agri-Food",
+      "title_fr": "Agriculture et Agro-alimentaire"
     }
-  ],
-  "professions": [
-    "Social worker"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des cadeaux en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-30",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2006-01-23"
+      "name_en": "Social worker",
+      "name_fr": "Travailleuse sociale"
     }
   ],
-  "id": "19ce2b35-fc4f-4bde-934a-03c9133b3ed6",
-  "date_of_birth": "1963-12-13"
+  "id": "19ce2b35-fc4f-4bde-934a-03c9133b3ed6"
 }

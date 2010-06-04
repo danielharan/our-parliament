@@ -1,79 +1,70 @@
 {
-  "place_of_birth": "Lisbon, Portugal",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1963-11-03",
+  "place_of_birth": {
+    "name_en": "Lisbon, Portugal",
+    "name_fr": "Lisbonne, Portugal"
+  },
   "name": "Alexandra Mendes",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Economic Development Agency of Canada for the Regions of Quebec"
+      "role_en": "Critic",
+      "start_date": "2009-01-22",
+      "role_fr": "Porte-parole",
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Citizenship and Immigration"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2009-01-21",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Multiculturalism"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Economic Development Agency of Canada for the Regions of Quebec"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Multiculturalism"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2009-01-21",
+      "title_en": "Multiculturalism",
+      "title_fr": "Multiculturalisme"
     }
-  ],
-  "professions": [
-    "Communications officer",
-    "Political assistant"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Communications officer",
+      "name_fr": "Adjointe politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Agente de communications"
     }
   ],
-  "id": "3ff878ad-e5c8-4b69-83cc-70922b56fe89",
-  "date_of_birth": "1963-11-03"
+  "id": "3ff878ad-e5c8-4b69-83cc-70922b56fe89"
 }

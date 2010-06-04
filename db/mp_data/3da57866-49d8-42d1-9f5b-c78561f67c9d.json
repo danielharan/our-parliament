@@ -1,257 +1,189 @@
 {
-  "place_of_birth": "Punjab, India",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1960-10-01",
+  "place_of_birth": {
+    "name_en": "Punjab, India",
+    "name_fr": "Pendjab, Inde"
+  },
   "name": "Sukh Dhaliwal",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Western Economic Diversification"
+      "role_en": "Critic",
+      "start_date": "2009-01-22",
+      "role_fr": "Porte-parole",
+      "title_en": "Western Economic Diversification",
+      "title_fr": "Diversification de l'\u00e9conomie de l'Ouest"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "title": "Asia-Pacific Gateway"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "title_en": "Asia-Pacific Gateway",
+      "title_fr": "Porte d'entr\u00e9e de l'Asie-Pacifique"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Sports"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-01-21",
+      "title_en": "Sports",
+      "title_fr": "Sports"
     },
     {
-      "role": "Critic",
-      "start": "2007-10-09",
-      "end": "2008-11-13",
-      "title": "Competitiveness and the New Economy"
+      "role_en": "Critic",
+      "start_date": "2007-10-09",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-13",
+      "title_en": "Competitiveness and the New Economy",
+      "title_fr": "Comp\u00e9titivit\u00e9 et nouvelle \u00e9conomie"
     },
     {
-      "role": "Critic",
-      "start": "2007-01-18",
-      "end": "2007-10-08",
-      "title": "Western Economic Diversification"
+      "role_en": "Critic",
+      "start_date": "2007-01-18",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-10-08",
+      "title_en": "Western Economic Diversification",
+      "title_fr": "Diversification de l'\u00e9conomie de l'Ouest"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-05-30",
-      "end": "2007-01-17",
-      "title": "Consumer Affairs"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-05-30",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2007-01-17",
+      "title_en": "Consumer Affairs",
+      "title_fr": "Consommation"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Multiculturalism"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-05-29",
+      "title_en": "Multiculturalism",
+      "title_fr": "A\u00een\u00e9s"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Seniors"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-05-29",
+      "title_en": "Seniors",
+      "title_fr": "Condition f\u00e9minine"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Status of Women"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Western Economic Diversification"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "title": "Asia-Pacific Gateway"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Sports"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-10-09",
-      "end": "2008-11-13",
-      "title": "Competitiveness and the New Economy"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-01-18",
-      "end": "2007-10-08",
-      "title": "Western Economic Diversification"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-05-30",
-      "end": "2007-01-17",
-      "title": "Consumer Affairs"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Multiculturalism"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Seniors"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Status of Women"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-05-29",
+      "title_en": "Status of Women",
+      "title_fr": "Multiculturalisme"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Professional engineer"
   ],
   "committees": [
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-30",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "Professional engineer",
+      "name_fr": "Ing\u00e9nieur"
     }
   ],
-  "id": "3da57866-49d8-42d1-9f5b-c78561f67c9d",
-  "date_of_birth": "1960-10-01"
+  "id": "3da57866-49d8-42d1-9f5b-c78561f67c9d"
 }

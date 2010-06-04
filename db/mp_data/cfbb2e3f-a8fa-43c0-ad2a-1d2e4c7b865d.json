@@ -1,192 +1,162 @@
 {
-  "place_of_birth": "Abidjan, Ivory Coast",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "",
+  "place_of_birth": {
+    "name_en": "Abidjan, Ivory Coast",
+    "name_fr": "Abidjan, C\u00f4te d'Ivoire"
+  },
   "name": "Maria Mourani",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2010-01-18",
-      "title": "Public Safety"
+      "role_en": "Critic",
+      "start_date": "2010-01-18",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Safety",
+      "title_fr": "S\u00e9curit\u00e9 publique"
     },
     {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Poverty"
+      "role_en": "Critic",
+      "start_date": "2008-06-26",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-10-30",
+      "title_en": "Poverty",
+      "title_fr": "Pauvret\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2007-11-12",
-      "end": "2008-06-25",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2007-11-12",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-06-25",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Critic",
-      "start": "2007-11-12",
-      "end": "2008-06-26",
-      "title": "Heritage"
+      "role_en": "Critic",
+      "start_date": "2007-11-12",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-06-26",
+      "title_en": "Heritage",
+      "title_fr": "Patrimoine"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-20",
-      "end": "2007-01-22",
-      "title": "Status of Women"
+      "role_en": "Critic",
+      "start_date": "2006-02-20",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-01-22",
+      "title_en": "Status of Women",
+      "title_fr": "Condition f\u00e9minine"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-06-26",
-      "end": "2010-01-17",
-      "title": "Public Safety"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-06-26",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2010-01-17",
+      "title_en": "Public Safety",
+      "title_fr": "S\u00e9curit\u00e9 publique"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2007-01-23",
-      "end": "2007-11-11",
-      "title": "Public Safety"
-    },
-    {
-      "role": "Critic",
-      "start": "2010-01-18",
-      "title": "Public Safety"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-06-26",
-      "end": "2008-10-30",
-      "title": "Poverty"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-11-12",
-      "end": "2008-06-25",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-11-12",
-      "end": "2008-06-26",
-      "title": "Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-20",
-      "end": "2007-01-22",
-      "title": "Status of Women"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-06-26",
-      "end": "2010-01-17",
-      "title": "Public Safety"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2007-01-23",
-      "end": "2007-11-11",
-      "title": "Public Safety"
+      "role_en": "Assistant Critic",
+      "start_date": "2007-01-23",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2007-11-11",
+      "title_en": "Public Safety",
+      "title_fr": "S\u00e9curit\u00e9 publique"
     }
-  ],
-  "professions": [
-    "Criminologist",
-    "Educator",
-    "Graduate assistant",
-    "Parole officer",
-    "Rehabilitation counsellor",
-    "Research officer",
-    "Sociologist"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2004-06-28"
+      "name_en": "Criminologist",
+      "name_fr": "Agente de lib\u00e9ration conditionnelle"
+    },
+    {
+      "name_en": "Educator",
+      "name_fr": "Agente de recherche"
+    },
+    {
+      "name_en": "Graduate assistant",
+      "name_fr": "Auxiliaire d'enseignement"
+    },
+    {
+      "name_en": "Parole officer",
+      "name_fr": "Conseill\u00e8re en r\u00e9adaptation"
+    },
+    {
+      "name_en": "Rehabilitation counsellor",
+      "name_fr": "Criminologue"
+    },
+    {
+      "name_en": "Research officer",
+      "name_fr": "\u00e9ducatrice"
+    },
+    {
+      "name_en": "Sociologist",
+      "name_fr": "Sociologue"
     }
   ],
-  "id": "cfbb2e3f-a8fa-43c0-ad2a-1d2e4c7b865d",
-  "date_of_birth": ""
+  "id": "cfbb2e3f-a8fa-43c0-ad2a-1d2e4c7b865d"
 }

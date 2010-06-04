@@ -1,174 +1,137 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1954-01-23",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "Carole Lavall\u00e9e",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine"
     },
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Heritage"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Heritage",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Critic",
-      "start": "2008-01-15",
-      "end": "2008-10-30",
-      "title": "Privacy and Ethics"
+      "role_en": "Critic",
+      "start_date": "2008-01-15",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-10-30",
+      "title_en": "Privacy and Ethics",
+      "title_fr": "Vie priv\u00e9e et \u00c9thique"
     },
     {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2008-10-30",
-      "title": "Labour"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-01-15",
-      "end": "2008-10-30",
-      "title": "Privacy and Ethics"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2008-10-30",
-      "title": "Labour"
+      "role_en": "Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-10-30",
+      "title_en": "Labour",
+      "title_fr": "Travail"
     }
-  ],
-  "professions": [
-    "Communication consultant",
-    "Communicator",
-    "Journalist"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent sur l'acc\u00e8s \u00e0 l'information, la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-2",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-2",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Acc\u00e8s \u00e0 l'Information, de la Protection des Renseignements Personnels et de l'\u00c9thique"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2004-06-28"
+      "name_en": "Communication consultant",
+      "name_fr": "Communicatrice"
+    },
+    {
+      "name_en": "Communicator",
+      "name_fr": "Experte-conseil en communications"
+    },
+    {
+      "name_en": "Journalist",
+      "name_fr": "Journaliste"
     }
   ],
-  "id": "eb5609d3-e55e-43f5-a34f-cf49ae1bbabb",
-  "date_of_birth": "1954-01-23"
+  "id": "eb5609d3-e55e-43f5-a34f-cf49ae1bbabb"
 }

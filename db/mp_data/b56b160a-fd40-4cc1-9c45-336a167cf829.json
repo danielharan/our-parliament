@@ -1,246 +1,178 @@
 {
-  "place_of_birth": "Ste-Flavie, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "1993-10-25",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1950-04-19",
+  "place_of_birth": {
+    "name_en": "Ste-Flavie, Quebec, Canada",
+    "name_fr": "Sainte-Flavie, Qu\u00e9bec, Canada"
+  },
   "name": "G\u00e9rard Asselin",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2000-12-20",
-      "end": "2004-08-05",
-      "title": "Forestry"
+      "role_en": "Critic",
+      "start_date": "2000-12-20",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-08-05",
+      "title_en": "Forestry",
+      "title_fr": "For\u00eats"
     },
     {
-      "role": "Critic",
-      "start": "1997",
-      "end": "1998-03",
-      "title": "Natural Resources"
+      "role_en": "Critic",
+      "start_date": "1997",
+      "role_fr": "Porte-parole",
+      "end_date": "1998-03",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "title": "Economic Development Agency of Canada for the Regions of Quebec"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Natural Resources"
+      "role_en": "Assistant Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-02-09",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1999-06-30",
-      "end": "2001",
-      "title": "Transport"
+      "role_en": "Assistant Critic",
+      "start_date": "1999-06-30",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2001",
+      "title_en": "Transport",
+      "title_fr": "Transports"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1996",
-      "end": "2003-01",
-      "title": "Environment"
+      "role_en": "Assistant Critic",
+      "start_date": "1996",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2003-01",
+      "title_en": "Environment",
+      "title_fr": "Environnement"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1994-09",
-      "end": "1997",
-      "title": "Public Works and Government Services"
-    },
-    {
-      "role": "Critic",
-      "start": "2000-12-20",
-      "end": "2004-08-05",
-      "title": "Forestry"
-    },
-    {
-      "role": "Critic",
-      "start": "1997",
-      "end": "1998-03",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "title": "Economic Development Agency of Canada for the Regions of Quebec"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1999-06-30",
-      "end": "2001",
-      "title": "Transport"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1996",
-      "end": "2003-01",
-      "title": "Environment"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1994-09",
-      "end": "1997",
-      "title": "Public Works and Government Services"
+      "role_en": "Assistant Critic",
+      "start_date": "1994-09",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1997",
+      "title_en": "Public Works and Government Services",
+      "title_fr": "Travaux publics et Services gouvernementaux"
     }
-  ],
-  "professions": [
-    "Foreman"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Parliament Hill Security of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Parliament Hill Security of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 sur la colline du Parlement du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Marine Transportation of the Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Marine Transportation of the Standing Committee on Transport",
+      "name_fr": "Sous-comit\u00e9 sur le transport maritime du Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Natural Resources and Government Operations",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Natural Resources and Government Operations",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales"
     },
     {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Transport",
+      "name_fr": "Comit\u00e9 permanent des transports"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Government Operations",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Parliament Hill Security of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Marine Transportation of the Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources and Government Operations",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Government Operations",
+      "name_fr": "Comit\u00e9 permanent sur l'administration gouvernementale"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "1993-10-25"
+      "name_en": "Foreman",
+      "name_fr": "Contrema\u00eetre"
     }
   ],
-  "id": "b56b160a-fd40-4cc1-9c45-336a167cf829",
-  "date_of_birth": "1950-04-19"
+  "id": "b56b160a-fd40-4cc1-9c45-336a167cf829"
 }

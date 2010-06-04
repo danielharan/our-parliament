@@ -1,100 +1,81 @@
 {
-  "place_of_birth": "Thetford Mines, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1974-01-01",
+  "place_of_birth": {
+    "name_en": "Thetford Mines, Quebec, Canada",
+    "name_fr": "Thetford Mines, Qu\u00e9bec, Canada"
+  },
   "name": "Christian Paradis",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "Minister of Natural Resources"
+      "role_en": "Minister",
+      "start_date": "2010-01-19",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Natural Resources",
+      "title_fr": "Ministre des Ressources naturelles"
     },
     {
-      "role": "Minister",
-      "start": "2008-06-25",
-      "end": "2010-01-18",
-      "title": "Minister of Public Works and Government Services"
+      "role_en": "Minister",
+      "start_date": "2008-06-25",
+      "role_fr": "Ministre",
+      "end_date": "2010-01-18",
+      "title_en": "Minister of Public Works and Government Services",
+      "title_fr": "Ministre des Travaux publics et des Services gouvernementaux"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Secretary of State (Agriculture)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2007-01-04",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2008-10-29",
+      "title_en": "Secretary of State (Agriculture)",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Agriculture)"
     },
     {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "Quebec"
+      "role_en": "Regional Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "Quebec",
+      "title_fr": "Qu\u00e9bec"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-01-03",
-      "title": "Parliamentary Secretary to the Minister of Natural Resources"
-    },
-    {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "Minister of Natural Resources"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-06-25",
-      "end": "2010-01-18",
-      "title": "Minister of Public Works and Government Services"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Secretary of State (Agriculture)"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "Quebec"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-01-03",
-      "title": "Parliamentary Secretary to the Minister of Natural Resources"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2007-01-03",
+      "title_en": "Parliamentary Secretary to the Minister of Natural Resources",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources naturelles"
     }
-  ],
-  "professions": [
-    "Lawyer"
   ],
   "committees": [
     {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-30",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
     }
   ],
-  "id": "cb9e0f12-f78f-4892-bc54-361d23267631",
-  "date_of_birth": "1974-01-01"
+  "id": "cb9e0f12-f78f-4892-bc54-361d23267631"
 }

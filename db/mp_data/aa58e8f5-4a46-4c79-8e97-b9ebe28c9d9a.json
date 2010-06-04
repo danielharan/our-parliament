@@ -1,187 +1,142 @@
 {
-  "place_of_birth": "Niagara Falls, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1963-04-18",
+  "place_of_birth": {
+    "name_en": "Niagara Falls, Ontario, Canada",
+    "name_fr": "Niagara Falls, Ontario, Canada"
+  },
   "name": "Peter Van Loan",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "Minister of International Trade"
+      "role_en": "Minister",
+      "start_date": "2010-01-19",
+      "role_fr": "Ministre",
+      "title_en": "Minister of International Trade",
+      "title_fr": "Ministre du Commerce international"
     },
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of Public Safety"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "end_date": "2010-01-18",
+      "title_en": "Minister of Public Safety",
+      "title_fr": "Ministre de la S\u00e9curit\u00e9 publique"
     },
     {
-      "role": "Minister",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Minister for Democratic Reform"
+      "role_en": "Minister",
+      "start_date": "2007-01-04",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister for Democratic Reform",
+      "title_fr": "Ministre de la r\u00e9forme d\u00e9mocratique"
     },
     {
-      "role": "Minister",
-      "start": "2006-11-27",
-      "end": "2007-01-03",
-      "title": "Minister of Intergovernmental Affairs"
+      "role_en": "Minister",
+      "start_date": "2006-11-27",
+      "role_fr": "Ministre",
+      "end_date": "2007-01-03",
+      "title_en": "Minister of Intergovernmental Affairs",
+      "title_fr": "Ministre des Affaires intergouvernementales"
     },
     {
-      "role": "Minister",
-      "start": "2006-11-27",
-      "end": "2007-01-03",
-      "title": "President of the Queen's Privy Council"
+      "role_en": "Minister",
+      "start_date": "2006-11-27",
+      "role_fr": "Ministre",
+      "end_date": "2007-01-03",
+      "title_en": "President of the Queen's Privy Council",
+      "title_fr": "Pr\u00e9sident du Conseil priv\u00e9"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2006-11-27",
-      "end": "2007-01-03",
-      "title": "Minister for Sport"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2006-11-27",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2007-01-03",
+      "title_en": "Minister for Sport",
+      "title_fr": "Ministre des Sports"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2006-11-26",
-      "title": "Parliamentary Secretary for Foreign Affairs"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2006-11-26",
+      "title_en": "Parliamentary Secretary for Foreign Affairs",
+      "title_fr": "Secr\u00e9taire parlementaire pour les Affaires \u00e9trang\u00e8res"
     },
     {
-      "role": "Leader of the Government in the House of Commons",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Leader of the Government in the House of Commons"
+      "role_en": "Leader of the Government in the House of Commons",
+      "start_date": "2007-01-04",
+      "role_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
+      "end_date": "2008-10-29",
+      "title_en": "Leader of the Government in the House of Commons",
+      "title_fr": "Leader du gouvernement \u00e0 la Chambre des communes"
     },
     {
-      "role": "House Leader",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Conservative Party House Leader"
+      "role_en": "House Leader",
+      "start_date": "2007-01-04",
+      "role_fr": "Leader parlementaire",
+      "end_date": "2008-10-29",
+      "title_en": "Conservative Party House Leader",
+      "title_fr": "Leader en Chambre du Parti conservateur"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Human Resources and Skills Development"
-    },
-    {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "Minister of International Trade"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of Public Safety"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Minister for Democratic Reform"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-11-27",
-      "end": "2007-01-03",
-      "title": "Minister of Intergovernmental Affairs"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-11-27",
-      "end": "2007-01-03",
-      "title": "President of the Queen's Privy Council"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2006-11-27",
-      "end": "2007-01-03",
-      "title": "Minister for Sport"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2006-11-26",
-      "title": "Parliamentary Secretary for Foreign Affairs"
-    },
-    {
-      "role": "Leader of the Government in the House of Commons",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Leader of the Government in the House of Commons"
-    },
-    {
-      "role": "House Leader",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Conservative Party House Leader"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "Human Resources and Skills Development"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Human Resources and Skills Development",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences"
     }
-  ],
-  "professions": [
-    "Lawyer",
-    "Professor"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 sur les fonds de l'assurance-emploi du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "Professeur"
     }
   ],
-  "id": "aa58e8f5-4a46-4c79-8e97-b9ebe28c9d9a",
-  "date_of_birth": "1963-04-18"
+  "id": "aa58e8f5-4a46-4c79-8e97-b9ebe28c9d9a"
 }

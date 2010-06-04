@@ -1,58 +1,59 @@
 {
-  "place_of_birth": "St-Isidore, Ontario, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2005-04-25",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1947-01-05",
+  "place_of_birth": {
+    "name_en": "St-Isidore, Ontario, Canada",
+    "name_fr": "Saint-Isidore, Ontario, Canada"
+  },
   "name": "Royal Galipeau",
   "functions": [
     {
-      "role": "Deputy Chair of Committees of the Whole",
-      "start": "2006-04-05",
-      "end": "2008-11-20",
-      "title": "Deputy Chair of Committees of the Whole"
-    },
-    {
-      "role": "Deputy Chair of Committees of the Whole",
-      "start": "2006-04-05",
-      "end": "2008-11-20",
-      "title": "Deputy Chair of Committees of the Whole"
+      "role_en": "Deputy Chair of Committees of the Whole",
+      "start_date": "2006-04-05",
+      "role_fr": "Vice-pr\u00e9sident des comit\u00e9s pl\u00e9niers",
+      "end_date": "2008-11-20",
+      "title_en": "Deputy Chair of Committees of the Whole",
+      "title_fr": "Vice-pr\u00e9sident des comit\u00e9s pl\u00e9niers"
     }
-  ],
-  "professions": [
-    "Advisor",
-    "Businessman",
-    "Corporate director"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2005-04-25"
+      "name_en": "Advisor",
+      "name_fr": "Conseiller"
+    },
+    {
+      "name_en": "Businessman",
+      "name_fr": "Directeur d'entreprise"
+    },
+    {
+      "name_en": "Corporate director",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "6696452b-1ef5-449d-9002-fd1b57fb0c12",
-  "date_of_birth": "1947-01-05"
+  "id": "6696452b-1ef5-449d-9002-fd1b57fb0c12"
 }

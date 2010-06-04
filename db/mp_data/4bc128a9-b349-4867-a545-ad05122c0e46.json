@@ -1,73 +1,71 @@
 {
-  "place_of_birth": "Thompson, Manitoba, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1982-09-09",
+  "place_of_birth": {
+    "name_en": "Thompson, Manitoba, Canada",
+    "name_fr": "Thompson, Manitoba, Canada"
+  },
   "name": "Niki Ashton",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-02-13",
-      "title": "Literacy"
+      "role_en": "Critic",
+      "start_date": "2009-02-13",
+      "role_fr": "Porte-parole",
+      "title_en": "Literacy",
+      "title_fr": "Alphab\u00e9tisation"
     },
     {
-      "role": "Critic",
-      "start": "2009-02-13",
-      "title": "Post Secondary Education"
+      "role_en": "Critic",
+      "start_date": "2009-02-13",
+      "role_fr": "Porte-parole",
+      "title_en": "Post Secondary Education",
+      "title_fr": "\u00c9ducation post secondaire"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Community Development"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Community Development",
+      "title_fr": "D\u00e9veloppement communautaire"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Rural Development"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Rural Development",
+      "title_fr": "D\u00e9veloppement rural"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Youth"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-02-13",
-      "title": "Literacy"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-02-13",
-      "title": "Post Secondary Education"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Community Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Rural Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Youth"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Youth",
+      "title_fr": "Jeunesse"
     }
-  ],
-  "professions": [
-    "Instructor",
-    "Lecturer",
-    "Researcher"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2006-01-23"
+      "name_en": "Instructor",
+      "name_fr": "Charg\u00e9e de cours"
+    },
+    {
+      "name_en": "Lecturer",
+      "name_fr": "Instructrice"
+    },
+    {
+      "name_en": "Researcher",
+      "name_fr": "Recherchiste"
     }
   ],
-  "id": "4bc128a9-b349-4867-a545-ad05122c0e46",
-  "date_of_birth": "1982-09-09"
+  "id": "4bc128a9-b349-4867-a545-ad05122c0e46"
 }

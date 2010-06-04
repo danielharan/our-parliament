@@ -1,439 +1,310 @@
 {
-  "place_of_birth": "Kingston, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "1988-11-21",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1946-11-12",
+  "place_of_birth": {
+    "name_en": "Kingston, Ontario, Canada",
+    "name_fr": "Kingston, Ontario, Canada"
+  },
   "name": "Peter Andrew Stewart Milliken",
   "functions": [
     {
-      "role": "Speaker of The House of Commons",
-      "start": "2001-01-29",
-      "title": "Speaker of the House of Commons"
+      "role_en": "Speaker of The House of Commons",
+      "start_date": "2001-01-29",
+      "role_fr": "Pr\u00e9sident de la Chambre des Communes",
+      "title_en": "Speaker of the House of Commons",
+      "title_fr": "Pr\u00e9sident de la Chambre des communes"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "1993-12-06",
-      "end": "1996-02-22",
-      "title": "Parliamentary Secretary to the Leader of the Government in the House of Commons"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "1993-12-06",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "1996-02-22",
+      "title_en": "Parliamentary Secretary to the Leader of the Government in the House of Commons",
+      "title_fr": "Secr\u00e9taire parlementaire du leader du gouvernement \u00e0 la Chambre des communes"
     },
     {
-      "role": "House Leader",
-      "start": "1989-10",
-      "end": "1993",
-      "title": "Liberal Party Deputy House LeaderArea of Responsability: House business"
+      "role_en": "House Leader",
+      "start_date": "1989-10",
+      "role_fr": "Leader parlementaire",
+      "end_date": "1993",
+      "title_en": "Liberal Party Deputy House LeaderArea of Responsability: House business",
+      "title_fr": "Leader adjoint en Chambre du Parti lib\u00e9ralChamp de responsabilit\u00e9: Travaux de la Chambre"
     },
     {
-      "role": "Deputy Speaker",
-      "start": "1997-09-23",
-      "end": "2000-10-22",
-      "title": "Deputy Speaker and Chair of Committees of the Whole of the House of Commons"
+      "role_en": "Deputy Speaker",
+      "start_date": "1997-09-23",
+      "role_fr": "Vice-pr\u00e9sident",
+      "end_date": "2000-10-22",
+      "title_en": "Deputy Speaker and Chair of Committees of the Whole of the House of Commons",
+      "title_fr": "Vice-pr\u00e9sident et pr\u00e9sident des Comit\u00e9s pl\u00e9niers de la Chambre des communes"
     },
     {
-      "role": "Deputy Chair of Committees of the Whole",
-      "start": "1996-10-29",
-      "end": "1997-04-27",
-      "title": "Deputy Chair of Committees of the Whole"
+      "role_en": "Deputy Chair of Committees of the Whole",
+      "start_date": "1996-10-29",
+      "role_fr": "Vice-pr\u00e9sident des comit\u00e9s pl\u00e9niers",
+      "end_date": "1997-04-27",
+      "title_en": "Deputy Chair of Committees of the Whole",
+      "title_fr": "Vice-pr\u00e9sident des comit\u00e9s pl\u00e9niers"
     },
     {
-      "role": "Critic",
-      "start": "1989-02",
-      "end": "1992",
-      "title": "Electoral Reform"
+      "role_en": "Critic",
+      "start_date": "1989-02",
+      "role_fr": "Porte-parole",
+      "end_date": "1992",
+      "title_en": "Electoral Reform",
+      "title_fr": "R\u00e9forme \u00e9lectorale"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1989-02-01",
-      "end": "1993-01-01",
-      "title": "Seniors"
-    },
-    {
-      "role": "Speaker of The House of Commons",
-      "start": "2001-01-29",
-      "title": "Speaker of the House of Commons"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "1993-12-06",
-      "end": "1996-02-22",
-      "title": "Parliamentary Secretary to the Leader of the Government in the House of Commons"
-    },
-    {
-      "role": "House Leader",
-      "start": "1989-10",
-      "end": "1993",
-      "title": "Liberal Party Deputy House LeaderArea of Responsability: House business"
-    },
-    {
-      "role": "Deputy Speaker",
-      "start": "1997-09-23",
-      "end": "2000-10-22",
-      "title": "Deputy Speaker and Chair of Committees of the Whole of the House of Commons"
-    },
-    {
-      "role": "Deputy Chair of Committees of the Whole",
-      "start": "1996-10-29",
-      "end": "1997-04-27",
-      "title": "Deputy Chair of Committees of the Whole"
-    },
-    {
-      "role": "Critic",
-      "start": "1989-02",
-      "end": "1992",
-      "title": "Electoral Reform"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1989-02-01",
-      "end": "1993-01-01",
-      "title": "Seniors"
+      "role_en": "Assistant Critic",
+      "start_date": "1989-02-01",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1993-01-01",
+      "title_en": "Seniors",
+      "title_fr": "A\u00een\u00e9s"
     }
-  ],
-  "professions": [
-    "Barrister and solicitor",
-    "Lawyer"
   ],
   "committees": [
     {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-20",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 d'\u00e9tudier le projet de loi C-20"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 charg\u00e9 de l'\u00e9tude de la Loi r\u00e9f\u00e9rendaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on the Budget of the Standing Committee on Liaison",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Budget of the Standing Committee on Liaison",
+      "name_fr": "Sous-comit\u00e9 du budget du Comit\u00e9 permanent de liaison"
     },
     {
-      "committee": "Special Committee on Electoral Reform",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Special Committee on Electoral Reform",
+      "name_fr": "Comit\u00e9 permanent des privil\u00e8ges et \u00e9lections"
     },
     {
-      "committee": "Standing Committee on Privileges and Elections",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Privileges and Elections",
+      "name_fr": "Comit\u00e9 sp\u00e9cial charg\u00e9 de la r\u00e9forme \u00e9lectorale"
     },
     {
-      "committee": "Standing Committee on Elections, Privileges, Procedure and Private Members' Business",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Elections, Privileges, Procedure and Private Members' Business",
+      "name_fr": "Comit\u00e9 permanent des \u00e9lections, des privil\u00e8ges, de la proc\u00e9dure et des affaires \u00e9manant des d\u00e9put\u00e9s"
     },
     {
-      "committee": "Standing Committee on Privileges and Elections",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Privileges and Elections",
+      "name_fr": "Comit\u00e9 permanent des privil\u00e8ges et \u00e9lections"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 d'\u00e9tudier le projet de loi C-20"
     },
     {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry",
+      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques"
     },
     {
-      "committee": "Standing Committee on Justice and Legal Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Legal Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de l'industrie"
     },
     {
-      "committee": "Standing Committee on Liaison",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Liaison",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de liaison"
     },
     {
-      "committee": "Subcommittee on the Budget of the Standing Committee on Liaison",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Budget of the Standing Committee on Liaison",
+      "name_fr": "Sous-comit\u00e9 charg\u00e9 de l'\u00e9tude de la Loi r\u00e9f\u00e9rendaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 du budget du Comit\u00e9 permanent de liaison"
     },
     {
-      "committee": "Legislative Committee on Bill C-227",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Legislative Committee on Bill C-227",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-227"
     },
     {
-      "committee": "Special Committee on Electoral Reform",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Special Committee on Electoral Reform",
+      "name_fr": "Comit\u00e9 permanent de la gestion de la Chambre"
     },
     {
-      "committee": "Standing Committee on House Management",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on House Management",
+      "name_fr": "Comit\u00e9 permanent des privil\u00e8ges et \u00e9lections"
     },
     {
-      "committee": "Standing Committee on Privileges and Elections",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Privileges and Elections",
+      "name_fr": "Comit\u00e9 sp\u00e9cial charg\u00e9 de la r\u00e9forme \u00e9lectorale"
     },
     {
-      "committee": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Legislative Committee E on Bill C-38",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee E on Bill C-38",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif E sur le projet de loi C-38"
     },
     {
-      "committee": "Legislative Committee on Bill C-11",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-11",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-11"
     },
     {
-      "committee": "Legislative Committee on Bill C-59",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-59",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-59"
     },
     {
-      "committee": "Legislative Committee on Bill C-60",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-60",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-60"
     },
     {
-      "committee": "Legislative Committee on Bill S-9",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill S-9",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi S-9"
     },
     {
-      "committee": "Standing Committee on Elections, Privileges, Procedure and Private Members' Business",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Elections, Privileges, Procedure and Private Members' Business",
+      "name_fr": "Comit\u00e9 permanent des \u00e9lections, des privil\u00e8ges, de la proc\u00e9dure et des affaires \u00e9manant des d\u00e9put\u00e9s"
     },
     {
-      "committee": "Standing Committee on Privileges and Elections",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Chair ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Chair ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs",
-      "role": "Chair ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Budget of the Standing Committee on Liaison",
-      "role": "Vice-Chair ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Special Committee on Electoral Reform",
-      "role": "Vice-Chair ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Privileges and Elections",
-      "role": "Vice-Chair ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Elections, Privileges, Procedure and Private Members' Business",
-      "role": "Vice-Chair ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Privileges and Elections",
-      "role": "Vice-Chair ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Legal Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Liaison",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Budget of the Standing Committee on Liaison",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-227",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Special Committee on Electoral Reform",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on House Management",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Privileges and Elections",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee E on Bill C-38",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-11",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-59",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-60",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill S-9",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Elections, Privileges, Procedure and Private Members' Business",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Privileges and Elections",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Privileges and Elections",
+      "name_fr": "Comit\u00e9 permanent des privil\u00e8ges et \u00e9lections"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "1988-11-21"
+      "name_en": "Barrister and solicitor",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat (barrister / solicitor)"
     }
   ],
-  "id": "206ef0b1-261c-4ea0-98c2-e8fae2209e2e",
-  "date_of_birth": "1946-11-12"
+  "id": "206ef0b1-261c-4ea0-98c2-e8fae2209e2e"
 }

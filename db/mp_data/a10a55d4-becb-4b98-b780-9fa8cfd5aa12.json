@@ -1,73 +1,76 @@
 {
-  "place_of_birth": "Brantford, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1954-03-15",
+  "place_of_birth": {
+    "name_en": "Brantford, Ontario, Canada",
+    "name_fr": "Brantford, Ontario, Canada"
+  },
   "name": "Phil McColeman",
   "functions": [
 
   ],
-  "professions": [
-    "Construction executive",
-    "Project manager",
-    "Construction",
-    "Property manager",
-    "Real estate developer"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Construction executive",
+      "name_fr": "Chef de chantier"
+    },
+    {
+      "name_en": "Project manager",
+      "name_fr": "Chef du service de la gestion des immeubles"
+    },
+    {
+      "name_en": "Construction",
+      "name_fr": "Gestionnaire de projet"
+    },
+    {
+      "name_en": "Property manager",
+      "name_fr": "Construction"
+    },
+    {
+      "name_en": "Real estate developer",
+      "name_fr": "Promoteur immobilier"
     }
   ],
-  "id": "a10a55d4-becb-4b98-b780-9fa8cfd5aa12",
-  "date_of_birth": "1954-03-15"
+  "id": "a10a55d4-becb-4b98-b780-9fa8cfd5aa12"
 }

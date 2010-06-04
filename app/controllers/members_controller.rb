@@ -53,6 +53,7 @@ class MembersController < ApplicationController
     activity_stream = ActivityStream.new
     activity_stream.add_entries(fetch_vote_entries())
     activity_stream.add_entries(fetch_quote_entries())
+    activity_stream.add_entries(fetch_twitter_entries())
     return activity_stream
   end
   
@@ -70,6 +71,15 @@ class MembersController < ApplicationController
     quotes = @mp.hansard_statements.first 5
     quotes.each { |quote|
       entries << ActivityStream::Entry.new(quote.time.to_date, quote)
+    }
+    return entries
+  end
+  
+  def fetch_twitter_entries
+    entries = []
+    tweets = @mp.tweets.first 5
+    tweets.each { |tweet|
+      entries << ActivityStream::Entry.new(tweet.created_at.to_date, tweet)
     }
     return entries
   end

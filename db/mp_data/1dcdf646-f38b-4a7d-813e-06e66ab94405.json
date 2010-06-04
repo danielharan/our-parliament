@@ -1,68 +1,66 @@
 {
-  "place_of_birth": "Saint-Lambert, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1961-12-20",
+  "place_of_birth": {
+    "name_en": "Saint-Lambert, Quebec, Canada",
+    "name_fr": "Saint-Lambert, Qu\u00e9bec, Canada"
+  },
   "name": "Jos\u00e9e Beaudin",
   "functions": [
     {
-      "role": "Assistant Critic",
-      "start": "2008-10-31",
-      "title": "Human Resources and Social Development"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-10-31",
-      "title": "Human Resources and Social Development"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Human Resources and Social Development",
+      "title_fr": "Ressources humaines et D\u00e9veloppement social"
     }
-  ],
-  "professions": [
-    "Administrator",
-    "Communications officer",
-    "Coordinator"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2008-10-14"
+      "name_en": "Administrator",
+      "name_fr": "Administratrice"
+    },
+    {
+      "name_en": "Communications officer",
+      "name_fr": "Agente de communications"
+    },
+    {
+      "name_en": "Coordinator",
+      "name_fr": "Coordinatrice"
     }
   ],
-  "id": "1dcdf646-f38b-4a7d-813e-06e66ab94405",
-  "date_of_birth": "1961-12-20"
+  "id": "1dcdf646-f38b-4a7d-813e-06e66ab94405"
 }

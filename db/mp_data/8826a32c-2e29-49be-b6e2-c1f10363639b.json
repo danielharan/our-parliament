@@ -1,185 +1,141 @@
 {
-  "place_of_birth": "London, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "1997-06-02",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1951-08-16",
+  "place_of_birth": {
+    "name_en": "London, Ontario, Canada",
+    "name_fr": "London, Ontario, Canada"
+  },
   "name": "Irene Mathyssen",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Status of Women"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "title_en": "Status of Women",
+      "title_fr": "Condition f\u00e9minine"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "Housing"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-09-26",
+      "title_en": "Housing",
+      "title_fr": "Logement"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "Housing, Public"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-09-26",
+      "title_en": "Housing, Public",
+      "title_fr": "Logement social"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Public Safety"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Status of Women"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "Housing"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "Housing, Public"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Public Safety"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Public Safety",
+      "title_fr": "S\u00e9curit\u00e9 publique"
     }
-  ],
-  "professions": [
-    "Community activist",
-    "Teacher"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "1997-06-02"
+      "name_en": "Community activist",
+      "name_fr": "Activiste communautaire"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "Enseignante"
     }
   ],
-  "id": "8826a32c-2e29-49be-b6e2-c1f10363639b",
-  "date_of_birth": "1951-08-16"
+  "id": "8826a32c-2e29-49be-b6e2-c1f10363639b"
 }

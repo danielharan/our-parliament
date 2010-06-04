@@ -13,6 +13,10 @@ xml.rss :version => "2.0" do
           xml.title "#{@mp.name} commented on #{entry.object.topic}"
           xml.description "#{entry.object.text} (#{entry.object.time})"
           xml.pubDate entry.object.created_at.to_s(:rfc822)
+        elsif Tweet === entry.object
+          xml.title "#{@mp.name} posted on Twitter"
+          xml.description "#{auto_link(entry.object.text)} (#{entry.object.time})"
+          xml.pubDate entry.object.created_at.to_s(:rfc822)
         end
       end
     end

@@ -1,138 +1,118 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1988-11-21",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1959-04-30",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "Stephen Harper",
   "functions": [
     {
-      "role": "Prime Minister of Canada",
-      "start": "2006-02-06",
-      "title": "Prime Minister"
+      "role_en": "Prime Minister of Canada",
+      "start_date": "2006-02-06",
+      "role_fr": "Premier ministre du Canada",
+      "title_en": "Prime Minister",
+      "title_fr": "Premier ministre"
     },
     {
-      "role": "Leader of the Official Opposition",
-      "start": "2004-03-20",
-      "end": "2006-02-05",
-      "title": "Leader of the Official Opposition"
+      "role_en": "Leader of the Official Opposition",
+      "start_date": "2004-03-20",
+      "role_fr": "Chef de l'Opposition Officielle",
+      "end_date": "2006-02-05",
+      "title_en": "Leader of the Official Opposition",
+      "title_fr": "Chef de l'Opposition officielle"
     },
     {
-      "role": "Leader of the Official Opposition",
-      "start": "2002-05-21",
-      "end": "2004-01-08",
-      "title": "Leader of the Official Opposition"
+      "role_en": "Leader of the Official Opposition",
+      "start_date": "2002-05-21",
+      "role_fr": "Chef de l'Opposition Officielle",
+      "end_date": "2004-01-08",
+      "title_en": "Leader of the Official Opposition",
+      "title_fr": "Chef de l'Opposition officielle"
     },
     {
-      "role": "Critic",
-      "start": "2004-03-20",
-      "end": "2006-02-05",
-      "title": "Prime Minister"
+      "role_en": "Critic",
+      "start_date": "2004-03-20",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Prime Minister",
+      "title_fr": "Premier ministre"
     },
     {
-      "role": "Critic",
-      "start": "2002-05-21",
-      "end": "2004-01-21",
-      "title": "Prime Minister"
+      "role_en": "Critic",
+      "start_date": "2002-05-21",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-01-21",
+      "title_en": "Prime Minister",
+      "title_fr": "Premier ministre"
     },
     {
-      "role": "Critic",
-      "start": "1995-06",
-      "end": "1996",
-      "title": "Finance"
+      "role_en": "Critic",
+      "start_date": "1995-06",
+      "role_fr": "Porte-parole",
+      "end_date": "1996",
+      "title_en": "Finance",
+      "title_fr": "Finances"
     },
     {
-      "role": "Critic",
-      "start": "1994-09",
-      "end": "1997-01",
-      "title": "Intergovernmental Affairs"
-    },
-    {
-      "role": "Prime Minister of Canada",
-      "start": "2006-02-06",
-      "title": "Prime Minister"
-    },
-    {
-      "role": "Leader of the Official Opposition",
-      "start": "2004-03-20",
-      "end": "2006-02-05",
-      "title": "Leader of the Official Opposition"
-    },
-    {
-      "role": "Leader of the Official Opposition",
-      "start": "2002-05-21",
-      "end": "2004-01-08",
-      "title": "Leader of the Official Opposition"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-03-20",
-      "end": "2006-02-05",
-      "title": "Prime Minister"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-05-21",
-      "end": "2004-01-21",
-      "title": "Prime Minister"
-    },
-    {
-      "role": "Critic",
-      "start": "1995-06",
-      "end": "1996",
-      "title": "Finance"
-    },
-    {
-      "role": "Critic",
-      "start": "1994-09",
-      "end": "1997-01",
-      "title": "Intergovernmental Affairs"
+      "role_en": "Critic",
+      "start_date": "1994-09",
+      "role_fr": "Porte-parole",
+      "end_date": "1997-01",
+      "title_en": "Intergovernmental Affairs",
+      "title_fr": "Affaires intergouvernementales"
     }
-  ],
-  "professions": [
-    "Author",
-    "Economist",
-    "Lecturer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Government Operations",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales"
     },
     {
-      "committee": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 charg\u00e9 de l'\u00e9tude de la Loi r\u00e9f\u00e9rendaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Author",
+      "name_fr": "Auteur"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2003-12-22"
+      "name_en": "Economist",
+      "name_fr": "Charg\u00e9 de cours"
     },
     {
-      "party": "Reform Party",
-      "start": "1988-11-21",
-      "end": "2000-03-26"
+      "name_en": "Lecturer",
+      "name_fr": "\u00e9conomiste"
     }
   ],
-  "id": "0218bf67-ef3a-4a8d-8ab4-0229e4fcaa54",
-  "date_of_birth": "1959-04-30"
+  "id": "0218bf67-ef3a-4a8d-8ab4-0229e4fcaa54"
 }

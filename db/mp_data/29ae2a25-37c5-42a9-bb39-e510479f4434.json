@@ -1,41 +1,42 @@
 {
-  "place_of_birth": "Sioux Lookout, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1952-11-10",
+  "place_of_birth": {
+    "name_en": "Sioux Lookout, Ontario, Canada",
+    "name_fr": "Sioux Lookout, Ontario, Canada"
+  },
   "name": "Peter James (Jim) Maloway",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Science and Technology"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Science and Technology",
+      "title_fr": "Sciences et Technologie"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Public WorksArea of responsibility: E-government"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Science and Technology"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Public WorksArea of responsibility: E-government"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Public WorksArea of responsibility: E-government",
+      "title_fr": "Travaux publicsChamp de responsabilit\u00e9: Cybergouvernement"
     }
-  ],
-  "professions": [
-    "Businessman"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2008-10-14"
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "29ae2a25-37c5-42a9-bb39-e510479f4434",
-  "date_of_birth": "1952-11-10"
+  "id": "29ae2a25-37c5-42a9-bb39-e510479f4434"
 }

@@ -1,335 +1,247 @@
 {
-  "place_of_birth": "Jonqui\u00e8re, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2004-02-02",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "1984-09-04",
+      "end_date": "2004-02-01",
+      "name_en": "Progressive Conservative Party",
+      "name_fr": "Parti progressiste-conservateur"
+    }
+  ],
+  "date_of_birth": "1948-07-06",
+  "place_of_birth": {
+    "name_en": "Jonqui\u00e8re, Quebec, Canada",
+    "name_fr": "Jonqui\u00e8re, Qu\u00e9bec, Canada"
+  },
   "name": "Jean-Pierre Blackburn",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "Minister of Veterans Affairs"
+      "role_en": "Minister",
+      "start_date": "2010-01-19",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Veterans Affairs",
+      "title_fr": "Ministre des Anciens Combattants"
     },
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of National Revenue"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "end_date": "2010-01-18",
+      "title_en": "Minister of National Revenue",
+      "title_fr": "Ministre du Revenu national"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2008-10-29",
-      "title": "Minister of Labour"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister of Labour",
+      "title_fr": "Ministre de l'Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2008-10-29",
-      "title": "Minister of the Economic Development Agency of Canada for the Regions of Quebec"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister of the Economic Development Agency of Canada for the Regions of Quebec",
+      "title_fr": "Ministre du Travail"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State (Agriculture)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister of State (Agriculture)",
+      "title_fr": "Ministre d'\u00c9tat (Agriculture)"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "1993-09-01",
-      "end": "1993-10-26",
-      "title": "Parliamentary Secretary to the Minister of National Defence"
-    },
-    {
-      "role": "Minister",
-      "start": "2010-01-19",
-      "title": "Minister of Veterans Affairs"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of National Revenue"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2008-10-29",
-      "title": "Minister of Labour"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2008-10-29",
-      "title": "Minister of the Economic Development Agency of Canada for the Regions of Quebec"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State (Agriculture)"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "1993-09-01",
-      "end": "1993-10-26",
-      "title": "Parliamentary Secretary to the Minister of National Defence"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "1993-09-01",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "1993-10-26",
+      "title_en": "Parliamentary Secretary to the Minister of National Defence",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale"
     }
-  ],
-  "professions": [
-    "Administrator",
-    "Manager",
-    "Professor - community college"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Labour, Employment and Immigration",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Labour, Employment and Immigration",
+      "name_fr": "Comit\u00e9 permanent du travail, de l'emploi et de l'immigration"
     },
     {
-      "committee": "Subcommittee on Immigration of the Standing Committee on Labour, Employment and Immigration",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Immigration of the Standing Committee on Labour, Employment and Immigration",
+      "name_fr": "Sous-comit\u00e9 de l'immigration du Comit\u00e9 permanent du travail, de l'emploi et de l'immigration"
     },
     {
-      "committee": "Subcommittee on Labour and Employment of the Standing Committee on Labour, Employment and Immigration",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Labour and Employment of the Standing Committee on Labour, Employment and Immigration",
+      "name_fr": "Sous-comit\u00e9 du travail et emploi du Comit\u00e9 permanent du travail, de l'emploi et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Labour, Employment and Immigration",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 33,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Labour, Employment and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et de l'organisation"
     },
     {
-      "committee": "Standing Committee on Procedure and Organization",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 33,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and Organization",
+      "name_fr": "Comit\u00e9 permanent du travail, de l'emploi et de l'immigration"
     },
     {
-      "committee": "Legislative Committee F on Bill C-10",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Legislative Committee F on Bill C-10",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif F sur le projet de loi C-10"
     },
     {
-      "committee": "Legislative Committee F on Bill C-9",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Legislative Committee F on Bill C-9",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif F sur le projet de loi C-9"
     },
     {
-      "committee": "Legislative Committee on Bill C-21",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Legislative Committee on Bill C-21",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-21"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Legislative Committee on Bill C-21",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-21",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-21"
     },
     {
-      "committee": "Standing Committee on Labour, Employment and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Labour, Employment and Immigration",
+      "name_fr": "Comit\u00e9 permanent du travail, de l'emploi et de l'immigration"
     },
     {
-      "committee": "Legislative Committee on Bill C-16",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-16",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-16"
     },
     {
-      "committee": "Standing Committee on Communications and Culture",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Communications and Culture",
+      "name_fr": "Comit\u00e9 permanent des communications et de la culture"
     },
     {
-      "committee": "Legislative Committee G on Bill C-55",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee G on Bill C-55",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif G sur le projet de loi C-55"
     },
     {
-      "committee": "Legislative Committee on Bill C-87",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-87",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-87"
     },
     {
-      "committee": "Standing Committee on Labour, Employment and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Labour, Employment and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et de l'organisation"
     },
     {
-      "committee": "Standing Committee on Labour, Manpower and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Labour, Manpower and Immigration",
+      "name_fr": "Comit\u00e9 permanent des pr\u00e9visions budg\u00e9taires en g\u00e9n\u00e9ral"
     },
     {
-      "committee": "Standing Committee on Miscellaneous Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Miscellaneous Estimates",
+      "name_fr": "Comit\u00e9 permanent du travail, de la main-d'oeuvre et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Procedure and Organization",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Labour, Employment and Immigration",
-      "role": "Chair ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Immigration of the Standing Committee on Labour, Employment and Immigration",
-      "role": "Chair ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Labour and Employment of the Standing Committee on Labour, Employment and Immigration",
-      "role": "Chair ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Vice-Chair ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Labour, Employment and Immigration",
-      "role": "Vice-Chair ",
-      "parliament": 33,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and Organization",
-      "role": "Vice-Chair ",
-      "parliament": 33,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee F on Bill C-10",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee F on Bill C-9",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-21",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-21",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Labour, Employment and Immigration",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-16",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Communications and Culture",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee G on Bill C-55",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-87",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Labour, Employment and Immigration",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Labour, Manpower and Immigration",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Miscellaneous Estimates",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and Organization",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and Organization",
+      "name_fr": "Comit\u00e9 permanent du travail, de l'emploi et de l'immigration"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-02-02"
+      "name_en": "Administrator",
+      "name_fr": "Administrateur"
     },
     {
-      "party": "Progressive Conservative Party",
-      "start": "1984-09-04",
-      "end": "2004-02-01"
+      "name_en": "Manager",
+      "name_fr": "G\u00e9rant"
+    },
+    {
+      "name_en": "Professor - community college",
+      "name_fr": "Professeur - coll\u00e8ge"
     }
   ],
-  "id": "74df2965-5f3e-47af-8a91-cdf4d6e3f66a",
-  "date_of_birth": "1948-07-06"
+  "id": "74df2965-5f3e-47af-8a91-cdf4d6e3f66a"
 }

@@ -1,0 +1,17 @@
+<li>
+  <% if recorded_vote.mp.image? %>
+    <%= link_to image_tag(recorded_vote.mp.image.url(:small), :alt => "photo of #{recorded_vote.mp.name}"), "", :title => "", :class => "photo" %>
+  <% else %>
+    <%= link_to image_tag("placeholder_photo_small.gif", :alt => recorded_vote.mp.name), member_path(recorded_vote.mp), :class => 'photo' %>
+  <% end %>
+  <div class="description">
+    <span class="name"><%= link_to recorded_vote.mp.name, member_path(recorded_vote.mp), :title => "" %></span>
+    <span class="action">
+    </span>
+    <small>
+      <% if recorded_vote.mp and recorded_vote.mp.party %><span class="caucus"><%= recorded_vote.mp.party.name %></span>,<% end %>
+      <% if recorded_vote.mp and recorded_vote.mp.riding %><span class="constituency"><%= recorded_vote.mp.riding.name %></span><% end %><br/>
+	  <strong>Voted <%= recorded_vote.stance %></strong>
+    </small>
+  </div>
+</li>

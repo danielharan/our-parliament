@@ -1,89 +1,77 @@
 {
-  "place_of_birth": "Qu\u00e9bec, Quebec, Canada",
-  "language": "French, English",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1949-02-23",
+  "place_of_birth": {
+    "name_en": "Qu\u00e9bec, Quebec, Canada",
+    "name_fr": "Qu\u00e9bec, Qu\u00e9bec, Canada"
+  },
   "name": "Marc Garneau",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Industry"
+      "role_en": "Critic",
+      "start_date": "2009-01-22",
+      "role_fr": "Porte-parole",
+      "title_en": "Industry",
+      "title_fr": "Industrie"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "title": "Science and Technology"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Industry"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "title": "Science and Technology"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "title_en": "Science and Technology",
+      "title_fr": "Sciences et Technologie"
     }
-  ],
-  "professions": [
-    "Astronaut",
-    "Engineer"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     }
   ],
-  "parties": [
+  "language": "French, English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Astronaut",
+      "name_fr": "Astronaute"
+    },
+    {
+      "name_en": "Engineer",
+      "name_fr": "Ing\u00e9nieur"
     }
   ],
-  "id": "bc2e82f3-02f1-46e2-b9be-7d5f04ddddc9",
-  "date_of_birth": "1949-02-23"
+  "id": "bc2e82f3-02f1-46e2-b9be-7d5f04ddddc9"
 }

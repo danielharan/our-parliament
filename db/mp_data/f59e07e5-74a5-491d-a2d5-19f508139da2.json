@@ -1,308 +1,219 @@
 {
-  "place_of_birth": "Vancouver, British Columbia, Canada",
-  "language": "",
+  "parties": [
+    {
+      "start_date": "1988-11-21",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1943-04-01",
+  "place_of_birth": {
+    "name_en": "Vancouver, British Columbia, Canada",
+    "name_fr": "Vancouver, Colombie-Britannique, Canada"
+  },
   "name": "Dawn Black",
   "functions": [
     {
-      "role": "Caucus Chair",
-      "start": "1990",
-      "end": "1991",
-      "title": "N.D.P. Deputy Caucus Chair"
+      "role_en": "Caucus Chair",
+      "start_date": "1990",
+      "role_fr": "Pr\u00e9sident du caucus",
+      "end_date": "1991",
+      "title_en": "N.D.P. Deputy Caucus Chair",
+      "title_fr": "Pr\u00e9sidente adjointe du caucus du N.P.D."
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "Peace Advocacy"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-09-26",
+      "title_en": "Peace Advocacy",
+      "title_fr": "Promotion de la paix"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2009-04-13",
-      "title": "National Defence"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-04-13",
+      "title_en": "National Defence",
+      "title_fr": "D\u00e9fense nationale"
     },
     {
-      "role": "Critic",
-      "start": "1990-09",
-      "end": "1993",
-      "title": "Child Care"
+      "role_en": "Critic",
+      "start_date": "1990-09",
+      "role_fr": "Porte-parole",
+      "end_date": "1993",
+      "title_en": "Child Care",
+      "title_fr": "Soins aux enfants"
     },
     {
-      "role": "Critic",
-      "start": "1989",
-      "end": "1994",
-      "title": "Status of Women"
-    },
-    {
-      "role": "Caucus Chair",
-      "start": "1990",
-      "end": "1991",
-      "title": "N.D.P. Deputy Caucus Chair"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "Peace Advocacy"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2009-04-13",
-      "title": "National Defence"
-    },
-    {
-      "role": "Critic",
-      "start": "1990-09",
-      "end": "1993",
-      "title": "Child Care"
-    },
-    {
-      "role": "Critic",
-      "start": "1989",
-      "end": "1994",
-      "title": "Status of Women"
+      "role_en": "Critic",
+      "start_date": "1989",
+      "role_fr": "Porte-parole",
+      "end_date": "1994",
+      "title_en": "Status of Women",
+      "title_fr": "Situation de la femme"
     }
-  ],
-  "professions": [
-    "Executive assistant"
   ],
   "committees": [
     {
-      "committee": "Legislative Committee C on Bill C-42",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sidente",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Legislative Committee C on Bill C-42",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif C sur le projet de loi C-42"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la Mission canadienne en Afghanistan"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 de la d\u00e9fense nationale"
     },
     {
-      "committee": "Legislative Committee C on Bill C-42",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Legislative Committee C on Bill C-42",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif C sur le projet de loi C-42"
     },
     {
-      "committee": "Legislative Committee on Bill C-126",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Legislative Committee on Bill C-126",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-126"
     },
     {
-      "committee": "Legislative Committee on Bill C-49",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Legislative Committee on Bill C-49",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-49"
     },
     {
-      "committee": "Subcommittee on the Status of Women of the Standing Committee on Health and Welfare, Social Affairs, Seniors and the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on the Status of Women of the Standing Committee on Health and Welfare, Social Affairs, Seniors and the Status of Women",
+      "name_fr": "Sous-comit\u00e9 sur la condition f\u00e9minine du Comit\u00e9 permanent de la sant\u00e9 et du bien-\u00eatre social, des affaires sociales, du troisi\u00e8me \u00e2ge et de la condition f\u00e9minine"
     },
     {
-      "committee": "Legislative Committee on Bill C-260",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-260",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-260"
     },
     {
-      "committee": "Legislative Committee on Bill C-43",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-43",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-43"
     },
     {
-      "committee": "Special Committee on Subject Matter of Bill C-80 (Firearms)",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on Subject Matter of Bill C-80 (Firearms)",
+      "name_fr": "Comit\u00e9 permanent des communications et de la culture"
     },
     {
-      "committee": "Standing Committee on Communications and Culture",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Communications and Culture",
+      "name_fr": "Comit\u00e9 permanent sur les communications, la culture, la citoyennet\u00e9 et le multiculturalisme"
     },
     {
-      "committee": "Standing Committee on Communications, Culture, Citizenship and Multiculturalism",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee C on Bill C-42",
-      "role": "Chair ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee C on Bill C-42",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-126",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-49",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on the Status of Women of the Standing Committee on Health and Welfare, Social Affairs, Seniors and the Status of Women",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-260",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-43",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on Subject Matter of Bill C-80 (Firearms)",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Communications and Culture",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Communications, Culture, Citizenship and Multiculturalism",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Communications, Culture, Citizenship and Multiculturalism",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur l'objet du projet de loi C-80 (armes \u00e0 feu)"
     }
   ],
-  "parties": [
+  "language": "",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "1988-11-21"
+      "name_en": "Executive assistant",
+      "name_fr": "Adjointe ex\u00e9cutive"
     }
   ],
-  "id": "f59e07e5-74a5-491d-a2d5-19f508139da2",
-  "date_of_birth": "1943-04-01"
+  "id": "f59e07e5-74a5-491d-a2d5-19f508139da2"
 }

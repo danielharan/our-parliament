@@ -20,10 +20,10 @@
 			<li><%= t('members.age', :age => @mp.age) %></li>
 		<% end %>
 		<% for function in @mp.current_parliamentary_functions %>
-			<li><%= function.title %> <% if function.role == "Critic" %><%= function.role %><% end %></li>
+			<li><%= function.parliamentary_title.full_name %></li>
 		<% end %>
 		<% for committee in @mp.current_committees %>
-			<li><%= committee.role %> of <%= committee.committee.name %></li>
+			<li><%= committee.committee_role.name %> of <%= link_to(committee.committee.name, committee_path(committee.committee)) %></li>
 		<% end %>
 		<% if @mp.riding.name %>
 			<li><%= t('members.show.riding', :riding => @mp.riding.name) %></li>
@@ -86,8 +86,6 @@
          src="http://www.google.com/uds/modules/elements/newsshow/iframe.html?q=<%= @mp.news_search_name %>&ned=ca&rsz=large&hl=en&format=728x90">
   </iframe>
 </div>
-
-<%= render :partial => 'shared/twitter', :locals => {:twitter => @mp} if @mp.twitter? %>
 
 <script type="text/javascript">
   $(document).ready(function(){

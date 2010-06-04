@@ -1,128 +1,106 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "1993-10-25",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1947-06-07",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "Roger Pomerleau",
   "functions": [
     {
-      "role": "Assistant Critic",
-      "start": "2008-10-31",
-      "title": "Canadian Heritage"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1996",
-      "end": "1997",
-      "title": "Finance"
+      "role_en": "Assistant Critic",
+      "start_date": "1996",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1997",
+      "title_en": "Finance",
+      "title_fr": "Finances"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1994",
-      "end": "1996",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-10-31",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1996",
-      "end": "1997",
-      "title": "Finance"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1994",
-      "end": "1996",
-      "title": "Natural Resources"
+      "role_en": "Assistant Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1996",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     }
-  ],
-  "professions": [
-    "Carpenter",
-    "Political attach\u00e9",
-    "Woodworker"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "1993-10-25"
+      "name_en": "Carpenter",
+      "name_fr": "Attach\u00e9 politique"
+    },
+    {
+      "name_en": "Political attach\u00e9",
+      "name_fr": "Charpentier-menuisier"
+    },
+    {
+      "name_en": "Woodworker",
+      "name_fr": "Menuisier"
     }
   ],
-  "id": "d8932c2a-9013-472f-9b2f-6837020da68f",
-  "date_of_birth": "1947-06-07"
+  "id": "d8932c2a-9013-472f-9b2f-6837020da68f"
 }

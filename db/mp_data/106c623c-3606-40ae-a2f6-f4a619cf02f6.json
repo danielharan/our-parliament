@@ -1,317 +1,234 @@
 {
-  "place_of_birth": "Oakville, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1997-06-02",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1968-05-30",
+  "place_of_birth": {
+    "name_en": "Oakville, Ontario, Canada",
+    "name_fr": "Oakville, Ontario, Canada"
+  },
   "name": "Jason Kenney",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of Citizenship, Immigration and Multiculturalism"
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Citizenship, Immigration and Multiculturalism",
+      "title_fr": "Ministre de la Citoyennet\u00e9, de l'Immigration et du Multiculturalisme"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Secretary of State (Multiculturalism and Canadian Identity)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2007-01-04",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2008-10-29",
+      "title_en": "Secretary of State (Multiculturalism and Canadian Identity)",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Multiculturalisme et Identit\u00e9e canadienne)"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-01-03",
-      "title": "Parliamentary Secretary to the Prime Minister for Multiculturalism"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2007-01-03",
+      "title_en": "Parliamentary Secretary to the Prime Minister for Multiculturalism",
+      "title_fr": "Secr\u00e9taire parlementaire du premier ministre charg\u00e9 du multiculturalisme"
     },
     {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2004-10-05",
-      "end": "2006-01-31",
-      "title": "Deputy House Leader of the Official Opposition"
+      "role_en": "Leader of the Opposition in the House Of Commons",
+      "start_date": "2004-10-05",
+      "role_fr": "Leader parlementaire de l'Opposition officielle",
+      "end_date": "2006-01-31",
+      "title_en": "Deputy House Leader of the Official Opposition",
+      "title_fr": "Leader parlementaire adjoint de l'Opposition officielle"
     },
     {
-      "role": "House Leader",
-      "start": "2004-10-05",
-      "end": "2006-01-31",
-      "title": "Conservative Party Deputy House Leader"
+      "role_en": "House Leader",
+      "start_date": "2004-10-05",
+      "role_fr": "Leader parlementaire",
+      "end_date": "2006-01-31",
+      "title_en": "Conservative Party Deputy House Leader",
+      "title_fr": "Leader adjoint en Chambre du Parti conservateur"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2004-10-04",
-      "title": "Privy Council"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-10-04",
+      "title_en": "Privy Council",
+      "title_fr": "Conseil priv\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2004-03-22",
-      "end": "2004-07-21",
-      "title": "Canada-U.S. Relations"
+      "role_en": "Critic",
+      "start_date": "2004-03-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Canada-U.S. Relations",
+      "title_fr": "Relations Canada-\u00c9tats-Unis"
     },
     {
-      "role": "Critic",
-      "start": "2002-12-05",
-      "end": "2004-03-21",
-      "title": "United States"
+      "role_en": "Critic",
+      "start_date": "2002-12-05",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-03-21",
+      "title_en": "United States",
+      "title_fr": "Etats-Unis"
     },
     {
-      "role": "Critic",
-      "start": "2000-08-01",
-      "end": "2002-04-03",
-      "title": "Finance"
+      "role_en": "Critic",
+      "start_date": "2000-08-01",
+      "role_fr": "Porte-parole",
+      "end_date": "2002-04-03",
+      "title_en": "Finance",
+      "title_fr": "Finances"
     },
     {
-      "role": "Critic",
-      "start": "1997-06-20",
-      "end": "2000-07-31",
-      "title": "National Revenue"
+      "role_en": "Critic",
+      "start_date": "1997-06-20",
+      "role_fr": "Porte-parole",
+      "end_date": "2000-07-31",
+      "title_en": "National Revenue",
+      "title_fr": "Revenu national"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "1998-06-16",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of Citizenship, Immigration and Multiculturalism"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2007-01-04",
-      "end": "2008-10-29",
-      "title": "Secretary of State (Multiculturalism and Canadian Identity)"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-01-03",
-      "title": "Parliamentary Secretary to the Prime Minister for Multiculturalism"
-    },
-    {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2004-10-05",
-      "end": "2006-01-31",
-      "title": "Deputy House Leader of the Official Opposition"
-    },
-    {
-      "role": "House Leader",
-      "start": "2004-10-05",
-      "end": "2006-01-31",
-      "title": "Conservative Party Deputy House Leader"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2004-10-04",
-      "title": "Privy Council"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-03-22",
-      "end": "2004-07-21",
-      "title": "Canada-U.S. Relations"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-12-05",
-      "end": "2004-03-21",
-      "title": "United States"
-    },
-    {
-      "role": "Critic",
-      "start": "2000-08-01",
-      "end": "2002-04-03",
-      "title": "Finance"
-    },
-    {
-      "role": "Critic",
-      "start": "1997-06-20",
-      "end": "2000-07-31",
-      "title": "National Revenue"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1997-06-20",
-      "end": "1998-06-16",
-      "title": "Natural Resources"
+      "role_en": "Assistant Critic",
+      "start_date": "1997-06-20",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1998-06-16",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     }
-  ],
-  "professions": [
-    "Executive director",
-    "Taxpayer advocate"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Chair ",
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
     },
     {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Legislative Committee on Bill C-38",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-38",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Chair ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Access to Information, Privacy and Ethics",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Legislative Committee on Bill C-38",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Executive director",
+      "name_fr": "Directeur ex\u00e9cutif"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2003-12-22"
-    },
-    {
-      "party": "Reform Party",
-      "start": "1997-06-02",
-      "end": "2000-03-26"
+      "name_en": "Taxpayer advocate",
+      "name_fr": "Partisan des contribuables"
     }
   ],
-  "id": "106c623c-3606-40ae-a2f6-f4a619cf02f6",
-  "date_of_birth": "1968-05-30"
+  "id": "106c623c-3606-40ae-a2f6-f4a619cf02f6"
 }

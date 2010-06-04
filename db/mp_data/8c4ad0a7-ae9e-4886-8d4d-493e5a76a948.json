@@ -1,76 +1,72 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English, French",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1947-05-12",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "Michael Ignatieff",
   "functions": [
     {
-      "role": "Leader of the Official Opposition",
-      "start": "2008-12-10",
-      "title": "Leader of the Official Opposition"
+      "role_en": "Leader of the Official Opposition",
+      "start_date": "2008-12-10",
+      "role_fr": "Chef de l'Opposition Officielle",
+      "title_en": "Leader of the Official Opposition",
+      "title_fr": "Chef de l'Opposition officielle"
     },
     {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Intergovernmental Affairs"
+      "role_en": "Critic",
+      "start_date": "2009-01-22",
+      "role_fr": "Porte-parole",
+      "title_en": "Intergovernmental Affairs",
+      "title_fr": "Affaires intergouvernementales"
     },
     {
-      "role": "Critic",
-      "start": "2008-12-10",
-      "title": "Prime Minister"
+      "role_en": "Critic",
+      "start_date": "2008-12-10",
+      "role_fr": "Porte-parole",
+      "title_en": "Prime Minister",
+      "title_fr": "Premier ministre"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Human Resources and Skills Development"
-    },
-    {
-      "role": "Leader of the Official Opposition",
-      "start": "2008-12-10",
-      "title": "Leader of the Official Opposition"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "title": "Intergovernmental Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-12-10",
-      "title": "Prime Minister"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2006-05-29",
-      "title": "Human Resources and Skills Development"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-05-29",
+      "title_en": "Human Resources and Skills Development",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences"
     }
-  ],
-  "professions": [
-    "Author",
-    "Journalist",
-    "Professor"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
+    }
+  ],
+  "language": "English, French",
+  "professions": [
+    {
+      "name_en": "Author",
+      "name_fr": "Auteur"
     },
     {
-      "committee": "Standing Committee on Justice and Human Rights",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    }
-  ],
-  "parties": [
+      "name_en": "Journalist",
+      "name_fr": "Journaliste"
+    },
     {
-      "party": "Liberal Party of Canada",
-      "start": "2006-01-23"
+      "name_en": "Professor",
+      "name_fr": "Professeur"
     }
   ],
-  "id": "8c4ad0a7-ae9e-4886-8d4d-493e5a76a948",
-  "date_of_birth": "1947-05-12"
+  "id": "8c4ad0a7-ae9e-4886-8d4d-493e5a76a948"
 }

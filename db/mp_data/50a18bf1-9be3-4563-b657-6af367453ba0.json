@@ -1,282 +1,223 @@
 {
-  "place_of_birth": "Timmins, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1962-11-14",
+  "place_of_birth": {
+    "name_en": "Timmins, Ontario, Canada",
+    "name_fr": "Timmins, Ontario, Canada"
+  },
   "name": "Charlie Angus",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Industries culturelles"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Cultural Industries"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Cultural Industries",
+      "title_fr": "Patrimoine"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Digital Issues"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Digital Issues",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Heritage"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Heritage",
+      "title_fr": "Questions num\u00e9riques"
     },
     {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Democratic Reform"
+      "role_en": "Critic",
+      "start_date": "2007-09-27",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Democratic Reform",
+      "title_fr": "Conseil du tr\u00e9sor"
     },
     {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Electoral Reform"
+      "role_en": "Critic",
+      "start_date": "2007-09-27",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Electoral Reform",
+      "title_fr": "R\u00e9forme d\u00e9mocratique"
     },
     {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Public Works and Government Services"
+      "role_en": "Critic",
+      "start_date": "2007-09-27",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Public Works and Government Services",
+      "title_fr": "R\u00e9forme \u00e9lectorale"
     },
     {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Treasury Board"
+      "role_en": "Critic",
+      "start_date": "2007-09-27",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Treasury Board",
+      "title_fr": "Travaux publics et Services gouvernementaux"
     },
     {
-      "role": "Critic",
-      "start": "2004-10-01",
-      "end": "2005-01-30",
-      "title": "Rural Development"
+      "role_en": "Critic",
+      "start_date": "2004-10-01",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-01-30",
+      "title_en": "Rural Development",
+      "title_fr": "D\u00e9veloppement rural"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Agriculture and Agri-Food"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Agriculture and Agri-Food",
+      "title_fr": "Agriculture et Agro-alimentaire"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2007-09-26",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Cultural Industries"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Digital Issues"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Democratic Reform"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Electoral Reform"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Public Works and Government Services"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "end": "2008-11-16",
-      "title": "Treasury Board"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-10-01",
-      "end": "2005-01-30",
-      "title": "Rural Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Agriculture and Agri-Food"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2007-09-26",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-09-26",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     }
-  ],
-  "professions": [
-    "Author",
-    "Broadcaster",
-    "Editor",
-    "Journalist",
-    "Musician",
-    "Negotiator",
-    "Singer"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Co-Chair ",
+      "role_en": "Co-Chair",
+      "role_fr": "Co-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-20",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Co-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Vice-Chair ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-20",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2004-06-28"
+      "name_en": "Author",
+      "name_fr": "Auteur"
+    },
+    {
+      "name_en": "Broadcaster",
+      "name_fr": "Chanteur"
+    },
+    {
+      "name_en": "Editor",
+      "name_fr": "Journaliste"
+    },
+    {
+      "name_en": "Journalist",
+      "name_fr": "Musicien"
+    },
+    {
+      "name_en": "Musician",
+      "name_fr": "N\u00e9gociateur"
+    },
+    {
+      "name_en": "Negotiator",
+      "name_fr": "Radiodiffuseur"
+    },
+    {
+      "name_en": "Singer",
+      "name_fr": "R\u00e9dacteur"
     }
   ],
-  "id": "50a18bf1-9be3-4563-b657-6af367453ba0",
-  "date_of_birth": "1962-11-14"
+  "id": "50a18bf1-9be3-4563-b657-6af367453ba0"
 }

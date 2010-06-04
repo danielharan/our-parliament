@@ -1,166 +1,133 @@
 {
-  "place_of_birth": "Fort Smith, Northwest Territories, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2000-11-27",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1953-03-27",
+  "place_of_birth": {
+    "name_en": "Fort Smith, Northwest Territories, Canada",
+    "name_fr": "Fort Smith, Territoires du Nord-Ouest, Canada"
+  },
   "name": "Dennis Fraser Bevington",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Infrastructure and Communities"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Infrastructure and Communities",
+      "title_fr": "Infrastructure et Collectivit\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Sovereignty"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Sovereignty",
+      "title_fr": "Souverainet\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Transport, Infrastructure and Communities"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Transport, Infrastructure and Communities",
+      "title_fr": "Transports, Infrastructure et Collectivit\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "title": "Arctic Sovereignty"
+      "role_en": "Critic",
+      "start_date": "2007-09-27",
+      "role_fr": "Porte-parole",
+      "title_en": "Arctic Sovereignty",
+      "title_fr": "Souverainet\u00e9 dans l'Arctique"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Northern Affairs"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "title_en": "Northern Affairs",
+      "title_fr": "Affaires du Nord"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Northern Development"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "title_en": "Northern Development",
+      "title_fr": "Mise en valeur du Nord"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "Rural Affairs"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-09-26",
+      "title_en": "Rural Affairs",
+      "title_fr": "Affaires rurales"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Energy"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Infrastructure and Communities"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Sovereignty"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Transport, Infrastructure and Communities"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-09-27",
-      "title": "Arctic Sovereignty"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Northern Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "title": "Northern Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "Rural Affairs"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Energy"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2008-11-16",
+      "title_en": "Energy",
+      "title_fr": "\u00c9nergie"
     }
-  ],
-  "professions": [
-    "Administrator",
-    "Businessman",
-    "Manager"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
     },
     {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-30",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-30",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2000-11-27"
+      "name_en": "Administrator",
+      "name_fr": "Administrateur"
+    },
+    {
+      "name_en": "Businessman",
+      "name_fr": "G\u00e9rant"
+    },
+    {
+      "name_en": "Manager",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "d00c3703-619a-496a-8369-0e113da41c9f",
-  "date_of_birth": "1953-03-27"
+  "id": "d00c3703-619a-496a-8369-0e113da41c9f"
 }

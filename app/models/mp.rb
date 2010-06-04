@@ -30,17 +30,23 @@ class Mp < ActiveRecord::Base
                     :s3_credentials => {:access_key_id => ENV["AWS_ACCESS_KEY_ID"], :secret_access_key => ENV["AWS_SECRET_ACCESS_KEY"]}
 
   has_and_belongs_to_many :postal_codes
-  has_many :recorded_votes
-  has_many :parliamentary_functions
+  has_many :recorded_votes, :include => ["vote","mp"]
+  #has_many :parliamentary_functions
   has_many :current_parliamentary_functions, :class_name => "ParliamentaryFunction", :conditions => "end_date IS NULL"
-  has_many :committees, :class_name => "CommitteeMembership", :include => "committee"
+  #has_many :committees, :class_name => "CommitteeMembership", :include => "committee"
   has_many :current_committees, :class_name => "CommitteeMembership", :conditions => "parliament = #{ENV['CURRENT_PARLIAMENT'].to_i} AND session = #{ENV['CURRENT_SESSION'].to_i}"
   has_many :election_results, :include => "election"
+  has_many :tweets, :order => "created_at DESC"
   belongs_to :province
   belongs_to :riding, :include => "province"
   belongs_to :party
   
   named_scope :active, :conditions => {:active => true}
+  
+  def current_voting_stats
+    stats = {}
+    Vote.find_by_sql(:all, :conditions => ["mp_id"])
+  end
   
   class << self
     def get_list
@@ -125,5 +131,24 @@ class Mp < ActiveRecord::Base
   
   def hansard_statements
     HansardStatement.find_by_sql(["SELECT * FROM hansard_statements WHERE member_name = ? ORDER BY time DESC;", name])
+  end
+  
+  def fetch_new_tweets
+    url = "http://search.twitter.com/search.json?q=from:#{twitter}"
+    begin
+      open(url) { |f|
+        JSON.parse(f.read)['results'].each { |result|
+          if not Tweet.find_by_twitter_id(result['id'])
+            Tweet.create({
+              :mp_id => id,
+              :text => result['text'],
+              :created_at => result['created_at'],
+              :twitter_id => result['id']
+            })
+          end
+        }
+      }
+    rescue
+    end
   end
 end

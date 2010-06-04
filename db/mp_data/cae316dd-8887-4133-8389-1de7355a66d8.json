@@ -1,414 +1,302 @@
 {
-  "place_of_birth": "Peoria, Illinois, United States",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1993-10-25",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1949-05-06",
+  "place_of_birth": {
+    "name_en": "Peoria, Illinois, United States",
+    "name_fr": "Peoria, Illinois, \u00c9tats-Unis"
+  },
   "name": "Diane Ablonczy",
   "functions": [
     {
-      "role": "Minister / Secretary of State",
-      "start": "2010-01-19",
-      "title": "Minister of State (Seniors)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2010-01-19",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister of State (Seniors)",
+      "title_fr": "Ministre d'\u00c9tat (A\u00een\u00e9s)"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of State (Small Business and Tourism)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2010-01-18",
+      "title_en": "Minister of State (Small Business and Tourism)",
+      "title_fr": "Ministre d'\u00c9tat (Petite entreprise et Tourisme)"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Secretary of State (Small Business and Tourism)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2008-10-29",
+      "title_en": "Secretary of State (Small Business and Tourism)",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Petite Entreprise et Tourisme)"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-08-13",
-      "title": "Parliamentary Secretary to the Minister of Finance"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2007-08-13",
+      "title_en": "Parliamentary Secretary to the Minister of Finance",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances"
     },
     {
-      "role": "Whip",
-      "start": "1993-11-06",
-      "end": "1994-09-21",
-      "title": "Whip of the Reform Party (Caucus Coordinator)"
+      "role_en": "Whip",
+      "start_date": "1993-11-06",
+      "role_fr": "Whip",
+      "end_date": "1994-09-21",
+      "title_en": "Whip of the Reform Party (Caucus Coordinator)",
+      "title_fr": "Whip du du Parti r\u00e9formiste (Coordonnatrice du caucus)"
     },
     {
-      "role": "Caucus Chair",
-      "start": "1993",
-      "end": "1993-11",
-      "title": "Reform Party Caucus Chair"
+      "role_en": "Caucus Chair",
+      "start_date": "1993",
+      "role_fr": "Pr\u00e9sident du caucus",
+      "end_date": "1993-11",
+      "title_en": "Reform Party Caucus Chair",
+      "title_fr": "Pr\u00e9sidente du caucus du Parti r\u00e9formiste"
     },
     {
-      "role": "Critic",
-      "start": "2002-04-04",
-      "end": "2006-02-05",
-      "title": "Citizenship and Immigration"
+      "role_en": "Critic",
+      "start_date": "2002-04-04",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Citizenship and Immigration",
+      "title_fr": "Citoyennet\u00e9 et Immigration"
     },
     {
-      "role": "Critic",
-      "start": "2001-01-05",
-      "end": "2001-12-17",
-      "title": "Health"
+      "role_en": "Critic",
+      "start_date": "2001-01-05",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-12-17",
+      "title_en": "Health",
+      "title_fr": "Sant\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "1997-06-20",
-      "end": "2001-01-04",
-      "title": "Human Resources Development"
+      "role_en": "Critic",
+      "start_date": "1997-06-20",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-01-04",
+      "title_en": "Human Resources Development",
+      "title_fr": "D\u00e9veloppement des ressources humaines"
     },
     {
-      "role": "Critic",
-      "start": "1994-09",
-      "end": "1995-06",
-      "title": "Human Resources Development"
+      "role_en": "Critic",
+      "start_date": "1994-09",
+      "role_fr": "Porte-parole",
+      "end_date": "1995-06",
+      "title_en": "Human Resources Development",
+      "title_fr": "D\u00e9veloppement des ressources humaines"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1996-10-25",
-      "end": "1997-06",
-      "title": "Fisheries and Oceans"
+      "role_en": "Assistant Critic",
+      "start_date": "1996-10-25",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1997-06",
+      "title_en": "Fisheries and Oceans",
+      "title_fr": "P\u00eaches et Oc\u00e9ans"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1995",
-      "end": "1996-10-24",
-      "title": "Justice"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2010-01-19",
-      "title": "Minister of State (Seniors)"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "end": "2010-01-18",
-      "title": "Minister of State (Small Business and Tourism)"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Secretary of State (Small Business and Tourism)"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2007-08-13",
-      "title": "Parliamentary Secretary to the Minister of Finance"
-    },
-    {
-      "role": "Whip",
-      "start": "1993-11-06",
-      "end": "1994-09-21",
-      "title": "Whip of the Reform Party (Caucus Coordinator)"
-    },
-    {
-      "role": "Caucus Chair",
-      "start": "1993",
-      "end": "1993-11",
-      "title": "Reform Party Caucus Chair"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-04-04",
-      "end": "2006-02-05",
-      "title": "Citizenship and Immigration"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-01-05",
-      "end": "2001-12-17",
-      "title": "Health"
-    },
-    {
-      "role": "Critic",
-      "start": "1997-06-20",
-      "end": "2001-01-04",
-      "title": "Human Resources Development"
-    },
-    {
-      "role": "Critic",
-      "start": "1994-09",
-      "end": "1995-06",
-      "title": "Human Resources Development"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1996-10-25",
-      "end": "1997-06",
-      "title": "Fisheries and Oceans"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1995",
-      "end": "1996-10-24",
-      "title": "Justice"
+      "role_en": "Assistant Critic",
+      "start_date": "1995",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1996-10-24",
+      "title_en": "Justice",
+      "title_fr": "Justice"
     }
-  ],
-  "professions": [
-    "Farmer",
-    "Lawyer",
-    "Teacher"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
     },
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent de la Citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Legislative Committee on Bill C-55",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Legislative Committee on Bill C-55",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-55"
     },
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Health",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Sous-comit\u00e9 sur la condition des personnes handicap\u00e9es du Comit\u00e9 permanent des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques"
     },
     {
-      "committee": "Standing Committee on Justice and Legal Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Justice and Legal Affairs",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques"
     },
     {
-      "committee": "Standing Committee on Justice and Legal Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Justice and Legal Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-55",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Health",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Justice and Legal Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Justice and Legal Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Farmer",
+      "name_fr": "Agricultrice"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2003-12-22"
+      "name_en": "Lawyer",
+      "name_fr": "Avocate"
     },
     {
-      "party": "Reform Party",
-      "start": "1993-10-25",
-      "end": "2000-03-26"
+      "name_en": "Teacher",
+      "name_fr": "Enseignante"
     }
   ],
-  "id": "cae316dd-8887-4133-8389-1de7355a66d8",
-  "date_of_birth": "1949-05-06"
+  "id": "cae316dd-8887-4133-8389-1de7355a66d8"
 }

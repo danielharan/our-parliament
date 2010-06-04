@@ -1,365 +1,266 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1993-10-25",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1942-08-18",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "Jim Abbott",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary to the Minister of International Cooperation"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2008-11-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of International Cooperation",
+      "title_fr": "Secr\u00e9taire parlementaire de la ministre de la Coop\u00e9ration internationale"
     },
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary for Canadian Heritage"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2008-11-06",
+      "title_en": "Parliamentary Secretary for Canadian Heritage",
+      "title_fr": "Secr\u00e9taire parlementaire pour le Patrimoine canadien"
     },
     {
-      "role": "Critic",
-      "start": "2003-06-20",
-      "end": "2004-01-21",
-      "title": "Sport"
+      "role_en": "Critic",
+      "start_date": "2003-06-20",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-01-21",
+      "title_en": "Sport",
+      "title_fr": "Sport"
     },
     {
-      "role": "Critic",
-      "start": "2002-02-01",
-      "end": "2003-06-19",
-      "title": "Amateur Sport"
+      "role_en": "Critic",
+      "start_date": "2002-02-01",
+      "role_fr": "Porte-parole",
+      "end_date": "2003-06-19",
+      "title_en": "Amateur Sport",
+      "title_fr": "Sport amateur"
     },
     {
-      "role": "Critic",
-      "start": "2001-06-18",
-      "end": "2004-07-21",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2001-06-18",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Critic",
-      "start": "1998-06-16",
-      "end": "2000-07-31",
-      "title": "Solicitor General"
+      "role_en": "Critic",
+      "start_date": "1998-06-16",
+      "role_fr": "Porte-parole",
+      "end_date": "2000-07-31",
+      "title_en": "Solicitor General",
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral"
     },
     {
-      "role": "Critic",
-      "start": "1996",
-      "end": "1997-06-19",
-      "title": "Leader of the Government in the Senate"
+      "role_en": "Critic",
+      "start_date": "1996",
+      "role_fr": "Porte-parole",
+      "end_date": "1997-06-19",
+      "title_en": "Leader of the Government in the Senate",
+      "title_fr": "Leader du Gouvernement au S\u00e9nat"
     },
     {
-      "role": "Critic",
-      "start": "1996",
-      "end": "1998-06-16",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "1996",
+      "role_fr": "Porte-parole",
+      "end_date": "1998-06-16",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Critic",
-      "start": "1995",
-      "end": "1996",
-      "title": "Regional Development"
+      "role_en": "Critic",
+      "start_date": "1995",
+      "role_fr": "Porte-parole",
+      "end_date": "1996",
+      "title_en": "Regional Development",
+      "title_fr": "D\u00e9veloppement r\u00e9gional"
     },
     {
-      "role": "Critic",
-      "start": "1995",
-      "end": "1996",
-      "title": "Senate"
+      "role_en": "Critic",
+      "start_date": "1995",
+      "role_fr": "Porte-parole",
+      "end_date": "1996",
+      "title_en": "Senate",
+      "title_fr": "S\u00e9nat"
     },
     {
-      "role": "Critic",
-      "start": "1994-09",
-      "end": "1995",
-      "title": "National Revenue"
+      "role_en": "Critic",
+      "start_date": "1994-09",
+      "role_fr": "Porte-parole",
+      "end_date": "1995",
+      "title_en": "National Revenue",
+      "title_fr": "Revenu national"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1995",
-      "title": "Environment"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1995",
+      "title_en": "Environment",
+      "title_fr": "Environnement"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1995",
-      "title": "Fisheries and Oceans"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1995",
+      "title_en": "Fisheries and Oceans",
+      "title_fr": "P\u00eaches et Oc\u00e9ans"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1996",
-      "title": "Agriculture and Agri-Food"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1996",
+      "title_en": "Agriculture and Agri-Food",
+      "title_fr": "Agriculture et Agro-alimentaire"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1996",
-      "title": "Energy"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1996",
+      "title_en": "Energy",
+      "title_fr": "\u00c9nergie"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2004-09-01",
-      "end": "2006-02-05",
-      "title": "Far East"
+      "role_en": "Assistant Critic",
+      "start_date": "2004-09-01",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2006-02-05",
+      "title_en": "Far East",
+      "title_fr": "Extr\u00eame-Orient"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2000-08-01",
-      "end": "2001-06-17",
-      "title": "Foreign Affairs"
+      "role_en": "Assistant Critic",
+      "start_date": "2000-08-01",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2001-06-17",
+      "title_en": "Foreign Affairs",
+      "title_fr": "Affaires \u00e9trang\u00e8res"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2000-08-01",
-      "end": "2001-06-17",
-      "title": "Public Works and Government Services"
+      "role_en": "Assistant Critic",
+      "start_date": "2000-08-01",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2001-06-17",
+      "title_en": "Public Works and Government Services",
+      "title_fr": "Travaux publics et Services gouvernementaux"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1996-10-25",
-      "end": "1997",
-      "title": "Public Accounts"
+      "role_en": "Assistant Critic",
+      "start_date": "1996-10-25",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1997",
+      "title_en": "Public Accounts",
+      "title_fr": "Comptes publics"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1996-10-25",
-      "end": "1997-06",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary to the Minister of International Cooperation"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary for Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2003-06-20",
-      "end": "2004-01-21",
-      "title": "Sport"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-02-01",
-      "end": "2003-06-19",
-      "title": "Amateur Sport"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-06-18",
-      "end": "2004-07-21",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "1998-06-16",
-      "end": "2000-07-31",
-      "title": "Solicitor General"
-    },
-    {
-      "role": "Critic",
-      "start": "1996",
-      "end": "1997-06-19",
-      "title": "Leader of the Government in the Senate"
-    },
-    {
-      "role": "Critic",
-      "start": "1996",
-      "end": "1998-06-16",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "1995",
-      "end": "1996",
-      "title": "Regional Development"
-    },
-    {
-      "role": "Critic",
-      "start": "1995",
-      "end": "1996",
-      "title": "Senate"
-    },
-    {
-      "role": "Critic",
-      "start": "1994-09",
-      "end": "1995",
-      "title": "National Revenue"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1995",
-      "title": "Environment"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1995",
-      "title": "Fisheries and Oceans"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1996",
-      "title": "Agriculture and Agri-Food"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1996",
-      "title": "Energy"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2004-09-01",
-      "end": "2006-02-05",
-      "title": "Far East"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2000-08-01",
-      "end": "2001-06-17",
-      "title": "Foreign Affairs"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2000-08-01",
-      "end": "2001-06-17",
-      "title": "Public Works and Government Services"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1996-10-25",
-      "end": "1997",
-      "title": "Public Accounts"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1996-10-25",
-      "end": "1997-06",
-      "title": "Natural Resources"
+      "role_en": "Assistant Critic",
+      "start_date": "1996-10-25",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1997-06",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Manager"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Subcommittee on Environmental Awareness for Sustainability of the Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Environmental Awareness for Sustainability of the Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Environmental Awareness for Sustainability of the Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Sous-comit\u00e9 sur la sensibilisation \u00e0 l'environnement pour un d\u00e9veloppement durable du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Businessman",
+      "name_fr": "G\u00e9rant"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2003-12-22"
-    },
-    {
-      "party": "Reform Party",
-      "start": "1993-10-25",
-      "end": "2000-03-26"
+      "name_en": "Manager",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "697d21ec-83f6-4af1-b5b7-cfe7ffd095ea",
-  "date_of_birth": "1942-08-18"
+  "id": "697d21ec-83f6-4af1-b5b7-cfe7ffd095ea"
 }

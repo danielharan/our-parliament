@@ -1,142 +1,122 @@
 {
-  "place_of_birth": "Montreal, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1959-11-17",
+  "place_of_birth": {
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
+  },
   "name": "Guy Andr\u00e9",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Veterans Affairs"
+      "role_en": "Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Veterans Affairs",
+      "title_fr": "Anciens combattants"
     },
     {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Francophonie"
+      "role_en": "Critic",
+      "start_date": "2004-08-06",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-09",
+      "title_en": "Francophonie",
+      "title_fr": "Francophonie"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2008-10-30",
-      "title": "Globalization"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2008-10-30",
+      "title_en": "Globalization",
+      "title_fr": "Commerce ext\u00e9rieur"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2008-10-30",
-      "title": "International Financial Institutions"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2008-10-30",
+      "title_en": "International Financial Institutions",
+      "title_fr": "Institutions financi\u00e8res internationales"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2008-10-30",
-      "title": "International Trade"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-10-31",
-      "title": "Veterans Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-08-06",
-      "end": "2006-02-09",
-      "title": "Francophonie"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2008-10-30",
-      "title": "Globalization"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2008-10-30",
-      "title": "International Financial Institutions"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-10",
-      "end": "2008-10-30",
-      "title": "International Trade"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-10",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2008-10-30",
+      "title_en": "International Trade",
+      "title_fr": "Mondialisation"
     }
-  ],
-  "professions": [
-    "Coordinator",
-    "Mediator",
-    "Political assistant",
-    "Social worker",
-    "Teacher"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Veterans Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2004-06-28"
+      "name_en": "Coordinator",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Mediator",
+      "name_fr": "Coordinateur"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Enseignant"
+    },
+    {
+      "name_en": "Social worker",
+      "name_fr": "M\u00e9diateur"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "Travailleur social"
     }
   ],
-  "id": "fcab8707-a64b-4c86-8e37-017d9b6f6b5b",
-  "date_of_birth": "1959-11-17"
+  "id": "fcab8707-a64b-4c86-8e37-017d9b6f6b5b"
 }

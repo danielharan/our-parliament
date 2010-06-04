@@ -1,352 +1,254 @@
 {
-  "place_of_birth": "Trail, British Columbia, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1997-06-02",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1957-05-08",
+  "place_of_birth": {
+    "name_en": "Trail, British Columbia, Canada",
+    "name_fr": "Trail, Colombie-Britannique, Canada"
+  },
   "name": "Gary Lunn",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2008-10-29",
-      "title": "Minister of Natural Resources"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister of Natural Resources",
+      "title_fr": "Ministre des Ressources naturelles"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State (Sport)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister of State (Sport)",
+      "title_fr": "Ministre d'\u00c9tat (Sports)"
     },
     {
-      "role": "Critic",
-      "start": "2005-04-28",
-      "end": "2006-02-05",
-      "title": "Public Works and Government Services"
+      "role_en": "Critic",
+      "start_date": "2005-04-28",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Public Works and Government Services",
+      "title_fr": "Travaux publics et Services gouvernementaux"
     },
     {
-      "role": "Critic",
-      "start": "2004-10-05",
-      "end": "2006-02-05",
-      "title": "Privy Council"
+      "role_en": "Critic",
+      "start_date": "2004-10-05",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "Privy Council",
+      "title_fr": "Conseil priv\u00e9"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2004-10",
-      "title": "Human Resources Development"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-10",
+      "title_en": "Human Resources Development",
+      "title_fr": "D\u00e9veloppement des ressources humaines"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-06-19",
-      "title": "Metis and Non-Status Indians"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-06-19",
+      "title_en": "Metis and Non-Status Indians",
+      "title_fr": "Developpement du Nord"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-06-19",
-      "title": "Northern Development"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2005-06-19",
+      "title_en": "Northern Development",
+      "title_fr": "M\u00e9tis et Indiens non-inscrits"
     },
     {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Social Development"
+      "role_en": "Critic",
+      "start_date": "2004-01-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Social Development",
+      "title_fr": "D\u00e9veloppement social"
     },
     {
-      "role": "Critic",
-      "start": "2001-09-19",
-      "end": "2001-11-18",
-      "title": "International Trade"
+      "role_en": "Critic",
+      "start_date": "2001-09-19",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-11-18",
+      "title_en": "International Trade",
+      "title_fr": "Commerce ext\u00e9rieur"
     },
     {
-      "role": "Critic",
-      "start": "2001-01-05",
-      "end": "2001-04-27",
-      "title": "International Trade"
+      "role_en": "Critic",
+      "start_date": "2001-01-05",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-04-27",
+      "title_en": "International Trade",
+      "title_fr": "Commerce ext\u00e9rieur"
     },
     {
-      "role": "Critic",
-      "start": "2000-08-01",
-      "end": "2001-01-04",
-      "title": "National Revenue"
+      "role_en": "Critic",
+      "start_date": "2000-08-01",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-01-04",
+      "title_en": "National Revenue",
+      "title_fr": "Revenu national"
     },
     {
-      "role": "Critic",
-      "start": "1998-09-04",
-      "end": "1999-10-07",
-      "title": "Fisheries and Oceans"
+      "role_en": "Critic",
+      "start_date": "1998-09-04",
+      "role_fr": "Porte-parole",
+      "end_date": "1999-10-07",
+      "title_en": "Fisheries and Oceans",
+      "title_fr": "P\u00eaches et Oc\u00e9ans"
     },
     {
-      "role": "Critic",
-      "start": "1998-06-16",
-      "end": "1998-08",
-      "title": "Fisheries and Oceans"
+      "role_en": "Critic",
+      "start_date": "1998-06-16",
+      "role_fr": "Porte-parole",
+      "end_date": "1998-08",
+      "title_en": "Fisheries and Oceans",
+      "title_fr": "P\u00eaches et Oc\u00e9ans"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2002-04-04",
-      "end": "2004-07-21",
-      "title": "Environment"
+      "role_en": "Assistant Critic",
+      "start_date": "2002-04-04",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2004-07-21",
+      "title_en": "Environment",
+      "title_fr": "Environnement"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1997-06-19",
-      "end": "1998-06-16",
-      "title": "International Trade"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2008-10-29",
-      "title": "Minister of Natural Resources"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State (Sport)"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-04-28",
-      "end": "2006-02-05",
-      "title": "Public Works and Government Services"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-10-05",
-      "end": "2006-02-05",
-      "title": "Privy Council"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2004-10",
-      "title": "Human Resources Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-06-19",
-      "title": "Metis and Non-Status Indians"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2005-06-19",
-      "title": "Northern Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Social Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-09-19",
-      "end": "2001-11-18",
-      "title": "International Trade"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-01-05",
-      "end": "2001-04-27",
-      "title": "International Trade"
-    },
-    {
-      "role": "Critic",
-      "start": "2000-08-01",
-      "end": "2001-01-04",
-      "title": "National Revenue"
-    },
-    {
-      "role": "Critic",
-      "start": "1998-09-04",
-      "end": "1999-10-07",
-      "title": "Fisheries and Oceans"
-    },
-    {
-      "role": "Critic",
-      "start": "1998-06-16",
-      "end": "1998-08",
-      "title": "Fisheries and Oceans"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2002-04-04",
-      "end": "2004-07-21",
-      "title": "Environment"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1997-06-19",
-      "end": "1998-06-16",
-      "title": "International Trade"
+      "role_en": "Assistant Critic",
+      "start_date": "1997-06-19",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1998-06-16",
+      "title_en": "International Trade",
+      "title_fr": "Commerce ext\u00e9rieur"
     }
-  ],
-  "professions": [
-    "Lawyer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-17, Public Safety Act",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Environment and Sustainable Development",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
-    },
-    {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2003-12-22"
-    },
-    {
-      "party": "Reform Party",
-      "start": "1997-06-02",
-      "end": "2000-03-26"
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
     }
   ],
-  "id": "3151867b-f11f-4956-810e-e62d19707c8b",
-  "date_of_birth": "1957-05-08"
+  "id": "3151867b-f11f-4956-810e-e62d19707c8b"
 }

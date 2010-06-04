@@ -1,242 +1,183 @@
 {
-  "place_of_birth": "St John's, Newfoundland and Labrador",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "1987-07-20",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1948-10-27",
+  "place_of_birth": {
+    "name_en": "St John's, Newfoundland and Labrador",
+    "name_fr": "St John's, Terre-Neuve-et-Labrador"
+  },
   "name": "Jack Harris",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2009-04-20",
-      "title": "National Defence"
+      "role_en": "Critic",
+      "start_date": "2009-04-20",
+      "role_fr": "Porte-parole",
+      "title_en": "National Defence",
+      "title_fr": "D\u00e9fense nationale"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Atlantic Canada Opportunities Agency"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Atlantic Canada Opportunities Agency",
+      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Atlantic Gateway"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Atlantic Gateway",
+      "title_fr": "Porte d'entr\u00e9e de l'Atlantique"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-04-19",
-      "title": "National Security"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-04-19",
+      "title_en": "National Security",
+      "title_fr": "S\u00e9curit\u00e9 nationale"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-04-19",
-      "title": "Public Safety"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-04-19",
+      "title_en": "Public Safety",
+      "title_fr": "S\u00e9curit\u00e9 publique"
     },
     {
-      "role": "Critic",
-      "start": "1987-09",
-      "end": "1988",
-      "title": "East Coast Fisheries"
+      "role_en": "Critic",
+      "start_date": "1987-09",
+      "role_fr": "Porte-parole",
+      "end_date": "1988",
+      "title_en": "East Coast Fisheries",
+      "title_fr": "P\u00eacheries (C\u00f4te Est)"
     },
     {
-      "role": "Critic",
-      "start": "1987-09",
-      "end": "1989",
-      "title": "Atlantic Canada Region"
+      "role_en": "Critic",
+      "start_date": "1987-09",
+      "role_fr": "Porte-parole",
+      "end_date": "1989",
+      "title_en": "Atlantic Canada Region",
+      "title_fr": "R\u00e9gion du Canada atlantique"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "EnergyArea of responsibility: Atlantic Region"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-04-20",
-      "title": "National Defence"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Atlantic Canada Opportunities Agency"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Atlantic Gateway"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-04-19",
-      "title": "National Security"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-04-19",
-      "title": "Public Safety"
-    },
-    {
-      "role": "Critic",
-      "start": "1987-09",
-      "end": "1988",
-      "title": "East Coast Fisheries"
-    },
-    {
-      "role": "Critic",
-      "start": "1987-09",
-      "end": "1989",
-      "title": "Atlantic Canada Region"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "EnergyArea of responsibility: Atlantic Region"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "EnergyArea of responsibility: Atlantic Region",
+      "title_fr": "\u00c9nergieChamp de responsabilit\u00e9: R\u00e9gion de l'Atlantique"
     }
-  ],
-  "professions": [
-    "Community-development worker",
-    "Journalist",
-    "Lawyer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Legislative Committee on Bill C-103",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-103",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-103"
     },
     {
-      "committee": "Legislative Committee on Bill C-152",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-152",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-152"
     },
     {
-      "committee": "Legislative Committee on Bill C-75",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 33,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Safety and National Security",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-103",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-152",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 2
-    },
-    {
-      "committee": "Legislative Committee on Bill C-75",
-      "role": "Member ",
-      "parliament": 33,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-75",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-75"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "1987-07-20"
+      "name_en": "Community-development worker",
+      "name_fr": "Animateur social de quartier"
+    },
+    {
+      "name_en": "Journalist",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Journaliste"
     }
   ],
-  "id": "c846297d-8bc7-4e69-b6eb-31d0e19f7ec1",
-  "date_of_birth": "1948-10-27"
+  "id": "c846297d-8bc7-4e69-b6eb-31d0e19f7ec1"
 }

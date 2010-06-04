@@ -1,55 +1,54 @@
 {
-  "place_of_birth": "North Vancouver, British Columbia, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1964-03-11",
+  "place_of_birth": {
+    "name_en": "North Vancouver, British Columbia, Canada",
+    "name_fr": "North Vancouver, Colombie-Britannique, Canada"
+  },
   "name": "Andrew Saxton",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary to the President of the Treasury Board"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2008-11-07",
-      "title": "Parliamentary Secretary to the President of the Treasury Board"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2008-11-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the President of the Treasury Board",
+      "title_fr": "Secr\u00e9taire parlementaire du pr\u00e9sident du Conseil du Tr\u00e9sor"
     }
-  ],
-  "professions": [
-    "Banker",
-    "Businessman"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2006"
+      "name_en": "Banker",
+      "name_fr": "Banquier"
+    },
+    {
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "f66407a4-934e-4c46-b524-b4dacd035ceb",
-  "date_of_birth": "1964-03-11"
+  "id": "f66407a4-934e-4c46-b524-b4dacd035ceb"
 }

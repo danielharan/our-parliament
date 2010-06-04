@@ -1,318 +1,233 @@
 {
-  "place_of_birth": "Hamilton, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "1984-09-04",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1954-10-05",
+  "place_of_birth": {
+    "name_en": "Hamilton, Ontario, Canada",
+    "name_fr": "Hamilton, Ontario, Canada"
+  },
   "name": "David Christopherson",
   "functions": [
     {
-      "role": "Caucus Chair",
-      "start": "2007",
-      "end": "2008-11-11",
-      "title": "N.D.P. Deputy Caucus Chair"
+      "role_en": "Caucus Chair",
+      "start_date": "2007",
+      "role_fr": "Pr\u00e9sident du caucus",
+      "end_date": "2008-11-11",
+      "title_en": "N.D.P. Deputy Caucus Chair",
+      "title_fr": "Pr\u00e9sident adjoint du caucus du N.P.D."
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Democratic Reform"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Democratic Reform",
+      "title_fr": "R\u00e9forme d\u00e9mocratique"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2010-05-02",
-      "title": "Canada Post Corporation"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2010-05-02",
+      "title_en": "Canada Post Corporation",
+      "title_fr": "Soci\u00e9t\u00e9 canadienne des postes"
     },
     {
-      "role": "Critic",
-      "start": "2007-09",
-      "end": "2008-11-16",
-      "title": "Crown Corporations"
+      "role_en": "Critic",
+      "start_date": "2007-09",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Crown Corporations",
+      "title_fr": "Corporations de la Couronne"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Infrastructure and Communities"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Infrastructure and Communities",
+      "title_fr": "Infrastructure et Collectivit\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "National Revenue"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "National Revenue",
+      "title_fr": "Revenu national"
     },
     {
-      "role": "Critic",
-      "start": "2005-01-31",
-      "title": "Public Accounts"
+      "role_en": "Critic",
+      "start_date": "2005-01-31",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Accounts",
+      "title_fr": "Comptes publics"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "City and Community Infrastructure"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "City and Community Infrastructure",
+      "title_fr": "Infrastructure"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Infrastructure"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Infrastructure",
+      "title_fr": "Infrastructure et Collectivit\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Infrastructure and Communities"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Infrastructure and Communities",
+      "title_fr": "Politique de l'acier"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Labour"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Labour",
+      "title_fr": "Travail"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Steel Policy"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-13",
+      "title_en": "Steel Policy",
+      "title_fr": "Villes et infrastructure communautaire"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Steel Policy"
-    },
-    {
-      "role": "Caucus Chair",
-      "start": "2007",
-      "end": "2008-11-11",
-      "title": "N.D.P. Deputy Caucus Chair"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Democratic Reform"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2010-05-02",
-      "title": "Canada Post Corporation"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-09",
-      "end": "2008-11-16",
-      "title": "Crown Corporations"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Infrastructure and Communities"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "National Revenue"
-    },
-    {
-      "role": "Critic",
-      "start": "2005-01-31",
-      "title": "Public Accounts"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "City and Community Infrastructure"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Infrastructure"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Infrastructure and Communities"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Labour"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-13",
-      "title": "Steel Policy"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Steel Policy"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2008-11-16",
+      "title_en": "Steel Policy",
+      "title_fr": "Politique de l'acier"
     }
-  ],
-  "professions": [
-    "Director",
-    "Political assistant",
-    "Union officer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Public Accounts",
+      "name_fr": "Comit\u00e9 permanent des comptes publics"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "1984-09-04"
+      "name_en": "Director",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Directeur"
+    },
+    {
+      "name_en": "Union officer",
+      "name_fr": "Dirigeant syndical"
     }
   ],
-  "id": "d3b34b92-4b9c-4beb-9c3b-dd6146fb8b2c",
-  "date_of_birth": "1954-10-05"
+  "id": "d3b34b92-4b9c-4beb-9c3b-dd6146fb8b2c"
 }

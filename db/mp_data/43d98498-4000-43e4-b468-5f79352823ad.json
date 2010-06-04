@@ -1,137 +1,106 @@
 {
-  "place_of_birth": "St-Boniface, Manitoba, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2006-01-23",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1943-11-21",
+  "place_of_birth": {
+    "name_en": "St-Boniface, Manitoba, Canada",
+    "name_fr": "Saint-Boniface, Manitoba, Canada"
+  },
   "name": "Denise Savoie",
   "functions": [
     {
-      "role": "Deputy Chair of Committees of the Whole",
-      "start": "2008-11-21",
-      "title": "Deputy Chair of Committees of the Whole"
+      "role_en": "Deputy Chair of Committees of the Whole",
+      "start_date": "2008-11-21",
+      "role_fr": "Vice-pr\u00e9sident des comit\u00e9s pl\u00e9niers",
+      "title_en": "Deputy Chair of Committees of the Whole",
+      "title_fr": "Vice-pr\u00e9sidente des comit\u00e9s pl\u00e9niers"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Canada Mortgage and Housing Corporation"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-02-12",
+      "title_en": "Canada Mortgage and Housing Corporation",
+      "title_fr": "Itin\u00e9rance"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Homelessness"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-02-12",
+      "title_en": "Homelessness",
+      "title_fr": "Logement"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Housing"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-02-12",
+      "title_en": "Housing",
+      "title_fr": "Soci\u00e9t\u00e9 canadienne d'hypoth\u00e8ques et de logement"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Public Transit"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-02-12",
+      "title_en": "Public Transit",
+      "title_fr": "Transports en commun"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "Intergovernmental Affairs"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-09-26",
+      "title_en": "Intergovernmental Affairs",
+      "title_fr": "Affaires intergouvernementales"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Post Secondary Education"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Post Secondary Education",
+      "title_fr": "\u00c9ducation post secondaire"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-17",
-      "title": "Literacy"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-17",
+      "title_en": "Literacy",
+      "title_fr": "Alphab\u00e9tisation"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Americas"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Americas",
+      "title_fr": "Am\u00e9riques"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Training"
-    },
-    {
-      "role": "Deputy Chair of Committees of the Whole",
-      "start": "2008-11-21",
-      "title": "Deputy Chair of Committees of the Whole"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Canada Mortgage and Housing Corporation"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Homelessness"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Housing"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "end": "2009-02-12",
-      "title": "Public Transit"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2007-09-26",
-      "title": "Intergovernmental Affairs"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Post Secondary Education"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-17",
-      "title": "Literacy"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Americas"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Training"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2008-11-16",
+      "title_en": "Training",
+      "title_fr": "Formation"
     }
-  ],
-  "professions": [
-    "Educator"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2006-01-23"
+      "name_en": "Educator",
+      "name_fr": "P\u00e9dagogue"
     }
   ],
-  "id": "43d98498-4000-43e4-b468-5f79352823ad",
-  "date_of_birth": "1943-11-21"
+  "id": "43d98498-4000-43e4-b468-5f79352823ad"
 }

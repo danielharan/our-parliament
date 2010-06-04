@@ -1,94 +1,83 @@
 {
-  "place_of_birth": "Thompson, Manitoba, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1973-05-06",
+  "place_of_birth": {
+    "name_en": "Thompson, Manitoba, Canada",
+    "name_fr": "Thompson, Manitoba, Canada"
+  },
   "name": "Rod Bruinooge",
   "functions": [
     {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary to the Minister of Indian Affairs and Northern Development and Federal Interlocutor for M\u00e9tis and Non-Status Indians"
-    },
-    {
-      "role": "Parliamentary Secretary",
-      "start": "2006-02-07",
-      "end": "2008-11-06",
-      "title": "Parliamentary Secretary to the Minister of Indian Affairs and Northern Development and Federal Interlocutor for M\u00e9tis and Non-Status Indians"
+      "role_en": "Parliamentary Secretary",
+      "start_date": "2006-02-07",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "end_date": "2008-11-06",
+      "title_en": "Parliamentary Secretary to the Minister of Indian Affairs and Northern Development and Federal Interlocutor for M\u00e9tis and Non-Status Indians",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Affaires indiennes et du Nord canadien et interlocuteur f\u00e9d\u00e9ral aupr\u00e8s des M\u00e9tis et des Indiens non inscrits"
     }
-  ],
-  "professions": [
-    "Entrepreneur",
-    "Executive director",
-    "Film producer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
     },
     {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Government Operations and Estimates",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Entrepreneur",
+      "name_fr": "Cin\u00e9aste"
+    },
+    {
+      "name_en": "Executive director",
+      "name_fr": "Directeur ex\u00e9cutif"
+    },
+    {
+      "name_en": "Film producer",
+      "name_fr": "Entrepreneur"
     }
   ],
-  "id": "7d85bbdb-4d0c-47c4-a61c-a88b99aaf628",
-  "date_of_birth": "1973-05-06"
+  "id": "7d85bbdb-4d0c-47c4-a61c-a88b99aaf628"
 }

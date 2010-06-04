@@ -1,373 +1,265 @@
 {
-  "place_of_birth": "Sarnia, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2000-11-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    }
+  ],
+  "date_of_birth": "1960-05-23",
+  "place_of_birth": {
+    "name_en": "Sarnia, Ontario, Canada",
+    "name_fr": "Sarnia, Ontario, Canada"
+  },
   "name": "Cheryl Gallant",
   "functions": [
     {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2001-04-25",
-      "end": "2002-04-03",
-      "title": "Deputy House Leader of the Official Opposition"
+      "role_en": "Leader of the Opposition in the House Of Commons",
+      "start_date": "2001-04-25",
+      "role_fr": "Leader parlementaire de l'Opposition officielle",
+      "end_date": "2002-04-03",
+      "title_en": "Deputy House Leader of the Official Opposition",
+      "title_fr": "Leader parlementaire adjointe de l'Opposition officielle"
     },
     {
-      "role": "House Leader",
-      "start": "2001-04-25",
-      "end": "2002-04-03",
-      "title": "Canadian Alliance Deputy House Leader"
+      "role_en": "House Leader",
+      "start_date": "2001-04-25",
+      "role_fr": "Leader parlementaire",
+      "end_date": "2002-04-03",
+      "title_en": "Canadian Alliance Deputy House Leader",
+      "title_fr": "Leader adjoint en Chambre de l'Alliance canadienne"
     },
     {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Federal Economic Development Initiative for Northern Ontario"
+      "role_en": "Critic",
+      "start_date": "2004-01-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Federal Economic Development Initiative for Northern Ontario",
+      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario"
     },
     {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Small Business"
+      "role_en": "Critic",
+      "start_date": "2004-01-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Small Business",
+      "title_fr": "Petites entreprises"
     },
     {
-      "role": "Critic",
-      "start": "2002-04-04",
-      "end": "2004-07-21",
-      "title": "Science, Research and Development"
+      "role_en": "Critic",
+      "start_date": "2002-04-04",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Science, Research and Development",
+      "title_fr": "Sciences, Recherche et D\u00e9veloppement"
     },
     {
-      "role": "Critic",
-      "start": "2001-12-18",
-      "end": "2002-01-31",
-      "title": "Amateur Sport"
+      "role_en": "Critic",
+      "start_date": "2001-12-18",
+      "role_fr": "Porte-parole",
+      "end_date": "2002-01-31",
+      "title_en": "Amateur Sport",
+      "title_fr": "Commission de la Capitale nationale"
     },
     {
-      "role": "Critic",
-      "start": "2001-12-18",
-      "end": "2002-01-31",
-      "title": "National Capital Commission"
+      "role_en": "Critic",
+      "start_date": "2001-12-18",
+      "role_fr": "Porte-parole",
+      "end_date": "2002-01-31",
+      "title_en": "National Capital Commission",
+      "title_fr": "Sport amateur"
     },
     {
-      "role": "Critic",
-      "start": "2001-09-07",
-      "end": "2001-09-17",
-      "title": "Amateur Sport"
+      "role_en": "Critic",
+      "start_date": "2001-09-07",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-09-17",
+      "title_en": "Amateur Sport",
+      "title_fr": "Commission de la Capitale nationale"
     },
     {
-      "role": "Critic",
-      "start": "2001-09-07",
-      "end": "2001-09-17",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2001-09-07",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-09-17",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Critic",
-      "start": "2001-09-07",
-      "end": "2001-09-17",
-      "title": "National Capital Commission"
+      "role_en": "Critic",
+      "start_date": "2001-09-07",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-09-17",
+      "title_en": "National Capital Commission",
+      "title_fr": "Sport amateur"
     },
     {
-      "role": "Critic",
-      "start": "2001-01-05",
-      "end": "2001-06-17",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2001-04-25",
-      "end": "2002-04-03",
-      "title": "Deputy House Leader of the Official Opposition"
-    },
-    {
-      "role": "House Leader",
-      "start": "2001-04-25",
-      "end": "2002-04-03",
-      "title": "Canadian Alliance Deputy House Leader"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Federal Economic Development Initiative for Northern Ontario"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Small Business"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-04-04",
-      "end": "2004-07-21",
-      "title": "Science, Research and Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-12-18",
-      "end": "2002-01-31",
-      "title": "Amateur Sport"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-12-18",
-      "end": "2002-01-31",
-      "title": "National Capital Commission"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-09-07",
-      "end": "2001-09-17",
-      "title": "Amateur Sport"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-09-07",
-      "end": "2001-09-17",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-09-07",
-      "end": "2001-09-17",
-      "title": "National Capital Commission"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-01-05",
-      "end": "2001-06-17",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2001-01-05",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-06-17",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Patrimoine canadien"
     }
-  ],
-  "professions": [
-    "Office manager"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on the Status of Women",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on the Status of Women",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
+      "name_fr": "Sous-comit\u00e9 sur l'\u00e9tude du sport au Canada du Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
-    },
-    {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-11-27",
-      "end": "2003-12-22"
+      "name_en": "Office manager",
+      "name_fr": "Gestionnaire de bureau"
     }
   ],
-  "id": "b37cad30-26f6-40c6-8e4c-dd3a0ba841bb",
-  "date_of_birth": "1960-05-23"
+  "id": "b37cad30-26f6-40c6-8e4c-dd3a0ba841bb"
 }

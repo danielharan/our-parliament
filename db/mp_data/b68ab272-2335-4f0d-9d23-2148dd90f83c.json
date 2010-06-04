@@ -1,346 +1,251 @@
 {
-  "place_of_birth": "Joliette, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "1988-11-21",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1963-07-25",
+  "place_of_birth": {
+    "name_en": "Joliette, Quebec, Canada",
+    "name_fr": "Joliette, Qu\u00e9bec, Canada"
+  },
   "name": "Denis Coderre",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Federal Interlocutor for Metis and Non-Status Indians"
+      "role_en": "Minister",
+      "start_date": "2003-12-12",
+      "role_fr": "Ministre",
+      "end_date": "2004-07-19",
+      "title_en": "Federal Interlocutor for Metis and Non-Status Indians",
+      "title_fr": "Interlocuteur f\u00e9d\u00e9ral aupr\u00e8s des M\u00e9tis et des Indiens non-inscrits"
     },
     {
-      "role": "Minister",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Minister responsible for La Francophonie"
+      "role_en": "Minister",
+      "start_date": "2003-12-12",
+      "role_fr": "Ministre",
+      "end_date": "2004-07-19",
+      "title_en": "Minister responsible for La Francophonie",
+      "title_fr": "Ministre responsable de la Francophonie"
     },
     {
-      "role": "Minister",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Minister responsible for the Office of Indian Residential Schools Resolution"
+      "role_en": "Minister",
+      "start_date": "2003-12-12",
+      "role_fr": "Ministre",
+      "end_date": "2004-07-19",
+      "title_en": "Minister responsible for the Office of Indian Residential Schools Resolution",
+      "title_fr": "Ministre responsable du r\u00e8glement des questions des pensionnats autochtones"
     },
     {
-      "role": "Minister",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "President of the Queen's Privy Council"
+      "role_en": "Minister",
+      "start_date": "2003-12-12",
+      "role_fr": "Ministre",
+      "end_date": "2004-07-19",
+      "title_en": "President of the Queen's Privy Council",
+      "title_fr": "Pr\u00e9sident du Conseil priv\u00e9"
     },
     {
-      "role": "Minister",
-      "start": "2002-01-15",
-      "end": "2003-12-11",
-      "title": "Minister of Citizenship and Immigration"
+      "role_en": "Minister",
+      "start_date": "2002-01-15",
+      "role_fr": "Ministre",
+      "end_date": "2003-12-11",
+      "title_en": "Minister of Citizenship and Immigration",
+      "title_fr": "Ministre de la Citoyennet\u00e9 et de l'Immigration"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "1999-08-03",
-      "end": "2002-01-14",
-      "title": "Secretary of State (Amateur Sport)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "1999-08-03",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "2002-01-14",
+      "title_en": "Secretary of State (Amateur Sport)",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Sport amateur)"
     },
     {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "end": "2009-09-28",
-      "title": "National Defence"
+      "role_en": "Critic",
+      "start_date": "2009-01-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-09-28",
+      "title_en": "National Defence",
+      "title_fr": "D\u00e9fense nationale"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Public Works and Government Services"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-01-21",
+      "title_en": "Public Works and Government Services",
+      "title_fr": "Travaux publics et Services gouvernementaux"
     },
     {
-      "role": "Critic",
-      "start": "2008-03-31",
-      "end": "2008-11-13",
-      "title": "Canadian Heritage"
+      "role_en": "Critic",
+      "start_date": "2008-03-31",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-13",
+      "title_en": "Canadian Heritage",
+      "title_fr": "Francophonie"
     },
     {
-      "role": "Critic",
-      "start": "2008-03-31",
-      "end": "2008-11-13",
-      "title": "Francophonie"
+      "role_en": "Critic",
+      "start_date": "2008-03-31",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-13",
+      "title_en": "Francophonie",
+      "title_fr": "Langues officielles"
     },
     {
-      "role": "Critic",
-      "start": "2008-03-31",
-      "end": "2008-11-13",
-      "title": "Official Languages"
+      "role_en": "Critic",
+      "start_date": "2008-03-31",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-13",
+      "title_en": "Official Languages",
+      "title_fr": "Patrimoine canadien"
     },
     {
-      "role": "Critic",
-      "start": "2007-01-18",
-      "end": "2008-03-30",
-      "title": "National Defence"
+      "role_en": "Critic",
+      "start_date": "2007-01-18",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-03-30",
+      "title_en": "National Defence",
+      "title_fr": "D\u00e9fense nationale"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Economic Development Agency of Canada for the Regions of Quebec"
+      "role_en": "Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-01-17",
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Labour"
-    },
-    {
-      "role": "Minister",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Federal Interlocutor for Metis and Non-Status Indians"
-    },
-    {
-      "role": "Minister",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Minister responsible for La Francophonie"
-    },
-    {
-      "role": "Minister",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "Minister responsible for the Office of Indian Residential Schools Resolution"
-    },
-    {
-      "role": "Minister",
-      "start": "2003-12-12",
-      "end": "2004-07-19",
-      "title": "President of the Queen's Privy Council"
-    },
-    {
-      "role": "Minister",
-      "start": "2002-01-15",
-      "end": "2003-12-11",
-      "title": "Minister of Citizenship and Immigration"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "1999-08-03",
-      "end": "2002-01-14",
-      "title": "Secretary of State (Amateur Sport)"
-    },
-    {
-      "role": "Critic",
-      "start": "2009-01-22",
-      "end": "2009-09-28",
-      "title": "National Defence"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Public Works and Government Services"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-03-31",
-      "end": "2008-11-13",
-      "title": "Canadian Heritage"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-03-31",
-      "end": "2008-11-13",
-      "title": "Francophonie"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-03-31",
-      "end": "2008-11-13",
-      "title": "Official Languages"
-    },
-    {
-      "role": "Critic",
-      "start": "2007-01-18",
-      "end": "2008-03-30",
-      "title": "National Defence"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Economic Development Agency of Canada for the Regions of Quebec"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Labour"
+      "role_en": "Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole",
+      "end_date": "2007-01-17",
+      "title_en": "Labour",
+      "title_fr": "Travail"
     }
-  ],
-  "professions": [
-    "Life insurance broker",
-    "Public relations officer",
-    "Radio announcer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
     },
     {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
     },
     {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     },
     {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Citizenship and Immigration",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Special Committee on the Canadian Mission in Afghanistan",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
+      "name_fr": "Sous-comit\u00e9 sur l'\u00e9tude du sport au Canada du Comit\u00e9 permanent du patrimoine canadien"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "1988-11-21"
+      "name_en": "Life insurance broker",
+      "name_fr": "Agent de relations publiques"
+    },
+    {
+      "name_en": "Public relations officer",
+      "name_fr": "Annonceur de radio"
+    },
+    {
+      "name_en": "Radio announcer",
+      "name_fr": "Courtier d'assurance-vie"
     }
   ],
-  "id": "b68ab272-2335-4f0d-9d23-2148dd90f83c",
-  "date_of_birth": "1963-07-25"
+  "id": "b68ab272-2335-4f0d-9d23-2148dd90f83c"
 }

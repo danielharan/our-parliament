@@ -154,6 +154,7 @@ ul.profiles_list li a.photo { float: left; display: block; margin: 0 10px 0 0; o
 ul.profiles_list li a.photo img { height: 100%; width: 100%; }
 ul.profiles_list li div.description { margin: 0 0 0 50px; }
 ul.profiles_list li div.description span.name a { font-weight: bold; }
+ul.profiles_list li div.description span.role { font-weight: bold; }
 ul.profiles_list li div.description small { display: block; font-size: 11px; color: #656565; }
 
 /* Twitter Widget */
@@ -231,3 +232,23 @@ ul.profiles_list li div.description small { display: block; font-size: 11px; col
 #activity_stream.block em { font-size: 9pt; color: #999; }
 
 #activity_stream.block li p { margin: 6px 0 0 0; }
+
+/* Votes */
+#vote_summary .votes li {display: block; width: 117px; float: left; }
+#vote_summary .yea_large { background: url(../images/votes/yea_large.png) no-repeat; padding: 20px 0 0 100px; min-height: 100px; }
+#vote_summary .nay_large { background: url(../images/votes/nay_large.png) no-repeat; padding: 20px  0 0 100px; min-height: 100px; }
+#vote_summary .paired_large { background: url(../images/votes/paired_large.png) no-repeat; padding: 20px  0 0 100px; min-height: 100px; } 
+#vote_summary .votes { display: block; font-size: 24pt; }
+#vote_summary .description { display: block; font-size: 10pt; }
+
+#votes_by_party .party_summary {margin: 40px 0 40x 0;}
+#votes_by_party .votes li {display: block; width: 60px; float: left; margin: 20px 0 0 10px; }
+#votes_by_party .yea_small { background: url(../images/votes/yea_small.png) no-repeat; padding: 15px 0 0 60px; min-height: 50px; }
+#votes_by_party .nay_small { background: url(../images/votes/nay_small.png) no-repeat; padding: 15px  0 0 60px; min-height: 50px; }
+#votes_by_party .paired_small { background: url(../images/votes/paired_small.png) no-repeat; padding: 15px  0 0 60px; min-height: 50px; } 
+#votes_by_party .votes { display: block; font-size: 16pt; }
+#votes_by_party .votes .description { display: none; }
+#votes_by_party .toggle_votes {margin: 0 0 0 280px; float: left;}
+#votes_by_party .individual_votes {display:none;}
+
+.clear {clear:both;}

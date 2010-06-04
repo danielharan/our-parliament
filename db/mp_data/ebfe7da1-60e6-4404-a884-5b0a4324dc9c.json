@@ -1,707 +1,500 @@
 {
-  "place_of_birth": "New Westminster, British Columbia, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    },
+    {
+      "start_date": "2002-04-16",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "2002-04-10",
+      "end_date": "2002-04-15",
+      "name_en": "",
+      "name_fr": ""
+    },
+    {
+      "start_date": "2000-03-27",
+      "end_date": "2002-04-09",
+      "name_en": "Canadian Reform Conservative Alliance",
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+    },
+    {
+      "start_date": "1993-10-25",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party",
+      "name_fr": "Parti r\u00e9formiste"
+    }
+  ],
+  "date_of_birth": "1957-02-25",
+  "place_of_birth": {
+    "name_en": "New Westminster, British Columbia, Canada",
+    "name_fr": "New Westminster, Colombie-Britannique, Canada"
+  },
   "name": "Charles (Chuck) Strahl",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2009-08-25",
-      "title": "Minister of the Canadian Northern Economic Development Agency"
+      "role_en": "Minister",
+      "start_date": "2009-08-25",
+      "role_fr": "Ministre",
+      "title_en": "Minister of the Canadian Northern Economic Development Agency",
+      "title_fr": "Ministre de l\u2019Agence canadienne de d\u00e9veloppement \u00e9conomique du Nord"
     },
     {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "title": "Federal Interlocutor for Metis and Non-Status Indians"
+      "role_en": "Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre",
+      "title_en": "Federal Interlocutor for Metis and Non-Status Indians",
+      "title_fr": "Interlocuteur f\u00e9d\u00e9ral aupr\u00e8s des M\u00e9tis et des Indiens non-inscrits"
     },
     {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "title": "Minister of Indian Affairs and Northern Development"
+      "role_en": "Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Indian Affairs and Northern Development",
+      "title_fr": "Ministre des Affaires indiennes et du Nord canadien"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister of Agriculture and Agri-Food"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2007-08-13",
+      "title_en": "Minister of Agriculture and Agri-Food",
+      "title_fr": "Ministre de l'Agriculture et de l'Agro-alimentaire"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister responsible for the Canadian Wheat Board"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2007-08-13",
+      "title_en": "Minister responsible for the Canadian Wheat Board",
+      "title_fr": "Ministre responsable de la Commission canadienne du bl\u00e9"
     },
     {
-      "role": "Regional Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Northwest Territories"
+      "role_en": "Regional Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre r\u00e9gional",
+      "end_date": "2008-10-29",
+      "title_en": "Northwest Territories",
+      "title_fr": "Nunavut"
     },
     {
-      "role": "Regional Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Nunavut"
+      "role_en": "Regional Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre r\u00e9gional",
+      "end_date": "2008-10-29",
+      "title_en": "Nunavut",
+      "title_fr": "Territoires du Nord-Ouest"
     },
     {
-      "role": "Regional Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Yukon"
+      "role_en": "Regional Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre r\u00e9gional",
+      "end_date": "2008-10-29",
+      "title_en": "Yukon",
+      "title_fr": "Yukon"
     },
     {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "British Columbia"
+      "role_en": "Regional Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre r\u00e9gional",
+      "end_date": "2007-08-13",
+      "title_en": "British Columbia",
+      "title_fr": "Colombie-Britannique"
     },
     {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2004-07-22",
-      "end": "2004-10-04",
-      "title": "Deputy House Leader of the Official Opposition"
+      "role_en": "Leader of the Opposition in the House Of Commons",
+      "start_date": "2004-07-22",
+      "role_fr": "Leader parlementaire de l'Opposition officielle",
+      "end_date": "2004-10-04",
+      "title_en": "Deputy House Leader of the Official Opposition",
+      "title_fr": "Leader parlementaire adjoint de l'Opposition officielle"
     },
     {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2003-06-23",
-      "end": "2003-12-22",
-      "title": "Deputy House Leader of the Official Opposition"
+      "role_en": "Leader of the Opposition in the House Of Commons",
+      "start_date": "2003-06-23",
+      "role_fr": "Leader parlementaire de l'Opposition officielle",
+      "end_date": "2003-12-22",
+      "title_en": "Deputy House Leader of the Official Opposition",
+      "title_fr": "Leader parlementaire adjoint de l'Opposition officielle"
     },
     {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2000-03-27",
-      "end": "2001-04-24",
-      "title": "Official Opposition House Leader"
+      "role_en": "Leader of the Opposition in the House Of Commons",
+      "start_date": "2000-03-27",
+      "role_fr": "Leader parlementaire de l'Opposition officielle",
+      "end_date": "2001-04-24",
+      "title_en": "Official Opposition House Leader",
+      "title_fr": "Leader parlementaire de l'Opposition officielle"
     },
     {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2000-01-31",
-      "end": "2000-03-26",
-      "title": "Official Opposition House Leader"
+      "role_en": "Leader of the Opposition in the House Of Commons",
+      "start_date": "2000-01-31",
+      "role_fr": "Leader parlementaire de l'Opposition officielle",
+      "end_date": "2000-03-26",
+      "title_en": "Official Opposition House Leader",
+      "title_fr": "Leader parlementaire de l'Opposition officielle"
     },
     {
-      "role": "House Leader",
-      "start": "2004-07-22",
-      "end": "2004-10-04",
-      "title": "Conservative Party Deputy House Leader"
+      "role_en": "House Leader",
+      "start_date": "2004-07-22",
+      "role_fr": "Leader parlementaire",
+      "end_date": "2004-10-04",
+      "title_en": "Conservative Party Deputy House Leader",
+      "title_fr": "Leader adjoint en Chambre du Parti conservateur"
     },
     {
-      "role": "House Leader",
-      "start": "2003-06-23",
-      "end": "2003-12-22",
-      "title": "Canadian Alliance Deputy House Leader"
+      "role_en": "House Leader",
+      "start_date": "2003-06-23",
+      "role_fr": "Leader parlementaire",
+      "end_date": "2003-12-22",
+      "title_en": "Canadian Alliance Deputy House Leader",
+      "title_fr": "Leader adjoint en Chambre de l'Alliance canadienne"
     },
     {
-      "role": "House Leader",
-      "start": "2000-03-27",
-      "end": "2001-04-24",
-      "title": "Canadian Alliance House Leader"
+      "role_en": "House Leader",
+      "start_date": "2000-03-27",
+      "role_fr": "Leader parlementaire",
+      "end_date": "2001-04-24",
+      "title_en": "Canadian Alliance House Leader",
+      "title_fr": "Leader en Chambre de l'Alliance canadienne"
     },
     {
-      "role": "House Leader",
-      "start": "2000-01-31",
-      "end": "2000-03-26",
-      "title": "Reform Party House Leader"
+      "role_en": "House Leader",
+      "start_date": "2000-01-31",
+      "role_fr": "Leader parlementaire",
+      "end_date": "2000-03-26",
+      "title_en": "Reform Party House Leader",
+      "title_fr": "Leader en Chambre du Parti r\u00e9formiste"
     },
     {
-      "role": "Whip",
-      "start": "1997",
-      "end": "2000-01-30",
-      "title": "Chief Opposition Whip"
+      "role_en": "Whip",
+      "start_date": "1997",
+      "role_fr": "Whip",
+      "end_date": "2000-01-30",
+      "title_en": "Chief Opposition Whip",
+      "title_fr": "Whip en chef de l'Opposition"
     },
     {
-      "role": "Whip",
-      "start": "1997",
-      "end": "2000-03-26",
-      "title": "Whip of the Canadian Alliance"
+      "role_en": "Whip",
+      "start_date": "1997",
+      "role_fr": "Whip",
+      "end_date": "2000-03-26",
+      "title_en": "Whip of the Canadian Alliance",
+      "title_fr": "Whip de l'Alliance canadienne"
     },
     {
-      "role": "Whip",
-      "start": "1996-05-07",
-      "end": "2000-01-31",
-      "title": "Whip of the Reform Party (Caucus Coordinator)"
+      "role_en": "Whip",
+      "start_date": "1996-05-07",
+      "role_fr": "Whip",
+      "end_date": "2000-01-31",
+      "title_en": "Whip of the Reform Party (Caucus Coordinator)",
+      "title_fr": "Whip du Parti r\u00e9formiste (Coordonnateur du caucus)"
     },
     {
-      "role": "Deputy Speaker",
-      "start": "2004-10-05",
-      "end": "2006-02-05",
-      "title": "Deputy Speaker and Chair of Committees of the Whole of the House of Commons"
+      "role_en": "Deputy Speaker",
+      "start_date": "2004-10-05",
+      "role_fr": "Vice-pr\u00e9sident",
+      "end_date": "2006-02-05",
+      "title_en": "Deputy Speaker and Chair of Committees of the Whole of the House of Commons",
+      "title_fr": "Vice-pr\u00e9sident et pr\u00e9sident des Comit\u00e9s pl\u00e9niers de la Chambre des communes"
     },
     {
-      "role": "Caucus Chair",
-      "start": "2004-07-22",
-      "end": "2004-08-30",
-      "title": "Conservative Party Caucus Vice-Chair"
+      "role_en": "Caucus Chair",
+      "start_date": "2004-07-22",
+      "role_fr": "Pr\u00e9sident du caucus",
+      "end_date": "2004-08-30",
+      "title_en": "Conservative Party Caucus Vice-Chair",
+      "title_fr": "Vice-pr\u00e9sident du caucus du Parti conservateur"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2004-10-04",
-      "title": "Democratic Reform"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-10-04",
+      "title_en": "Democratic Reform",
+      "title_fr": "R\u00e9forme d\u00e9mocratique"
     },
     {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Northern Economic Development"
+      "role_en": "Critic",
+      "start_date": "2004-01-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-07-21",
+      "title_en": "Northern Economic Development",
+      "title_fr": "D\u00e9veloppement \u00e9conomique du Nord"
     },
     {
-      "role": "Critic",
-      "start": "2002-12-05",
-      "end": "2004-01-21",
-      "title": "Cultural Industries"
+      "role_en": "Critic",
+      "start_date": "2002-12-05",
+      "role_fr": "Porte-parole",
+      "end_date": "2004-01-21",
+      "title_en": "Cultural Industries",
+      "title_fr": "Industries culturelles"
     },
     {
-      "role": "Critic",
-      "start": "2001-09-19",
-      "end": "2002-04-09",
-      "title": "Deputy Prime Minister"
+      "role_en": "Critic",
+      "start_date": "2001-09-19",
+      "role_fr": "Porte-parole",
+      "end_date": "2002-04-09",
+      "title_en": "Deputy Prime Minister",
+      "title_fr": "Industrie"
     },
     {
-      "role": "Critic",
-      "start": "2001-09-19",
-      "end": "2002-04-09",
-      "title": "Industry"
+      "role_en": "Critic",
+      "start_date": "2001-09-19",
+      "role_fr": "Porte-parole",
+      "end_date": "2002-04-09",
+      "title_en": "Industry",
+      "title_fr": "Vice-premier ministre"
     },
     {
-      "role": "Critic",
-      "start": "2000-08-01",
-      "end": "2001-04-24",
-      "title": "Leader of the Government in the House of Commons"
+      "role_en": "Critic",
+      "start_date": "2000-08-01",
+      "role_fr": "Porte-parole",
+      "end_date": "2001-04-24",
+      "title_en": "Leader of the Government in the House of Commons",
+      "title_fr": "Leader du Gouvernement \u00e0 la Chambre des communes"
     },
     {
-      "role": "Critic",
-      "start": "1995-06-30",
-      "end": "1997-06-19",
-      "title": "Natural Resources"
+      "role_en": "Critic",
+      "start_date": "1995-06-30",
+      "role_fr": "Porte-parole",
+      "end_date": "1997-06-19",
+      "title_en": "Natural Resources",
+      "title_fr": "Ressources naturelles"
     },
     {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1995-06-29",
-      "title": "Public Service Renewal"
+      "role_en": "Critic",
+      "start_date": "1994",
+      "role_fr": "Porte-parole",
+      "end_date": "1995-06-29",
+      "title_en": "Public Service Renewal",
+      "title_fr": "Renouveau de la Fonction publique"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1998-06-16",
-      "end": "2001-05",
-      "title": "Foreign Affairs"
-    },
-    {
-      "role": "Minister",
-      "start": "2009-08-25",
-      "title": "Minister of the Canadian Northern Economic Development Agency"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "title": "Federal Interlocutor for Metis and Non-Status Indians"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "title": "Minister of Indian Affairs and Northern Development"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister of Agriculture and Agri-Food"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister responsible for the Canadian Wheat Board"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Northwest Territories"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Nunavut"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Yukon"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "British Columbia"
-    },
-    {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2004-07-22",
-      "end": "2004-10-04",
-      "title": "Deputy House Leader of the Official Opposition"
-    },
-    {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2003-06-23",
-      "end": "2003-12-22",
-      "title": "Deputy House Leader of the Official Opposition"
-    },
-    {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2000-03-27",
-      "end": "2001-04-24",
-      "title": "Official Opposition House Leader"
-    },
-    {
-      "role": "Leader of the Opposition in the House Of Commons",
-      "start": "2000-01-31",
-      "end": "2000-03-26",
-      "title": "Official Opposition House Leader"
-    },
-    {
-      "role": "House Leader",
-      "start": "2004-07-22",
-      "end": "2004-10-04",
-      "title": "Conservative Party Deputy House Leader"
-    },
-    {
-      "role": "House Leader",
-      "start": "2003-06-23",
-      "end": "2003-12-22",
-      "title": "Canadian Alliance Deputy House Leader"
-    },
-    {
-      "role": "House Leader",
-      "start": "2000-03-27",
-      "end": "2001-04-24",
-      "title": "Canadian Alliance House Leader"
-    },
-    {
-      "role": "House Leader",
-      "start": "2000-01-31",
-      "end": "2000-03-26",
-      "title": "Reform Party House Leader"
-    },
-    {
-      "role": "Whip",
-      "start": "1997",
-      "end": "2000-01-30",
-      "title": "Chief Opposition Whip"
-    },
-    {
-      "role": "Whip",
-      "start": "1997",
-      "end": "2000-03-26",
-      "title": "Whip of the Canadian Alliance"
-    },
-    {
-      "role": "Whip",
-      "start": "1996-05-07",
-      "end": "2000-01-31",
-      "title": "Whip of the Reform Party (Caucus Coordinator)"
-    },
-    {
-      "role": "Deputy Speaker",
-      "start": "2004-10-05",
-      "end": "2006-02-05",
-      "title": "Deputy Speaker and Chair of Committees of the Whole of the House of Commons"
-    },
-    {
-      "role": "Caucus Chair",
-      "start": "2004-07-22",
-      "end": "2004-08-30",
-      "title": "Conservative Party Caucus Vice-Chair"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2004-10-04",
-      "title": "Democratic Reform"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-01-22",
-      "end": "2004-07-21",
-      "title": "Northern Economic Development"
-    },
-    {
-      "role": "Critic",
-      "start": "2002-12-05",
-      "end": "2004-01-21",
-      "title": "Cultural Industries"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-09-19",
-      "end": "2002-04-09",
-      "title": "Deputy Prime Minister"
-    },
-    {
-      "role": "Critic",
-      "start": "2001-09-19",
-      "end": "2002-04-09",
-      "title": "Industry"
-    },
-    {
-      "role": "Critic",
-      "start": "2000-08-01",
-      "end": "2001-04-24",
-      "title": "Leader of the Government in the House of Commons"
-    },
-    {
-      "role": "Critic",
-      "start": "1995-06-30",
-      "end": "1997-06-19",
-      "title": "Natural Resources"
-    },
-    {
-      "role": "Critic",
-      "start": "1994",
-      "end": "1995-06-29",
-      "title": "Public Service Renewal"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1998-06-16",
-      "end": "2001-05",
-      "title": "Foreign Affairs"
+      "role_en": "Assistant Critic",
+      "start_date": "1998-06-16",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2001-05",
+      "title_en": "Foreign Affairs",
+      "title_fr": "Affaires \u00e9trang\u00e8res"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Logging contractor"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Canadian Heritage",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
+      "name_fr": "Sous-comit\u00e9 sur l'\u00e9tude du sport au Canada du Comit\u00e9 permanent du patrimoine canadien"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 36,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Subcommittee on the Conversion of Military Industries to Civilian Purposes of the Standing Committee on Industry",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on the Conversion of Military Industries to Civilian Purposes of the Standing Committee on Industry",
+      "name_fr": "Sous-comit\u00e9 sur la reconversion de l'industrie militaire \u00e0 des fins civiles du Comit\u00e9 permanent de l'industrie"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "role": "Vice-Chair ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Vice-Chair ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Industry, Science and Technology",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 36,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on the Conversion of Military Industries to Civilian Purposes of the Standing Committee on Industry",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 35,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2003-12-23"
+      "name_en": "Businessman",
+      "name_fr": "Entrepreneur en exploitation foresti\u00e8re"
     },
     {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2002-04-16",
-      "end": "2003-12-22"
-    },
-    {
-      "party": "",
-      "start": "2002-04-10",
-      "end": "2002-04-15"
-    },
-    {
-      "party": "Canadian Reform Conservative Alliance",
-      "start": "2000-03-27",
-      "end": "2002-04-09"
-    },
-    {
-      "party": "Reform Party",
-      "start": "1993-10-25",
-      "end": "2000-03-26"
+      "name_en": "Logging contractor",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "ebfe7da1-60e6-4404-a884-5b0a4324dc9c",
-  "date_of_birth": "1957-02-25"
+  "id": "ebfe7da1-60e6-4404-a884-5b0a4324dc9c"
 }

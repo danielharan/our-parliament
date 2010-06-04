@@ -1,87 +1,94 @@
 {
-  "place_of_birth": "Wingham, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2000-11-27",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1953-07-03",
+  "place_of_birth": {
+    "name_en": "Wingham, Ontario, Canada",
+    "name_fr": "Wingham, Ontario, Canada"
+  },
   "name": "John Rafferty",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "CIDA"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "CIDA",
+      "title_fr": "ACDI"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "International Cooperation"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "International Cooperation",
+      "title_fr": "Coop\u00e9ration internationale"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "International Development"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "International Development",
+      "title_fr": "D\u00e9veloppement international"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Canadian HeritageArea of responsibility: CBC"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Canadian HeritageArea of responsibility: CBC",
+      "title_fr": "For\u00eats"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Cultural Industries"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Cultural Industries",
+      "title_fr": "Industries culturelles"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Forestry"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "CIDA"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "International Cooperation"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "International Development"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Canadian HeritageArea of responsibility: CBC"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Cultural Industries"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Forestry"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Forestry",
+      "title_fr": "Patrimoine canadienChamp de responsabilit\u00e9: Radio-Canada"
     }
-  ],
-  "professions": [
-    "Businessman",
-    "Educator",
-    "Musician",
-    "Radio & t.v. host",
-    "School principal",
-    "Teacher",
-    "Volunteer worker"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2000-11-27"
+      "name_en": "Businessman",
+      "name_fr": "Animateur \u00e0 la radio et \u00e0 la t\u00e9l\u00e9vision"
+    },
+    {
+      "name_en": "Educator",
+      "name_fr": "Directeur d'\u00e9cole"
+    },
+    {
+      "name_en": "Musician",
+      "name_fr": "Enseignant"
+    },
+    {
+      "name_en": "Radio & t.v. host",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "School principal",
+      "name_fr": "Musicien"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "P\u00e9dagogue"
+    },
+    {
+      "name_en": "Volunteer worker",
+      "name_fr": "Travailleur b\u00e9n\u00e9vole"
     }
   ],
-  "id": "c052aaf8-167e-4f44-982f-7f3744e7366d",
-  "date_of_birth": "1953-07-03"
+  "id": "c052aaf8-167e-4f44-982f-7f3744e7366d"
 }

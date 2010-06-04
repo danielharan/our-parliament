@@ -1,7 +1,53 @@
-<% @title = @vote.title %>
+<% @title = "Vote #{@vote.number}" %>
+<% @content_layout = "has_sidebar_right" %>
 
-<div id="votes" class="block">
-  <ul>
-    <%= render :partial => 'shared/vote', :collection => @votes %>
-  </ul>
+<p><%= @vote.title %></p>
+<p><%= l(@vote.vote_date) %></p>
+
+<div id="vote_summary">
+	<ul class="votes">
+		<li class="yea_large"><span class="votes"><%= @vote.in_favour %></span><span class="description">Voted Yea</span></li>
+		<li class="nay_large"><span class="votes"><%= @vote.opposed %></span><span class="description">Voted Nay</span></li>
+		<li class="paired_large"><span class="votes"><%= @vote.paired %></span><span class="description">Paired or didn't vote</span></li>
+	</ul>
 </div>
+
+<div id="votes_by_party">
+	<% for party in @parties %>
+	<div class="party_summary">
+		<% if File.exists?("public/images/parties/#{party.name.underscore}.png") %>
+			<%= image_tag "parties/#{party.name.underscore}.png", :style => "float:left" %>
+		<% else %>
+			<div style="width: 200px; height: 110px; float: left;">
+				<h3 style="text-align:right;margin:30px 20px 0 0;"><%= party.name %></h3>
+			</div>
+		<% end %>
+		<ul class="votes">
+			<li class="yea_small"><span class="votes"><%= @votes_by_party[party.id]['yea'] %></span><span class="description">Voted Yea</span></li>
+			<li class="nay_small"><span class="votes"><%= @votes_by_party[party.id]['nay'] %></span><span class="description">Voted Nay</span></li>
+			<li class="paired_small"><span class="votes"><%= @votes_by_party[party.id]['paired'] %></span><span class="description">Paired or didn't vote</span></li>
+		</ul>
+		<div class="clear"></div>
+		<a href="#" class="toggle_votes">See how individual MPs voted</a>
+		<div class="clear"></div>
+		<div class="individual_votes">
+			<ul class="profiles_list">
+			  <%= render :partial => 'shared/recorded_vote', :collection => @votes_by_party[party.id]['votes'] %>
+			</ul>
+		</div>
+	</div>
+	<% end %>
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(".toggle_votes").click(function(){
+			$(this).parent().find(".individual_votes").toggle("normal");
+			return false;
+		});
+	});
+</script>
+
+<% content_for :sidebar_right do %>
+  <%= render :partial => 'shared/links' %>
+<% end %>

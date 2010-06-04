@@ -1,110 +1,88 @@
 {
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1939-05-18",
+  "place_of_birth": {
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
+  },
   "name": "Gordon O'Connor",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Minister of National Revenue"
+      "role_en": "Minister",
+      "start_date": "2007-08-14",
+      "role_fr": "Ministre",
+      "end_date": "2008-10-29",
+      "title_en": "Minister of National Revenue",
+      "title_fr": "Ministre du Revenu national"
     },
     {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister of National Defence"
+      "role_en": "Minister",
+      "start_date": "2006-02-06",
+      "role_fr": "Ministre",
+      "end_date": "2007-08-13",
+      "title_en": "Minister of National Defence",
+      "title_fr": "Ministre de la D\u00e9fense nationale"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State and Chief Government Whip"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister of State and Chief Government Whip",
+      "title_fr": "Ministre d'\u00c9tat et whip en chef du gouvernement"
     },
     {
-      "role": "Whip",
-      "start": "2008-10-30",
-      "title": "Chief Government Whip"
+      "role_en": "Whip",
+      "start_date": "2008-10-30",
+      "role_fr": "Whip",
+      "title_en": "Chief Government Whip",
+      "title_fr": "Whip du Parti conservateur du Canada"
     },
     {
-      "role": "Whip",
-      "start": "2008-10-30",
-      "title": "Whip of the Conservative Party of Canada"
+      "role_en": "Whip",
+      "start_date": "2008-10-30",
+      "role_fr": "Whip",
+      "title_en": "Whip of the Conservative Party of Canada",
+      "title_fr": "Whip en chef du gouvernement"
     },
     {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "National Defence"
-    },
-    {
-      "role": "Minister",
-      "start": "2007-08-14",
-      "end": "2008-10-29",
-      "title": "Minister of National Revenue"
-    },
-    {
-      "role": "Minister",
-      "start": "2006-02-06",
-      "end": "2007-08-13",
-      "title": "Minister of National Defence"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "2008-10-30",
-      "title": "Minister of State and Chief Government Whip"
-    },
-    {
-      "role": "Whip",
-      "start": "2008-10-30",
-      "title": "Chief Government Whip"
-    },
-    {
-      "role": "Whip",
-      "start": "2008-10-30",
-      "title": "Whip of the Conservative Party of Canada"
-    },
-    {
-      "role": "Critic",
-      "start": "2004-07-22",
-      "end": "2006-02-05",
-      "title": "National Defence"
+      "role_en": "Critic",
+      "start_date": "2004-07-22",
+      "role_fr": "Porte-parole",
+      "end_date": "2006-02-05",
+      "title_en": "National Defence",
+      "title_fr": "D\u00e9fense nationale"
     }
-  ],
-  "professions": [
-    "Consultant"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     },
     {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2004-06-28"
+      "name_en": "Consultant",
+      "name_fr": "Expert-conseil"
     }
   ],
-  "id": "84b1612a-384e-4a19-8425-3ddbe9d7d1e4",
-  "date_of_birth": "1939-05-18"
+  "id": "84b1612a-384e-4a19-8425-3ddbe9d7d1e4"
 }

@@ -1,356 +1,251 @@
 {
-  "place_of_birth": "St Peters Bay, Prince Edward Island, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "1988-11-21",
+      "name_en": "Liberal Party of Canada",
+      "name_fr": "Parti lib\u00e9ral du Canada"
+    }
+  ],
+  "date_of_birth": "1946-09-09",
+  "place_of_birth": {
+    "name_en": "St Peters Bay, Prince Edward Island, Canada",
+    "name_fr": "St Peters Bay, \u00cele-du-Prince-\u00c9douard, Canada"
+  },
   "name": "Lawrence A. MacAulay",
   "functions": [
     {
-      "role": "Minister",
-      "start": "1998-11-23",
-      "end": "2002-10-21",
-      "title": "Solicitor General of CanadaResignation. Was the subject of inquiry concerning allegations of conflict of interest."
+      "role_en": "Minister",
+      "start_date": "1998-11-23",
+      "role_fr": "Ministre",
+      "end_date": "2002-10-21",
+      "title_en": "Solicitor General of CanadaResignation. Was the subject of inquiry concerning allegations of conflict of interest.",
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral du CanadaD\u00e9mission. \u00c9tait l'objet d'une enqu\u00eate au sujet d'all\u00e9gations de conflits d'int\u00e9r\u00eats."
     },
     {
-      "role": "Minister",
-      "start": "1997-06-11",
-      "end": "1998-11-22",
-      "title": "Minister of Labour"
+      "role_en": "Minister",
+      "start_date": "1997-06-11",
+      "role_fr": "Ministre",
+      "end_date": "1998-11-22",
+      "title_en": "Minister of Labour",
+      "title_fr": "Ministre du Travail"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "1996-01-25",
-      "end": "1997-06-10",
-      "title": "Secretary of State (Veterans) (Atlantic Canada Opportunities Agency)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "1996-01-25",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "1997-06-10",
+      "title_en": "Secretary of State (Veterans) (Atlantic Canada Opportunities Agency)",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Anciens Combattants) (Agence de promotion \u00e9conomique du Canada atlantique)"
     },
     {
-      "role": "Minister / Secretary of State",
-      "start": "1993-11-04",
-      "end": "1996-01-24",
-      "title": "Secretary of State (Veterans)"
+      "role_en": "Minister / Secretary of State",
+      "start_date": "1993-11-04",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "end_date": "1996-01-24",
+      "title_en": "Secretary of State (Veterans)",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Anciens Combattants)"
     },
     {
-      "role": "Regional Minister",
-      "start": "1997-06",
-      "end": "2002-10-21",
-      "title": "Prince Edward Island"
+      "role_en": "Regional Minister",
+      "start_date": "1997-06",
+      "role_fr": "Ministre r\u00e9gional",
+      "end_date": "2002-10-21",
+      "title_en": "Prince Edward Island",
+      "title_fr": "\u00cele-du-Prince-\u00c9douard"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Seniors"
+      "role_en": "Critic",
+      "start_date": "2008-11-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2009-01-21",
+      "title_en": "Seniors",
+      "title_fr": "A\u00een\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "1990-09",
-      "end": "1993",
-      "title": "Seniors"
+      "role_en": "Critic",
+      "start_date": "1990-09",
+      "role_fr": "Porte-parole",
+      "end_date": "1993",
+      "title_en": "Seniors",
+      "title_fr": "A\u00een\u00e9s"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Crown Corporations"
+      "role_en": "Assistant Critic",
+      "start_date": "2006-02-23",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "2007-01-17",
+      "title_en": "Crown Corporations",
+      "title_fr": "Corporations de la Couronne"
     },
     {
-      "role": "Assistant Critic",
-      "start": "1989-02",
-      "end": "1993",
-      "title": "Fisheries and Oceans"
-    },
-    {
-      "role": "Minister",
-      "start": "1998-11-23",
-      "end": "2002-10-21",
-      "title": "Solicitor General of CanadaResignation. Was the subject of inquiry concerning allegations of conflict of interest."
-    },
-    {
-      "role": "Minister",
-      "start": "1997-06-11",
-      "end": "1998-11-22",
-      "title": "Minister of Labour"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "1996-01-25",
-      "end": "1997-06-10",
-      "title": "Secretary of State (Veterans) (Atlantic Canada Opportunities Agency)"
-    },
-    {
-      "role": "Minister / Secretary of State",
-      "start": "1993-11-04",
-      "end": "1996-01-24",
-      "title": "Secretary of State (Veterans)"
-    },
-    {
-      "role": "Regional Minister",
-      "start": "1997-06",
-      "end": "2002-10-21",
-      "title": "Prince Edward Island"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-14",
-      "end": "2009-01-21",
-      "title": "Seniors"
-    },
-    {
-      "role": "Critic",
-      "start": "1990-09",
-      "end": "1993",
-      "title": "Seniors"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2006-02-23",
-      "end": "2007-01-17",
-      "title": "Crown Corporations"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "1989-02",
-      "end": "1993",
-      "title": "Fisheries and Oceans"
+      "role_en": "Assistant Critic",
+      "start_date": "1989-02",
+      "role_fr": "Porte-parole adjoint",
+      "end_date": "1993",
+      "title_en": "Fisheries and Oceans",
+      "title_fr": "P\u00eaches et Oc\u00e9ans"
     }
-  ],
-  "professions": [
-    "Farmer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Senior Citizens Health Issues of the Standing Committee on Health, Social Affairs, Seniors and the Status of Women",
-      "role": "Vice-Chair ",
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Senior Citizens Health Issues of the Standing Committee on Health, Social Affairs, Seniors and the Status of Women",
+      "name_fr": "Sous-comit\u00e9 des questions de sant\u00e9 concernant les personnes \u00e2g\u00e9es du Comit\u00e9 permanent de la sant\u00e9 et du bien-\u00eatre social, des affaires sociales, du troisi\u00e8me \u00e2ge et de la condition f\u00e9minine"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
     },
     {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 38,
-      "session": 1
+      "session": 1,
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
     },
     {
-      "committee": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
+      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
     },
     {
-      "committee": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 37,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
+      "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
     },
     {
-      "committee": "Legislative Committee on Bill C-289",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Legislative Committee on Bill C-289",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-289"
     },
     {
-      "committee": "Subcommittee on Senior Citizens Health Issues of the Standing Committee on Health, Social Affairs, Seniors and the Status of Women",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Senior Citizens Health Issues of the Standing Committee on Health, Social Affairs, Seniors and the Status of Women",
+      "name_fr": "Sous-comit\u00e9 des questions de sant\u00e9 concernant les personnes \u00e2g\u00e9es du Comit\u00e9 permanent de la sant\u00e9 et du bien-\u00eatre social, des affaires sociales, du troisi\u00e8me \u00e2ge et de la condition f\u00e9minine"
     },
     {
-      "committee": "Legislative Committee on Bill C-74",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Legislative Committee on Bill C-74",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-74"
     },
     {
-      "committee": "Standing Committee on Forestry and Fisheries",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Forestry and Fisheries",
+      "name_fr": "Comit\u00e9 permanent des for\u00eats et des p\u00eaches"
     },
     {
-      "committee": "Subcommittee on Fisheries of the Standing Committee on Forestry and Fisheries",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Vice-Chair ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Senior Citizens Health Issues of the Standing Committee on Health, Social Affairs, Seniors and the Status of Women",
-      "role": "Vice-Chair ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Fisheries and Oceans",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Foreign Affairs and International Trade",
-      "role": "Member ",
-      "parliament": 38,
-      "session": 1
-    },
-    {
-      "committee": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "role": "Member ",
-      "parliament": 37,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-289",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Senior Citizens Health Issues of the Standing Committee on Health, Social Affairs, Seniors and the Status of Women",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 3
-    },
-    {
-      "committee": "Legislative Committee on Bill C-74",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Forestry and Fisheries",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Fisheries of the Standing Committee on Forestry and Fisheries",
-      "role": "Member ",
-      "parliament": 34,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Fisheries of the Standing Committee on Forestry and Fisheries",
+      "name_fr": "Sous-comit\u00e9 des p\u00eaches du Comit\u00e9 permanent des for\u00eats et des p\u00eaches"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Liberal Party of Canada",
-      "start": "1988-11-21"
+      "name_en": "Farmer",
+      "name_fr": "Agriculteur"
     }
   ],
-  "id": "a25e0e6b-f3fa-46c7-a795-ad60037fe56e",
-  "date_of_birth": "1946-09-09"
+  "id": "a25e0e6b-f3fa-46c7-a795-ad60037fe56e"
 }

@@ -1,89 +1,77 @@
 {
-  "place_of_birth": "Rimouski, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+    }
+  ],
+  "date_of_birth": "1963-08-04",
+  "place_of_birth": {
+    "name_en": "Rimouski, Quebec, Canada",
+    "name_fr": "Rimouski, Qu\u00e9bec, Canada"
+  },
   "name": "Claude Guimond",
   "functions": [
     {
-      "role": "Assistant Critic",
-      "start": "2009-09-01",
-      "title": "Agriculture and Agri-FoodArea of responsibility: Private woodlots"
+      "role_en": "Assistant Critic",
+      "start_date": "2009-09-01",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Agriculture and Agri-FoodArea of responsibility: Private woodlots",
+      "title_fr": "Agriculture et Agro-alimentaireChamp de responsabilit\u00e9: Bois\u00e9s priv\u00e9s"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-10-31",
-      "title": "International Trade"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2009-09-01",
-      "title": "Agriculture and Agri-FoodArea of responsibility: Private woodlots"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-10-31",
-      "title": "International Trade"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-10-31",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "International Trade",
+      "title_fr": "Commerce international"
     }
-  ],
-  "professions": [
-    "Administrator",
-    "Farmer"
   ],
   "committees": [
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     },
     {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on International Trade",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
     },
     {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on International Trade",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Standing Committee on Natural Resources",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Standing Committee on Natural Resources",
+      "name_fr": "Comit\u00e9 permanent du commerce international"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Bloc Qu\u00e9b\u00e9cois",
-      "start": "2008-10-14"
+      "name_en": "Administrator",
+      "name_fr": "Administrateur"
+    },
+    {
+      "name_en": "Farmer",
+      "name_fr": "Agriculteur"
     }
   ],
-  "id": "23a1032c-1c73-4ab8-b303-ae5efac39695",
-  "date_of_birth": "1963-08-04"
+  "id": "23a1032c-1c73-4ab8-b303-ae5efac39695"
 }

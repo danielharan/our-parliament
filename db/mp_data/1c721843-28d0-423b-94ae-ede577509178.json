@@ -1,147 +1,123 @@
 {
-  "place_of_birth": "Dortmund, Germany",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "1997-06-02",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1963-07-04",
+  "place_of_birth": {
+    "name_en": "Dortmund, Germany",
+    "name_fr": "Dortmund, Allemagne"
+  },
   "name": "Chris Charlton",
   "functions": [
     {
-      "role": "Whip",
-      "start": "2007-10-17",
-      "title": "Deputy Whip of the N.D.P."
+      "role_en": "Whip",
+      "start_date": "2007-10-17",
+      "role_fr": "Whip",
+      "title_en": "Deputy Whip of the N.D.P.",
+      "title_fr": "Whip adjointe du N.P.D."
     },
     {
-      "role": "Critic",
-      "start": "2010-05-03",
-      "title": "Canada Post Corporation"
+      "role_en": "Critic",
+      "start_date": "2010-05-03",
+      "role_fr": "Porte-parole",
+      "title_en": "Canada Post Corporation",
+      "title_fr": "Soci\u00e9t\u00e9 canadienne des postes"
     },
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Labour"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Labour",
+      "title_fr": "Travail"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Pensions"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Pensions",
+      "title_fr": "A\u00een\u00e9s"
     },
     {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Seniors"
+      "role_en": "Critic",
+      "start_date": "2006-02-14",
+      "role_fr": "Porte-parole",
+      "end_date": "2008-11-16",
+      "title_en": "Seniors",
+      "title_fr": "Pensions"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Finance"
-    },
-    {
-      "role": "Whip",
-      "start": "2007-10-17",
-      "title": "Deputy Whip of the N.D.P."
-    },
-    {
-      "role": "Critic",
-      "start": "2010-05-03",
-      "title": "Canada Post Corporation"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Labour"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Pensions"
-    },
-    {
-      "role": "Critic",
-      "start": "2006-02-14",
-      "end": "2008-11-16",
-      "title": "Seniors"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Finance"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Finance",
+      "title_fr": "Finances"
     }
-  ],
-  "professions": [
-    "Director",
-    "Political adviser",
-    "Public affairs consultant",
-    "Teaching assistant"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des cadeaux en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     },
     {
-      "committee": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "role": "Member ",
-      "parliament": 39,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
+      "name_fr": "Sous-comit\u00e9 du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "1997-06-02"
+      "name_en": "Director",
+      "name_fr": "Assistante \u00e0 l'enseignement"
+    },
+    {
+      "name_en": "Political adviser",
+      "name_fr": "Conseill\u00e8re politique"
+    },
+    {
+      "name_en": "Public affairs consultant",
+      "name_fr": "Directrice"
+    },
+    {
+      "name_en": "Teaching assistant",
+      "name_fr": "Experte-conseil en affaires publiques"
     }
   ],
-  "id": "1c721843-28d0-423b-94ae-ede577509178",
-  "date_of_birth": "1963-07-04"
+  "id": "1c721843-28d0-423b-94ae-ede577509178"
 }

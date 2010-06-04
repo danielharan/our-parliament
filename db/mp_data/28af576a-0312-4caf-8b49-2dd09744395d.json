@@ -1,62 +1,56 @@
 {
-  "place_of_birth": "Glasgow, Scotland",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "New Democratic Party",
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
+    }
+  ],
+  "date_of_birth": "1953-05-30",
+  "place_of_birth": {
+    "name_en": "Glasgow, Scotland",
+    "name_fr": "Glasgow, \u00c9cosse"
+  },
   "name": "Malcolm Allen",
   "functions": [
     {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Skills Training and Apprenticeships"
+      "role_en": "Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole",
+      "title_en": "Skills Training and Apprenticeships",
+      "title_fr": "Formation professionnelle et apprentissage"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Agriculture"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Agriculture",
+      "title_fr": "Agriculture"
     },
     {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Food Security"
-    },
-    {
-      "role": "Critic",
-      "start": "2008-11-17",
-      "title": "Skills Training and Apprenticeships"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Agriculture"
-    },
-    {
-      "role": "Assistant Critic",
-      "start": "2008-11-17",
-      "title": "Food Security"
+      "role_en": "Assistant Critic",
+      "start_date": "2008-11-17",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Food Security",
+      "title_fr": "S\u00e9curit\u00e9 alimentaire"
     }
-  ],
-  "professions": [
-    "Electrician"
   ],
   "committees": [
     {
-      "committee": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 2
-    },
-    {
-      "committee": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 2
+      "session": 2,
+      "name_en": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
+      "name_fr": "Sous-comit\u00e9 sur la salubrit\u00e9 des aliments du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
     }
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "New Democratic Party",
-      "start": "2008-10-14"
+      "name_en": "Electrician",
+      "name_fr": "\u00c9lectricien"
     }
   ],
-  "id": "28af576a-0312-4caf-8b49-2dd09744395d",
-  "date_of_birth": "1953-05-30"
+  "id": "28af576a-0312-4caf-8b49-2dd09744395d"
 }

@@ -1,45 +1,44 @@
 {
-  "place_of_birth": "La Pocati\u00e8re, Quebec, Canada",
-  "language": "French",
+  "parties": [
+    {
+      "start_date": "2009-11-09",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1962-04-23",
+  "place_of_birth": {
+    "name_en": "La Pocati\u00e8re, Quebec, Canada",
+    "name_fr": "La Pocati\u00e8re, Qu\u00e9bec, Canada"
+  },
   "name": "Bernard G\u00e9n\u00e9reux",
   "functions": [
 
   ],
-  "professions": [
-    "Businessman"
-  ],
   "committees": [
     {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Finance",
+      "name_fr": "Comit\u00e9 permanent des finances"
     },
     {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
+      "role_en": "Member",
+      "role_fr": "Membre",
       "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Finance",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
-    },
-    {
-      "committee": "Standing Committee on Official Languages",
-      "role": "Member ",
-      "parliament": 40,
-      "session": 3
+      "session": 3,
+      "name_en": "Standing Committee on Official Languages",
+      "name_fr": "Comit\u00e9 permanent des langues officielles"
     }
   ],
-  "parties": [
+  "language": "French",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2009-11-09"
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
     }
   ],
-  "id": "e179296b-086b-4072-9082-6795b9b0da4c",
-  "date_of_birth": "1962-04-23"
+  "id": "e179296b-086b-4072-9082-6795b9b0da4c"
 }

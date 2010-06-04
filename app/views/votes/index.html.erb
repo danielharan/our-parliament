@@ -5,3 +5,7 @@
     <%= render :partial => 'shared/vote', :collection => @votes %>
   </ul>
 </div>
+
+<% content_for :sidebar_right do %>
+  <%= render :partial => 'shared/links' %>
+<% end %>

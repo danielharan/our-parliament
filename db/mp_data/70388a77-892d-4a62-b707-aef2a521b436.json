@@ -1,42 +1,46 @@
 {
-  "place_of_birth": "Skinner\u2019s Pond, Prince Edward Island, Canada",
-  "language": "English",
+  "parties": [
+    {
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada",
+      "name_fr": "Parti conservateur du Canada"
+    }
+  ],
+  "date_of_birth": "1959-04-06",
+  "place_of_birth": {
+    "name_en": "Skinner\u2019s Pond, Prince Edward Island, Canada",
+    "name_fr": "Skinner\u2019s Pond, \u00cele-du-Prince-\u00c9douard, Canada"
+  },
   "name": "Gail A. Shea",
   "functions": [
     {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of Fisheries and OceansFirst woman appointed Minister of Fisheries and Oceans."
+      "role_en": "Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Fisheries and OceansFirst woman appointed Minister of Fisheries and Oceans.",
+      "title_fr": "Ministre des P\u00eaches et des Oc\u00e9ansPremi\u00e8re femme nomm\u00e9e ministre des P\u00eaches et des Oc\u00e9ans."
     },
     {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "Prince Edward Island"
-    },
-    {
-      "role": "Minister",
-      "start": "2008-10-30",
-      "title": "Minister of Fisheries and OceansFirst woman appointed Minister of Fisheries and Oceans."
-    },
-    {
-      "role": "Regional Minister",
-      "start": "2008-10-30",
-      "title": "Prince Edward Island"
+      "role_en": "Regional Minister",
+      "start_date": "2008-10-30",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "Prince Edward Island",
+      "title_fr": "\u00cele-du-Prince-\u00c9douard"
     }
-  ],
-  "professions": [
-    "Business manager",
-    "Public servant"
   ],
   "committees": [
 
   ],
-  "parties": [
+  "language": "English",
+  "professions": [
     {
-      "party": "Conservative Party of Canada",
-      "start": "2008-10-14"
+      "name_en": "Business manager",
+      "name_fr": "Directrice d'entreprise"
+    },
+    {
+      "name_en": "Public servant",
+      "name_fr": "Fonctionnaire"
     }
   ],
-  "id": "70388a77-892d-4a62-b707-aef2a521b436",
-  "date_of_birth": "1959-04-06"
+  "id": "70388a77-892d-4a62-b707-aef2a521b436"
 }
