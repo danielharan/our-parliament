@@ -5,7 +5,7 @@ class AddImagesToParties < ActiveRecord::Migration
     data_file = File.join(RAILS_ROOT, 'db', 'party_data', 'parties.csv')
     FasterCSV.foreach(data_file, :encoding => 'U', :headers => true, :return_headers => false, :header_converters => :symbol, :converters => :all) do |row|
       party = Party.find_by_name_en(row[:name_en])
-      if party row[:image] and row[:image].length > 0
+      if party and row[:image] and row[:image].length > 0
         party.image = row[:image]
         party.save
       else
