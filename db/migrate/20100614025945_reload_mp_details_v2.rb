@@ -106,7 +106,7 @@ class ReloadMpDetailsV2 < ActiveRecord::Migration
       mp = Mp.find_by_website(website) if website
     end
     mp = Mp.find_by_email(mp_info['contact_info']['parliament']['email']) if not mp and mp_info['contact_info']['parliament'] and mp_info['contact_info']['parliament']['email'] 
-    mp = Mp.find_by_parl_gc_id(mp_info['parlinfo_id']) if not mp and mp_info['parlinfo_id']
+    #mp = Mp.find_by_parl_gc_id(mp_info['parlinfo_id']) if not mp and mp_info['parlinfo_id']
     return mp
   end
 
