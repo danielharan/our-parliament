@@ -17,6 +17,8 @@ class ApplicationController < ActionController::Base
         I18n.locale = params[:locale]
       #elsif request.env['HTTP_ACCEPT_LANGUAGE']
       #  I18n.locale = request.env['HTTP_ACCEPT_LANGUAGE'].scan(/^[a-z]{2}/).first
+      else
+        I18n.locale = "en"
       end
     end
     
