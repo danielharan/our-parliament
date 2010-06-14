@@ -15,7 +15,7 @@
 <% if @senators.any? %>
   <a name="#senators"></a>
   <h3><%= t('search.section.senators') %></h3>
-  <ul class="activity_feed">
+  <ul class="profiles_list">
     <%= render :partial => 'shared/senator', :collection => @senators %>
   </ul>
 <% end %>
@@ -23,7 +23,7 @@
 <% if @mps.any? %>
   <a name="#mps"></a>
   <h3><%= t('search.section.mps') %></h3>
-  <ul class="activity_feed">
+  <ul class="profiles_list">
     <%= render :partial => 'shared/member', :collection => @mps %>
   </ul>
 <% end %>
@@ -32,7 +32,7 @@
   <a name="#votes"></a>
   <h3><%= t('search.section.votes') %></h3>
   <div id="votes" class="block">
-    <ul class="activity_feed">
+    <ul class="profiles_list">
       <%= render :partial => 'shared/vote', :collection => @votes %>
     </ul>
   </div>

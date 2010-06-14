@@ -1,405 +1,488 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1997-06-02",
-      "name_en": "New Democratic Party",
-      "name_fr": "Nouveau Parti d\u00e9mocratique"
+      "name_fr": "Coordinatrice des ressources humaines",
+      "name_en": "Human resources co-ordinator"
     }
   ],
-  "date_of_birth": "1953-02-27",
-  "place_of_birth": {
-    "name_en": "Aldershot, England",
-    "name_fr": "Aldershot, Angleterre"
-  },
-  "name": "Libby Davies",
+  "parlinfo_id": 78973,
   "functions": [
     {
-      "role_en": "House Leader",
+      "title_fr": "Leader du N.P.D. \u00e0 la Chambre des communes",
       "start_date": "2003-02-06",
+      "role_en": "House Leader",
       "role_fr": "Leader parlementaire",
-      "title_en": "N.D.P. House Leader",
-      "title_fr": "Leader du N.P.D. \u00e0 la Chambre des communes"
+      "title_en": "N.D.P. House Leader"
     },
     {
-      "role_en": "Whip",
+      "title_fr": "Whip adjointe du N.P.D.",
       "start_date": "2000-02-01",
-      "role_fr": "Whip",
       "end_date": "2003-02-05",
-      "title_en": "Deputy Whip of the N.D.P.",
-      "title_fr": "Whip adjointe du N.P.D."
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Deputy Whip of the N.D.P."
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Itin\u00e9rance",
       "start_date": "2010-05-03",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Homelessness",
-      "title_fr": "Itin\u00e9rance"
+      "title_en": "Homelessness"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Logement",
       "start_date": "2010-05-03",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Housing",
-      "title_fr": "Logement"
+      "title_en": "Housing"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Abus d'alcool ou d'autres drogues",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Prostitution",
-      "title_fr": "Abus d'alcool ou d'autres drogues"
+      "title_en": "Prostitution"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Prostitution",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Substance Abuse",
-      "title_fr": "Prostitution"
+      "title_en": "Substance Abuse"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Justice",
       "start_date": "2008-11-17",
-      "role_fr": "Porte-parole",
       "end_date": "2009-02-12",
-      "title_en": "Justice",
-      "title_fr": "Justice"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Justice"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Travail",
       "start_date": "2006-04-04",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-16",
-      "title_en": "Labour",
-      "title_fr": "Travail"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Labour"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Logement social",
       "start_date": "2004-10-01",
-      "role_fr": "Porte-parole",
       "end_date": "2005-01-30",
-      "title_en": "Housing, Public",
-      "title_fr": "Logement social"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Housing, Public"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Multiculturalisme",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-13",
-      "title_en": "Multiculturalism",
-      "title_fr": "Multiculturalisme"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Multiculturalism"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences",
       "start_date": "2003-12-12",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Human Resources and Skills Development",
-      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Human Resources and Skills Development"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Leader du Gouvernement \u00e0 la Chambre des communes",
       "start_date": "2003-02-04",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Leader of the Government in the House of Commons",
-      "title_fr": "Leader du Gouvernement \u00e0 la Chambre des communes"
+      "title_en": "Leader of the Government in the House of Commons"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Citoyennet\u00e9 et Immigration",
       "start_date": "2003-02-04",
-      "role_fr": "Porte-parole",
       "end_date": "2003-06-14",
-      "title_en": "Citizenship and Immigration",
-      "title_fr": "Citoyennet\u00e9 et Immigration"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Citizenship and Immigration"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "D\u00e9veloppement des ressources humaines",
       "start_date": "2003-02-04",
-      "role_fr": "Porte-parole",
       "end_date": "2003-12-11",
-      "title_en": "Human Resources Development",
-      "title_fr": "D\u00e9veloppement des ressources humaines"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Human Resources Development"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Itin\u00e9rance",
       "start_date": "2003-02-04",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Homelessness",
-      "title_fr": "Itin\u00e9rance"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Homelessness"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Multiculturalisme",
       "start_date": "2001-01-23",
-      "role_fr": "Porte-parole",
       "end_date": "2003-02-03",
-      "title_en": "Multiculturalism",
-      "title_fr": "Multiculturalisme"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Multiculturalism"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Politique sociale",
       "start_date": "2001-01-23",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Social Policy",
-      "title_fr": "Politique sociale"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Social Policy"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Logement",
       "start_date": "2000-01-26",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-13",
-      "title_en": "Housing",
-      "title_fr": "Logement"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Housing"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Programmes sociaux",
       "start_date": "1998-03-27",
-      "role_fr": "Porte-parole",
       "end_date": "2001-01-22",
-      "title_en": "Social Programs",
-      "title_fr": "Programmes sociaux"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "1998-03-27",
       "role_fr": "Porte-parole",
-      "end_date": "2003-02-03",
-      "title_en": "Children and Youth",
-      "title_fr": "\u00c9ducation post secondaire"
+      "title_en": "Social Programs"
     },
     {
+      "title_fr": "\u00c9ducation post secondaire",
+      "start_date": "1998-03-27",
+      "end_date": "2003-02-03",
       "role_en": "Critic",
-      "start_date": "1998-03-27",
       "role_fr": "Porte-parole",
+      "title_en": "Children and Youth"
+    },
+    {
+      "title_fr": "Enfance et Jeunesse",
+      "start_date": "1998-03-27",
       "end_date": "2003-02-03",
-      "title_en": "Post Secondary Education",
-      "title_fr": "Enfance et Jeunesse"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Post Secondary Education"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Abus d'alcool ou d'autres drogues",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2008-11-16",
-      "title_en": "Prostitution",
-      "title_fr": "Abus d'alcool ou d'autres drogues"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Prostitution"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Prostitution",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2008-11-16",
-      "title_en": "Substance Abuse",
-      "title_fr": "Prostitution"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Substance Abuse"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Vancouver, R\u00e9gion de",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2008-11-16",
-      "title_en": "Vancouver Region",
-      "title_fr": "Vancouver, R\u00e9gion de"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Vancouver Region"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
+      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
-      "parliament": 37,
-      "session": 2,
-      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice et des droits de la personne"
+      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice et des droits de la personne",
+      "parliament": 37,
+      "session": 2,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
+      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 37,
       "session": 2,
-      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 2,
-      "name_en": "Special Committee on the Non-Medical Use of Drugs",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Non-Medical Use of Drugs"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments",
       "parliament": 37,
       "session": 2,
-      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments (Projet de loi C-38)",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments (Projet de loi C-38)"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development and the Status of Persons with Disabilties",
-      "name_fr": "Sous-comit\u00e9 de l'examen des lois sur le racolage du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development and the Status of Persons with Disabilties"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition de la personne handicapp\u00e9e",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Matters Related to the Review of the Office of the Privacy Commissioner of the Standing Committee on Government Operations and Estimates",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition de la personne handicapp\u00e9e"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Matters Related to the Review of the Office of the Privacy Commissioner of the Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur les questions relatives \u00e0 l'examen du Bureau du Commissaire \u00e0 la vie priv\u00e9e du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 sur les questions relatives \u00e0 l'examen du Bureau du Commissaire \u00e0 la vie priv\u00e9e du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Solicitation Laws of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Special Committee on Non-Medical Use of Drugs",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on Non-Medical Use of Drugs"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development an the Status of Persons with Disabilties"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of  the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of  the Standing Committee on Human Resources Development an the Status of Persons with Disabilties"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur les enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 sur les enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 36,
-      "session": 1,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
+      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Children & Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 sur les enfants et  jeunes \u00e0 risque du Comit\u00e9 permanent des ressources humaines et de la condition des personnes handicap\u00e9es"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur les enfants et  jeunes \u00e0 risque du Comit\u00e9 permanent des ressources humaines et de la condition des personnes handicap\u00e9es",
+      "parliament": 36,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Children & Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Davies.L@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-6030",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-995-7412",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "V5T 3E2",
+      "city_fr": "Vancouver",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "2412 Main Street",
+      "telephone": "604-775-5800",
+      "street_address_fr": "2412, rue Main",
+      "fax": "604-775-5811",
+      "city_en": "Vancouver"
+    }
+  },
+  "name": "Libby Davies",
+  "date_of_birth": "1953-02-27",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Vancouver East",
+      "riding_fr": "Vancouver-Est"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Vancouver East",
+      "riding_fr": "Vancouver-Est"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Vancouver East",
+      "riding_fr": "Vancouver-Est"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Vancouver East",
+      "riding_fr": "Vancouver-Est"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Vancouver East",
+      "riding_fr": "Vancouver-Est"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Aldershot, Angleterre",
+    "name_en": "Aldershot, England"
+  },
+  "parties": [
+    {
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "start_date": "1997-06-02",
+      "name_en": "New Democratic Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "8edb5e32-fc50-4216-bbe1-b112eada513c",
+  "weblinks": [
     {
-      "name_en": "Human resources co-ordinator",
-      "name_fr": "Coordinatrice des ressources humaines"
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78973&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78973&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/libbydavies",
+      "url_fr": "http://www.npd.ca/libbydavies",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.libbydavies.ca/",
+      "url_fr": "http://www.libbydavies.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "8edb5e32-fc50-4216-bbe1-b112eada513c"
+  ]
 }

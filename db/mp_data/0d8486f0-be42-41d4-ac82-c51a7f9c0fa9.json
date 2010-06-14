@@ -1,183 +1,278 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1999-11-15",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Avocat",
+      "name_en": "Lawyer"
+    },
+    {
+      "name_fr": "Professeur de droit",
+      "name_en": "Professor of law"
     }
   ],
-  "date_of_birth": "1940-05-08",
-  "place_of_birth": {
-    "name_en": "Montreal, Quebec, Canada",
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
-  },
-  "name": "Irwin Cotler",
+  "parlinfo_id": 78453,
   "functions": [
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre de la Justice et procureur g\u00e9n\u00e9ral du Canada",
       "start_date": "2003-12-12",
-      "role_fr": "Ministre",
       "end_date": "2006-02-05",
-      "title_en": "Minister of Justice and Attorney General of Canada",
-      "title_fr": "Ministre de la Justice et procureur g\u00e9n\u00e9ral du Canada"
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Justice and Attorney General of Canada"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Droits de la personne",
       "start_date": "2007-01-18",
-      "role_fr": "Porte-parole",
       "end_date": "2009-01-21",
-      "title_en": "Human Rights",
-      "title_fr": "Droits de la personne"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Human Rights"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "S\u00e9curit\u00e9 publique",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole",
       "end_date": "2007-01-17",
-      "title_en": "Public Safety",
-      "title_fr": "S\u00e9curit\u00e9 publique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Safety"
     }
   ],
   "committees": [
     {
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
+      "parliament": 37,
+      "session": 2,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 37,
-      "session": 2,
-      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Public Safety and National Security",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Safety and National Security"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on the Status of Women"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique",
       "parliament": 37,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 d'\u00e9tudier le projet de loi C-20",
       "parliament": 36,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-20",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 d'\u00e9tudier le projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 36,
-      "session": 2,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
+      "name_en": "Legislative Committee on Bill C-20"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "parliament": 36,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Cotler.I@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-0121",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-992-6762",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "H3W 1H2",
+      "city_fr": "Montr\u00e9al",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "4770 Kent Avenue, Suite 316",
+      "telephone": "514-283-0171",
+      "street_address_fr": "4770, avenue Kent, bureau 316",
+      "fax": "514-283-2407",
+      "city_en": "Montreal"
+    }
+  },
+  "name": "Irwin Cotler",
+  "date_of_birth": "1940-05-08",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Mount Royal",
+      "riding_fr": "Mont-Royal"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Mount Royal",
+      "riding_fr": "Mont-Royal"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Mount Royal",
+      "riding_fr": "Mont-Royal"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Mount Royal",
+      "riding_fr": "Mont-Royal"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1999-11-15",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Mount Royal",
+      "riding_fr": "Mont-Royal"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
+    "name_en": "Montreal, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "1999-11-15",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "0d8486f0-be42-41d4-ac82-c51a7f9c0fa9",
+  "weblinks": [
     {
-      "name_en": "Lawyer",
-      "name_fr": "Avocat"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78453&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78453&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Professor of law",
-      "name_fr": "Professeur de droit"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=11306",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=11306",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel",
+      "url_en": "http://irwincotler.liberal.ca/en/default.aspx",
+      "url_fr": "http://irwincotler.liberal.ca/fr/default.aspx",
+      "name_en": "Personal Website"
+    },
+    {
+      "name_fr": "Ordre du Canada",
+      "url_en": "http://archive.gg.ca/honours/search-recherche/honours-desc.asp?lang=e&TypeID=orc&id=2930",
+      "url_fr": "http://archive.gg.ca/honours/search-recherche/honours-desc.asp?lang=f&TypeID=orc&id=2930",
+      "name_en": "Order of Canada"
+    },
+    {
+      "name_fr": "Site Web universitaire",
+      "url_en": "http://people.mcgill.ca/irwin.cotler/",
+      "url_fr": "http://personnel.mcgill.ca/irwin.cotler/",
+      "name_en": "University Website"
     }
-  ],
-  "id": "0d8486f0-be42-41d4-ac82-c51a7f9c0fa9"
+  ]
 }

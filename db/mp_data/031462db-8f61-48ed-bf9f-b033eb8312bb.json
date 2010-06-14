@@ -1,169 +1,238 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-06-28",
-      "name_en": "New Democratic Party",
-      "name_fr": "Nouveau Parti d\u00e9mocratique"
+      "name_fr": "Expert-conseil en ressources humaines",
+      "name_en": "Human resources consultant"
     }
   ],
-  "date_of_birth": "1972-07-13",
-  "place_of_birth": {
-    "name_en": "Toronto, Ontario, Canada",
-    "name_fr": "Toronto, Ontario, Canada"
-  },
-  "name": "Nathan Cullen",
+  "parlinfo_id": 79026,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "\u00c9nergie",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Energy",
-      "title_fr": "\u00c9nergie"
+      "title_en": "Energy"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Ressources naturelles",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Natural Resources",
-      "title_fr": "Ressources naturelles"
+      "title_en": "Natural Resources"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Jeunesse",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2006",
-      "title_en": "Youth",
-      "title_fr": "Jeunesse"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Youth"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Environnement",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2007",
-      "title_en": "Environment",
-      "title_fr": "Environnement"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Environment"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Environnement",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-16",
-      "title_en": "Environment",
-      "title_fr": "Environnement"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Environment"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Parcs nationaux",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-16",
-      "title_en": "National Parks",
-      "title_fr": "Parcs nationaux"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "National Parks"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
+      "name_en": "Standing Committee on Natural Resources"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "parliament": 40,
+      "session": 2,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-30",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-30"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-30",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-30"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Cullen.N@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-993-6654",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-993-9007",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "info@nathancullen.ca",
+      "postal_code": "V0J 2N0",
+      "city_fr": "Smithers",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "1283 Main Street, 2nd Floor P.O. Box 4914",
+      "telephone": "250-877-4140",
+      "street_address_fr": "1283, rue Main, 2e \u00e9tage\r\nCase postale 4914",
+      "city_en": "Smithers"
+    }
+  },
+  "name": "Nathan Cullen",
+  "date_of_birth": "1972-07-13",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Skeena--Bulkley Valley",
+      "riding_fr": "Skeena--Bulkley Valley"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Skeena--Bulkley Valley",
+      "riding_fr": "Skeena--Bulkley Valley"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Skeena--Bulkley Valley",
+      "riding_fr": "Skeena--Bulkley Valley"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Toronto, Ontario, Canada",
+    "name_en": "Toronto, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "start_date": "2004-06-28",
+      "name_en": "New Democratic Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "031462db-8f61-48ed-bf9f-b033eb8312bb",
+  "weblinks": [
     {
-      "name_en": "Human resources consultant",
-      "name_fr": "Expert-conseil en ressources humaines"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79026&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79026&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/nathancullen",
+      "url_fr": "http://www.npd.ca/nathancullen",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.nathancullen.ca/",
+      "url_fr": "http://www.nathancullen.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "031462db-8f61-48ed-bf9f-b033eb8312bb"
+  ]
 }

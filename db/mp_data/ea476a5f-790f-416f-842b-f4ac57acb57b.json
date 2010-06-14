@@ -1,59 +1,147 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Avocat",
+      "name_en": "Businessman"
+    },
+    {
+      "name_fr": "Avocat (counsel)",
+      "name_en": "Counsel"
+    },
+    {
+      "name_fr": "Homme d'affaires",
+      "name_en": "Lawyer"
     }
   ],
-  "date_of_birth": "1961-01-27",
-  "place_of_birth": {
-    "name_en": "Manchester, England",
-    "name_fr": "Manchester, Angleterre"
-  },
-  "name": "Tony Clement",
+  "parlinfo_id": 78782,
   "functions": [
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre de l'Industrie",
       "start_date": "2008-10-30",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Industry",
-      "title_fr": "Ministre de l'Industrie"
-    },
-    {
       "role_en": "Minister",
-      "start_date": "2006-02-06",
       "role_fr": "Ministre",
-      "end_date": "2008-10-29",
-      "title_en": "Minister of Health",
-      "title_fr": "Ministre de la Sant\u00e9"
+      "title_en": "Minister of Industry"
     },
     {
-      "role_en": "Minister / Secretary of State",
+      "title_fr": "Ministre de la Sant\u00e9",
       "start_date": "2006-02-06",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
       "end_date": "2008-10-29",
-      "title_en": "Minister for the Federal Economic Development Initiative for Northern Ontario",
-      "title_fr": "Ministre de l'Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique dans le Nord de l\u2019Ontario"
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Health"
+    },
+    {
+      "title_fr": "Ministre de l'Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique dans le Nord de l\u2019Ontario",
+      "start_date": "2006-02-06",
+      "end_date": "2008-10-29",
+      "role_en": "Minister / Secretary of State",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister for the Federal Economic Development Initiative for Northern Ontario"
     }
   ],
   "committees": [
 
   ],
-  "language": "English",
-  "professions": [
+  "contact_info": {
+    "parliament": {
+      "email": "Clement.T@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-944-7740",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-992-5092",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "Clemet1@parl.gc.ca",
+      "postal_code": "P1H 1G3",
+      "city_fr": "Huntsville",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "44A King William Street",
+      "telephone": "705-789-4640",
+      "street_address_fr": "44A, rue King William",
+      "fax": "705-789-8857",
+      "city_en": "Huntsville"
+    }
+  },
+  "name": "Tony Clement",
+  "date_of_birth": "1961-01-27",
+  "constituencies": [
     {
-      "name_en": "Businessman",
-      "name_fr": "Avocat"
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Parry Sound--Muskoka",
+      "riding_fr": "Parry Sound--Muskoka"
     },
     {
-      "name_en": "Counsel",
-      "name_fr": "Avocat (counsel)"
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Parry Sound--Muskoka",
+      "riding_fr": "Parry Sound--Muskoka"
     },
     {
-      "name_en": "Lawyer",
-      "name_fr": "Homme d'affaires"
+      "result_en": "Defeated",
+      "election_date": "2004-06-28",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Brampton West",
+      "riding_fr": "Brampton-Ouest"
     }
   ],
-  "id": "ea476a5f-790f-416f-842b-f4ac57acb57b"
+  "place_of_birth": {
+    "name_fr": "Manchester, Angleterre",
+    "name_en": "Manchester, England"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada"
+    }
+  ],
+  "language": "English",
+  "id": "ea476a5f-790f-416f-842b-f4ac57acb57b",
+  "weblinks": [
+    {
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.ic.gc.ca/epic/site/ic1.nsf/en/00093e.html?OpenDocument",
+      "url_fr": "http://www.ic.gc.ca/epic/site/ic1.nsf/fr/00093f.html",
+      "name_en": "Department Website"
+    },
+    {
+      "name_fr": "Site Web du minist\u00e8re (2)",
+      "url_en": "http://fednor.ic.gc.ca/epic/internet/infednor-fednor.nsf/en/fn02571e.html",
+      "url_fr": "http://fednor.ic.gc.ca/epic/internet/infednor-fednor.nsf/fr/fn02571f.html",
+      "name_en": "Department Website (2)"
+    },
+    {
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78782&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78772&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65089",
+      "url_fr": "http://www.conservative.ca/FR/4568/65091",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.tonyclement.ca",
+      "url_fr": "http://www.tonyclement.ca",
+      "name_en": "Personal Website"
+    },
+    {
+      "name_fr": "Site Web de l'Assembl\u00e9e legislative de l'Ontario",
+      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=20",
+      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=20",
+      "name_en": "Ontario Legislative Assembly Website"
+    }
+  ]
 }

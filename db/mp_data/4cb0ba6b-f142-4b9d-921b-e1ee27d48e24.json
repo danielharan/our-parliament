@@ -1,96 +1,159 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Conseiller en publicit\u00e9",
+      "name_en": "Advertising consultant"
+    },
+    {
+      "name_fr": "Expert-conseil en ventes et en commercialisation",
+      "name_en": "Sales and marketing consultant"
     }
   ],
-  "date_of_birth": "1961-05-08",
-  "place_of_birth": {
-    "name_en": "Edmonton, Alberta, Canada",
-    "name_fr": "Edmonton, Alberta, Canada"
-  },
-  "name": "Ronald Cannan",
+  "parlinfo_id": 78517,
   "functions": [
 
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent des anciens combattants"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Veterans Affairs",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
+      "name_en": "Standing Committee on Veterans Affairs"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international",
+      "parliament": 39,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Cannan.R@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-7006",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-992-7636",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "ron@cannan.ca",
+      "postal_code": "V1Y 3H4",
+      "city_fr": "Kelowna",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "114 - 1835 Gordon Drive",
+      "telephone": "250-470-5075",
+      "street_address_fr": "1835, promenade Gordon, bureau 114",
+      "fax": "250-470-5077",
+      "city_en": "Kelowna"
+    }
+  },
+  "name": "Ronald Cannan",
+  "date_of_birth": "1961-05-08",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Kelowna--Lake Country",
+      "riding_fr": "Kelowna--Lake Country"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Kelowna--Lake Country",
+      "riding_fr": "Kelowna--Lake Country"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Edmonton, Alberta, Canada",
+    "name_en": "Edmonton, Alberta, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "4cb0ba6b-f142-4b9d-921b-e1ee27d48e24",
+  "weblinks": [
     {
-      "name_en": "Advertising consultant",
-      "name_fr": "Conseiller en publicit\u00e9"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78517&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78517&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Sales and marketing consultant",
-      "name_fr": "Expert-conseil en ventes et en commercialisation"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1791&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1791&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.cannan.ca/",
+      "url_fr": "http://www.cannan.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "4cb0ba6b-f142-4b9d-921b-e1ee27d48e24"
+  ]
 }

@@ -1,6 +1,6 @@
 <li>
   <% if member.image? %>
-    <%= link_to image_tag(member.image.url(:small), :alt => "photo of #{member.name}"), "", :title => "", :class => "photo" %>
+    <%= link_to image_tag(member.image.url(:small), :alt => "photo of #{member.name}"),  member_path(member), :title => "", :class => "photo" %>
   <% else %>
     <%= link_to image_tag("placeholder_photo_small.gif", :alt => member.name), member_path(member), :class => 'photo' %>
   <% end %>

@@ -1,302 +1,399 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Agricultrice",
+      "name_en": "Farmer"
     },
     {
-      "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+      "name_fr": "Avocate",
+      "name_en": "Lawyer"
     },
     {
-      "start_date": "1993-10-25",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party",
-      "name_fr": "Parti r\u00e9formiste"
+      "name_fr": "Enseignante",
+      "name_en": "Teacher"
     }
   ],
-  "date_of_birth": "1949-05-06",
-  "place_of_birth": {
-    "name_en": "Peoria, Illinois, United States",
-    "name_fr": "Peoria, Illinois, \u00c9tats-Unis"
-  },
-  "name": "Diane Ablonczy",
+  "parlinfo_id": 128446,
   "functions": [
     {
-      "role_en": "Minister / Secretary of State",
+      "title_fr": "Ministre d'\u00c9tat (A\u00een\u00e9s)",
       "start_date": "2010-01-19",
+      "role_en": "Minister / Secretary of State",
       "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State (Seniors)",
-      "title_fr": "Ministre d'\u00c9tat (A\u00een\u00e9s)"
+      "title_en": "Minister of State (Seniors)"
     },
     {
-      "role_en": "Minister / Secretary of State",
+      "title_fr": "Ministre d'\u00c9tat (Petite entreprise et Tourisme)",
       "start_date": "2008-10-30",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
       "end_date": "2010-01-18",
-      "title_en": "Minister of State (Small Business and Tourism)",
-      "title_fr": "Ministre d'\u00c9tat (Petite entreprise et Tourisme)"
-    },
-    {
       "role_en": "Minister / Secretary of State",
-      "start_date": "2007-08-14",
       "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister of State (Small Business and Tourism)"
+    },
+    {
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Petite Entreprise et Tourisme)",
+      "start_date": "2007-08-14",
       "end_date": "2008-10-29",
-      "title_en": "Secretary of State (Small Business and Tourism)",
-      "title_fr": "Secr\u00e9taire d'\u00c9tat (Petite Entreprise et Tourisme)"
+      "role_en": "Minister / Secretary of State",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Secretary of State (Small Business and Tourism)"
     },
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances",
       "start_date": "2006-02-07",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2007-08-13",
-      "title_en": "Parliamentary Secretary to the Minister of Finance",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Finance"
     },
     {
-      "role_en": "Whip",
+      "title_fr": "Whip du du Parti r\u00e9formiste (Coordonnatrice du caucus)",
       "start_date": "1993-11-06",
-      "role_fr": "Whip",
       "end_date": "1994-09-21",
-      "title_en": "Whip of the Reform Party (Caucus Coordinator)",
-      "title_fr": "Whip du du Parti r\u00e9formiste (Coordonnatrice du caucus)"
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Whip of the Reform Party (Caucus Coordinator)"
     },
     {
-      "role_en": "Caucus Chair",
+      "title_fr": "Pr\u00e9sidente du caucus du Parti r\u00e9formiste",
       "start_date": "1993",
-      "role_fr": "Pr\u00e9sident du caucus",
       "end_date": "1993-11",
-      "title_en": "Reform Party Caucus Chair",
-      "title_fr": "Pr\u00e9sidente du caucus du Parti r\u00e9formiste"
+      "role_en": "Caucus Chair",
+      "role_fr": "Pr\u00e9sident du caucus",
+      "title_en": "Reform Party Caucus Chair"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Citoyennet\u00e9 et Immigration",
       "start_date": "2002-04-04",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Citizenship and Immigration",
-      "title_fr": "Citoyennet\u00e9 et Immigration"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Citizenship and Immigration"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Sant\u00e9",
       "start_date": "2001-01-05",
-      "role_fr": "Porte-parole",
       "end_date": "2001-12-17",
-      "title_en": "Health",
-      "title_fr": "Sant\u00e9"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Health"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "D\u00e9veloppement des ressources humaines",
       "start_date": "1997-06-20",
-      "role_fr": "Porte-parole",
       "end_date": "2001-01-04",
-      "title_en": "Human Resources Development",
-      "title_fr": "D\u00e9veloppement des ressources humaines"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "1994-09",
       "role_fr": "Porte-parole",
+      "title_en": "Human Resources Development"
+    },
+    {
+      "title_fr": "D\u00e9veloppement des ressources humaines",
+      "start_date": "1994-09",
       "end_date": "1995-06",
-      "title_en": "Human Resources Development",
-      "title_fr": "D\u00e9veloppement des ressources humaines"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Human Resources Development"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "P\u00eaches et Oc\u00e9ans",
       "start_date": "1996-10-25",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1997-06",
-      "title_en": "Fisheries and Oceans",
-      "title_fr": "P\u00eaches et Oc\u00e9ans"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Fisheries and Oceans"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Justice",
       "start_date": "1995",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1996-10-24",
-      "title_en": "Justice",
-      "title_fr": "Justice"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Justice"
     }
   ],
   "committees": [
     {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "parliament": 37,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
-      "parliament": 37,
-      "session": 1,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
+      "name_en": "Standing Committee on Citizenship and Immigration"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent de la Citoyennet\u00e9 et de l'immigration",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent de la Citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique",
       "parliament": 37,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-55",
       "parliament": 37,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-55",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-55"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-55"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur la condition des personnes handicap\u00e9es du Comit\u00e9 permanent des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 sur la condition des personnes handicap\u00e9es du Comit\u00e9 permanent des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques",
       "parliament": 35,
       "session": 2,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 35,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Legal Affairs",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 35,
-      "session": 1,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques"
+      "name_en": "Standing Committee on Justice and Legal Affairs"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques",
       "parliament": 35,
       "session": 1,
-      "name_en": "Standing Committee on Justice and Legal Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 35,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Legal Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "parliament": 35,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Ablonczy.D@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "telephone": "613-996-2756",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-992-2537",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "Calgary@ablonczy.com",
+      "postal_code": "T2M 0P7",
+      "city_fr": "Calgary",
+      "province_en": "Alberta",
+      "telephone": "403-282-7980",
+      "province_fr": "Alberta",
+      "street_address_en": "1107 17th Avenue N.W.",
+      "street_address_fr": "1107, 17e Avenue Nord-Ouest",
+      "fax": "403-282-3587",
+      "city_en": "Calgary"
+    }
+  },
+  "name": "Diane Ablonczy",
+  "date_of_birth": "1949-05-06",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Calgary--Nose Hill",
+      "riding_fr": "Calgary--Nose Hill"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Calgary--Nose Hill",
+      "riding_fr": "Calgary--Nose Hill"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Calgary--Nose Hill",
+      "riding_fr": "Calgary--Nose Hill"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Calgary--Nose Hill",
+      "riding_fr": "Calgary--Nose Hill"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Calgary--Nose Hill",
+      "riding_fr": "Calgary--Nose Hill"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1993-10-25",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Calgary North",
+      "riding_fr": "Calgary-Nord"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Peoria, Illinois, \u00c9tats-Unis",
+    "name_en": "Peoria, Illinois, United States"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance"
+    },
+    {
+      "name_fr": "Parti r\u00e9formiste",
+      "start_date": "1993-10-25",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "cae316dd-8887-4133-8389-1de7355a66d8",
+  "weblinks": [
     {
-      "name_en": "Farmer",
-      "name_fr": "Agricultrice"
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.hrsdc.gc.ca/eng/corporate/ministers/index.shtml",
+      "url_fr": "http://www.rhdcc.gc.ca/fra/ministeriel/ministres/index.shtml",
+      "name_en": "Department Website"
     },
     {
-      "name_en": "Lawyer",
-      "name_fr": "Avocate"
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128446&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128446&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Teacher",
-      "name_fr": "Enseignante"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/64982",
+      "url_fr": "http://www.conservative.ca/?section_id=4568&section_copy_id=64982&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.dianeablonczy.com",
+      "url_fr": "http://www.dianeablonczy.com/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "cae316dd-8887-4133-8389-1de7355a66d8"
+  ]
 }

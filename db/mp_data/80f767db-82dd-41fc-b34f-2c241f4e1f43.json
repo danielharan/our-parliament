@@ -1,64 +1,113 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2006-01-23",
-      "name_en": "",
-      "name_fr": ""
+      "name_fr": "Animateur \u00e0 la radio",
+      "name_en": "Journalist"
+    },
+    {
+      "name_fr": "Journaliste",
+      "name_en": "Radio host"
     }
   ],
-  "date_of_birth": "1943-12-21",
-  "place_of_birth": {
-    "name_en": "Qu\u00e9bec, Quebec, Canada",
-    "name_fr": "Qu\u00e9bec, Qu\u00e9bec, Canada"
-  },
-  "name": "Andr\u00e9 Arthur",
+  "parlinfo_id": 78471,
   "functions": [
 
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices",
-      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Arthur.A@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-2798",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-995-1637",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "depute@andrearthur.ca",
+      "postal_code": "G3M 2A2",
+      "city_fr": "Donnacona",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "325 De L'\u00c9glise Street, Suite 50",
+      "street_address_fr": "325, rue de l'\u00c9glise, bureau 50",
+      "city_en": "Donnacona"
+    }
+  },
+  "name": "Andr\u00e9 Arthur",
+  "date_of_birth": "1943-12-21",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Portneuf--Jacques-Cartier",
+      "riding_fr": "Portneuf--Jacques-Cartier"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Portneuf--Jacques-Cartier",
+      "riding_fr": "Portneuf--Jacques-Cartier"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Qu\u00e9bec, Qu\u00e9bec, Canada",
+    "name_en": "Qu\u00e9bec, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "",
+      "start_date": "2006-01-23",
+      "name_en": ""
     }
   ],
   "language": "French",
-  "professions": [
+  "id": "80f767db-82dd-41fc-b34f-2c241f4e1f43",
+  "weblinks": [
     {
-      "name_en": "Journalist",
-      "name_fr": "Animateur \u00e0 la radio"
-    },
-    {
-      "name_en": "Radio host",
-      "name_fr": "Journaliste"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78471&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78471&Language=F",
+      "name_en": "MP profile"
     }
-  ],
-  "id": "80f767db-82dd-41fc-b34f-2c241f4e1f43"
+  ]
 }

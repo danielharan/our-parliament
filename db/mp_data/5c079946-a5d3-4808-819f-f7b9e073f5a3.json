@@ -1,489 +1,597 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
-    },
-    {
-      "start_date": "2002-04-16",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
-    },
-    {
-      "start_date": "2002-04-10",
-      "end_date": "2002-04-16",
-      "name_en": "",
-      "name_fr": ""
-    },
-    {
-      "start_date": "2000-03-27",
-      "end_date": "2002-04-09",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
-    },
-    {
-      "start_date": "1988-11-21",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party",
-      "name_fr": "Parti r\u00e9formiste"
+      "name_fr": "Agriculteur",
+      "name_en": "Farmer"
     }
   ],
-  "date_of_birth": "1952-12-27",
-  "place_of_birth": {
-    "name_en": "Fort St. John, British Columbia, Canada",
-    "name_fr": "Fort St. John, Colombie-Britannique, Canada"
-  },
-  "name": "Jay D. Hill",
+  "parlinfo_id": 78995,
   "functions": [
     {
-      "role_en": "Minister / Secretary of State",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat et whip en chef du gouvernement",
       "start_date": "2007-01-04",
+      "end_date": "2008-10-29",
+      "role_en": "Minister / Secretary of State",
       "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "end_date": "2008-10-29",
-      "title_en": "Secretary of State and Chief Government Whip",
-      "title_fr": "Secr\u00e9taire d'\u00c9tat et whip en chef du gouvernement"
+      "title_en": "Secretary of State and Chief Government Whip"
     },
     {
+      "title_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
+      "start_date": "2008-10-30",
       "role_en": "Leader of the Government in the House of Commons",
-      "start_date": "2008-10-30",
       "role_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
-      "title_en": "Leader of the Government in the House of Commons",
-      "title_fr": "Leader du gouvernement \u00e0 la Chambre des communes"
+      "title_en": "Leader of the Government in the House of Commons"
     },
     {
+      "title_fr": "Leader parlementaire de l'Opposition officielle",
+      "start_date": "2005-01-28",
+      "end_date": "2006-02-05",
       "role_en": "Leader of the Opposition in the House Of Commons",
-      "start_date": "2005-01-28",
       "role_fr": "Leader parlementaire de l'Opposition officielle",
-      "end_date": "2006-02-05",
-      "title_en": "Official Opposition House Leader",
-      "title_fr": "Leader parlementaire de l'Opposition officielle"
+      "title_en": "Official Opposition House Leader"
     },
     {
-      "role_en": "House Leader",
+      "title_fr": "Leader en Chambre du Parti conservateur",
       "start_date": "2008-10-30",
-      "role_fr": "Leader parlementaire",
-      "title_en": "Conservative Party House Leader",
-      "title_fr": "Leader en Chambre du Parti conservateur"
-    },
-    {
       "role_en": "House Leader",
-      "start_date": "2005-01-28",
       "role_fr": "Leader parlementaire",
-      "end_date": "2006-02-05",
-      "title_en": "Conservative Party House Leader",
-      "title_fr": "Leader en Chambre du Parti conservateur"
+      "title_en": "Conservative Party House Leader"
     },
     {
-      "role_en": "Whip",
-      "start_date": "2006-02-07",
-      "role_fr": "Whip",
-      "end_date": "2008-10-29",
-      "title_en": "Chief Government Whip",
-      "title_fr": "Whip du Parti conservateur du Canada"
-    },
-    {
-      "role_en": "Whip",
-      "start_date": "2006-02-07",
-      "role_fr": "Whip",
-      "end_date": "2008-10-29",
-      "title_en": "Whip of the Conservative Party of Canada",
-      "title_fr": "Whip en chef du gouvernement"
-    },
-    {
-      "role_en": "Whip",
-      "start_date": "2004-07-22",
-      "role_fr": "Whip",
-      "end_date": "2005-01-27",
-      "title_en": "Chief Opposition Whip",
-      "title_fr": "Whip du Parti conservateur du Canada"
-    },
-    {
-      "role_en": "Whip",
-      "start_date": "2004-07-22",
-      "role_fr": "Whip",
-      "end_date": "2005-01-27",
-      "title_en": "Whip of the Conservative Party of Canada",
-      "title_fr": "Whip en chef de l'Opposition"
-    },
-    {
-      "role_en": "Whip",
-      "start_date": "2001-09-19",
-      "role_fr": "Whip",
-      "end_date": "2002-04-09",
-      "title_en": "Whip of the PC/DR Coalition",
-      "title_fr": "Whip de la Coalition PC/RD"
-    },
-    {
-      "role_en": "Whip",
-      "start_date": "2000-03-27",
-      "role_fr": "Whip",
-      "end_date": "2000-07-31",
-      "title_en": "Whip of the Canadian Alliance",
-      "title_fr": "Whip de l'Alliance canadienne"
-    },
-    {
-      "role_en": "Whip",
-      "start_date": "2000-01-31",
-      "role_fr": "Whip",
-      "end_date": "2000-03",
-      "title_en": "Whip of the Reform Party (Caucus Coordinator)",
-      "title_fr": "Whip du Parti r\u00e9formiste (Coordonnateur du caucus)"
-    },
-    {
-      "role_en": "Whip",
-      "start_date": "2000-01-31",
-      "role_fr": "Whip",
-      "end_date": "2000-07-31",
-      "title_en": "Chief Opposition Whip",
-      "title_fr": "Whip en chef de l'Opposition"
-    },
-    {
-      "role_en": "Whip",
-      "start_date": "1997-06-20",
-      "role_fr": "Whip",
-      "end_date": "2000-01-30",
-      "title_en": "Deputy Whip of the Official Opposition",
-      "title_fr": "Whip adjoint de l'Opposition officielle"
-    },
-    {
-      "role_en": "Critic",
+      "title_fr": "Leader en Chambre du Parti conservateur",
       "start_date": "2005-01-28",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Leader of the Government in the House of Commons",
-      "title_fr": "Leader du Gouvernement \u00e0 la Chambre des communes"
+      "role_en": "House Leader",
+      "role_fr": "Leader parlementaire",
+      "title_en": "Conservative Party House Leader"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Whip du Parti conservateur du Canada",
+      "start_date": "2006-02-07",
+      "end_date": "2008-10-29",
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Chief Government Whip"
+    },
+    {
+      "title_fr": "Whip en chef du gouvernement",
+      "start_date": "2006-02-07",
+      "end_date": "2008-10-29",
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Whip of the Conservative Party of Canada"
+    },
+    {
+      "title_fr": "Whip du Parti conservateur du Canada",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2005-01-27",
-      "title_en": "Parliamentary Affairs",
-      "title_fr": "Affaires parlementaires"
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Chief Opposition Whip"
     },
     {
-      "role_en": "Critic",
-      "start_date": "2003-06-23",
-      "role_fr": "Porte-parole",
-      "end_date": "2004-07-21",
-      "title_en": "National Defence",
-      "title_fr": "D\u00e9fense nationale"
+      "title_fr": "Whip en chef de l'Opposition",
+      "start_date": "2004-07-22",
+      "end_date": "2005-01-27",
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Whip of the Conservative Party of Canada"
     },
     {
-      "role_en": "Critic",
-      "start_date": "2000-08-01",
-      "role_fr": "Porte-parole",
-      "end_date": "2001-05-15",
-      "title_en": "Transport",
-      "title_fr": "Transports"
+      "title_fr": "Whip de la Coalition PC/RD",
+      "start_date": "2001-09-19",
+      "end_date": "2002-04-09",
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Whip of the PC/DR Coalition"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Whip de l'Alliance canadienne",
+      "start_date": "2000-03-27",
+      "end_date": "2000-07-31",
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Whip of the Canadian Alliance"
+    },
+    {
+      "title_fr": "Whip du Parti r\u00e9formiste (Coordonnateur du caucus)",
+      "start_date": "2000-01-31",
+      "end_date": "2000-03",
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Whip of the Reform Party (Caucus Coordinator)"
+    },
+    {
+      "title_fr": "Whip en chef de l'Opposition",
+      "start_date": "2000-01-31",
+      "end_date": "2000-07-31",
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Chief Opposition Whip"
+    },
+    {
+      "title_fr": "Whip adjoint de l'Opposition officielle",
       "start_date": "1997-06-20",
+      "end_date": "2000-01-30",
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Deputy Whip of the Official Opposition"
+    },
+    {
+      "title_fr": "Leader du Gouvernement \u00e0 la Chambre des communes",
+      "start_date": "2005-01-28",
+      "end_date": "2006-02-05",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
+      "title_en": "Leader of the Government in the House of Commons"
+    },
+    {
+      "title_fr": "Affaires parlementaires",
+      "start_date": "2004-07-22",
+      "end_date": "2005-01-27",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Parliamentary Affairs"
+    },
+    {
+      "title_fr": "D\u00e9fense nationale",
+      "start_date": "2003-06-23",
+      "end_date": "2004-07-21",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "National Defence"
+    },
+    {
+      "title_fr": "Transports",
+      "start_date": "2000-08-01",
+      "end_date": "2001-05-15",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Transport"
+    },
+    {
+      "title_fr": "Agriculture et Agro-alimentaire",
+      "start_date": "1997-06-20",
       "end_date": "1998-06-16",
-      "title_en": "Agriculture and Agri-Food",
-      "title_fr": "Agriculture et Agro-alimentaire"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Agriculture and Agri-Food"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Bureau f\u00e9d\u00e9ral de d\u00e9veloppement r\u00e9gional (Qu\u00e9bec)",
       "start_date": "1996-10-25",
-      "role_fr": "Porte-parole",
       "end_date": "1997-06-19",
-      "title_en": "Federal Office of Regional Development-Quebec",
-      "title_fr": "Bureau f\u00e9d\u00e9ral de d\u00e9veloppement r\u00e9gional (Qu\u00e9bec)"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Federal Office of Regional Development-Quebec"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Diversification de l'\u00e9conomie de l'Ouest",
       "start_date": "1996-10-25",
-      "role_fr": "Porte-parole",
       "end_date": "1997-06-19",
-      "title_en": "Western Economic Diversification",
-      "title_fr": "Diversification de l'\u00e9conomie de l'Ouest"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Western Economic Diversification"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique",
       "start_date": "1996-10-25",
-      "role_fr": "Porte-parole",
       "end_date": "1998-06-16",
-      "title_en": "Atlantic Canada Opportunities Agency",
-      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Atlantic Canada Opportunities Agency"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Justice",
       "start_date": "1998-09-04",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2001-05",
-      "title_en": "Justice",
-      "title_fr": "Justice"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Justice"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral",
       "start_date": "1998-06-16",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1998-09-03",
-      "title_en": "Solicitor General",
-      "title_fr": "Solliciteur g\u00e9n\u00e9ral"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Solicitor General"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Finances",
       "start_date": "1997-02-19",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1997-06-19",
-      "title_en": "Finance",
-      "title_fr": "Finances"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Finance"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Citoyennet\u00e9 et Immigration",
       "start_date": "1995-06",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1998-06-16",
-      "title_en": "Citizenship and Immigration",
-      "title_fr": "Citoyennet\u00e9 et Immigration"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Citizenship and Immigration"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on National Defence and Veterans Affairs",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on National Defence and Veterans Affairs",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports et des op\u00e9rations gouvernementales",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Transport and Government Operations",
-      "name_fr": "Comit\u00e9 permanent des transports et des op\u00e9rations gouvernementales"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 36,
-      "session": 2,
-      "name_en": "Standing Committee on Transport",
-      "name_fr": "Comit\u00e9 permanent des transports"
+      "name_en": "Standing Committee on Transport and Government Operations"
     },
     {
+      "name_fr": "Comit\u00e9 permanent des transports",
+      "parliament": 36,
+      "session": 2,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 36,
-      "session": 1,
-      "name_en": "Standing Committee on Agriculture and Agri-Food",
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
+      "name_en": "Standing Committee on Transport"
     },
     {
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "parliament": 36,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Agriculture and Agri-Food"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-20",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-20"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on National Defence and Veterans Affairs",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
-      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on National Defence and Veterans Affairs",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du calendrier parlementaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Parliamentary Calendar of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du calendrier parlementaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Parliamentary Calendar of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 d'\u00e9tudier le projet de loi C-20",
       "parliament": 36,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-20",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 d'\u00e9tudier le projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-20"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Transport",
-      "name_fr": "Comit\u00e9 permanent des transports"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Agriculture and Agri-Food",
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Agriculture and Agri-Food"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie",
       "parliament": 35,
       "session": 2,
-      "name_en": "Standing Committee on Industry",
-      "name_fr": "Comit\u00e9 permanent de l'industrie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 35,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 35,
-      "session": 1,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
+      "name_en": "Standing Committee on Natural Resources"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 35,
       "session": 1,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "parliament": 35,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Hill.J@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-947-4524",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "jayhill4@telus.net",
+      "postal_code": "V2L 3P4",
+      "city_fr": "Prince George",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "1584 7th Avenue, Suite 101",
+      "telephone": "250-561-7922",
+      "street_address_fr": "1584, 7e Avenue, bureau 101",
+      "city_en": "Prince George"
+    }
+  },
+  "name": "Jay D. Hill",
+  "date_of_birth": "1952-12-27",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Prince George--Peace River",
+      "riding_fr": "Prince George--Peace River"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Prince George--Peace River",
+      "riding_fr": "Prince George--Peace River"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Prince George--Peace River",
+      "riding_fr": "Prince George--Peace River"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Prince George--Peace River",
+      "riding_fr": "Prince George--Peace River"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Prince George--Peace River",
+      "riding_fr": "Prince George--Peace River"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1993-10-25",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Prince George--Peace River",
+      "riding_fr": "Prince George--Peace River"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "1988-11-21",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Prince George--Peace River",
+      "riding_fr": "Prince George--Peace River"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Fort St. John, Colombie-Britannique, Canada",
+    "name_en": "Fort St. John, British Columbia, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2002-04-16",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance"
+    },
+    {
+      "name_fr": "",
+      "start_date": "2002-04-10",
+      "end_date": "2002-04-16",
+      "name_en": ""
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2000-03-27",
+      "end_date": "2002-04-09",
+      "name_en": "Canadian Reform Conservative Alliance"
+    },
+    {
+      "name_fr": "Parti r\u00e9formiste",
+      "start_date": "1988-11-21",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "5c079946-a5d3-4808-819f-f7b9e073f5a3",
+  "weblinks": [
     {
-      "name_en": "Farmer",
-      "name_fr": "Agriculteur"
+      "name_fr": "Site Web du minist\u00e8re (1)",
+      "url_en": "http://www.pco-bcp.gc.ca/index.asp?lang=eng&page=min&sub=LGC",
+      "url_fr": "http://www.pco-bcp.gc.ca/index.asp?lang=fra&page=min&sub=lgc",
+      "name_en": "Department Website (1)"
+    },
+    {
+      "name_fr": "Site Web du minist\u00e8re (2)",
+      "url_en": "http://www.lgc.gc.ca/index.asp?lang=eng&page=Team-equipe&doc=hill/hill-eng.htm",
+      "url_fr": "http://www.lgc.gc.ca/index.asp?lang=fra&page=team-equipe&doc=hill/hill-fra.htm",
+      "name_en": "Department Website (2)"
+    },
+    {
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78995&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78995&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65141",
+      "url_fr": "http://www.conservative.ca/FR/4568/65143",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.jayhillmp.com/",
+      "url_fr": "http://www.jayhillmp.com/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "5c079946-a5d3-4808-819f-f7b9e073f5a3"
+  ]
 }

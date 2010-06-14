@@ -1,443 +1,518 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Auteur",
+      "name_en": "Author"
     },
     {
-      "start_date": "2000-11-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+      "name_fr": "Journaliste",
+      "name_en": "Journalist"
     }
   ],
-  "date_of_birth": "1964-01-25",
-  "place_of_birth": {
-    "name_en": "Hull, Quebec, Canada",
-    "name_fr": "Hull, Qu\u00e9bec, Canada"
-  },
-  "name": "Scott Reid",
+  "parlinfo_id": 78620,
   "functions": [
     {
+      "title_fr": "Leader adjoint du gouvernement \u00e0 la Chambre des communes",
+      "start_date": "2006-03-06",
       "role_en": "Leader of the Government in the House of Commons",
-      "start_date": "2006-03-06",
       "role_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
-      "title_en": "Deputy Leader of the Government in the House of Commons",
-      "title_fr": "Leader adjoint du gouvernement \u00e0 la Chambre des communes"
+      "title_en": "Deputy Leader of the Government in the House of Commons"
     },
     {
-      "role_en": "House Leader",
+      "title_fr": "Leader adjoint en Chambre du Parti conservateur",
       "start_date": "2006-03-06",
+      "role_en": "House Leader",
       "role_fr": "Leader parlementaire",
-      "title_en": "Conservative Party Deputy House Leader",
-      "title_fr": "Leader adjoint en Chambre du Parti conservateur"
+      "title_en": "Conservative Party Deputy House Leader"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "R\u00e9forme \u00e9lectorale",
       "start_date": "2005-06-20",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Electoral Reform",
-      "title_fr": "R\u00e9forme \u00e9lectorale"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Electoral Reform"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Renouveau d\u00e9mocratique",
       "start_date": "2005-05-17",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Democratic Renewal",
-      "title_fr": "Renouveau d\u00e9mocratique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Democratic Renewal"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "R\u00e9forme d\u00e9mocratique",
       "start_date": "2004-10-05",
-      "role_fr": "Porte-parole",
       "end_date": "2005-05-16",
-      "title_en": "Democratic Reform",
-      "title_fr": "R\u00e9forme d\u00e9mocratique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Democratic Reform"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2005-06-19",
-      "title_en": "Federal Economic Development Initiative for Northern Ontario",
-      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2004-03-22",
       "role_fr": "Porte-parole",
-      "end_date": "2004-07-21",
-      "title_en": "Intergovernmental Affairs",
-      "title_fr": "Affaires intergouvernementales"
+      "title_en": "Federal Economic Development Initiative for Northern Ontario"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Affaires intergouvernementales",
       "start_date": "2004-03-22",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Official Languages",
-      "title_fr": "Langues officielles"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Intergovernmental Affairs"
     },
     {
+      "title_fr": "Langues officielles",
+      "start_date": "2004-03-22",
+      "end_date": "2004-07-21",
       "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Official Languages"
+    },
+    {
+      "title_fr": "Francophonie",
       "start_date": "2004-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2004-03-21",
-      "title_en": "Francophonie",
-      "title_fr": "Francophonie"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2004-01-22",
       "role_fr": "Porte-parole",
-      "end_date": "2004-07-21",
-      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
-      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec"
+      "title_en": "Francophonie"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
       "start_date": "2004-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Entrepreneurs and New Canadians",
-      "title_fr": "Conseil priv\u00e9"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Conseil priv\u00e9",
       "start_date": "2004-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Infrastructure",
-      "title_fr": "Entrepreneurs et immigrants"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Entrepreneurs and New Canadians"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Entrepreneurs et immigrants",
       "start_date": "2004-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Privy Council",
-      "title_fr": "Infrastructure"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Infrastructure"
     },
     {
+      "title_fr": "Infrastructure",
+      "start_date": "2004-01-22",
+      "end_date": "2004-07-21",
       "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Privy Council"
+    },
+    {
+      "title_fr": "Commission de la Capitale nationale",
       "start_date": "2002-04-04",
-      "role_fr": "Porte-parole",
       "end_date": "2004-01-21",
-      "title_en": "National Capital Commission",
-      "title_fr": "Commission de la Capitale nationale"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "National Capital Commission"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "D\u00e9mocratie directe",
       "start_date": "2001-06-18",
-      "role_fr": "Porte-parole",
       "end_date": "2003-06-22",
-      "title_en": "Direct Democracy",
-      "title_fr": "D\u00e9mocratie directe"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Direct Democracy"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Affaires intergouvernementales",
       "start_date": "2001-01-05",
-      "role_fr": "Porte-parole",
       "end_date": "2004-01-21",
-      "title_en": "Intergovernmental Affairs",
-      "title_fr": "Affaires intergouvernementales"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Intergovernmental Affairs"
     }
   ],
   "committees": [
     {
-      "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des cadeaux en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des cadeaux en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des formulaires de d\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Disclosure Forms under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des formulaires de d\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on Disclosure Forms under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des cadeaux en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des cadeaux en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 1,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-20",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-20"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Disclosure Forms under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Disclosure Forms under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des formulaires de d\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des formulaires de d\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
       "parliament": 38,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-38",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-38"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur la D\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on the Disclosure Statement under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 sur la D\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on the Disclosure Statement under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de la r\u00e9vision des limites des circonscriptions \u00e9lectorales du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 de la r\u00e9vision des limites des circonscriptions \u00e9lectorales du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 37,
-      "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
+      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 de la r\u00e9vision des limites des circonscriptions \u00e9lectorales du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de la r\u00e9vision des limites des circonscriptions \u00e9lectorales du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "parliament": 37,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Reid.S@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-947-2277",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "mp@scottreid.ca",
+      "postal_code": "K7R 1J3",
+      "city_fr": "Napanee",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "4 Market Square",
+      "telephone": "613-354-1948",
+      "street_address_fr": "4, Market Square",
+      "city_en": "Napanee"
+    }
+  },
+  "name": "Scott Reid",
+  "date_of_birth": "1964-01-25",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Lanark--Frontenac--Lennox and Addington",
+      "riding_fr": "Lanark--Frontenac--Lennox and Addington"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Lanark--Frontenac--Lennox and Addington",
+      "riding_fr": "Lanark--Frontenac--Lennox and Addington"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Lanark--Frontenac--Lennox and Addington",
+      "riding_fr": "Lanark--Frontenac--Lennox and Addington"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Lanark--Carleton",
+      "riding_fr": "Lanark--Carleton"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Hull, Qu\u00e9bec, Canada",
+    "name_en": "Hull, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2000-11-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance"
     }
   ],
   "language": "English, French",
-  "professions": [
+  "id": "27d8ca3d-1740-41b6-872b-6ceb646cdd31",
+  "weblinks": [
     {
-      "name_en": "Author",
-      "name_fr": "Auteur"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78620&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78620&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Journalist",
-      "name_fr": "Journaliste"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1525&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1525&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.scottreid.ca/",
+      "url_fr": "http://www.scottreid.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "27d8ca3d-1740-41b6-872b-6ceb646cdd31"
+  ]
 }

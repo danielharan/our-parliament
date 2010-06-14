@@ -1,51 +1,111 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
-    }
-  ],
-  "date_of_birth": "1968-05-07",
-  "place_of_birth": {
-    "name_en": "Cape Breton, Nova Scotia, Canada",
-    "name_fr": "Cap Breton, Nouvelle-\u00c9cosse, Canada"
-  },
-  "name": "Lisa Raitt",
-  "functions": [
-    {
-      "role_en": "Minister",
-      "start_date": "2010-01-19",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Labour",
-      "title_fr": "Ministre du Travail"
+      "name_fr": "Dirigeante d'entreprise",
+      "name_en": "Business executive"
     },
     {
+      "name_fr": "Pr\u00e9sidente / g\u00e9rante",
+      "name_en": "Chief executive officer"
+    },
+    {
+      "name_fr": "Pr\u00e9sidente-directrice g\u00e9n\u00e9rale",
+      "name_en": "President / manager"
+    }
+  ],
+  "parlinfo_id": 128412,
+  "functions": [
+    {
+      "title_fr": "Ministre du Travail",
+      "start_date": "2010-01-19",
       "role_en": "Minister",
-      "start_date": "2008-10-30",
       "role_fr": "Ministre",
+      "title_en": "Minister of Labour"
+    },
+    {
+      "title_fr": "Ministre des Ressources naturelles",
+      "start_date": "2008-10-30",
       "end_date": "2010-01-18",
-      "title_en": "Minister of Natural Resources",
-      "title_fr": "Ministre des Ressources naturelles"
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Natural Resources"
     }
   ],
   "committees": [
 
   ],
-  "language": "English",
-  "professions": [
-    {
-      "name_en": "Business executive",
-      "name_fr": "Dirigeante d'entreprise"
+  "contact_info": {
+    "parliament": {
+      "email": "Raitt.L@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-996-7046",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
     },
+    "constituency": {
+      "postal_code": "L9T 1N3",
+      "city_fr": "Milton",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "86 Main Street East",
+      "telephone": "905-693-0166",
+      "street_address_fr": "86, rue Main Est",
+      "fax": "905-693-0704",
+      "city_en": "Milton"
+    }
+  },
+  "name": "Lisa Raitt",
+  "date_of_birth": "1968-05-07",
+  "constituencies": [
     {
-      "name_en": "Chief executive officer",
-      "name_fr": "Pr\u00e9sidente / g\u00e9rante"
-    },
-    {
-      "name_en": "President / manager",
-      "name_fr": "Pr\u00e9sidente-directrice g\u00e9n\u00e9rale"
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Halton",
+      "riding_fr": "Halton"
     }
   ],
-  "id": "b6808e95-1c75-4909-ab86-319d3519016a"
+  "place_of_birth": {
+    "name_fr": "Cap Breton, Nouvelle-\u00c9cosse, Canada",
+    "name_en": "Cape Breton, Nova Scotia, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada"
+    }
+  ],
+  "language": "English",
+  "id": "b6808e95-1c75-4909-ab86-319d3519016a",
+  "weblinks": [
+    {
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.hrsdc.gc.ca/eng/corporate/ministers/index.shtml",
+      "url_fr": "http://www.rhdcc.gc.ca/fra/ministeriel/ministres/index.shtml",
+      "name_en": "Department Website"
+    },
+    {
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128412&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128412&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/107461",
+      "url_fr": "http://www.conservative.ca/FR/4568/107464",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://lisaraittmp.ca/",
+      "url_fr": "http://lisaraittmp.ca/",
+      "name_en": "Personal Website"
+    }
+  ]
 }

@@ -9,7 +9,6 @@
     <span class="action">
     </span>
     <small>
-      <% if recorded_vote.mp and recorded_vote.mp.party %><span class="caucus"><%= recorded_vote.mp.party.name %></span>,<% end %>
       <% if recorded_vote.mp and recorded_vote.mp.riding %><span class="constituency"><%= recorded_vote.mp.riding.name %></span><% end %><br/>
 	  <strong>Voted <%= recorded_vote.stance %></strong>
     </small>

@@ -1,159 +1,227 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1985",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
-    }
-  ],
-  "date_of_birth": "1957-06-06",
-  "place_of_birth": {
-    "name_en": "Montreal, Quebec, Canada",
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
-  },
-  "name": "Francis Scarpaleggia",
-  "functions": [
-    {
-      "role_en": "Critic",
-      "start_date": "2007-10-09",
-      "role_fr": "Porte-parole",
-      "end_date": "2009-01-21",
-      "title_en": "Water",
-      "title_fr": "Eaux"
+      "name_fr": "Adjoint politique",
+      "name_en": "Business consultant"
     },
     {
-      "role_en": "Assistant Critic",
+      "name_fr": "Analyste financier",
+      "name_en": "Financial analyst"
+    },
+    {
+      "name_fr": "Expert-conseil en administration des affaires",
+      "name_en": "Political assistant"
+    },
+    {
+      "name_fr": "Professeur",
+      "name_en": "Professor"
+    }
+  ],
+  "parlinfo_id": 78807,
+  "functions": [
+    {
+      "title_fr": "Eaux",
+      "start_date": "2007-10-09",
+      "end_date": "2009-01-21",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Water"
+    },
+    {
+      "title_fr": "Patrimoine canadien",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2007-01-17",
-      "title_en": "Canadian Heritage",
-      "title_fr": "Patrimoine canadien"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Canadian Heritage"
     }
   ],
   "committees": [
     {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "parliament": 40,
+      "session": 2,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "name_en": "Standing Committee on Environment and Sustainable Development"
     },
     {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "parliament": 40,
+      "session": 2,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-30",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-30"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Transport",
-      "name_fr": "Comit\u00e9 permanent des transports"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Scarpaleggia.F@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-8281",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "scarpf1@parl.gc.ca",
+      "postal_code": "H9R 5N3",
+      "city_fr": "Pointe-Claire",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "East Tower1 Holiday Avenue, Suite 635",
+      "telephone": "514-695-6661",
+      "street_address_fr": "Tour Est1, avenue Holiday, bureau 635",
+      "city_en": "Pointe-Claire"
+    }
+  },
+  "name": "Francis Scarpaleggia",
+  "date_of_birth": "1957-06-06",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Lac-Saint-Louis",
+      "riding_fr": "Lac-Saint-Louis"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Lac-Saint-Louis",
+      "riding_fr": "Lac-Saint-Louis"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Lac-Saint-Louis",
+      "riding_fr": "Lac-Saint-Louis"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
+    "name_en": "Montreal, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "1985",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English, French",
-  "professions": [
+  "id": "4abeb9b5-279b-4117-9e04-b8901d9ccc53",
+  "weblinks": [
     {
-      "name_en": "Business consultant",
-      "name_fr": "Adjoint politique"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78807&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78807&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Financial analyst",
-      "name_fr": "Analyste financier"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=12796",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12796",
+      "name_en": "Party Website"
     },
     {
-      "name_en": "Political assistant",
-      "name_fr": "Expert-conseil en administration des affaires"
-    },
-    {
-      "name_en": "Professor",
-      "name_fr": "Professeur"
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.scarpaleggia.ca/",
+      "url_fr": "http://www.scarpaleggia.ca/",
+      "name_en": "Personnal Website"
     }
-  ],
-  "id": "4abeb9b5-279b-4117-9e04-b8901d9ccc53"
+  ]
 }

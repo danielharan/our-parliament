@@ -1,0 +1,21 @@
+<% @content_layout = "has_sidebar_right" %>
+
+<p>Below you'll find a list of all the Senators currently serving in Parliament. A certain Senator tickles your fancy? Click on them to see their profile and contact information.</p>
+
+<p>Who speaks for you in the Senate? Well, each province or territory is represented by a fixed number of Senators. In Quebec, Senators are also appointed to specific districts. (Some Senators from outside Quebec also assign themselves districts, but they officially represent the whole province.) If all this seems a bit confusing, we can help you <%= link_to "decode the Senate", "http://www.apathyisboring.com/en/the_facts/articles/the_senate" %>.</p>
+
+<div id="groups" class="block">
+  <ul>
+    <% Province.find(:all).each do |province| %>
+      <li><a href="#<%= province.name.underscore %>"><%= province.name %></a></li>
+    <% end %>
+  </ul>
+</div>
+
+<% Province.find(:all).each do |province| %>
+  <a name="<%= province.name.underscore %>"></a>
+  <h3><%= province.name %></h3>
+  <ul class="profiles_list">
+    <%= render :partial => 'shared/senator', :collection => province.senators %>
+  </ul>
+<% end %>

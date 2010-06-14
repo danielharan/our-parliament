@@ -1,302 +1,391 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1993-10-25",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois",
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+      "name_fr": "Administratrice",
+      "name_en": "Administrator"
+    },
+    {
+      "name_fr": "Femme d'affaires",
+      "name_en": "Businesswoman"
     }
   ],
-  "date_of_birth": "1959-10-27",
-  "place_of_birth": {
-    "name_en": "\u00cele Bizard, Quebec, Canada",
-    "name_fr": "\u00cele Bizard, Qu\u00e9bec, Canada"
-  },
-  "name": "Monique Guay",
+  "parlinfo_id": 78589,
   "functions": [
     {
-      "role_en": "House Leader",
+      "title_fr": "Leader parlementaire adjointe du Bloc qu\u00e9b\u00e9cois",
       "start_date": "2004-08-06",
-      "role_fr": "Leader parlementaire",
       "end_date": "2008-06-25",
-      "title_en": "Bloc Qu\u00e9b\u00e9cois Deputy House Leader",
-      "title_fr": "Leader parlementaire adjointe du Bloc qu\u00e9b\u00e9cois"
+      "role_en": "House Leader",
+      "role_fr": "Leader parlementaire",
+      "title_en": "Bloc Qu\u00e9b\u00e9cois Deputy House Leader"
     },
     {
-      "role_en": "Caucus Chair",
+      "title_fr": "Pr\u00e9sidente du caucus du Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2002-06-19",
+      "end_date": "2004-08-05",
+      "role_en": "Caucus Chair",
       "role_fr": "Pr\u00e9sident du caucus",
-      "end_date": "2004-08-05",
-      "title_en": "Bloc Qu\u00e9b\u00e9cois Caucus Chair",
-      "title_fr": "Pr\u00e9sidente du caucus du Bloc Qu\u00e9b\u00e9cois"
+      "title_en": "Bloc Qu\u00e9b\u00e9cois Caucus Chair"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Francophonie",
       "start_date": "2008-06-26",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Francophonie",
-      "title_fr": "Francophonie"
+      "title_en": "Francophonie"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Travail",
       "start_date": "1999-06-30",
-      "role_fr": "Porte-parole",
       "end_date": "2004-08-05",
-      "title_en": "Labour",
-      "title_fr": "Travail"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "1998-03-18",
       "role_fr": "Porte-parole",
-      "end_date": "1999-06-29",
-      "title_en": "Francophonie",
-      "title_fr": "Coop\u00e9ration internationale"
+      "title_en": "Labour"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Coop\u00e9ration internationale",
       "start_date": "1998-03-18",
-      "role_fr": "Porte-parole",
       "end_date": "1999-06-29",
-      "title_en": "International Cooperation",
-      "title_fr": "Francophonie"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Francophonie"
     },
     {
+      "title_fr": "Francophonie",
+      "start_date": "1998-03-18",
+      "end_date": "1999-06-29",
       "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "International Cooperation"
+    },
+    {
+      "title_fr": "Environnement",
       "start_date": "1994-09",
-      "role_fr": "Porte-parole",
       "end_date": "1998-08",
-      "title_en": "Environment",
-      "title_fr": "Environnement"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Environment"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Travaux publics et Services gouvernementaux",
       "start_date": "1994",
-      "role_fr": "Porte-parole",
       "end_date": "1994-09",
-      "title_en": "Public Works and Government Services",
-      "title_fr": "Travaux publics et Services gouvernementaux"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Works and Government Services"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 35,
       "session": 2,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
-      "parliament": 35,
-      "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "name_en": "Standing Committee on Environment and Sustainable Development"
     },
     {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "parliament": 35,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
-      "parliament": 35,
-      "session": 1,
-      "name_en": "Standing Committee on Government Operations",
-      "name_fr": "Comit\u00e9 permanent sur l'administration gouvernementale"
+      "name_en": "Standing Committee on Environment and Sustainable Development"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent sur l'administration gouvernementale",
+      "parliament": 35,
+      "session": 1,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
+      "name_en": "Standing Committee on Government Operations"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-20",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-20"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent de l'examen de la r\u00e9glementation",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Scrutiny of Regulations",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent de l'examen de la r\u00e9glementation"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Scrutiny of Regulations"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 2,
-      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du renouvellement de la fonction publique du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Public Service Renewal of the Standing Committee on Government Operations and Estimates",
-      "name_fr": "Sous-comit\u00e9 du renouvellement de la fonction publique du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Public Service Renewal of the Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 36,
       "session": 1,
-      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 35,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur la sensibilisation \u00e0 l'environnement pour un d\u00e9veloppement durable du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 35,
       "session": 2,
-      "name_en": "Subcommittee on Environmental Awareness for Sustainability of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 sur la sensibilisation \u00e0 l'environnement pour un d\u00e9veloppement durable du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 35,
-      "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "name_en": "Subcommittee on Environmental Awareness for Sustainability of the Standing Committee on Environment and Sustainable Development"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 35,
       "session": 1,
-      "name_en": "Standing Committee on Government Operations",
-      "name_fr": "Comit\u00e9 permanent sur l'administration gouvernementale"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent sur l'administration gouvernementale",
       "parliament": 35,
       "session": 1,
-      "name_en": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
-      "name_fr": "Sous-comit\u00e9 de l'\u00e9ducation des autochtones du Comit\u00e9 permanent des affaires autochtone et du Grand Nord"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Government Operations"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 de l'\u00e9ducation des autochtones du Comit\u00e9 permanent des affaires autochtone et du Grand Nord",
       "parliament": 35,
       "session": 1,
-      "name_en": "Subcommittee on Bill C-56 of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 sur la r\u00e9gion de l'Arctique du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 sur la r\u00e9gion de l'Arctique du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 35,
       "session": 1,
-      "name_en": "Subcommittee on the Arctic Region of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-56 du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Bill C-56 of the Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-56 du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "parliament": 35,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on the Arctic Region of the Standing Committee on Environment and Sustainable Development"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Guay.M@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-3257",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "guaym1@parl.gc.ca",
+      "postal_code": "J7Z 5A1",
+      "city_fr": "Saint-J\u00e9r\u00f4me",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "223 Saint-Georges Street, Suite 200",
+      "telephone": "450-565-0061",
+      "street_address_fr": "223, rue Saint-Georges, bureau 200",
+      "city_en": "St-J\u00e9r\u00f4me"
+    }
+  },
+  "name": "Monique Guay",
+  "date_of_birth": "1959-10-27",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Rivi\u00e8re-du-Nord",
+      "riding_fr": "Rivi\u00e8re-du-Nord"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Rivi\u00e8re-du-Nord",
+      "riding_fr": "Rivi\u00e8re-du-Nord"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Rivi\u00e8re-du-Nord",
+      "riding_fr": "Rivi\u00e8re-du-Nord"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Laurentides",
+      "riding_fr": "Laurentides"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Laurentides",
+      "riding_fr": "Laurentides"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1993-10-25",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Laurentides",
+      "riding_fr": "Laurentides"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "\u00cele Bizard, Qu\u00e9bec, Canada",
+    "name_en": "\u00cele Bizard, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "start_date": "1993-10-25",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois"
     }
   ],
   "language": "French",
-  "professions": [
+  "id": "d7ee00c8-04df-4418-965b-962c7d488878",
+  "weblinks": [
     {
-      "name_en": "Administrator",
-      "name_fr": "Administratrice"
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78589&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78589&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Businesswoman",
-      "name_fr": "Femme d'affaires"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=6b4a1c3e-4121-4e69-b9d8-a4b2ad52443a",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=6b4a1c3e-4121-4e69-b9d8-a4b2ad52443a",
+      "name_en": "Party Website (Available in French only)"
+    },
+    {
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.moniqueguay.qc.ca/mguay.asp?no=12130",
+      "url_fr": "http://www.moniqueguay.qc.ca/mguay.asp?no=12130",
+      "name_en": "Personal Website (Available in French only)"
     }
-  ],
-  "id": "d7ee00c8-04df-4418-965b-962c7d488878"
+  ]
 }

@@ -1,189 +1,251 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
-    }
-  ],
-  "date_of_birth": "1949-10-15",
-  "place_of_birth": {
-    "name_en": "Kitchener, Ontario, Canada",
-    "name_fr": "Kitchener, Ontario, Canada"
-  },
-  "name": "Harold Albrecht",
-  "functions": [
-    {
-      "role_en": "Whip",
-      "start_date": "2008-11-24",
-      "role_fr": "Whip",
-      "title_en": "Chief Government Whip's assistant",
-      "title_fr": "Assistant du whip en chef du gouvernement"
+      "name_fr": "Agriculteur",
+      "name_en": "Dentist"
     },
     {
-      "role_en": "Whip",
+      "name_fr": "Dentiste",
+      "name_en": "Farmer"
+    }
+  ],
+  "parlinfo_id": 78371,
+  "functions": [
+    {
+      "title_fr": "Assistant du whip en chef du gouvernement",
       "start_date": "2008-11-24",
+      "role_en": "Whip",
       "role_fr": "Whip",
-      "title_en": "Deputy Whip of the Conservative Party",
-      "title_fr": "Whip adjoint du Parti conservateur"
+      "title_en": "Chief Government Whip's assistant"
+    },
+    {
+      "title_fr": "Whip adjoint du Parti conservateur",
+      "start_date": "2008-11-24",
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Deputy Whip of the Conservative Party"
     }
   ],
   "committees": [
     {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "parliament": 40,
+      "session": 3,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 40,
-      "session": 3,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
     },
     {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "parliament": 40,
+      "session": 2,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
     },
     {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "parliament": 40,
+      "session": 1,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 40,
-      "session": 1,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 40,
-      "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 1,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "parliament": 40,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Government Operations and Estimates"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Albrecht.H@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "telephone": "613-992-4633",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-992-9932",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "N2E 2G7",
+      "city_fr": "Kitchener",
+      "province_en": "Ontario",
+      "telephone": "519-578-3777",
+      "province_fr": "Ontario",
+      "street_address_en": "153 Country Hill Drive, Unit 2A",
+      "street_address_fr": "153, promenade Country Hill, unit\u00e9 2A",
+      "fax": "519-578-0138",
+      "city_en": "Kitchener"
+    }
+  },
+  "name": "Harold Albrecht",
+  "date_of_birth": "1949-10-15",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Kitchener--Conestoga",
+      "riding_fr": "Kitchener--Conestoga"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Kitchener--Conestoga",
+      "riding_fr": "Kitchener--Conestoga"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Kitchener, Ontario, Canada",
+    "name_en": "Kitchener, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "2b5e6bf0-39d0-4d35-bcaa-dacd1834246d",
+  "weblinks": [
     {
-      "name_en": "Dentist",
-      "name_fr": "Agriculteur"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78371&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78371&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Farmer",
-      "name_fr": "Dentiste"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1521&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1521&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.haroldalbrechtmp.ca/",
+      "url_fr": "http://www.haroldalbrechtmp.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "2b5e6bf0-39d0-4d35-bcaa-dacd1834246d"
+  ]
 }

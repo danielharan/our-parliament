@@ -1,4 +1,4 @@
-<h1>Senator Spreadsheet view</h1>
+<% @title = 'Senator Spreadsheet view' %>
 
 <%= form_tag({:action => 'update'})  %>
 
@@ -13,7 +13,7 @@
   <% @senators.each do |senator| %>
     <% fields_for "senators[#{senator.id}]", senator, {:builder => ActionView::Helpers::FormBuilder} do |f| %>
       <tr>
-        <td><%= senator.name  %></td>
+        <td><%= link_to senator.name, edit_senator_path(senator) %></td>
         <td><%= f.text_field :twitter, :size => 12  %></td>
         <td><%= f.text_field :wikipedia  %></td>
       </tr>

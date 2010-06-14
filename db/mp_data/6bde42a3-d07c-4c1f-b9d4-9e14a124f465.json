@@ -1,111 +1,202 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1996-03-25",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Auteur",
+      "name_en": "Author"
+    },
+    {
+      "name_fr": "Professeur de sciences politiques",
+      "name_en": "Professor of political science"
     }
   ],
-  "date_of_birth": "1955-09-28",
-  "place_of_birth": {
-    "name_en": "Qu\u00e9bec, Quebec, Canada",
-    "name_fr": "Qu\u00e9bec, Qu\u00e9bec, Canada"
-  },
-  "name": "St\u00e9phane Dion",
+  "parlinfo_id": 78331,
   "functions": [
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre de l'Environnement",
       "start_date": "2004-07-20",
-      "role_fr": "Ministre",
       "end_date": "2006-02-05",
-      "title_en": "Minister of the Environment",
-      "title_fr": "Ministre de l'Environnement"
-    },
-    {
       "role_en": "Minister",
-      "start_date": "1996-01-25",
       "role_fr": "Ministre",
-      "end_date": "2003-12-11",
-      "title_en": "Minister of Intergovernmental Affairs",
-      "title_fr": "Ministre des Affaires intergouvernementales"
+      "title_en": "Minister of the Environment"
     },
     {
+      "title_fr": "Ministre des Affaires intergouvernementales",
+      "start_date": "1996-01-25",
+      "end_date": "2003-12-11",
       "role_en": "Minister",
-      "start_date": "1996-01-25",
       "role_fr": "Ministre",
-      "end_date": "2003-12-11",
-      "title_en": "President of the Queen's Privy Council",
-      "title_fr": "Pr\u00e9sident du Conseil priv\u00e9"
+      "title_en": "Minister of Intergovernmental Affairs"
     },
     {
+      "title_fr": "Pr\u00e9sident du Conseil priv\u00e9",
+      "start_date": "1996-01-25",
+      "end_date": "2003-12-11",
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "President of the Queen's Privy Council"
+    },
+    {
+      "title_fr": "Chef de l'Opposition officielle",
+      "start_date": "2006-12-02",
+      "end_date": "2008-12-09",
       "role_en": "Leader of the Official Opposition",
-      "start_date": "2006-12-02",
       "role_fr": "Chef de l'Opposition Officielle",
-      "end_date": "2008-12-09",
-      "title_en": "Leader of the Official Opposition",
-      "title_fr": "Chef de l'Opposition officielle"
+      "title_en": "Leader of the Official Opposition"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Premier ministre",
       "start_date": "2006-12-02",
-      "role_fr": "Porte-parole",
       "end_date": "2008-12-09",
-      "title_en": "Prime Minister",
-      "title_fr": "Premier ministre"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Prime Minister"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole",
       "end_date": "2006-05-29",
-      "title_en": "Foreign Affairs",
-      "title_fr": "Affaires \u00e9trang\u00e8res"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Foreign Affairs"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 37,
-      "session": 3,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "parliament": 37,
+      "session": 3,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "DionS@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-996-5789",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-996-6562",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "dions1@parl.gc.ca",
+      "postal_code": "H4M 2M4",
+      "city_fr": "Saint-Laurent",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "750 Marcel Laurin Boulevard, Suite 440",
+      "telephone": "514-335-6655",
+      "street_address_fr": "750, boulevard Marcel-Laurin, bureau 440",
+      "fax": "514-335-2712",
+      "city_en": "Saint-Laurent"
+    }
+  },
+  "name": "St\u00e9phane Dion",
+  "date_of_birth": "1955-09-28",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Saint-Laurent--Cartierville",
+      "riding_fr": "Saint-Laurent--Cartierville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Saint-Laurent--Cartierville",
+      "riding_fr": "Saint-Laurent--Cartierville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Saint-Laurent--Cartierville",
+      "riding_fr": "Saint-Laurent--Cartierville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Saint-Laurent--Cartierville",
+      "riding_fr": "Saint-Laurent--Cartierville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Saint-Laurent--Cartierville",
+      "riding_fr": "Saint-Laurent--Cartierville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1996-03-25",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Saint-Laurent--Cartierville",
+      "riding_fr": "Saint-Laurent--Cartierville"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Qu\u00e9bec, Qu\u00e9bec, Canada",
+    "name_en": "Qu\u00e9bec, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "1996-03-25",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "French",
-  "professions": [
+  "id": "6bde42a3-d07c-4c1f-b9d4-9e14a124f465",
+  "weblinks": [
     {
-      "name_en": "Author",
-      "name_fr": "Auteur"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78331&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78331&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Professor of political science",
-      "name_fr": "Professeur de sciences politiques"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=2369",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=2369",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel",
+      "url_en": "http://stephanedion.ca/",
+      "url_fr": "http://stephanedion.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "6bde42a3-d07c-4c1f-b9d4-9e14a124f465"
+  ]
 }

@@ -1,5 +1,9 @@
 <% @content_layout = "has_sidebar_right" %>
 
+<p>Ci-dessous tu trouveras une liste de tous les députés qui servent présentement la Chambre des communes. Tu vois un député qui t'intéresse? Clique dessus pour voir son profil, ses coordonnées et ses récentes activités.</p> 
+
+<p>Si tu cherches un député en particulier ou si tu veux savoir quel député te représente, utilise une des boîtes de recherche à ta droite. Et si tu te demandes ce que font les députés, ou comment la Chambre des communes fonctionne, on a des réponses pour toi.</p>
+ 
 <div id="groups" class="block">
   <ul>
     <% Province.find(:all).each do |province| %>

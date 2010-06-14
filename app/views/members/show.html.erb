@@ -16,7 +16,13 @@
   <div id="facts" class="block">
     <h3><%= t('section.facts') %></h3>
     <ul>
-    	<% if @mp.age %>
+		<% if @mp.riding.name %>
+			<li><%= t('members.show.riding', :riding => @mp.riding.name) %></li>
+		<% end %>
+		<% if not @mp.election_results.empty? %>
+			<li><%= t('members.elected_date', :date => l(@mp.election_results.last.election.date), :percentage => @mp.election_results.last.vote_percentage ) %></li>
+		<% end %>
+		<% if @mp.age %>
 			<li><%= t('members.age', :age => @mp.age) %></li>
 		<% end %>
 		<% for function in @mp.current_parliamentary_functions %>
@@ -25,20 +31,6 @@
 		<% for committee in @mp.current_committees %>
 			<li><%= committee.committee_role.name %> of <%= link_to(committee.committee.name, committee_path(committee.committee)) %></li>
 		<% end %>
-		<% if @mp.riding.name %>
-			<li><%= t('members.show.riding', :riding => @mp.riding.name) %></li>
-		<% end %>
-		<% if not @mp.election_results.empty? %>
-			<li><%= t('members.elected_date', :date => l(@mp.election_results.last.election.date), :percentage => @mp.election_results.last.vote_percentage ) %></li>
-		<% end %>
-      <!--<li>
-        MP for riding name - more words
-        <small>(12/01/2004-12/02/2004)</small>
-      </li>
-      <li>
-        MP for riding name - more words
-        <small>(12/01/2005-12/02/2005)</small>
-      </li>-->
     </ul>
   </div>
 
@@ -69,6 +61,8 @@
   <%= render :partial => 'shared/links' %>
 
 <% end %>
+
+<p><%= t('members.show.intro') %></p>
 
 <div id="activity_stream" class="block">
 	<h3><%= t('members.activity_stream.title') %></h3>

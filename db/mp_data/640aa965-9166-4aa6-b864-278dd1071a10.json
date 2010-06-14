@@ -1,600 +1,682 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1997-06-02",
-      "name_en": "New Democratic Party",
-      "name_fr": "Nouveau Parti d\u00e9mocratique"
+      "name_fr": "Repr\u00e9sentant ouvrier",
+      "name_en": "Labour representative"
     }
   ],
-  "date_of_birth": "1955-05-12",
-  "place_of_birth": {
-    "name_en": "Bathurst, New Brunswick, Canada",
-    "name_fr": "Bathurst, Nouveau-Brunswick, Canada"
-  },
-  "name": "Yvon Godin",
+  "parlinfo_id": 78825,
   "functions": [
     {
-      "role_en": "Whip",
+      "title_fr": "Whip du N.P.D.",
       "start_date": "2000-02-01",
+      "role_en": "Whip",
       "role_fr": "Whip",
-      "title_en": "Whip of the N.D.P.",
-      "title_fr": "Whip du N.P.D."
+      "title_en": "Whip of the N.D.P."
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Langues officielles",
       "start_date": "2007-09-27",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Official Languages",
-      "title_fr": "Langues officielles"
+      "title_en": "Official Languages"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole",
       "end_date": "2007-09-26",
-      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
-      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Petites entreprises",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole",
       "end_date": "2007-09-26",
-      "title_en": "Small Business",
-      "title_fr": "Petites entreprises"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Small Business"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Cong\u00e9 parental",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2005-01-30",
-      "title_en": "Parental Leave",
-      "title_fr": "Cong\u00e9 parental"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Parental Leave"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-16",
-      "title_en": "Atlantic Canada Opportunities Agency",
-      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Atlantic Canada Opportunities Agency"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Affaires parlementaires",
       "start_date": "2003-02-04",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Parliamentary Affairs",
-      "title_fr": "Affaires parlementaires"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Parliamentary Affairs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Francophonie",
       "start_date": "2003-02-04",
-      "role_fr": "Porte-parole",
       "end_date": "2005-01-30",
-      "title_en": "Francophonie",
-      "title_fr": "Francophonie"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Francophonie"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Affaires intergouvernementales",
       "start_date": "2003-02-04",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-13",
-      "title_en": "Intergovernmental Affairs",
-      "title_fr": "Affaires intergouvernementales"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Intergovernmental Affairs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Formation",
       "start_date": "2001-01-23",
-      "role_fr": "Porte-parole",
       "end_date": "2003-02-03",
-      "title_en": "Training",
-      "title_fr": "Formation"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Training"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Petites entreprises",
       "start_date": "2001-01-23",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Small Business",
-      "title_fr": "Petites entreprises"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Small Business"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Langues officielles",
       "start_date": "2000-01-26",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-13",
-      "title_en": "Official Languages",
-      "title_fr": "Langues officielles"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Official Languages"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Assurance-emploi",
       "start_date": "1998-03-27",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Employment Insurance",
-      "title_fr": "Assurance-emploi"
+      "title_en": "Employment Insurance"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Ressources naturelles",
       "start_date": "1998-03-27",
-      "role_fr": "Porte-parole",
       "end_date": "2001-01-22",
-      "title_en": "Natural Resources",
-      "title_fr": "Ressources naturelles"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Natural Resources"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "D\u00e9veloppement des ressources humaines",
       "start_date": "1997-06",
-      "role_fr": "Porte-parole",
       "end_date": "1998-03",
-      "title_en": "Human Resources Development",
-      "title_fr": "D\u00e9veloppement des ressources humaines"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Human Resources Development"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 37,
-      "session": 3,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
+      "name_en": "Standing Committee on Official Languages"
     },
     {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "parliament": 37,
+      "session": 3,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Official Languages"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 1,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
-      "name_fr": "Sous-comit\u00e9 du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 sur la colline du Parlement du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 sur la colline du Parlement du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Disclosure Forms under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Disclosure Forms under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des formulaires de d\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Parliament Hill Security of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des formulaires de d\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Parliament Hill Security of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Parliamentary Privilege of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Parliamentary Privilege of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur la D\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 sur la D\u00e9claration en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur le privil\u00e8ge parlementaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on the Disclosure Statement under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 sur le privil\u00e8ge parlementaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on the Disclosure Statement under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur les fonds de l'assurance-emploi du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 sur les fonds de l'assurance-emploi du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de la r\u00e9vision des limites des circonscriptions \u00e9lectorales du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 de la r\u00e9vision des limites des circonscriptions \u00e9lectorales du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de la r\u00e9vision des limites des circonscriptions \u00e9lectorales du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 de la r\u00e9vision des limites des circonscriptions \u00e9lectorales du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du calendrier parlementaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "name_fr": "Sous-comit\u00e9 du calendrier parlementaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development an the Status of Persons with Disabilties"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Parliamentary Calendar of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Parliamentary Calendar of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources and Government Operations",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources and Government Operations"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur l'am\u00e9lioration des rapports financiers au Parlement du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Improved Financial Reporting to Parliament of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 sur l'am\u00e9lioration des rapports financiers au Parlement du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Improved Financial Reporting to Parliament of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Natural Resources and Government Operations",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources and Government Operations"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Godin.Y@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-2165",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "E2A 1A8",
+      "city_fr": "Bathurst",
+      "province_en": "New Brunswick",
+      "province_fr": "Nouveau-Brunswick",
+      "street_address_en": "216 Main Street, Suite 311",
+      "telephone": "506-548-7511",
+      "street_address_fr": "216, rue Main, bureau 311",
+      "fax": "506-548-7418",
+      "city_en": "Bathurst"
+    }
+  },
+  "name": "Yvon Godin",
+  "date_of_birth": "1955-05-12",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Acadie--Bathurst",
+      "riding_fr": "Acadie--Bathurst"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Acadie--Bathurst",
+      "riding_fr": "Acadie--Bathurst"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Acadie--Bathurst",
+      "riding_fr": "Acadie--Bathurst"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Acadie--Bathurst",
+      "riding_fr": "Acadie--Bathurst"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Acadie--Bathurst",
+      "riding_fr": "Acadie--Bathurst"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Bathurst, Nouveau-Brunswick, Canada",
+    "name_en": "Bathurst, New Brunswick, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "start_date": "1997-06-02",
+      "name_en": "New Democratic Party"
     }
   ],
   "language": "French",
-  "professions": [
+  "id": "640aa965-9166-4aa6-b864-278dd1071a10",
+  "weblinks": [
     {
-      "name_en": "Labour representative",
-      "name_fr": "Repr\u00e9sentant ouvrier"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78825&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78825&Language=F\r\n\r\nhttp://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78825&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/yvongodin",
+      "url_fr": "http://www.npd.ca/yvongodin",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.yvongodin.ca/",
+      "url_fr": "http://www.yvongodin.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "640aa965-9166-4aa6-b864-278dd1071a10"
+  ]
 }

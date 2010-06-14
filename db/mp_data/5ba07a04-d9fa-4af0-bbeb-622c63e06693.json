@@ -1,184 +1,257 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Avocat (barrister / solicitor)",
+      "name_en": "Barrister and solicitor"
     },
     {
-      "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+      "name_fr": "B\u00fbcheron",
+      "name_en": "Businessman"
     },
     {
-      "start_date": "1993",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party",
-      "name_fr": "Parti r\u00e9formiste"
+      "name_fr": "\u00e9diteur",
+      "name_en": "Farm worker"
     },
     {
-      "start_date": "1979",
-      "end_date": "1993",
-      "name_en": "Progressive Conservative Party",
-      "name_fr": "Parti progressiste-conservateur"
+      "name_fr": "Homme d'affaires",
+      "name_en": "Instructor"
+    },
+    {
+      "name_fr": "Instructeur",
+      "name_en": "Logger"
+    },
+    {
+      "name_fr": "Travailleur agricole",
+      "name_en": "Publisher"
     }
   ],
-  "date_of_birth": "1963-02-03",
-  "place_of_birth": {
-    "name_en": "Kelowna, British Columbia, Canada",
-    "name_fr": "Kelowna, Colombie-Britannique, Canada"
-  },
-  "name": "Brian Jean",
+  "parlinfo_id": 78930,
   "functions": [
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Transports, de l'Infrastructure et des Collectivit\u00e9s",
       "start_date": "2006-02-07",
+      "role_en": "Parliamentary Secretary",
       "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Transport, Infrastructure and Communities",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Transports, de l'Infrastructure et des Collectivit\u00e9s"
+      "title_en": "Parliamentary Secretary to the Minister of Transport, Infrastructure and Communities"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31",
       "parliament": 40,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-31",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-31"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-30",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-30"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
       "parliament": 38,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-38",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-38"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Jean.B@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-1154",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "T9H 2K5",
+      "city_fr": "Fort McMurray",
+      "province_en": "Alberta",
+      "province_fr": "Alberta",
+      "street_address_en": "102 - 9912 Franklin Avenue",
+      "telephone": "780-743-2201",
+      "street_address_fr": "102 - 9912, avenue Franklin",
+      "city_en": "Fort McMurray"
+    }
+  },
+  "name": "Brian Jean",
+  "date_of_birth": "1963-02-03",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Fort McMurray--Athabasca",
+      "riding_fr": "Fort McMurray--Athabasca"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Fort McMurray--Athabasca",
+      "riding_fr": "Fort McMurray--Athabasca"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Athabasca",
+      "riding_fr": "Athabasca"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Kelowna, Colombie-Britannique, Canada",
+    "name_en": "Kelowna, British Columbia, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance"
+    },
+    {
+      "name_fr": "Parti r\u00e9formiste",
+      "start_date": "1993",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party"
+    },
+    {
+      "name_fr": "Parti progressiste-conservateur",
+      "start_date": "1979",
+      "end_date": "1993",
+      "name_en": "Progressive Conservative Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "5ba07a04-d9fa-4af0-bbeb-622c63e06693",
+  "weblinks": [
     {
-      "name_en": "Barrister and solicitor",
-      "name_fr": "Avocat (barrister / solicitor)"
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.tc.gc.ca/minister/secretary.htm",
+      "url_fr": "http://www.tc.gc.ca/ministre/secretaire.htm",
+      "name_en": "Department Website"
     },
     {
-      "name_en": "Businessman",
-      "name_fr": "B\u00fbcheron"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78930&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78930&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Farm worker",
-      "name_fr": "\u00e9diteur"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1715&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1715&language_id=2",
+      "name_en": "Party Website"
     },
     {
-      "name_en": "Instructor",
-      "name_fr": "Homme d'affaires"
-    },
-    {
-      "name_en": "Logger",
-      "name_fr": "Instructeur"
-    },
-    {
-      "name_en": "Publisher",
-      "name_fr": "Travailleur agricole"
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.brianjean.ca/",
+      "url_fr": "http://www.brianjean.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "5ba07a04-d9fa-4af0-bbeb-622c63e06693"
+  ]
 }

@@ -1,411 +1,500 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-06-28",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
-    },
-    {
-      "start_date": "2004-01-14",
-      "end_date": "2004-06-27",
-      "name_en": "",
-      "name_fr": ""
-    },
-    {
-      "start_date": "2003-12-23",
-      "end_date": "2004-01-13",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
-    },
-    {
-      "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
-    },
-    {
-      "start_date": "1993-10-25",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party",
-      "name_fr": "Parti r\u00e9formiste"
+      "name_fr": "M\u00e9decin",
+      "name_en": "Physician"
     }
   ],
-  "date_of_birth": "1960-04-13",
-  "place_of_birth": {
-    "name_en": "London, England",
-    "name_fr": "Londres, Angleterre"
-  },
-  "name": "Keith P. Martin",
+  "parlinfo_id": 78343,
   "functions": [
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale",
       "start_date": "2004-07-20",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2006-02-05",
-      "title_en": "Parliamentary Secretary to the Minister of National Defence",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of National Defence"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Olympiques de 2010",
       "start_date": "2009-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2009-10-05",
-      "title_en": "2010 Olympics",
-      "title_fr": "Olympiques de 2010"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "2010 Olympics"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Sant\u00e9 publique",
       "start_date": "2009-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2009-10-05",
-      "title_en": "Amateur Sport",
-      "title_fr": "Sant\u00e9 publique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Amateur Sport"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Sport amateur",
       "start_date": "2009-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2009-10-05",
-      "title_en": "Health, Public",
-      "title_fr": "Sport amateur"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Health, Public"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Sports",
       "start_date": "2009-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2009-10-05",
-      "title_en": "Sports",
-      "title_fr": "Sports"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Sports"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Anciens combattants",
       "start_date": "2008-11-14",
-      "role_fr": "Porte-parole",
       "end_date": "2009-01-21",
-      "title_en": "Veterans Affairs",
-      "title_fr": "Anciens combattants"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2007-10-09",
       "role_fr": "Porte-parole",
-      "end_date": "2008-11-13",
-      "title_en": "CIDA",
-      "title_fr": "ACDI"
+      "title_en": "Veterans Affairs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "ACDI",
       "start_date": "2007-10-09",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-13",
-      "title_en": "International Development",
-      "title_fr": "D\u00e9veloppement international"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "CIDA"
     },
     {
+      "title_fr": "D\u00e9veloppement international",
+      "start_date": "2007-10-09",
+      "end_date": "2008-11-13",
       "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "International Development"
+    },
+    {
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "start_date": "2006-05-30",
-      "role_fr": "Porte-parole",
       "end_date": "2007-01-17",
-      "title_en": "Foreign Affairs",
-      "title_fr": "Affaires \u00e9trang\u00e8res"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Foreign Affairs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "ACDI",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole",
       "end_date": "2006-05-29",
-      "title_en": "CIDA",
-      "title_fr": "ACDI"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "CIDA"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Institutions financi\u00e8res",
       "start_date": "2003-12-12",
-      "role_fr": "Porte-parole",
       "end_date": "2004-01-13",
-      "title_en": "Financial Institutions",
-      "title_fr": "Institutions financi\u00e8res"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Financial Institutions"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Institutions financi\u00e8res internationales",
       "start_date": "2002-04-04",
-      "role_fr": "Porte-parole",
       "end_date": "2003-12-11",
-      "title_en": "International Financial Institutions",
-      "title_fr": "Institutions financi\u00e8res internationales"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "International Financial Institutions"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Institutions financi\u00e8res internationales",
       "start_date": "2001-06-18",
-      "role_fr": "Porte-parole",
       "end_date": "2001-12-17",
-      "title_en": "International Financial Institutions",
-      "title_fr": "Institutions financi\u00e8res internationales"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "International Financial Institutions"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Am\u00e9rique latine et Afrique",
       "start_date": "2001-06-18",
-      "role_fr": "Porte-parole",
       "end_date": "2004-01-13",
-      "title_en": "Latin America and Africa",
-      "title_fr": "Am\u00e9rique latine et Afrique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Latin America and Africa"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "start_date": "2001-02",
-      "role_fr": "Porte-parole",
       "end_date": "2001-06",
-      "title_en": "Foreign Affairs",
-      "title_fr": "Affaires \u00e9trang\u00e8res"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Foreign Affairs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "start_date": "2000-01-01",
-      "role_fr": "Porte-parole",
       "end_date": "2000-07-31",
-      "title_en": "Foreign Affairs",
-      "title_fr": "Affaires \u00e9trang\u00e8res"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Foreign Affairs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Sant\u00e9",
       "start_date": "1999-10-08",
-      "role_fr": "Porte-parole",
       "end_date": "1999-12-31",
-      "title_en": "Health",
-      "title_fr": "Sant\u00e9"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "1997-02-17",
       "role_fr": "Porte-parole",
-      "end_date": "1997-06-19",
-      "title_en": "International Human Rights",
-      "title_fr": "Droits de la personne au niveau international"
+      "title_en": "Health"
     },
     {
+      "title_fr": "Droits de la personne au niveau international",
+      "start_date": "1997-02-17",
+      "end_date": "1997-06-19",
       "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "International Human Rights"
+    },
+    {
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "start_date": "1994-09",
-      "role_fr": "Porte-parole",
       "end_date": "1995-06-29",
-      "title_en": "Foreign Affairs",
-      "title_fr": "Affaires \u00e9trang\u00e8res"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Foreign Affairs"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "start_date": "1998-06-16",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1999-10-07",
-      "title_en": "Foreign Affairs",
-      "title_fr": "Affaires \u00e9trang\u00e8res"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Foreign Affairs"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Justice",
       "start_date": "1997-06-20",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1998-06-16",
-      "title_en": "Justice",
-      "title_fr": "Justice"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Justice"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Sant\u00e9",
       "start_date": "1997-02-17",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1997-06-19",
-      "title_en": "Health",
-      "title_fr": "Sant\u00e9"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Health"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Environnement",
       "start_date": "1995-06-30",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1997-02-17",
-      "title_en": "Environment",
-      "title_fr": "Environnement"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Environment"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on National Defence and Veterans Affairs",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee of Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee of Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee of Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee of Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 35,
       "session": 2,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du d\u00e9veloppement durable humain du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 35,
       "session": 2,
-      "name_en": "Subcommittee on Sustainable Human Development of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 du d\u00e9veloppement durable humain du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 35,
-      "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
+      "name_en": "Subcommittee on Sustainable Human Development of the Standing Committee on Foreign Affairs and International Trade"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 35,
       "session": 1,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 35,
       "session": 1,
-      "name_en": "Subcommittee on Human Rights of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 sur la r\u00e9gion de l'Arctique du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 sur la r\u00e9gion de l'Arctique du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 35,
       "session": 1,
-      "name_en": "Subcommittee on the Arctic Region of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 sur les droits de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce internationale"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Human Rights of the Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur les droits de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce internationale",
+      "parliament": 35,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on the Arctic Region of the Standing Committee on Environment and Sustainable Development"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Martin.K@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-996-2625",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "martik1@parl.gc.ca",
+      "postal_code": "V9B 2R8",
+      "city_fr": "Victoria",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "666 Granderson Road",
+      "telephone": "250-474-6505",
+      "street_address_fr": "666, chemin Granderson",
+      "city_en": "Victoria"
+    }
+  },
+  "name": "Keith P. Martin",
+  "date_of_birth": "1960-04-13",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Esquimalt--Juan de Fuca",
+      "riding_fr": "Esquimalt--Juan de Fuca"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Esquimalt--Juan de Fuca",
+      "riding_fr": "Esquimalt--Juan de Fuca"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Esquimalt--Juan de Fuca",
+      "riding_fr": "Esquimalt--Juan de Fuca"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Esquimalt--Juan de Fuca",
+      "riding_fr": "Esquimalt--Juan de Fuca"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Esquimalt--Juan de Fuca",
+      "riding_fr": "Esquimalt--Juan de Fuca"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1993-10-25",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Esquimalt--Juan de Fuca",
+      "riding_fr": "Esquimalt--Juan de Fuca"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Londres, Angleterre",
+    "name_en": "London, England"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "2004-06-28",
+      "name_en": "Liberal Party of Canada"
+    },
+    {
+      "name_fr": "",
+      "start_date": "2004-01-14",
+      "end_date": "2004-06-27",
+      "name_en": ""
+    },
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2003-12-23",
+      "end_date": "2004-01-13",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance"
+    },
+    {
+      "name_fr": "Parti r\u00e9formiste",
+      "start_date": "1993-10-25",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "c0377f5d-9a2b-4831-919c-8f5553270c2c",
+  "weblinks": [
     {
-      "name_en": "Physician",
-      "name_fr": "M\u00e9decin"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78343&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78343&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=13014",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=13014",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.gokeith.ca/",
+      "url_fr": "http://www.gokeith.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "c0377f5d-9a2b-4831-919c-8f5553270c2c"
+  ]
 }

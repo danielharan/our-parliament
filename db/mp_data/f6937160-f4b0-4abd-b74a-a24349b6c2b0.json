@@ -1,72 +1,140 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Agriculteur",
+      "name_en": "Farmer"
+    },
+    {
+      "name_fr": "G\u00e9ophysicien",
+      "name_en": "Geophysicist"
     }
   ],
-  "date_of_birth": "1974-05-15",
-  "place_of_birth": {
-    "name_en": "Langenburg, Saskatchewan, Canada",
-    "name_fr": "Langenburg, Saskatchewan, Canada"
-  },
-  "name": "Bradley Trost",
+  "parlinfo_id": 78674,
   "functions": [
 
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Trost.B@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-8052",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "Trost.B@parl.gc.ca",
+      "postal_code": "S7S 1P4",
+      "city_fr": "Saskatoon",
+      "province_en": "Saskatchewan",
+      "province_fr": "Saskatchewan",
+      "street_address_en": "505-B Nelson Road",
+      "telephone": "306-975-6133",
+      "street_address_fr": "505-B, chemin Nelson",
+      "city_en": "Saskatoon"
+    }
+  },
+  "name": "Bradley Trost",
+  "date_of_birth": "1974-05-15",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Saskatoon--Humboldt",
+      "riding_fr": "Saskatoon--Humboldt"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Saskatoon--Humboldt",
+      "riding_fr": "Saskatoon--Humboldt"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Saskatoon--Humboldt",
+      "riding_fr": "Saskatoon--Humboldt"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Langenburg, Saskatchewan, Canada",
+    "name_en": "Langenburg, Saskatchewan, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "f6937160-f4b0-4abd-b74a-a24349b6c2b0",
+  "weblinks": [
     {
-      "name_en": "Farmer",
-      "name_fr": "Agriculteur"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78674&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78674&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Geophysicist",
-      "name_fr": "G\u00e9ophysicien"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1703",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1703&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.bradtrost.ca/",
+      "url_fr": "http://www.bradtrost.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "f6937160-f4b0-4abd-b74a-a24349b6c2b0"
+  ]
 }

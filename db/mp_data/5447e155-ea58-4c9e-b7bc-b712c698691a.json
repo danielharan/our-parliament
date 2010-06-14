@@ -1,190 +1,266 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1997-06-02",
-      "name_en": "New Democratic Party",
-      "name_fr": "Nouveau Parti d\u00e9mocratique"
+      "name_fr": "Conseill\u00e8re municipale",
+      "name_en": "Municipal councillor"
     }
   ],
-  "date_of_birth": "1957-03-24",
-  "place_of_birth": {
-    "name_en": "Hong Kong, China",
-    "name_fr": "Hong Kong, Chine"
-  },
-  "name": "Olivia Chow",
+  "parlinfo_id": 78598,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Transports en commun",
       "start_date": "2009-02-13",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Public Transit",
-      "title_fr": "Transports en commun"
+      "title_en": "Public Transit"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Enfants",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Child Care",
-      "title_fr": "Enfants"
+      "title_en": "Child Care"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Soins aux enfants",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Children",
-      "title_fr": "Soins aux enfants"
+      "title_en": "Children"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Toronto, R\u00e9gion de",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Toronto Region",
-      "title_fr": "Toronto, R\u00e9gion de"
+      "title_en": "Toronto Region"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Citoyennet\u00e9 et Immigration",
       "start_date": "2007-09-27",
-      "role_fr": "Porte-parole",
-      "title_en": "Citizenship and Immigration",
-      "title_fr": "Citoyennet\u00e9 et Immigration"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2006-02-14",
       "role_fr": "Porte-parole",
-      "end_date": "2007-09-26",
-      "title_en": "Child Care",
-      "title_fr": "Enfants"
+      "title_en": "Citizenship and Immigration"
     },
     {
+      "title_fr": "Enfants",
+      "start_date": "2006-02-14",
+      "end_date": "2007-09-26",
       "role_en": "Critic",
-      "start_date": "2006-02-14",
       "role_fr": "Porte-parole",
-      "end_date": "2007-09-26",
-      "title_en": "Child Poverty",
-      "title_fr": "Jeunesse"
+      "title_en": "Child Care"
     },
     {
+      "title_fr": "Jeunesse",
+      "start_date": "2006-02-14",
+      "end_date": "2007-09-26",
       "role_en": "Critic",
-      "start_date": "2006-02-14",
       "role_fr": "Porte-parole",
-      "end_date": "2007-09-26",
-      "title_en": "Children",
-      "title_fr": "Pauvret\u00e9 infantile"
+      "title_en": "Child Poverty"
     },
     {
+      "title_fr": "Pauvret\u00e9 infantile",
+      "start_date": "2006-02-14",
+      "end_date": "2007-09-26",
       "role_en": "Critic",
-      "start_date": "2006-02-14",
       "role_fr": "Porte-parole",
-      "end_date": "2007-09-26",
-      "title_en": "Toronto Waterfront",
-      "title_fr": "Soins aux enfants"
+      "title_en": "Children"
     },
     {
+      "title_fr": "Soins aux enfants",
+      "start_date": "2006-02-14",
+      "end_date": "2007-09-26",
       "role_en": "Critic",
-      "start_date": "2006-02-14",
       "role_fr": "Porte-parole",
-      "end_date": "2007-09-26",
-      "title_en": "Youth",
-      "title_fr": "Toronto, Secteur riverain de"
+      "title_en": "Toronto Waterfront"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Toronto, Secteur riverain de",
+      "start_date": "2006-02-14",
+      "end_date": "2007-09-26",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Youth"
+    },
+    {
+      "title_fr": "D\u00e9veloppement social",
       "start_date": "2007-09-27",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2008-11-16",
-      "title_en": "Children",
-      "title_fr": "D\u00e9veloppement social"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Children"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Enfants",
       "start_date": "2007-09-27",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2008-11-16",
-      "title_en": "Social Development",
-      "title_fr": "Enfants"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Social Development"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Jeunesse",
       "start_date": "2007-09-27",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2008-11-16",
-      "title_en": "Youth",
-      "title_fr": "Jeunesse"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Youth"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Immigration",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2007-09-26",
-      "title_en": "Immigration",
-      "title_fr": "Immigration"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Immigration"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Toronto, R\u00e9gion de",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2007-09-26",
-      "title_en": "Toronto Region",
-      "title_fr": "Toronto, R\u00e9gion de"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Toronto Region"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 39,
-      "session": 2,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "parliament": 39,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Chow.O@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-2352",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-992-6301",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "M5T 2L5",
+      "city_fr": "Toronto",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "144 Augusta Avenue",
+      "telephone": "416-533-2710",
+      "street_address_fr": "144, avenue Augusta",
+      "fax": "416-533-2236",
+      "city_en": "Toronto"
+    }
+  },
+  "name": "Olivia Chow",
+  "date_of_birth": "1957-03-24",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Trinity--Spadina",
+      "riding_fr": "Trinity--Spadina"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Trinity--Spadina",
+      "riding_fr": "Trinity--Spadina"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "2004-06-28",
+      "result_fr": "D\u00e9faite",
+      "riding_en": "Trinity--Spadina",
+      "riding_fr": "Trinity--Spadina"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "1997-06-02",
+      "result_fr": "D\u00e9faite",
+      "riding_en": "Trinity--Spadina",
+      "riding_fr": "Trinity--Spadina"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Hong Kong, Chine",
+    "name_en": "Hong Kong, China"
+  },
+  "parties": [
+    {
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "start_date": "1997-06-02",
+      "name_en": "New Democratic Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "5447e155-ea58-4c9e-b7bc-b712c698691a",
+  "weblinks": [
     {
-      "name_en": "Municipal councillor",
-      "name_fr": "Conseill\u00e8re municipale"
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78598&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78598&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/oliviachow",
+      "url_fr": "http://www.npd.ca/oliviachow",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.oliviachow.ca",
+      "url_fr": "http://www.oliviachow.ca",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "5447e155-ea58-4c9e-b7bc-b712c698691a"
+  ]
 }

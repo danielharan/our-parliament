@@ -1,479 +1,569 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Agriculteur",
+      "name_en": "Farmer"
     },
     {
-      "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+      "name_fr": "Directeur",
+      "name_en": "Principal"
     },
     {
-      "start_date": "1993-10-25",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party",
-      "name_fr": "Parti r\u00e9formiste"
+      "name_fr": "Enseignant",
+      "name_en": "Teacher"
     }
   ],
-  "date_of_birth": "1945-10-21",
-  "place_of_birth": {
-    "name_en": "Yorkton, Saskatchewan, Canada",
-    "name_fr": "Yorkton, Saskatchewan, Canada"
-  },
-  "name": "Garry W. Breitkreuz",
+  "parlinfo_id": 78690,
   "functions": [
     {
-      "role_en": "Leader of the Opposition in the House Of Commons",
+      "title_fr": "Leader parlementaire adjoint de l'Opposition officielle",
       "start_date": "2004-02-02",
-      "role_fr": "Leader parlementaire de l'Opposition officielle",
       "end_date": "2004-07-21",
-      "title_en": "Deputy House Leader of the Official Opposition",
-      "title_fr": "Leader parlementaire adjoint de l'Opposition officielle"
-    },
-    {
       "role_en": "Leader of the Opposition in the House Of Commons",
-      "start_date": "2004-01-09",
       "role_fr": "Leader parlementaire de l'Opposition officielle",
-      "end_date": "2004-02-01",
-      "title_en": "Deputy House Leader of the Official Opposition(Acting)",
-      "title_fr": "Leader parlementaire adjoint de l'Opposition officielle(par int\u00e9rim)"
+      "title_en": "Deputy House Leader of the Official Opposition"
     },
     {
-      "role_en": "House Leader",
-      "start_date": "2004-02-02",
-      "role_fr": "Leader parlementaire",
-      "end_date": "2004-07-21",
-      "title_en": "Conservative Party Deputy House Leader",
-      "title_fr": "Leader adjoint en Chambre du Parti conservateur"
-    },
-    {
-      "role_en": "House Leader",
+      "title_fr": "Leader parlementaire adjoint de l'Opposition officielle(par int\u00e9rim)",
       "start_date": "2004-01-09",
-      "role_fr": "Leader parlementaire",
       "end_date": "2004-02-01",
-      "title_en": "Conservative Party Deputy House Leader(Acting)",
-      "title_fr": "Leader adjoint en Chambre du Parti conservateur(par int\u00e9rim)"
+      "role_en": "Leader of the Opposition in the House Of Commons",
+      "role_fr": "Leader parlementaire de l'Opposition officielle",
+      "title_en": "Deputy House Leader of the Official Opposition(Acting)"
     },
     {
-      "role_en": "Whip",
+      "title_fr": "Leader adjoint en Chambre du Parti conservateur",
+      "start_date": "2004-02-02",
+      "end_date": "2004-07-21",
+      "role_en": "House Leader",
+      "role_fr": "Leader parlementaire",
+      "title_en": "Conservative Party Deputy House Leader"
+    },
+    {
+      "title_fr": "Leader adjoint en Chambre du Parti conservateur(par int\u00e9rim)",
+      "start_date": "2004-01-09",
+      "end_date": "2004-02-01",
+      "role_en": "House Leader",
+      "role_fr": "Leader parlementaire",
+      "title_en": "Conservative Party Deputy House Leader(Acting)"
+    },
+    {
+      "title_fr": "Whip adjoint de l'Opposition officielle",
       "start_date": "2002-04-04",
-      "role_fr": "Whip",
       "end_date": "2003-12-22",
-      "title_en": "Deputy Whip of the Official Opposition",
-      "title_fr": "Whip adjoint de l'Opposition officielle"
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Deputy Whip of the Official Opposition"
     },
     {
-      "role_en": "Whip",
+      "title_fr": "Whip de l'Alliance canadienne",
       "start_date": "2002-02-01",
-      "role_fr": "Whip",
       "end_date": "2002-04-04",
-      "title_en": "Whip of the Canadian Alliance",
-      "title_fr": "Whip de l'Alliance canadienne"
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Whip of the Canadian Alliance"
     },
     {
-      "role_en": "Whip",
+      "title_fr": "Whip en chef de l'Opposition",
       "start_date": "2001-12-18",
-      "role_fr": "Whip",
       "end_date": "2002-04-03",
-      "title_en": "Chief Opposition Whip",
-      "title_fr": "Whip en chef de l'Opposition"
-    },
-    {
       "role_en": "Whip",
-      "start_date": "2000-08-01",
       "role_fr": "Whip",
+      "title_en": "Chief Opposition Whip"
+    },
+    {
+      "title_fr": "Whip adjoint de l'Opposition officielle",
+      "start_date": "2000-08-01",
       "end_date": "2001-12-17",
-      "title_en": "Deputy Whip of the Official Opposition",
-      "title_fr": "Whip adjoint de l'Opposition officielle"
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Deputy Whip of the Official Opposition"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Droits de propri\u00e9t\u00e9",
       "start_date": "2002-04-04",
-      "role_fr": "Porte-parole",
       "end_date": "2004-01-21",
-      "title_en": "Property Rights",
-      "title_fr": "Droits de propri\u00e9t\u00e9"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Property Rights"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Registre des armes \u00e0 feu",
       "start_date": "2002-04-04",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Gun Registry",
-      "title_fr": "Registre des armes \u00e0 feu"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "1997-06-20",
       "role_fr": "Porte-parole",
+      "title_en": "Gun Registry"
+    },
+    {
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral",
+      "start_date": "1997-06-20",
       "end_date": "1998-06-15",
-      "title_en": "Solicitor General",
-      "title_fr": "Solliciteur g\u00e9n\u00e9ral"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Solicitor General"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Armes \u00e0 feu",
       "start_date": "2004-09-01",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2006-02-05",
-      "title_en": "Firearms",
-      "title_fr": "Armes \u00e0 feu"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Firearms"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Justice",
       "start_date": "2001-06-18",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2002-01-31",
-      "title_en": "Justice",
-      "title_fr": "Justice"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Justice"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Agriculture et Agro-alimentaire",
       "start_date": "1998-06-16",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2001-06",
-      "title_en": "Agriculture and Agri-Food",
-      "title_fr": "Agriculture et Agro-alimentaire"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Agriculture and Agri-Food"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Affaires indiennes et Nord canadien",
       "start_date": "1997-02-17",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1997-06-19",
-      "title_en": "Indian Affairs and Northern Development",
-      "title_fr": "Affaires indiennes et Nord canadien"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Indian Affairs and Northern Development"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral",
       "start_date": "1995-06-30",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1997-06-19",
-      "title_en": "Solicitor General",
-      "title_fr": "Solliciteur g\u00e9n\u00e9ral"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Solicitor General"
     }
   ],
   "committees": [
     {
-      "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Public Safety and National Security",
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Standing Committee on Public Safety and National Security"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Public Safety and National Security",
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Standing Committee on Public Safety and National Security"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Public Safety and National Security",
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Standing Committee on Public Safety and National Security",
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
+      "name_en": "Standing Committee on Public Safety and National Security"
     },
     {
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "parliament": 39,
+      "session": 1,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
+      "name_en": "Standing Committee on Public Safety and National Security"
     },
     {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "parliament": 39,
+      "session": 1,
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
+      "parliament": 38,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 38,
-      "session": 1,
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
     },
     {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "parliament": 37,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 37,
-      "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
+      "name_en": "Standing Committee on Procedure and House Affairs"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 de liaison",
       "parliament": 40,
       "session": 3,
-      "name_en": "Liaison Committee",
-      "name_fr": "Comit\u00e9 de liaison"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Liaison Committee"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Public Safety and National Security",
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Safety and National Security"
+    },
+    {
+      "name_fr": "Comit\u00e9 de liaison",
       "parliament": 40,
       "session": 2,
-      "name_en": "Liaison Committee",
-      "name_fr": "Comit\u00e9 de liaison"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Liaison Committee"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Public Safety and National Security",
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Safety and National Security"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security"
+    },
+    {
+      "name_fr": "Comit\u00e9 de liaison",
       "parliament": 39,
       "session": 2,
-      "name_en": "Liaison Committee",
-      "name_fr": "Comit\u00e9 de liaison"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Liaison Committee"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Public Safety and National Security",
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Safety and National Security"
+    },
+    {
+      "name_fr": "Comit\u00e9 de liaison",
       "parliament": 39,
       "session": 1,
-      "name_en": "Liaison Committee",
-      "name_fr": "Comit\u00e9 de liaison"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Liaison Committee"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Public Safety and National Security",
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Safety and National Security"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
       "parliament": 38,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-38",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-38"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique",
       "parliament": 37,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Agriculture and Agri-Food",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Agriculture and Agri-Food"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Agriculture and Agri-Food",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Agriculture and Agri-Food"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du calendrier parlementaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Parliamentary Calendar of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du calendrier parlementaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Parliamentary Calendar of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Agriculture and Agri-Food",
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Agriculture and Agri-Food"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Agriculture and Agri-Food",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Agriculture and Agri-Food"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur les services aux d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Members' Services of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 sur les services aux d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Members' Services of the Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines",
       "parliament": 35,
       "session": 1,
-      "name_en": "Standing Committee on Human Resources Development",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Breitkreuz.G@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-4394",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-992-8676",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "breitg1@parl.gc.ca",
+      "postal_code": "S3N 1J3",
+      "city_fr": "Yorkton",
+      "province_en": "Saskatchewan",
+      "province_fr": "Saskatchewan",
+      "street_address_en": "19  - 1st Avenue North",
+      "telephone": "306-782-3309",
+      "street_address_fr": "19, 1re Avenue  Nord",
+      "city_en": "Yorkton"
+    }
+  },
+  "name": "Garry W. Breitkreuz",
+  "date_of_birth": "1945-10-21",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Yorkton--Melville",
+      "riding_fr": "Yorkton--Melville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Yorkton--Melville",
+      "riding_fr": "Yorkton--Melville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Yorkton--Melville",
+      "riding_fr": "Yorkton--Melville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Yorkton--Melville",
+      "riding_fr": "Yorkton--Melville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Yorkton--Melville",
+      "riding_fr": "Yorkton--Melville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1993-10-25",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Yorkton--Melville",
+      "riding_fr": "Yorkton--Melville"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Yorkton, Saskatchewan, Canada",
+    "name_en": "Yorkton, Saskatchewan, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2000-03-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance"
+    },
+    {
+      "name_fr": "Parti r\u00e9formiste",
+      "start_date": "1993-10-25",
+      "end_date": "2000-03-26",
+      "name_en": "Reform Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "3fdae7dd-2050-4a7b-a44f-0ef36124b8bd",
+  "weblinks": [
     {
-      "name_en": "Farmer",
-      "name_fr": "Agriculteur"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78690&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78690&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Principal",
-      "name_fr": "Directeur"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1713&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1713&language_id=2",
+      "name_en": "Party Website"
     },
     {
-      "name_en": "Teacher",
-      "name_fr": "Enseignant"
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.garrybreitkreuz.com/",
+      "url_fr": "http://www.garrybreitkreuz.com/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "3fdae7dd-2050-4a7b-a44f-0ef36124b8bd"
+  ]
 }

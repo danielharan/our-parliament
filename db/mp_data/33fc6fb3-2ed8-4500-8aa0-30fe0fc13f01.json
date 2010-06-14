@@ -1,473 +1,569 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-02-02",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Enseignant",
+      "name_en": "Businessman"
     },
     {
-      "start_date": "1988-11-21",
-      "end_date": "2004-02-01",
-      "name_en": "Progressive Conservative Party",
-      "name_fr": "Parti progressiste-conservateur"
+      "name_fr": "Homme d'affaires",
+      "name_en": "Financial planner"
+    },
+    {
+      "name_fr": "Planificateur financier",
+      "name_en": "Teacher"
     }
   ],
-  "date_of_birth": "1947-03-28",
-  "place_of_birth": {
-    "name_en": "St. Stephen, New Brunswick, Canada",
-    "name_fr": "St-Stephen, Nouveau-Brunswick, Canada"
-  },
-  "name": "Gregory Francis Thompson",
+  "parlinfo_id": 78795,
   "functions": [
     {
+      "title_fr": "Ministre des Anciens CombattantsD\u00e9mission. N'\u00e9tant pas candidat aux prochaines \u00e9lections f\u00e9d\u00e9rales,\u00a0pr\u00e9f\u00e8re se retirer avant un prochain remaniement minist\u00e9riel.",
+      "start_date": "2006-02-06",
+      "end_date": "2010-01-16",
       "role_en": "Minister",
-      "start_date": "2006-02-06",
       "role_fr": "Ministre",
-      "end_date": "2010-01-16",
-      "title_en": "Minister of Veterans AffairsResignation. Will not be running in the next federal election,\u00a0wishes to step down prior to a cabinet shuffle.",
-      "title_fr": "Ministre des Anciens CombattantsD\u00e9mission. N'\u00e9tant pas candidat aux prochaines \u00e9lections f\u00e9d\u00e9rales,\u00a0pr\u00e9f\u00e8re se retirer avant un prochain remaniement minist\u00e9riel."
+      "title_en": "Minister of Veterans AffairsResignation. Will not be running in the next federal election,\u00a0wishes to step down prior to a cabinet shuffle."
     },
     {
-      "role_en": "Regional Minister",
+      "title_fr": "Nouveau-Brunswick",
       "start_date": "2006-02-06",
-      "role_fr": "Ministre r\u00e9gional",
       "end_date": "2010-01-16",
-      "title_en": "New Brunswick",
-      "title_fr": "Nouveau-Brunswick"
+      "role_en": "Regional Minister",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "New Brunswick"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique",
       "start_date": "2004-02-02",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Atlantic Canada Opportunities Agency",
-      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Atlantic Canada Opportunities Agency"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Comptes publics",
       "start_date": "2003-09-10",
-      "role_fr": "Porte-parole",
       "end_date": "2004-02-01",
-      "title_en": "Public Accounts",
-      "title_fr": "Comptes publics"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Accounts"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Sant\u00e9",
       "start_date": "2002-09-25",
-      "role_fr": "Porte-parole",
       "end_date": "2004-02-01",
-      "title_en": "Health",
-      "title_fr": "Sant\u00e9"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Health"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "D\u00e9veloppement r\u00e9gional",
       "start_date": "2001-02-02",
-      "role_fr": "Porte-parole",
       "end_date": "2002-09-24",
-      "title_en": "Regional Development",
-      "title_fr": "D\u00e9veloppement r\u00e9gional"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Regional Development"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Conseil du tr\u00e9sor",
       "start_date": "2001-01-17",
-      "role_fr": "Porte-parole",
       "end_date": "2002-09-24",
-      "title_en": "Human Resources Development",
-      "title_fr": "Conseil du tr\u00e9sor"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Human Resources Development"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "D\u00e9veloppement des ressources humaines",
       "start_date": "2001-01-17",
-      "role_fr": "Porte-parole",
       "end_date": "2002-09-24",
-      "title_en": "Treasury Board",
-      "title_fr": "D\u00e9veloppement des ressources humaines"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Treasury Board"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Sant\u00e9",
       "start_date": "1998-01-26",
-      "role_fr": "Porte-parole",
       "end_date": "2001-01-16",
-      "title_en": "Health",
-      "title_fr": "Sant\u00e9"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Health"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 37,
       "session": 2,
-      "name_en": "Special Committee on the Non-Medical Use of Drugs",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Non-Medical Use of Drugs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 concernant les d\u00e9nonciateurs du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Whistleblowing of the Standing Committee on Government Operations and Estimates",
-      "name_fr": "Sous-comit\u00e9 concernant les d\u00e9nonciateurs du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Whistleblowing of the Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de la condition des personnes handicap\u00e9es du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "name_fr": "Sous-comit\u00e9 de la condition des personnes handicap\u00e9es du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources Development an the Status of Persons with Disabilties"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Combating Corruption of the Standing Committee on Public Accounts",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Combating Corruption of the Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 pour combattre la corruption du Comit\u00e9 permanent des comptes publics",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 pour combattre la corruption du Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 36,
-      "session": 1,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9",
+      "parliament": 36,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif C sur le projet de loi C-13",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee C on Bill C-13",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif C sur le projet de loi C-13"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee C on Bill C-13"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif C sur le projet de loi C-2",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee C on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif C sur le projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee C on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif C sur le projet de loi C-42",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee C on Bill C-42",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif C sur le projet de loi C-42"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee C on Bill C-42"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif D sur le projet de loi C-41",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee D on Bill C-41",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif D sur le projet de loi C-41"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee D on Bill C-41"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif D sur le projet de loi C-58",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee D on Bill C-58",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif D sur le projet de loi C-58"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee D on Bill C-58"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-102",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-102",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-102"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-102"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-103",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-103",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-103"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-103"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-110",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-110",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-110"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-110"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-112",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-112",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-112"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-112"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-117",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-117",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-117"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-117"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-122",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-122",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-122"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-122"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-124",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-124",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-124"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-124"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-301",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-301",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-301"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-301"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-327",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-327",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-327"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-327"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-59",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-59",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-59"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-59"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-69",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-69",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-69"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-69"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-76",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-76",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-76"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-76"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-80",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-80",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-80"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-80"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-93",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-93",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-93"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-93"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-98",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-98",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-98"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-98"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 34,
       "session": 3,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur les institutions financi\u00e8res internationales du Comit\u00e9 permanent des finances",
       "parliament": 34,
       "session": 3,
-      "name_en": "Subcommittee on International Financial Institutions of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 sur les institutions financi\u00e8res internationales du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Financial Institutions of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur les questions fiscales du Comit\u00e9 permanent des finances",
       "parliament": 34,
       "session": 3,
-      "name_en": "Subcommittee on Tax Matters of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 sur les questions fiscales du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Tax Matters of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-15",
       "parliament": 34,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-15",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-15"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 34,
-      "session": 2,
-      "name_en": "Legislative Committee on Bill C-82",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-82"
+      "name_en": "Legislative Committee on Bill C-15"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-82",
       "parliament": 34,
       "session": 2,
-      "name_en": "Standing Committee on Agriculture",
-      "name_fr": "Comit\u00e9 permanent de l'agriculture"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-82"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture",
       "parliament": 34,
       "session": 2,
-      "name_en": "Standing Committee on Forestry and Fisheries",
-      "name_fr": "Comit\u00e9 permanent des for\u00eats et des p\u00eaches"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Agriculture"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des for\u00eats et des p\u00eaches",
       "parliament": 34,
       "session": 2,
-      "name_en": "Subcommittee on Fisheries of the Standing Committee on Forestry and Fisheries",
-      "name_fr": "Sous-comit\u00e9 des p\u00eaches du Comit\u00e9 permanent des for\u00eats et des p\u00eaches"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Forestry and Fisheries"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des p\u00eaches du Comit\u00e9 permanent des for\u00eats et des p\u00eaches",
+      "parliament": 34,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Fisheries of the Standing Committee on Forestry and Fisheries"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Thompson.G@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-5550",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "wigginsb@nb.sympatico.ca",
+      "postal_code": "E5P 3X3",
+      "city_fr": "Apohaqui",
+      "province_en": "New Brunswick",
+      "province_fr": "Nouveau-Brunswick",
+      "street_address_en": "2861 Highway 121",
+      "telephone": "506-433-8127",
+      "street_address_fr": "2861, route 121",
+      "city_en": "Apohaqui"
+    }
+  },
+  "name": "Gregory Francis Thompson",
+  "date_of_birth": "1947-03-28",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "New Brunswick Southwest",
+      "riding_fr": "Nouveau-Brunswick-Sud-Ouest"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "New Brunswick Southwest",
+      "riding_fr": "Nouveau-Brunswick-Sud-Ouest"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "St. Croix--Belleisle",
+      "riding_fr": "St. Croix--Belleisle"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "New Brunswick Southwest",
+      "riding_fr": "Nouveau-Brunswick-Sud-Ouest"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Charlotte",
+      "riding_fr": "Charlotte"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "1993-10-25",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Carleton--Charlotte",
+      "riding_fr": "Carleton--Charlotte"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1988-11-21",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Carleton--Charlotte",
+      "riding_fr": "Carleton--Charlotte"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "St-Stephen, Nouveau-Brunswick, Canada",
+    "name_en": "St. Stephen, New Brunswick, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2004-02-02",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Parti progressiste-conservateur",
+      "start_date": "1988-11-21",
+      "end_date": "2004-02-01",
+      "name_en": "Progressive Conservative Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "33fc6fb3-2ed8-4500-8aa0-30fe0fc13f01",
+  "weblinks": [
     {
-      "name_en": "Businessman",
-      "name_fr": "Enseignant"
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.vac-acc.gc.ca/general/sub.cfm?source=department/mincorner/officials/bio_min",
+      "url_fr": "http://www.vac-acc.gc.ca/general_f/sub.cfm?source=department/mincorner/officials/bio_min",
+      "name_en": "Department Website"
     },
     {
-      "name_en": "Financial planner",
-      "name_fr": "Homme d'affaires"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78795&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78795&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Teacher",
-      "name_fr": "Planificateur financier"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/64898",
+      "url_fr": "http://www.conservative.ca/FR/4568/64900",
+      "name_en": "Party Website"
     }
-  ],
-  "id": "33fc6fb3-2ed8-4500-8aa0-30fe0fc13f01"
+  ]
 }

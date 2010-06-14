@@ -1,102 +1,176 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Adjoint ex\u00e9cutif",
+      "name_en": "Clergyperson"
+    },
+    {
+      "name_fr": "G\u00e9rant de magasin",
+      "name_en": "Executive assistant"
+    },
+    {
+      "name_fr": "Linguiste",
+      "name_en": "Linguist"
+    },
+    {
+      "name_fr": "Membre du clerg\u00e9",
+      "name_en": "Store manager"
     }
   ],
-  "date_of_birth": "1953-08-30",
-  "place_of_birth": {
-    "name_en": "Salmon Arm, British Columbia, Canada",
-    "name_fr": "Salmon Arm, Colombie-Britannique, Canada"
-  },
-  "name": "Randy Kamp",
+  "parlinfo_id": 78867,
   "functions": [
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire de la ministre des P\u00eaches et des Oc\u00e9ans",
       "start_date": "2006-02-07",
+      "role_en": "Parliamentary Secretary",
       "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Fisheries and Oceans",
-      "title_fr": "Secr\u00e9taire parlementaire de la ministre des P\u00eaches et des Oc\u00e9ans"
+      "title_en": "Parliamentary Secretary to the Minister of Fisheries and Oceans"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Kamp.R@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-947-4613",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "randy@randykamp.com",
+      "postal_code": "V2X 2V6",
+      "city_fr": "Maple Ridge",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "22720 Lougheed Highway",
+      "telephone": "604-466-2761",
+      "street_address_fr": "22720, autoroute Lougheed",
+      "city_en": "Maple Ridge"
+    }
+  },
+  "name": "Randy Kamp",
+  "date_of_birth": "1953-08-30",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Pitt Meadows--Maple Ridge--Mission",
+      "riding_fr": "Pitt Meadows--Maple Ridge--Mission"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Pitt Meadows--Maple Ridge--Mission",
+      "riding_fr": "Pitt Meadows--Maple Ridge--Mission"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Dewdney--Alouette",
+      "riding_fr": "Dewdney--Alouette"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Salmon Arm, Colombie-Britannique, Canada",
+    "name_en": "Salmon Arm, British Columbia, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "ccfa05f8-2114-48f1-9ff4-5434e3279acb",
+  "weblinks": [
     {
-      "name_en": "Clergyperson",
-      "name_fr": "Adjoint ex\u00e9cutif"
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.dfo-mpo.gc.ca/minister-ministre/bio-kamp-eng.htm",
+      "url_fr": "http://www.dfo-mpo.gc.ca/minister-ministre/bio-kamp-fra.htm",
+      "name_en": "Department Website"
     },
     {
-      "name_en": "Executive assistant",
-      "name_fr": "G\u00e9rant de magasin"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78867&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78867&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Linguist",
-      "name_fr": "Linguiste"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1783&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1783&language_id=2",
+      "name_en": "Party Website"
     },
     {
-      "name_en": "Store manager",
-      "name_fr": "Membre du clerg\u00e9"
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.randykamp.com/",
+      "url_fr": "http://www.randykamp.com/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "ccfa05f8-2114-48f1-9ff4-5434e3279acb"
+  ]
 }

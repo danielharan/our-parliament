@@ -1,0 +1,15 @@
+<% @content_layout = "has_sidebar_right" %>
+
+<p>Chaque fois que la Chambre des communes veut faire quelque chose, que ce soit amender un projet de loi ou rentrer à la maison pour la journée, ils doivent proposer une motion. Les députés peuvent voter oui ou non pour une motion, mais parfois, ils n'offriront pas leur vote soit parce qu'ils sont absents ou parce qu'ils préfèrent s'abstenir par principe.</p> 
+
+<p>Les députés peuvent aussi « pairer » leurs votes. Lorsqu’un député d'un parti ne peut voter, un député d'un autre parti s’absentira du vote afin de conserver l’équilibre du pouvoir dans la Chambre des communes.</p> 
+
+<div id="votes" class="block">
+  <ul>
+    <%= render :partial => 'shared/vote', :collection => @votes %>
+  </ul>
+</div>
+
+<% content_for :sidebar_right do %>
+  <%= render :partial => 'shared/links' %>
+<% end %>

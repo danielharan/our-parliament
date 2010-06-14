@@ -2,8 +2,6 @@ require 'open-uri'
 class Senator < ActiveRecord::Base
   index do
     name
-    affiliation
-    province
     appointed_by
   end
 

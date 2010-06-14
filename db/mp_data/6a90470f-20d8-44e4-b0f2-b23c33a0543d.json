@@ -1,170 +1,244 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Agriculteur",
+      "name_en": "Farmer"
     }
   ],
-  "date_of_birth": "1952-02-18",
-  "place_of_birth": {
-    "name_en": "Claresholm, Alberta, Canada",
-    "name_fr": "Claresholm, Alberta, Canada"
-  },
-  "name": "Ted Menzies",
+  "parlinfo_id": 78843,
   "functions": [
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances",
       "start_date": "2007-10-10",
+      "role_en": "Parliamentary Secretary",
       "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Finance",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances"
+      "title_en": "Parliamentary Secretary to the Minister of Finance"
     },
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre du Commerce international et du ministre de la Coop\u00e9ration internationale",
       "start_date": "2007-01-24",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2007-10-09",
-      "title_en": "Parliamentary Secretary to the Minister of International Trade and to the Minister of International Cooperation",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre du Commerce international et du ministre de la Coop\u00e9ration internationale"
-    },
-    {
       "role_en": "Parliamentary Secretary",
-      "start_date": "2006-02-07",
       "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of International Trade and to the Minister of International Cooperation"
+    },
+    {
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Coop\u00e9ration internationale",
+      "start_date": "2006-02-07",
       "end_date": "2007-01-23",
-      "title_en": "Parliamentary Secretary to the Minister for International Cooperation",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Coop\u00e9ration internationale"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister for International Cooperation"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Commerce ext\u00e9rieur",
       "start_date": "2005-05-25",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "International Trade",
-      "title_fr": "Commerce ext\u00e9rieur"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "International Trade"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Commerce interprovincial",
       "start_date": "2005-05-25",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Interprovincial Trade",
-      "title_fr": "Commerce interprovincial"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Interprovincial Trade"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "ACDI",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2005-05-24",
-      "title_en": "CIDA",
-      "title_fr": "ACDI"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "CIDA"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Coop\u00e9ration internationale",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2005-05-24",
-      "title_en": "International Cooperation",
-      "title_fr": "Coop\u00e9ration internationale"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "International Cooperation"
     }
   ],
   "committees": [
     {
+      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
+      "parliament": 38,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 38,
-      "session": 1,
-      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 38,
-      "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
+      "parliament": 38,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Menzies.T@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-8471",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "menzit1@parl.gc.ca",
+      "postal_code": "T0L 0T0",
+      "city_fr": "Claresholm",
+      "province_en": "Alberta",
+      "province_fr": "Alberta",
+      "street_address_en": "4925 1st Street West P.O. Box 40",
+      "telephone": "403-625-5532",
+      "street_address_fr": "4925, 1re Rue Ouest\r\nCase postale 40",
+      "city_en": "Claresholm"
+    }
+  },
+  "name": "Ted Menzies",
+  "date_of_birth": "1952-02-18",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Macleod",
+      "riding_fr": "Macleod"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Macleod",
+      "riding_fr": "Macleod"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Macleod",
+      "riding_fr": "Macleod"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Claresholm, Alberta, Canada",
+    "name_en": "Claresholm, Alberta, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "6a90470f-20d8-44e4-b0f2-b23c33a0543d",
+  "weblinks": [
     {
-      "name_en": "Farmer",
-      "name_fr": "Agriculteur"
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.fin.gc.ca/comment/parlsece.html",
+      "url_fr": "http://www.fin.gc.ca/comment/parlsecf.html",
+      "name_en": "Department Website"
+    },
+    {
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78843&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78843&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1753&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1753&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.tedmenzies.ca/",
+      "url_fr": "http://www.tedmenzies.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "6a90470f-20d8-44e4-b0f2-b23c33a0543d"
+  ]
 }

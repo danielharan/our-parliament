@@ -1,81 +1,154 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Avocat",
+      "name_en": "Lawyer"
     }
   ],
-  "date_of_birth": "1974-01-01",
-  "place_of_birth": {
-    "name_en": "Thetford Mines, Quebec, Canada",
-    "name_fr": "Thetford Mines, Qu\u00e9bec, Canada"
-  },
-  "name": "Christian Paradis",
+  "parlinfo_id": 78413,
   "functions": [
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre des Ressources naturelles",
       "start_date": "2010-01-19",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Natural Resources",
-      "title_fr": "Ministre des Ressources naturelles"
-    },
-    {
       "role_en": "Minister",
-      "start_date": "2008-06-25",
       "role_fr": "Ministre",
+      "title_en": "Minister of Natural Resources"
+    },
+    {
+      "title_fr": "Ministre des Travaux publics et des Services gouvernementaux",
+      "start_date": "2008-06-25",
       "end_date": "2010-01-18",
-      "title_en": "Minister of Public Works and Government Services",
-      "title_fr": "Ministre des Travaux publics et des Services gouvernementaux"
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Public Works and Government Services"
     },
     {
-      "role_en": "Minister / Secretary of State",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Agriculture)",
       "start_date": "2007-01-04",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
       "end_date": "2008-10-29",
-      "title_en": "Secretary of State (Agriculture)",
-      "title_fr": "Secr\u00e9taire d'\u00c9tat (Agriculture)"
+      "role_en": "Minister / Secretary of State",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Secretary of State (Agriculture)"
     },
     {
-      "role_en": "Regional Minister",
+      "title_fr": "Qu\u00e9bec",
       "start_date": "2008-10-30",
+      "role_en": "Regional Minister",
       "role_fr": "Ministre r\u00e9gional",
-      "title_en": "Quebec",
-      "title_fr": "Qu\u00e9bec"
+      "title_en": "Quebec"
     },
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources naturelles",
       "start_date": "2006-02-07",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2007-01-03",
-      "title_en": "Parliamentary Secretary to the Minister of Natural Resources",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources naturelles"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Natural Resources"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-30",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-30"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Paradis.C@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-1377",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "G6G 6K8",
+      "city_fr": "Thetford Mines",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "1313 Frontenac Boulevard West, Suite 1",
+      "telephone": "418-338-2903",
+      "street_address_fr": "1313, boulevard Frontenac Ouest, bureau 1",
+      "fax": "418-338-3631",
+      "city_en": "Thetford Mines"
+    }
+  },
+  "name": "Christian Paradis",
+  "date_of_birth": "1974-01-01",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "M\u00e9gantic--L'\u00c9rable",
+      "riding_fr": "M\u00e9gantic--L'\u00c9rable"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "M\u00e9gantic--L'\u00c9rable",
+      "riding_fr": "M\u00e9gantic--L'\u00c9rable"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Thetford Mines, Qu\u00e9bec, Canada",
+    "name_en": "Thetford Mines, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "French",
-  "professions": [
+  "id": "cb9e0f12-f78f-4892-bc54-361d23267631",
+  "weblinks": [
     {
-      "name_en": "Lawyer",
-      "name_fr": "Avocat"
+      "name_fr": "Site Web du minist\u00e8re (1)",
+      "url_en": "http://www.nrcan-rncan.gc.ca/com/deptmini/minmin/minmin-biobio-eng.php",
+      "url_fr": "http://www.nrcan-rncan.gc.ca/com/deptmini/minmin/minmin-biobio-fra.php",
+      "name_en": "Department Website (1)"
+    },
+    {
+      "name_fr": "Site Web du minist\u00e8re (2)",
+      "url_en": "http://www.dec-ced.gc.ca/eng/ministers/minister/minister.html",
+      "url_fr": "http://www.dec-ced.gc.ca/fra/ministres/ministre/ministre.html",
+      "name_en": "Department Website (2)"
+    },
+    {
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78413&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78413&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65161",
+      "url_fr": "http://www.conservative.ca/FR/4568/65163",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.christianparadis.com/EN/6977/",
+      "url_fr": "http://www.christianparadis.com",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "cb9e0f12-f78f-4892-bc54-361d23267631"
+  ]
 }

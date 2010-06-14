@@ -1,214 +1,304 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1996-03-25",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Conseiller en politique",
+      "name_en": "Environmental technologist"
+    },
+    {
+      "name_fr": "Technologue de l'environnement",
+      "name_en": "Policy adviser"
     }
   ],
-  "date_of_birth": "1966-09-27",
-  "place_of_birth": {
-    "name_en": "Corner Brook, Newfoundland and Labrador, Canada",
-    "name_fr": "Corner Brook, Terre-Neuve-et-Labrador, Canada"
-  },
-  "name": "Gerry Byrne",
+  "parlinfo_id": 78910,
   "functions": [
     {
+      "title_fr": "Ministre d'\u00c9tat (Agence de promotion \u00e9conomique du Canada atlantique)",
+      "start_date": "2002-01-16",
+      "end_date": "2003-12-11",
       "role_en": "Minister / Secretary of State",
-      "start_date": "2002-01-16",
       "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "end_date": "2003-12-11",
-      "title_en": "Minister of State (Atlantic Canada Opportunities Agency)",
-      "title_fr": "Ministre d'\u00c9tat (Agence de promotion \u00e9conomique du Canada atlantique)"
+      "title_en": "Minister of State (Atlantic Canada Opportunities Agency)"
     },
     {
-      "role_en": "Regional Minister",
+      "title_fr": "Terre-Neuve-et-Labrador",
       "start_date": "2002-01-16",
-      "role_fr": "Ministre r\u00e9gional",
       "end_date": "2003-12-11",
-      "title_en": "Newfoundland and Labrador",
-      "title_fr": "Terre-Neuve-et-Labrador"
+      "role_en": "Regional Minister",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "Newfoundland and Labrador"
     },
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Affaires intergouvernementales",
       "start_date": "2004-07-20",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2006-02-05",
-      "title_en": "Parliamentary Secretary to the Minister of Intergovernmental Affairs",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Affaires intergouvernementales"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Intergovernmental Affairs"
     },
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Sant\u00e9 particuli\u00e8rement charg\u00e9 de l'Agence d'homologation des m\u00e9dicaments",
       "start_date": "2003-12-12",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2004-07-19",
-      "title_en": "Parliamentary Secretary to the Minister of Health with special emphasis on Drug Review Agency",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Sant\u00e9 particuli\u00e8rement charg\u00e9 de l'Agence d'homologation des m\u00e9dicaments"
-    },
-    {
       "role_en": "Parliamentary Secretary",
-      "start_date": "1997-07-10",
       "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Health with special emphasis on Drug Review Agency"
+    },
+    {
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources naturelles",
+      "start_date": "1997-07-10",
       "end_date": "1999-08-31",
-      "title_en": "Parliamentary Secretary to the Minister of Natural Resources",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources naturelles"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Natural Resources"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "P\u00eaches et Oc\u00e9ans",
       "start_date": "2009-01-22",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Fisheries and Oceans",
-      "title_fr": "P\u00eaches et Oc\u00e9ans"
+      "title_en": "Fisheries and Oceans"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Comp\u00e9titivit\u00e9 et nouvelle \u00e9conomie",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2007-01-17",
-      "title_en": "Competitiveness and the New Economy",
-      "title_fr": "Comp\u00e9titivit\u00e9 et nouvelle \u00e9conomie"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Competitiveness and the New Economy"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports et des op\u00e9rations gouvernementales",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Transport and Government Operations",
-      "name_fr": "Comit\u00e9 permanent des transports et des op\u00e9rations gouvernementales"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport and Government Operations"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "name_fr": "Comit\u00e9 permanent de l'industrie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Industry",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 36,
-      "session": 1,
-      "name_en": "Standing Committee on Agriculture and Agri-Food",
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
+      "name_en": "Standing Committee on Industry"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Natural Resources and Government Operations",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Agriculture and Agri-Food"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Transport",
-      "name_fr": "Comit\u00e9 permanent des transports"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 35,
-      "session": 2,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
+      "name_en": "Standing Committee on Natural Resources and Government Operations"
     },
     {
+      "name_fr": "Comit\u00e9 permanent des transports",
+      "parliament": 36,
+      "session": 1,
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 35,
-      "session": 2,
-      "name_en": "Standing Committee on Human Resources Development",
-      "name_fr": "Comit\u00e9 permanent des transports"
+      "name_en": "Standing Committee on Transport"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 35,
       "session": 2,
-      "name_en": "Standing Committee on Transport",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports",
+      "parliament": 35,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines",
+      "parliament": 35,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Byrne.G@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-996-5511",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-996-9632",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "info@gerrybyrne.ca",
+      "postal_code": "A2H 6T2",
+      "city_fr": "Corner Brook",
+      "province_en": "Newfoundland and Labrador",
+      "province_fr": "Terre-Neuve-et-Labrador",
+      "street_address_en": "14 Main Street, 2nd Floor\r\nP.O. Box 1095",
+      "telephone": "709-637-4540",
+      "street_address_fr": "14, rue Main, 2e \u00e9tage\r\nCase postale 1095",
+      "city_en": "Corner Brook"
+    }
+  },
+  "name": "Gerry Byrne",
+  "date_of_birth": "1966-09-27",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Humber--St. Barbe--Baie Verte",
+      "riding_fr": "Humber--St. Barbe--Baie Verte"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Humber--St. Barbe--Baie Verte",
+      "riding_fr": "Humber--St. Barbe--Baie Verte"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Humber--St. Barbe--Baie Verte",
+      "riding_fr": "Humber--St. Barbe--Baie Verte"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Humber--St. Barbe--Baie Verte",
+      "riding_fr": "Humber--St. Barbe--Baie Verte"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Humber--St. Barbe--Baie Verte",
+      "riding_fr": "Humber--St. Barbe--Baie Verte"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1996-03-25",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Humber--St. Barbe--Baie Verte",
+      "riding_fr": "Humber--Sainte-Barbe--Baie Verte"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Corner Brook, Terre-Neuve-et-Labrador, Canada",
+    "name_en": "Corner Brook, Newfoundland and Labrador, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "1996-03-25",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "0b9b8066-e727-478e-b825-a12571e8f726",
+  "weblinks": [
     {
-      "name_en": "Environmental technologist",
-      "name_fr": "Conseiller en politique"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78910&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78910&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Policy adviser",
-      "name_fr": "Technologue de l'environnement"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/1192_gerry-byrne",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/1192_gerry-byrne",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.gerrybyrne.ca/",
+      "url_fr": "http://www.gerrybyrne.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "0b9b8066-e727-478e-b825-a12571e8f726"
+  ]
 }

@@ -6,7 +6,7 @@
   <%= f.file_field :image %>
   
   <%= f.text_field :name, :size => 50 %>
-  <%= f.text_field :party, :size => 50 %>
+  Party <%= collection_select(:mp, :party_id, Party.all, :id, :name, {:prompt => true}) %>
   <%= f.text_field :email, :size => 50 %>
   <%= f.text_field :website, :size => 50 %>
   
@@ -17,7 +17,7 @@
   
   <%= f.text_field :constituency_address, :size => 50 %>
   <%= f.text_field :constituency_city, :size => 50 %>
-  <%= f.text_field :constituency_province, :size => 50 %>
+  Province <%= collection_select(:mp, :province_id, Province.all, :id, :name, {:prompt => true}) %>
   <%= f.text_field :constituency_postal_code, :size => 50 %>
   <%= f.text_field :constituency_phone, :size => 50 %>
   <%= f.text_field :constituency_fax, :size => 50 %>

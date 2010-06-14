@@ -1,46 +1,111 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
-    }
-  ],
-  "date_of_birth": "1959-04-06",
-  "place_of_birth": {
-    "name_en": "Skinner\u2019s Pond, Prince Edward Island, Canada",
-    "name_fr": "Skinner\u2019s Pond, \u00cele-du-Prince-\u00c9douard, Canada"
-  },
-  "name": "Gail A. Shea",
-  "functions": [
-    {
-      "role_en": "Minister",
-      "start_date": "2008-10-30",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Fisheries and OceansFirst woman appointed Minister of Fisheries and Oceans.",
-      "title_fr": "Ministre des P\u00eaches et des Oc\u00e9ansPremi\u00e8re femme nomm\u00e9e ministre des P\u00eaches et des Oc\u00e9ans."
+      "name_fr": "Directrice d'entreprise",
+      "name_en": "Business manager"
     },
     {
-      "role_en": "Regional Minister",
+      "name_fr": "Fonctionnaire",
+      "name_en": "Public servant"
+    }
+  ],
+  "parlinfo_id": 128618,
+  "functions": [
+    {
+      "title_fr": "Ministre des P\u00eaches et des Oc\u00e9ansPremi\u00e8re femme nomm\u00e9e ministre des P\u00eaches et des Oc\u00e9ans.",
       "start_date": "2008-10-30",
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Fisheries and OceansFirst woman appointed Minister of Fisheries and Oceans."
+    },
+    {
+      "title_fr": "\u00cele-du-Prince-\u00c9douard",
+      "start_date": "2008-10-30",
+      "role_en": "Regional Minister",
       "role_fr": "Ministre r\u00e9gional",
-      "title_en": "Prince Edward Island",
-      "title_fr": "\u00cele-du-Prince-\u00c9douard"
+      "title_en": "Prince Edward Island"
     }
   ],
   "committees": [
 
   ],
-  "language": "English",
-  "professions": [
-    {
-      "name_en": "Business manager",
-      "name_fr": "Directrice d'entreprise"
+  "contact_info": {
+    "parliament": {
+      "email": "Shea.G@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-9223",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
     },
+    "constituency": {
+      "postal_code": "C0B 2B0",
+      "city_fr": "Tignish",
+      "province_en": "Prince Edward Island",
+      "province_fr": "\u00cele-du-Prince-\u00c9douard",
+      "street_address_en": "Dalton Annex Building100 School Street, Rooms 203-204",
+      "telephone": "902-882-4493",
+      "street_address_fr": "\u00c9difice Dalton Annex100, rue School, pi\u00e8ce 203-204",
+      "city_en": "Tignish"
+    }
+  },
+  "name": "Gail A. Shea",
+  "date_of_birth": "1959-04-06",
+  "constituencies": [
     {
-      "name_en": "Public servant",
-      "name_fr": "Fonctionnaire"
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Egmont",
+      "riding_fr": "Egmont"
     }
   ],
-  "id": "70388a77-892d-4a62-b707-aef2a521b436"
+  "place_of_birth": {
+    "name_fr": "Skinner\u2019s Pond, \u00cele-du-Prince-\u00c9douard, Canada",
+    "name_en": "Skinner\u2019s Pond, Prince Edward Island, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada"
+    }
+  ],
+  "language": "English",
+  "id": "70388a77-892d-4a62-b707-aef2a521b436",
+  "weblinks": [
+    {
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.dfo-mpo.gc.ca/minister-ministre/bio-eng.htm",
+      "url_fr": "http://www.dfo-mpo.gc.ca/minister-ministre/bio-fra.htm",
+      "name_en": "Department Website"
+    },
+    {
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128618&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128618&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/107466",
+      "url_fr": "http://www.conservative.ca/FR/4568/107468",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.gailshea.ca/EN/4741/",
+      "url_fr": "http://www.gailshea.ca/EN/4741/",
+      "name_en": "Personal Website"
+    },
+    {
+      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'\u00cele-du-Prince-\u00c9douard (Disponible en anglais seulement)",
+      "url_en": "http://www.electionspei.ca/provincial/historical/results/results.php",
+      "url_fr": "http://www.electionspei.ca/provincial/historical/results/results.php",
+      "name_en": "Legislative Assembly of Prince Edwar Island Website"
+    }
+  ]
 }

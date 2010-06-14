@@ -1,221 +1,289 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1993",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Expert-conseil en communications",
+      "name_en": "Communication consultant"
+    },
+    {
+      "name_fr": "Expert-conseil en gestion",
+      "name_en": "Management consultant"
     }
   ],
-  "date_of_birth": "1967-06-21",
-  "place_of_birth": {
-    "name_en": "San Miguel, Tucuman, Argentina",
-    "name_fr": "San Miguel, Tucuman, Argentine"
-  },
-  "name": "Pablo Rodriguez",
+  "parlinfo_id": 78569,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Patrimoine",
       "start_date": "2009-01-22",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Canadian Heritage",
-      "title_fr": "Patrimoine"
+      "title_en": "Canadian Heritage"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Patrimoine canadien",
       "start_date": "2009-01-22",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Heritage",
-      "title_fr": "Patrimoine canadien"
+      "title_en": "Heritage"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Langues officielles",
       "start_date": "2009-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2010-03-07",
-      "title_en": "Official Languages",
-      "title_fr": "Langues officielles"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Official Languages"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
       "start_date": "2007-10-09",
-      "role_fr": "Porte-parole",
       "end_date": "2009-01-21",
-      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
-      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Travaux publics et Services gouvernementaux",
       "start_date": "2007-01-18",
-      "role_fr": "Porte-parole",
       "end_date": "2007-10-08",
-      "title_en": "Public Works and Government Services",
-      "title_fr": "Travaux publics et Services gouvernementaux"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2006-05-30",
       "role_fr": "Porte-parole",
-      "end_date": "2007-01-17",
-      "title_en": "Francophonie and Official Languages",
-      "title_fr": "Francophonie et Langues officielles"
+      "title_en": "Public Works and Government Services"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Francophonie et Langues officielles",
+      "start_date": "2006-05-30",
+      "end_date": "2007-01-17",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Francophonie and Official Languages"
+    },
+    {
+      "title_fr": "Francophonie",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2006-05-30",
-      "title_en": "Francophonie",
-      "title_fr": "Francophonie"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Francophonie"
     }
   ],
   "committees": [
     {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "parliament": 38,
+      "session": 1,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 38,
-      "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
+      "name_en": "Standing Committee on Official Languages"
     },
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Official Languages"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 38,
-      "session": 1,
-      "name_en": "Liaison Committee",
-      "name_fr": "Comit\u00e9 de Liaison"
+      "name_en": "Standing Committee on Public Accounts"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 de Liaison",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Liaison Committee"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "parliament": 38,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Rodriguez.P@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-0580",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "rodripa1@parl.gc.ca",
+      "postal_code": "H1M 3M3",
+      "city_fr": "Anjou",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "7450 Les Galeries d'Anjou Boulevard, Suite 530",
+      "telephone": "514-353-5044",
+      "street_address_fr": "7450, boulevard Les Galeries d'Anjou, bureau 530",
+      "city_en": "Anjou"
+    }
+  },
+  "name": "Pablo Rodriguez",
+  "date_of_birth": "1967-06-21",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Honor\u00e9-Mercier",
+      "riding_fr": "Honor\u00e9-Mercier"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Honor\u00e9-Mercier",
+      "riding_fr": "Honor\u00e9-Mercier"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Honor\u00e9-Mercier",
+      "riding_fr": "Honor\u00e9-Mercier"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "San Miguel, Tucuman, Argentine",
+    "name_en": "San Miguel, Tucuman, Argentina"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "1993",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "French",
-  "professions": [
+  "id": "5836b275-89f1-49ce-9b8c-7de46b261c3d",
+  "weblinks": [
     {
-      "name_en": "Communication consultant",
-      "name_fr": "Expert-conseil en communications"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78569&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78569&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Management consultant",
-      "name_fr": "Expert-conseil en gestion"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/12791_pablo-rodriguez",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/12791_pablo-rodriguez",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.pablorodriguez.ca/",
+      "url_fr": "http://www.pablorodriguez.ca/",
+      "name_en": "Personal Website (Available in French only)"
     }
-  ],
-  "id": "5836b275-89f1-49ce-9b8c-7de46b261c3d"
+  ]
 }

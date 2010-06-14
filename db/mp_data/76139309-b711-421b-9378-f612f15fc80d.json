@@ -1,151 +1,219 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
-    }
-  ],
-  "date_of_birth": "1969-02-08",
-  "place_of_birth": {
-    "name_en": "Steinbach, Manitoba, Canada",
-    "name_fr": "Steinbach, Manitoba, Canada"
-  },
-  "name": "Russ Hiebert",
-  "functions": [
-    {
-      "role_en": "Parliamentary Secretary",
-      "start_date": "2007-10-10",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "end_date": "2008-11-06",
-      "title_en": "Parliamentary Secretary to the Minister of Intergovernmental Affairs and Minister of Western Economic Diversification",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Affaires intergouvernementales et ministre de la Diversification de l'\u00e9conomie de l'Ouest canadien"
+      "name_fr": "Homme d'affaires",
+      "name_en": "Attorney"
     },
     {
+      "name_fr": "Procureur",
+      "name_en": "Businessman"
+    }
+  ],
+  "parlinfo_id": 78369,
+  "functions": [
+    {
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Affaires intergouvernementales et ministre de la Diversification de l'\u00e9conomie de l'Ouest canadien",
+      "start_date": "2007-10-10",
+      "end_date": "2008-11-06",
       "role_en": "Parliamentary Secretary",
-      "start_date": "2006-02-07",
       "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Intergovernmental Affairs and Minister of Western Economic Diversification"
+    },
+    {
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale",
+      "start_date": "2006-02-07",
       "end_date": "2007-10-09",
-      "title_en": "Parliamentary Secretary to the Minister of National Defence",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of National Defence"
     }
   ],
   "committees": [
     {
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "parliament": 40,
+      "session": 2,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
       "parliament": 38,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-38",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-38"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Hiebert.R@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-947-4497",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "info@russhiebert.ca",
+      "postal_code": "V4P 1N4",
+      "city_fr": "Surrey",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "106A-2429 152nd Street",
+      "telephone": "604-542-9495",
+      "street_address_fr": "2429, 152e rue, bureau 106A",
+      "city_en": "Surrey"
+    }
+  },
+  "name": "Russ Hiebert",
+  "date_of_birth": "1969-02-08",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "South Surrey--White Rock--Cloverdale",
+      "riding_fr": "Surrey-Sud--White Rock--Cloverdale"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "South Surrey--White Rock--Cloverdale",
+      "riding_fr": "Surrey-Sud--White Rock--Cloverdale"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "South Surrey--White Rock--Cloverdale",
+      "riding_fr": "Surrey-Sud--White Rock--Cloverdale"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Steinbach, Manitoba, Canada",
+    "name_en": "Steinbach, Manitoba, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2004-06-28",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "76139309-b711-421b-9378-f612f15fc80d",
+  "weblinks": [
     {
-      "name_en": "Attorney",
-      "name_fr": "Homme d'affaires"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78369&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78369&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Businessman",
-      "name_fr": "Procureur"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1823&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1823&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.russhiebert.ca/",
+      "url_fr": "http://www.russhiebert.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "76139309-b711-421b-9378-f612f15fc80d"
+  ]
 }

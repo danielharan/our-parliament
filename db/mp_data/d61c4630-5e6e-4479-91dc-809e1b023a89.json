@@ -1,235 +1,296 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2006-01-23",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Avocat",
+      "name_en": "Lawyer"
     }
   ],
-  "date_of_birth": "1961-03-17",
-  "place_of_birth": {
-    "name_en": "Moncton, New Brunswick, Canada",
-    "name_fr": "Moncton, Nouveau-Brunswick, Canada"
-  },
-  "name": "Brian Murphy",
+  "parlinfo_id": 78457,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Justice",
       "start_date": "2008-11-14",
-      "role_fr": "Porte-parole",
       "end_date": "2009-01-21",
-      "title_en": "Justice",
-      "title_fr": "Justice"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2007-10-09",
       "role_fr": "Porte-parole",
-      "end_date": "2008-11-13",
-      "title_en": "Democratic Reform",
-      "title_fr": "R\u00e9forme d\u00e9mocratique"
+      "title_en": "Justice"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "R\u00e9forme d\u00e9mocratique",
+      "start_date": "2007-10-09",
+      "end_date": "2008-11-13",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Democratic Reform"
+    },
+    {
+      "title_fr": "Justice",
       "start_date": "2006-04-13",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2007-01-17",
-      "title_en": "Justice",
-      "title_fr": "Justice"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Justice"
     }
   ],
   "committees": [
     {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
+      "parliament": 39,
+      "session": 2,
       "role_en": "Co-Chair",
       "role_fr": "Co-pr\u00e9sident",
-      "parliament": 39,
-      "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
     },
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 39,
-      "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
     },
     {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
+      "parliament": 39,
+      "session": 2,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 39,
-      "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
+      "name_en": "Standing Committee on Justice and Human Rights"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
+      "parliament": 39,
+      "session": 2,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31",
       "parliament": 40,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-31",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-31"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-20",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-20"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-27",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-27"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-27",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-35",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-27"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-35"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
+      "parliament": 39,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Murphy.B@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-8072",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "E1C 1X2",
+      "city_fr": "Moncton",
+      "province_en": "New Brunswick",
+      "province_fr": "Nouveau-Brunswick",
+      "street_address_en": "376 St George Street",
+      "telephone": "506-851-3310",
+      "street_address_fr": "376, rue St George",
+      "fax": "506-851-3273",
+      "city_en": "Moncton"
+    }
+  },
+  "name": "Brian Murphy",
+  "date_of_birth": "1961-03-17",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Moncton--Riverview--Dieppe",
+      "riding_fr": "Moncton--Riverview--Dieppe"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Moncton--Riverview--Dieppe",
+      "riding_fr": "Moncton--Riverview--Dieppe"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Moncton, Nouveau-Brunswick, Canada",
+    "name_en": "Moncton, New Brunswick, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "2006-01-23",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "d61c4630-5e6e-4479-91dc-809e1b023a89",
+  "weblinks": [
     {
-      "name_en": "Lawyer",
-      "name_fr": "Avocat"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78457&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78457&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=16290",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=16290",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel",
+      "url_en": "http://brianmurphy.liberal.ca/en/default.aspx",
+      "url_fr": "http://brianmurphy.liberal.ca/fr/default.aspx",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "d61c4630-5e6e-4479-91dc-809e1b023a89"
+  ]
 }

@@ -15,20 +15,18 @@
 
 <div id="header">
   <div class="container">
-    <h1><%= link_to image_tag("logo.#{I18n.locale}.gif", :alt => t('site_name')), '/', :title => t('site_name') %></h1>
-    <div class="beta_marker"><%= t('beta') %></div>
+    <h1><%= link_to image_tag("logo.#{I18n.locale}.png", :alt => t('site_name')), '/', :title => t('site_name') %></h1>
     <ul id="utilities">
       <% if I18n.locale == "fr" %>
-      <li id="util_language"><%= link_to 'English', 'http://www.citizenfactory.com' %></li>
+      <li id="util_language"><%= link_to 'English', translate_link(request.request_uri, 'en') %></li>
 	  <% else %>
-	  <li id="util_language"><%= link_to 'Fran&ccedil;ais', 'http://www.fabriquecitoyenne.com' %></li>
+	  <li id="util_language"><%= link_to 'Fran&ccedil;ais', translate_link(request.request_uri, 'fr') %></li>
 	  <% end %>
     </ul>
     <ul id="nav">
       <li id="nav_members"><%= link_to t('navigation.members'), members_path %></li>
       <li id="nav_senators"><%= link_to t('navigation.senators'), senators_path %></li>
       <li id="nav_committees"><%= link_to t('navigation.committees'), committees_path %></li>
-	  <li id="nav_votes"><%= link_to t('navigation.bills'), bills_path %></li>
       <li id="nav_votes"><%= link_to t('navigation.votes'), votes_path %></li>
       <li id="nav_about"><%= link_to t('navigation.about'), about_path %></li>
     </ul>

@@ -1,0 +1,51 @@
+<!--<p class="tagline">Parliament is sitting</p>-->
+
+<div id="intro">
+	
+<h3>Who represents you?</h3>
+
+<p>Find out who represents you in the House of Commons and Senate by entering your postal code:</p>
+
+<div id="search">
+  <% form_tag '/search/postal_code' do %>
+    <div class="search_field">
+      <%= text_field_tag 'q', 'Enter your Postal Code', :class => 'text with_help default-value', :id => 'postal_code_search' %>
+    </div>
+    <div class="submits">
+      <%= image_submit_tag("search.png", :alt => "search") %>
+    </div>
+  <% end %>
+</div>
+
+<p>Read their statements in Parliament, see how they vote, and find out what's being said about them in the news.</p>
+
+<h3>Looking for something?</h3>
+
+<p>You can also search for topics and issues being discussed in Parliament:</p>
+
+<div id="search">
+  <% form_tag '/search' do %>
+    <div class="search_field">
+      <%= text_field_tag 'q', 'Enter a Keyword', :class => 'text with_help default-value', :id => 'home_search' %>
+    </div>
+    <div class="submits">
+      <%= image_submit_tag("search.png", :alt => "search") %>
+    </div>
+  <% end %>
+</div>
+	
+<h3>Welcome to Citizen Factory</h3>
+
+<p>Parliament is confusing. That's why Citizen Factory is here - it's an online resource for Canadian youth created by <%= link_to 'Apathy is Boring', 'http://www.apathyisboring.com/en' %>. Our goal is to make information about Parliament accessible and meaningful so you can understand how your government works. There are four basic elements in Citizen Factory:</p>
+
+<p><%= link_to 'MPs', :controller => :members %> and <%= link_to 'Senators', :controller => :senators %> are the people who represent you in Parliament. Take a look at your MP's and Senator's profiles to see what they're doing and how you can contact them. </p>
+
+<p><%= link_to 'Committees', :controller => :committees %> are small groups of MPs and Senators who study a bill or an issue in detail, so they can make recommendations to the rest of Parliament. Find out what committees your MP is a member of.</p>
+
+<p><%= link_to 'Debates', :controller => :hansards %> - MPs spend a lot of time asking questions, debating issues, or sometimes just taking shots at each other. Find out what your MP is saying in the House of Commons.</p>
+
+<p><%= link_to 'Bills', :controller => :bills %> - The reason Parliament exists is to make laws, and every law starts out as a bill. Track the progress of bills being considered by Parliament and see how you MP voted on them.</p>
+
+<p>You can use this information to <%= link_to 'take action', 'http://www.apathyisboring.com/en/make_it_happen' %> as a citizen, or bring Citizen Factory into the classroom using our <%= link_to "Teacher's Guide", 'http://www.apathyisboring.com/en/the_facts/citizen_factory' %>.</p>
+	
+</div>

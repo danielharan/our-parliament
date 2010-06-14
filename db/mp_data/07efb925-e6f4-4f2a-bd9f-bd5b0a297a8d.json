@@ -1,164 +1,239 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Directeur d'entreprise",
+      "name_en": "Business manager"
     },
     {
-      "start_date": "2000-11-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+      "name_fr": "Entrepreneur",
+      "name_en": "Entrepreneur"
     }
   ],
-  "date_of_birth": "1944-04-06",
-  "place_of_birth": {
-    "name_en": "St. Andrew's West, Ontario, Canada",
-    "name_fr": "St. Andrew's West, Ontario, Canada"
-  },
-  "name": "Guy Lauzon",
+  "parlinfo_id": 78597,
   "functions": [
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Agriculture et de l'Agroalimentaire et pour l'initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique dans le Nord de l\u2019Ontario",
       "start_date": "2007-10-10",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2008-10-29",
-      "title_en": "Parliamentary Secretary to the Minister of Agriculture and Agri-Food and for the Minister for the Federal Economic Development Initiative for Northern Ontario",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Agriculture et de l'Agroalimentaire et pour l'initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique dans le Nord de l\u2019Ontario"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Agriculture and Agri-Food and for the Minister for the Federal Economic Development Initiative for Northern Ontario"
     },
     {
-      "role_en": "Whip",
+      "title_fr": "Whip adjoint du Parti conservateur",
       "start_date": "2006-03-06",
-      "role_fr": "Whip",
       "end_date": "2008-11-20",
-      "title_en": "Deputy Whip of the Conservative Party",
-      "title_fr": "Whip adjoint du Parti conservateur"
+      "role_en": "Whip",
+      "role_fr": "Whip",
+      "title_en": "Deputy Whip of the Conservative Party"
     },
     {
-      "role_en": "Caucus Chair",
+      "title_fr": "Pr\u00e9sident du caucus du Parti conservateur",
       "start_date": "2008-11-03",
+      "role_en": "Caucus Chair",
       "role_fr": "Pr\u00e9sident du caucus",
-      "title_en": "Conservative Party Caucus Chair",
-      "title_fr": "Pr\u00e9sident du caucus du Parti conservateur"
+      "title_en": "Conservative Party Caucus Chair"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Conseil du tr\u00e9sor",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Official Languages",
-      "title_fr": "Conseil du tr\u00e9sor"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Official Languages"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Langues officielles",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Treasury Board",
-      "title_fr": "Langues officielles"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Treasury Board"
     }
   ],
   "committees": [
     {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "parliament": 39,
+      "session": 1,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
+      "name_en": "Standing Committee on Official Languages"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 40,
       "session": 1,
-      "name_en": "Standing Committee on Procedure and House Affairs",
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Procedure and House Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Agriculture and Agri-Food",
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Agriculture and Agri-Food"
+    },
+    {
+      "name_fr": "Comit\u00e9 de liaison",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-30",
-      "name_fr": "Comit\u00e9 de liaison"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-30"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
       "parliament": 39,
       "session": 1,
-      "name_en": "Liaison Committee",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Liaison Committee"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de Liaison",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
-      "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de Liaison"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Lauzon.G@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-2521",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "info@guylauzon.ca",
+      "postal_code": "K6J 3R8",
+      "city_fr": "Cornwall",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "621 Pitt Street",
+      "telephone": "613-937-3331",
+      "street_address_fr": "621, rue Pitt",
+      "city_en": "Cornwall"
+    }
+  },
+  "name": "Guy Lauzon",
+  "date_of_birth": "1944-04-06",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Stormont--Dundas--South Glengarry",
+      "riding_fr": "Stormont--Dundas--South Glengarry"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Stormont--Dundas--South Glengarry",
+      "riding_fr": "Stormont--Dundas--South Glengarry"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Stormont--Dundas--South Glengarry",
+      "riding_fr": "Stormont--Dundas--South Glengarry"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "2000-11-27",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Stormont--Dundas--Charlottenburgh",
+      "riding_fr": "Stormont--Dundas--Charlottenburgh"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "St. Andrew's West, Ontario, Canada",
+    "name_en": "St. Andrew's West, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2000-11-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "07efb925-e6f4-4f2a-bd9f-bd5b0a297a8d",
+  "weblinks": [
     {
-      "name_en": "Business manager",
-      "name_fr": "Directeur d'entreprise"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78597&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78597&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Entrepreneur",
-      "name_fr": "Entrepreneur"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1619&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1619&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.guylauzon.ca/",
+      "url_fr": "http://www.guylauzon.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "07efb925-e6f4-4f2a-bd9f-bd5b0a297a8d"
+  ]
 }

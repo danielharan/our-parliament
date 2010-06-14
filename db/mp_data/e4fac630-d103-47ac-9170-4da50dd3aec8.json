@@ -1,142 +1,203 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Gestionnaire des affaires publiques",
+      "name_en": "Businessman"
+    },
+    {
+      "name_fr": "Homme d'affaires",
+      "name_en": "Public affairs executive"
     }
   ],
-  "date_of_birth": "1966-04-10",
-  "place_of_birth": {
-    "name_en": "Grimsby, Ontario, Canada",
-    "name_fr": "Grimsby, Ontario, Canada"
-  },
-  "name": "Richard Dykstra",
+  "parlinfo_id": 78817,
   "functions": [
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Citoyennet\u00e9 et de l'Immigration",
       "start_date": "2008-11-07",
+      "role_en": "Parliamentary Secretary",
       "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Citizenship and Immigration",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Citoyennet\u00e9 et de l'Immigration"
+      "title_en": "Parliamentary Secretary to the Minister of Citizenship and Immigration"
     }
   ],
   "committees": [
     {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
+      "parliament": 39,
+      "session": 2,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 39,
-      "session": 2,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
+      "name_en": "Legislative Committee on Bill C-2"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Legislative Committee on Bill C-30",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30"
+      "name_en": "Standing Committee on Justice and Human Rights"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-35",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-30"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-35"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent des finances"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
+      "parliament": 39,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Dykstra.R@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-3352",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "info@rickdykstra.ca",
+      "postal_code": "L2R 4M2",
+      "city_fr": "St. Catharines",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "61 Geneva Street",
+      "telephone": "905-934-6767",
+      "street_address_fr": "61, rue Geneva",
+      "city_en": "St. Catharines"
+    }
+  },
+  "name": "Richard Dykstra",
+  "date_of_birth": "1966-04-10",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "St. Catharines",
+      "riding_fr": "St. Catharines"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "St. Catharines",
+      "riding_fr": "St. Catharines"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Grimsby, Ontario, Canada",
+    "name_en": "Grimsby, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "e4fac630-d103-47ac-9170-4da50dd3aec8",
+  "weblinks": [
     {
-      "name_en": "Businessman",
-      "name_fr": "Gestionnaire des affaires publiques"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78817&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78817&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Public affairs executive",
-      "name_fr": "Homme d'affaires"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1597&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1597&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.rickdykstra.ca/",
+      "url_fr": "http://www.rickdykstra.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "e4fac630-d103-47ac-9170-4da50dd3aec8"
+  ]
 }

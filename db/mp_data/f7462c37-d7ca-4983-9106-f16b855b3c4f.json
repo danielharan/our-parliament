@@ -1,60 +1,115 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2008-03-17",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Sergent de la grc",
+      "name_en": "Rcmp sergeant"
     }
   ],
-  "date_of_birth": "1967-03-02",
-  "place_of_birth": {
-    "name_en": "Kitimat, British Columbia, Canada",
-    "name_fr": "Kitimat, Colombie-Britannique, Canada"
-  },
-  "name": "Rob Clarke",
+  "parlinfo_id": 128671,
   "functions": [
 
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Veterans Affairs",
-      "name_fr": "Comit\u00e9 permanent des anciens combattants"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Veterans Affairs"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Clarke.R@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-8321",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-995-7697",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "S0J 1L0",
+      "city_fr": "La Ronge",
+      "province_en": "Saskatchewan",
+      "province_fr": "Saskatchewan",
+      "street_address_en": "711 La Ronge Avenue\r\nP.O. Box 612",
+      "telephone": "306-425-2643",
+      "street_address_fr": "711, avenue La Ronge\r\nCase postale 612",
+      "city_en": "La Ronge"
+    }
+  },
+  "name": "Rob Clarke",
+  "date_of_birth": "1967-03-02",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Desneth\u00e9--Missinippi--Churchill River",
+      "riding_fr": "Desneth\u00e9--Missinippi--Rivi\u00e8re Churchill"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2008-03-17",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Desneth\u00e9--Missinippi--Churchill River",
+      "riding_fr": "Desneth\u00e9--Missinippi--Rivi\u00e8re Churchill"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Kitimat, Colombie-Britannique, Canada",
+    "name_en": "Kitimat, British Columbia, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2008-03-17",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "f7462c37-d7ca-4983-9106-f16b855b3c4f",
+  "weblinks": [
     {
-      "name_en": "Rcmp sergeant",
-      "name_fr": "Sergent de la grc"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128671&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128671&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.robclarkemp.ca/",
+      "url_fr": "http://www.robclarkemp.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "f7462c37-d7ca-4983-9106-f16b855b3c4f"
+  ]
 }

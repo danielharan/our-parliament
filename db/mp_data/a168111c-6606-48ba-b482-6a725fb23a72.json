@@ -1,85 +1,146 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-06-28",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois",
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+      "name_fr": "Architecte",
+      "name_en": "Architect"
+    },
+    {
+      "name_fr": "Professeur",
+      "name_en": "Professor"
     }
   ],
-  "date_of_birth": "1934-04-22",
-  "place_of_birth": {
-    "name_en": "Montreal, Quebec, Canada",
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
-  },
-  "name": "Christian Ouellet",
+  "parlinfo_id": 79023,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Logement social",
       "start_date": "2006-02-10",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Housing, Public",
-      "title_fr": "Logement social"
+      "title_en": "Housing, Public"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Environnement",
       "start_date": "2009-09",
+      "role_en": "Assistant Critic",
       "role_fr": "Porte-parole adjoint",
-      "title_en": "Environment",
-      "title_fr": "Environnement"
+      "title_en": "Environment"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Ressources naturelles",
       "start_date": "2007-04-12",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2009-09",
-      "title_en": "Natural Resources",
-      "title_fr": "Ressources naturelles"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Natural Resources"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Ouellet.C@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-947-8185",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "J2K 2X9",
+      "city_fr": "Cowansville",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "505 Sud Street, Suite 209",
+      "telephone": "450-266-6062",
+      "street_address_fr": "505, rue Sud, bureau 209",
+      "city_en": "Cowansville"
+    }
+  },
+  "name": "Christian Ouellet",
+  "date_of_birth": "1934-04-22",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Brome--Missisquoi",
+      "riding_fr": "Brome--Missisquoi"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Brome--Missisquoi",
+      "riding_fr": "Brome--Missisquoi"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "2004-06-28",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Brome--Missisquoi",
+      "riding_fr": "Brome--Missisquoi"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
+    "name_en": "Montreal, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "start_date": "2004-06-28",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois"
     }
   ],
   "language": "French",
-  "professions": [
+  "id": "a168111c-6606-48ba-b482-6a725fb23a72",
+  "weblinks": [
     {
-      "name_en": "Architect",
-      "name_fr": "Architecte"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79023&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79023&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Professor",
-      "name_fr": "Professeur"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=1c93f3a8-d878-4622-b7b9-654061981086",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=1c93f3a8-d878-4622-b7b9-654061981086",
+      "name_en": "Party Website (Available in French only)"
     }
-  ],
-  "id": "a168111c-6606-48ba-b482-6a725fb23a72"
+  ]
 }

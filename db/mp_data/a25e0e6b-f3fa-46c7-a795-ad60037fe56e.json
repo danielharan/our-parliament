@@ -1,251 +1,347 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1988-11-21",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Agriculteur",
+      "name_en": "Farmer"
     }
   ],
-  "date_of_birth": "1946-09-09",
-  "place_of_birth": {
-    "name_en": "St Peters Bay, Prince Edward Island, Canada",
-    "name_fr": "St Peters Bay, \u00cele-du-Prince-\u00c9douard, Canada"
-  },
-  "name": "Lawrence A. MacAulay",
+  "parlinfo_id": 78425,
   "functions": [
     {
-      "role_en": "Minister",
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral du CanadaD\u00e9mission. \u00c9tait l'objet d'une enqu\u00eate au sujet d'all\u00e9gations de conflits d'int\u00e9r\u00eats.",
       "start_date": "1998-11-23",
-      "role_fr": "Ministre",
       "end_date": "2002-10-21",
-      "title_en": "Solicitor General of CanadaResignation. Was the subject of inquiry concerning allegations of conflict of interest.",
-      "title_fr": "Solliciteur g\u00e9n\u00e9ral du CanadaD\u00e9mission. \u00c9tait l'objet d'une enqu\u00eate au sujet d'all\u00e9gations de conflits d'int\u00e9r\u00eats."
-    },
-    {
       "role_en": "Minister",
-      "start_date": "1997-06-11",
       "role_fr": "Ministre",
+      "title_en": "Solicitor General of CanadaResignation. Was the subject of inquiry concerning allegations of conflict of interest."
+    },
+    {
+      "title_fr": "Ministre du Travail",
+      "start_date": "1997-06-11",
       "end_date": "1998-11-22",
-      "title_en": "Minister of Labour",
-      "title_fr": "Ministre du Travail"
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Labour"
     },
     {
-      "role_en": "Minister / Secretary of State",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Anciens Combattants) (Agence de promotion \u00e9conomique du Canada atlantique)",
       "start_date": "1996-01-25",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
       "end_date": "1997-06-10",
-      "title_en": "Secretary of State (Veterans) (Atlantic Canada Opportunities Agency)",
-      "title_fr": "Secr\u00e9taire d'\u00c9tat (Anciens Combattants) (Agence de promotion \u00e9conomique du Canada atlantique)"
-    },
-    {
       "role_en": "Minister / Secretary of State",
-      "start_date": "1993-11-04",
       "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Secretary of State (Veterans) (Atlantic Canada Opportunities Agency)"
+    },
+    {
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Anciens Combattants)",
+      "start_date": "1993-11-04",
       "end_date": "1996-01-24",
-      "title_en": "Secretary of State (Veterans)",
-      "title_fr": "Secr\u00e9taire d'\u00c9tat (Anciens Combattants)"
+      "role_en": "Minister / Secretary of State",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Secretary of State (Veterans)"
     },
     {
-      "role_en": "Regional Minister",
+      "title_fr": "\u00cele-du-Prince-\u00c9douard",
       "start_date": "1997-06",
-      "role_fr": "Ministre r\u00e9gional",
       "end_date": "2002-10-21",
-      "title_en": "Prince Edward Island",
-      "title_fr": "\u00cele-du-Prince-\u00c9douard"
+      "role_en": "Regional Minister",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "Prince Edward Island"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "A\u00een\u00e9s",
       "start_date": "2008-11-14",
-      "role_fr": "Porte-parole",
       "end_date": "2009-01-21",
-      "title_en": "Seniors",
-      "title_fr": "A\u00een\u00e9s"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "1990-09",
       "role_fr": "Porte-parole",
-      "end_date": "1993",
-      "title_en": "Seniors",
-      "title_fr": "A\u00een\u00e9s"
+      "title_en": "Seniors"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "A\u00een\u00e9s",
+      "start_date": "1990-09",
+      "end_date": "1993",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Seniors"
+    },
+    {
+      "title_fr": "Corporations de la Couronne",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2007-01-17",
-      "title_en": "Crown Corporations",
-      "title_fr": "Corporations de la Couronne"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Crown Corporations"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "P\u00eaches et Oc\u00e9ans",
       "start_date": "1989-02",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1993",
-      "title_en": "Fisheries and Oceans",
-      "title_fr": "P\u00eaches et Oc\u00e9ans"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Fisheries and Oceans"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des questions de sant\u00e9 concernant les personnes \u00e2g\u00e9es du Comit\u00e9 permanent de la sant\u00e9 et du bien-\u00eatre social, des affaires sociales, du troisi\u00e8me \u00e2ge et de la condition f\u00e9minine",
       "parliament": 34,
       "session": 3,
-      "name_en": "Subcommittee on Senior Citizens Health Issues of the Standing Committee on Health, Social Affairs, Seniors and the Status of Women",
-      "name_fr": "Sous-comit\u00e9 des questions de sant\u00e9 concernant les personnes \u00e2g\u00e9es du Comit\u00e9 permanent de la sant\u00e9 et du bien-\u00eatre social, des affaires sociales, du troisi\u00e8me \u00e2ge et de la condition f\u00e9minine"
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Senior Citizens Health Issues of the Standing Committee on Health, Social Affairs, Seniors and the Status of Women"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-289",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-289",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-289"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-289"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des questions de sant\u00e9 concernant les personnes \u00e2g\u00e9es du Comit\u00e9 permanent de la sant\u00e9 et du bien-\u00eatre social, des affaires sociales, du troisi\u00e8me \u00e2ge et de la condition f\u00e9minine",
       "parliament": 34,
       "session": 3,
-      "name_en": "Subcommittee on Senior Citizens Health Issues of the Standing Committee on Health, Social Affairs, Seniors and the Status of Women",
-      "name_fr": "Sous-comit\u00e9 des questions de sant\u00e9 concernant les personnes \u00e2g\u00e9es du Comit\u00e9 permanent de la sant\u00e9 et du bien-\u00eatre social, des affaires sociales, du troisi\u00e8me \u00e2ge et de la condition f\u00e9minine"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 34,
-      "session": 2,
-      "name_en": "Legislative Committee on Bill C-74",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-74"
+      "name_en": "Subcommittee on Senior Citizens Health Issues of the Standing Committee on Health, Social Affairs, Seniors and the Status of Women"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-74",
       "parliament": 34,
       "session": 2,
-      "name_en": "Standing Committee on Forestry and Fisheries",
-      "name_fr": "Comit\u00e9 permanent des for\u00eats et des p\u00eaches"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-74"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des for\u00eats et des p\u00eaches",
       "parliament": 34,
       "session": 2,
-      "name_en": "Subcommittee on Fisheries of the Standing Committee on Forestry and Fisheries",
-      "name_fr": "Sous-comit\u00e9 des p\u00eaches du Comit\u00e9 permanent des for\u00eats et des p\u00eaches"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Forestry and Fisheries"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des p\u00eaches du Comit\u00e9 permanent des for\u00eats et des p\u00eaches",
+      "parliament": 34,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Fisheries of the Standing Committee on Forestry and Fisheries"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "MacAulay.L@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-9325",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "macaul1@parl.gc.ca",
+      "postal_code": "C0A 1R0",
+      "city_fr": "Montague",
+      "province_en": "Prince Edward Island",
+      "province_fr": "\u00cele-du-Prince-\u00c9douard",
+      "street_address_en": "551 Main Street, Suite 202P.O. Box 1150",
+      "telephone": "902-838-4139",
+      "street_address_fr": "551, rue Main, bureau 202\r\nCase postale 1150",
+      "city_en": "Montague"
+    }
+  },
+  "name": "Lawrence A. MacAulay",
+  "date_of_birth": "1946-09-09",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Cardigan",
+      "riding_fr": "Cardigan"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Cardigan",
+      "riding_fr": "Cardigan"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Cardigan",
+      "riding_fr": "Cardigan"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Cardigan",
+      "riding_fr": "Cardigan"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Cardigan",
+      "riding_fr": "Cardigan"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1993-10-25",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Cardigan",
+      "riding_fr": "Cardigan"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1988-11-21",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Cardigan",
+      "riding_fr": "Cardigan"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "St Peters Bay, \u00cele-du-Prince-\u00c9douard, Canada",
+    "name_en": "St Peters Bay, Prince Edward Island, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "1988-11-21",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "a25e0e6b-f3fa-46c7-a795-ad60037fe56e",
+  "weblinks": [
     {
-      "name_en": "Farmer",
-      "name_fr": "Agriculteur"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78425&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78425&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=5356",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=5356",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.lawrencemacaulay.ca/",
+      "url_fr": "http://www.lawrencemacaulay.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "a25e0e6b-f3fa-46c7-a795-ad60037fe56e"
+  ]
 }

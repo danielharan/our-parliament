@@ -1,42 +1,90 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2008-10-14",
-      "name_en": "New Democratic Party",
-      "name_fr": "Nouveau Parti d\u00e9mocratique"
+      "name_fr": "Homme d'affaires",
+      "name_en": "Businessman"
     }
   ],
-  "date_of_birth": "1952-11-10",
-  "place_of_birth": {
-    "name_en": "Sioux Lookout, Ontario, Canada",
-    "name_fr": "Sioux Lookout, Ontario, Canada"
-  },
-  "name": "Peter James (Jim) Maloway",
+  "parlinfo_id": 128453,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Sciences et Technologie",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Science and Technology",
-      "title_fr": "Sciences et Technologie"
+      "title_en": "Science and Technology"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Travaux publicsChamp de responsabilit\u00e9: Cybergouvernement",
       "start_date": "2008-11-17",
+      "role_en": "Assistant Critic",
       "role_fr": "Porte-parole adjoint",
-      "title_en": "Public WorksArea of responsibility: E-government",
-      "title_fr": "Travaux publicsChamp de responsabilit\u00e9: Cybergouvernement"
+      "title_en": "Public WorksArea of responsibility: E-government"
     }
   ],
   "committees": [
 
   ],
-  "language": "English",
-  "professions": [
+  "contact_info": {
+    "parliament": {
+      "email": "Maloway.J@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-6339",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "R2C 3B5",
+      "city_fr": "Winnipeg",
+      "province_en": "Manitoba",
+      "province_fr": "Manitoba",
+      "street_address_en": "4-1600 Regent Avenue West",
+      "telephone": "204-984-2499",
+      "street_address_fr": "4-1600, avenue Regent Ouest",
+      "fax": "204-984-2502",
+      "city_en": "Winnipeg"
+    }
+  },
+  "name": "Peter James (Jim) Maloway",
+  "date_of_birth": "1952-11-10",
+  "constituencies": [
     {
-      "name_en": "Businessman",
-      "name_fr": "Homme d'affaires"
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Elmwood--Transcona",
+      "riding_fr": "Elmwood--Transcona"
     }
   ],
-  "id": "29ae2a25-37c5-42a9-bb39-e510479f4434"
+  "place_of_birth": {
+    "name_fr": "Sioux Lookout, Ontario, Canada",
+    "name_en": "Sioux Lookout, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "start_date": "2008-10-14",
+      "name_en": "New Democratic Party"
+    }
+  ],
+  "language": "English",
+  "id": "29ae2a25-37c5-42a9-bb39-e510479f4434",
+  "weblinks": [
+    {
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128453&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128453&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/jimmaloway",
+      "url_fr": "http://www.npd.ca/jimmaloway",
+      "name_en": "Party Website"
+    }
+  ]
 }

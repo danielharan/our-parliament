@@ -1,63 +1,116 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2008-10-14",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Directrice des relations publiques",
+      "name_en": "Broadcast journalist"
+    },
+    {
+      "name_fr": "Journaliste de radiot\u00e9l\u00e9vision",
+      "name_en": "Director of public relations"
     }
   ],
-  "date_of_birth": "1952-06-23",
-  "place_of_birth": {
-    "name_en": "Grand Bank, Newfoundland and Labrador, Canada",
-    "name_fr": "Grand Bank, Terre-Neuve-et-Labrador, Canada"
-  },
-  "name": "Judy Foote",
+  "parlinfo_id": 128792,
   "functions": [
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Transports, Infrastructure et Collectivit\u00e9s",
       "start_date": "2008-11-14",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2009-01-21",
-      "title_en": "Transport, Infrastructure and Communities",
-      "title_fr": "Transports, Infrastructure et Collectivit\u00e9s"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Transport, Infrastructure and Communities"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des anciens combattants"
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Veterans Affairs",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "parliament": 40,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Veterans Affairs"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Foote.J@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-8655",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "A0E 1W0",
+      "city_fr": "Grand Bank",
+      "province_en": "Newfoundland and Labrador",
+      "province_fr": "Terre-Neuve-et-Labrador",
+      "street_address_en": "3 Church Street\r\nP.O. Box 370",
+      "telephone": "709-832-1383",
+      "street_address_fr": "3, rue Church\r\nCase postale 370",
+      "city_en": "Grand Bank"
+    }
+  },
+  "name": "Judy Foote",
+  "date_of_birth": "1952-06-23",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Random--Burin--St. George's",
+      "riding_fr": "Random--Burin--St. George's"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Grand Bank, Terre-Neuve-et-Labrador, Canada",
+    "name_en": "Grand Bank, Newfoundland and Labrador, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "2008-10-14",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "669a6720-3704-48ff-a218-4035d05107a6",
+  "weblinks": [
     {
-      "name_en": "Broadcast journalist",
-      "name_fr": "Directrice des relations publiques"
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128792&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128792&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Director of public relations",
-      "name_fr": "Journaliste de radiot\u00e9l\u00e9vision"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=17741",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=17741",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.judyfoote.ca/",
+      "url_fr": "http://www.judyfoote.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "669a6720-3704-48ff-a218-4035d05107a6"
+  ]
 }

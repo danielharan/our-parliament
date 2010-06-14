@@ -1,380 +1,464 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2003-12-11",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Homme d'affaires",
+      "name_en": "Businessman"
     },
     {
-      "start_date": "1997-06-02",
-      "end_date": "2003-12-10",
-      "name_en": "Progressive Conservative Party",
-      "name_fr": "Parti progressiste-conservateur"
+      "name_fr": "Preneur ferme",
+      "name_en": "Investment banker"
     }
   ],
-  "date_of_birth": "1967-05-10",
-  "place_of_birth": {
-    "name_en": "Windsor, Nova Scotia, Canada",
-    "name_fr": "Windsor, Nouvelle-\u00c9cosse, Canada"
-  },
-  "name": "Scott Brison",
+  "parlinfo_id": 78821,
   "functions": [
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre des Travaux publics et des Services gouvernementaux",
       "start_date": "2004-07-20",
-      "role_fr": "Ministre",
       "end_date": "2006-02-05",
-      "title_en": "Minister of Public Works and Government Services",
-      "title_fr": "Ministre des Travaux publics et des Services gouvernementaux"
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Public Works and Government Services"
     },
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du Premier ministre particuli\u00e8rement charg\u00e9 des relations Canada-\u00c9tats-Unis",
       "start_date": "2003-12-12",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2004-07-19",
-      "title_en": "Parliamentary Secretary to the Prime Minister with special emphasis on Canada-U.S.",
-      "title_fr": "Secr\u00e9taire parlementaire du Premier ministre particuli\u00e8rement charg\u00e9 des relations Canada-\u00c9tats-Unis"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Prime Minister with special emphasis on Canada-U.S."
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Commerce international",
       "start_date": "2009-01-22",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "International Trade",
-      "title_fr": "Commerce international"
+      "title_en": "International Trade"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Finances",
       "start_date": "2008-11-14",
-      "role_fr": "Porte-parole",
       "end_date": "2009-01-21",
-      "title_en": "Finance",
-      "title_fr": "Finances"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Finance"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Sciences et Technologie",
       "start_date": "2007-10-09",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-13",
-      "title_en": "Science and Technology",
-      "title_fr": "Sciences et Technologie"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Science and Technology"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Industrie",
       "start_date": "2007-01-18",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-13",
-      "title_en": "Industry",
-      "title_fr": "Industrie"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Industry"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Environnement",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole",
       "end_date": "2006-05-29",
-      "title_en": "Environment",
-      "title_fr": "Environnement"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Environment"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "D\u00e9veloppement r\u00e9gional",
       "start_date": "2002-09-25",
-      "role_fr": "Porte-parole",
       "end_date": "2003-09-09",
-      "title_en": "Regional Development",
-      "title_fr": "D\u00e9veloppement r\u00e9gional"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Regional Development"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Conseil du tr\u00e9sor",
       "start_date": "2002-09-25",
-      "role_fr": "Porte-parole",
       "end_date": "2003-12-10",
-      "title_en": "Treasury Board",
-      "title_fr": "Conseil du tr\u00e9sor"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Treasury Board"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Industrie",
       "start_date": "2001-01-17",
-      "role_fr": "Porte-parole",
       "end_date": "2001-09-18",
-      "title_en": "Industry",
-      "title_fr": "Industrie"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Industry"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Finances",
       "start_date": "2001-01-17",
-      "role_fr": "Porte-parole",
       "end_date": "2003-12-10",
-      "title_en": "Finance",
-      "title_fr": "Finances"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "1998-01-26",
       "role_fr": "Porte-parole",
-      "end_date": "2000-07-24",
-      "title_en": "Finance",
-      "title_fr": "Conseil du tr\u00e9sor"
+      "title_en": "Finance"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Conseil du tr\u00e9sor",
       "start_date": "1998-01-26",
-      "role_fr": "Porte-parole",
       "end_date": "2000-07-24",
-      "title_en": "National Revenue",
-      "title_fr": "Finances"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Finance"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Finances",
       "start_date": "1998-01-26",
-      "role_fr": "Porte-parole",
       "end_date": "2000-07-24",
-      "title_en": "Treasury Board",
-      "title_fr": "Revenu national"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "National Revenue"
     },
     {
+      "title_fr": "Revenu national",
+      "start_date": "1998-01-26",
+      "end_date": "2000-07-24",
       "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Treasury Board"
+    },
+    {
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "start_date": "1997",
-      "role_fr": "Porte-parole",
       "end_date": "1998-01-25",
-      "title_en": "Foreign Affairs",
-      "title_fr": "Affaires \u00e9trang\u00e8res"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Foreign Affairs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Commerce ext\u00e9rieur",
       "start_date": "1997",
-      "role_fr": "Porte-parole",
       "end_date": "1998-01-25",
-      "title_en": "International Trade",
-      "title_fr": "Commerce ext\u00e9rieur"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "International Trade"
     }
   ],
   "committees": [
     {
+      "name_fr": "Comit\u00e9 permanent des finances",
+      "parliament": 37,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 37,
-      "session": 1,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
+      "name_en": "Standing Committee on Finance"
     },
     {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
+      "parliament": 37,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 37,
-      "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices",
-      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur l'am\u00e9lioration des rapports financiers au Parlement du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Improved Financial Reporting to Parliament of the Standing Committee on Procedure and House Affairs",
-      "name_fr": "Sous-comit\u00e9 sur l'am\u00e9lioration des rapports financiers au Parlement du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 36,
-      "session": 1,
-      "name_en": "Standing Committee on Agriculture and Agri-Food",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "name_en": "Subcommittee on Improved Financial Reporting to Parliament of the Standing Committee on Procedure and House Affairs"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Agriculture and Agri-Food"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 du commerce, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et commerce international"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du commerce, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et commerce international",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "parliament": 36,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Brison.S@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-8231",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-996-9349",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "Kings.Hants@ns.sympatico.ca",
+      "postal_code": "B4P 1C4",
+      "city_fr": "Wolfville",
+      "province_en": "Nova Scotia",
+      "province_fr": "Nouvelle-\u00c9cosse",
+      "street_address_en": "360 Main Street, Suite 12",
+      "telephone": "902-542-4010",
+      "street_address_fr": "360, rue Main, bureau 12",
+      "fax": "902-542-4184",
+      "city_en": "Wolfville"
+    }
+  },
+  "name": "Scott Brison",
+  "date_of_birth": "1967-05-10",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Kings--Hants",
+      "riding_fr": "Kings--Hants"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Kings--Hants",
+      "riding_fr": "Kings--Hants"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Kings--Hants",
+      "riding_fr": "Kings--Hants"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Kings--Hants",
+      "riding_fr": "Kings--Hants"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Kings--Hants",
+      "riding_fr": "Kings--Hants"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Windsor, Nouvelle-\u00c9cosse, Canada",
+    "name_en": "Windsor, Nova Scotia, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "2003-12-11",
+      "name_en": "Liberal Party of Canada"
+    },
+    {
+      "name_fr": "Parti progressiste-conservateur",
+      "start_date": "1997-06-02",
+      "end_date": "2003-12-10",
+      "name_en": "Progressive Conservative Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "6d680702-120b-4bcf-8da9-aae3e38ca0cf",
+  "weblinks": [
     {
-      "name_en": "Businessman",
-      "name_fr": "Homme d'affaires"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78821&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78821&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Investment banker",
-      "name_fr": "Preneur ferme"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/12506_scott-brison",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/12506_scott-brison",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.brison.ca/",
+      "url_fr": "http://www.brison.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "6d680702-120b-4bcf-8da9-aae3e38ca0cf"
+  ]
 }

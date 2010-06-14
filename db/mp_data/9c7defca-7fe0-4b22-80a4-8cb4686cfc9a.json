@@ -1,174 +1,256 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-02-02",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Expert-conseil en affaires internationales",
+      "name_en": "Businessman"
     },
     {
-      "start_date": "2000-11-27",
-      "end_date": "2004-02-01",
-      "name_en": "Progressive Conservative Party",
-      "name_fr": "Parti progressiste-conservateur"
+      "name_fr": "Homme d'affaires",
+      "name_en": "International affairs consultant"
+    },
+    {
+      "name_fr": "Policier",
+      "name_en": "Police officer"
+    },
+    {
+      "name_fr": "Promoteur",
+      "name_en": "Promoter"
     }
   ],
-  "date_of_birth": "1947-06-14",
-  "place_of_birth": {
-    "name_en": "Kirkland Lake, Ontario, Canada",
-    "name_fr": "Kirkland Lake, Ontario, Canada"
-  },
-  "name": "Daryl Kramp",
+  "parlinfo_id": 78651,
   "functions": [
 
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Government Operations and Estimates"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Kramp.D@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-5321",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "KrampD1@parl.gc.ca",
+      "postal_code": "K8N 4Z5",
+      "city_fr": "Belleville",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "1 Millennium Parkway",
+      "telephone": "613-969-3800",
+      "street_address_fr": "1, promenade Millennium",
+      "city_en": "Belleville"
+    }
+  },
+  "name": "Daryl Kramp",
+  "date_of_birth": "1947-06-14",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Prince Edward--Hastings",
+      "riding_fr": "Prince Edward--Hastings"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Prince Edward--Hastings",
+      "riding_fr": "Prince Edward--Hastings"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Prince Edward--Hastings",
+      "riding_fr": "Prince Edward--Hastings"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "2000-11-27",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Hastings--Frontenac--Lennox and Addington",
+      "riding_fr": "Hastings--Frontenac--Lennox and Addington"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "1997-06-02",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Hastings--Frontenac--Lennox and Addington",
+      "riding_fr": "Hastings--Frontenac--Lennox and Addington"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Kirkland Lake, Ontario, Canada",
+    "name_en": "Kirkland Lake, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2004-02-02",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Parti progressiste-conservateur",
+      "start_date": "2000-11-27",
+      "end_date": "2004-02-01",
+      "name_en": "Progressive Conservative Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "9c7defca-7fe0-4b22-80a4-8cb4686cfc9a",
+  "weblinks": [
     {
-      "name_en": "Businessman",
-      "name_fr": "Expert-conseil en affaires internationales"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78651&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78651&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "International affairs consultant",
-      "name_fr": "Homme d'affaires"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1591&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1591&language_id=2",
+      "name_en": "Party Website"
     },
     {
-      "name_en": "Police officer",
-      "name_fr": "Policier"
-    },
-    {
-      "name_en": "Promoter",
-      "name_fr": "Promoteur"
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.darylkramp.ca/index.html",
+      "url_fr": "http://www.darylkramp.ca/index.html",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "9c7defca-7fe0-4b22-80a4-8cb4686cfc9a"
+  ]
 }

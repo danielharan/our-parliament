@@ -8,6 +8,15 @@ class Vote < ActiveRecord::Base
     sponsor
   end
   
+  def title
+    index = find_language_split(super)
+    if I18n.locale == "fr"
+      return index ? super[index+1..-1] : super
+    else
+      return index ? super[0..index] : super
+    end
+  end
+  
   def self.last(n)
     find(:all, :order => "vote_date DESC", :limit => n)
   end
@@ -30,6 +39,16 @@ class Vote < ActiveRecord::Base
       end
     }
     return votes_by_party 
+  end
+  
+  private 
+  
+  def find_language_split(text)
+    start_index = text.length / 3
+    return text.index(/[a-z][A-Z,\d]/, start_index) || 
+           text.index(/\)[A-Z,\d]/, start_index) || 
+           text.index(/\d[A-Z]/, start_index) || 
+           text.index(/\d{2}e/, start_index)
   end
   
 end

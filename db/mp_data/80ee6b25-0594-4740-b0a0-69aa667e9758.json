@@ -1,430 +1,526 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1988-11-21",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Directeur adjoint",
+      "name_en": "Educator"
+    },
+    {
+      "name_fr": "Directeur d'\u00e9cole",
+      "name_en": "School principal"
+    },
+    {
+      "name_fr": "Enseignant",
+      "name_en": "Teacher"
+    },
+    {
+      "name_fr": "P\u00e9dagogue",
+      "name_en": "Vice-principal"
     }
   ],
-  "date_of_birth": "1947-09-21",
-  "place_of_birth": {
-    "name_en": "Monteleone, Puglia, Italy",
-    "name_fr": "Monteleone, Puglia, Italie"
-  },
-  "name": "Giuseppe (Joseph) Volpe",
+  "parlinfo_id": 78499,
   "functions": [
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre de la Citoyennet\u00e9 et de l'Immigration",
       "start_date": "2005-01-14",
+      "end_date": "2006-02-05",
+      "role_en": "Minister",
       "role_fr": "Ministre",
-      "end_date": "2006-02-05",
-      "title_en": "Minister of Citizenship and Immigration",
-      "title_fr": "Ministre de la Citoyennet\u00e9 et de l'Immigration"
+      "title_en": "Minister of Citizenship and Immigration"
     },
     {
-      "role_en": "Minister / Secretary of State",
+      "title_fr": "Ministre d'\u00c9tat (D\u00e9veloppement des ressources humaines)Porta le titre de ministre des Ressources humaines et du D\u00e9veloppement des comp\u00e9tences.",
       "start_date": "2003-12-12",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
       "end_date": "2005-01-16",
-      "title_en": "Minister of State (Human Resources Development)Styled Minister of Human Resources and Skills Development.",
-      "title_fr": "Ministre d'\u00c9tat (D\u00e9veloppement des ressources humaines)Porta le titre de ministre des Ressources humaines et du D\u00e9veloppement des comp\u00e9tences."
+      "role_en": "Minister / Secretary of State",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister of State (Human Resources Development)Styled Minister of Human Resources and Skills Development."
     },
     {
-      "role_en": "Regional Minister",
+      "title_fr": "Ontario",
       "start_date": "2004-01-20",
-      "role_fr": "Ministre r\u00e9gional",
       "end_date": "2006-02-05",
-      "title_en": "Ontario",
-      "title_fr": "Ontario"
+      "role_en": "Regional Minister",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "Ontario"
     },
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Sant\u00e9",
       "start_date": "1996-07-12",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "1998-07-15",
-      "title_en": "Parliamentary Secretary to the Minister of Health",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Sant\u00e9"
-    },
-    {
       "role_en": "Parliamentary Secretary",
-      "start_date": "1996-02-23",
       "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Health"
+    },
+    {
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Sant\u00e9 nationale et du Bien-\u00eatre social (Sant\u00e9)",
+      "start_date": "1996-02-23",
       "end_date": "1996-07-11",
-      "title_en": "Parliamentary Secretary to the Minister of National Health and Welfare (Health)",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Sant\u00e9 nationale et du Bien-\u00eatre social (Sant\u00e9)"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of National Health and Welfare (Health)"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Transports",
       "start_date": "2009-01-22",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Transport",
-      "title_fr": "Transports"
+      "title_en": "Transport"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Transports",
       "start_date": "2007-01-18",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-13",
-      "title_en": "Transport",
-      "title_fr": "Transports"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Transport"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Conseil du tr\u00e9sor",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole",
       "end_date": "2006-05-29",
-      "title_en": "Treasury Board",
-      "title_fr": "Conseil du tr\u00e9sor"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "1991",
       "role_fr": "Porte-parole",
-      "end_date": "1993",
-      "title_en": "National Revenue",
-      "title_fr": "Revenu national"
+      "title_en": "Treasury Board"
     },
     {
+      "title_fr": "Revenu national",
+      "start_date": "1991",
+      "end_date": "1993",
       "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "National Revenue"
+    },
+    {
+      "title_fr": "Op\u00e9rations gouvernementales",
       "start_date": "1990-09-01",
-      "role_fr": "Porte-parole",
       "end_date": "1990",
-      "title_en": "Government Operations",
-      "title_fr": "Op\u00e9rations gouvernementales"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Government Operations"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Op\u00e9rations gouvernementales",
       "start_date": "1991",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1993",
-      "title_en": "Government Operations",
-      "title_fr": "Op\u00e9rations gouvernementales"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Government Operations"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Contr\u00f4le des armements et D\u00e9sarmement",
       "start_date": "1989-02",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1990-09",
-      "title_en": "Arms Control and Disarmament",
-      "title_fr": "Contr\u00f4le des armements et D\u00e9sarmement"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Arms Control and Disarmament"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Emploi",
       "start_date": "1989-02",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "1991",
-      "title_en": "Employment",
-      "title_fr": "Emploi"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Employment"
     }
   ],
   "committees": [
     {
-      "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources and Government Operations",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Standing Committee on Natural Resources and Government Operations"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du commerce ext\u00e9rieur du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce ext\u00e9rieur",
       "parliament": 35,
       "session": 1,
-      "name_en": "Subcommittee on International Trade of the Standing Committee on External Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 du commerce ext\u00e9rieur du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce ext\u00e9rieur"
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on International Trade of the Standing Committee on External Affairs and International Trade"
     },
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 35,
       "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Government Operations and Estimates",
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Government Operations and Estimates"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources and Government Operations",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources and Government Operations"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 35,
       "session": 2,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie",
       "parliament": 35,
       "session": 2,
-      "name_en": "Standing Committee on Industry",
-      "name_fr": "Comit\u00e9 permanent de l'industrie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 dur le projet de loi C-47, Loi concernant les techniques de reproduction humaine et les op\u00e9rations commerciales li\u00e9es \u00e0 la reproduction humaine, du Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 35,
       "session": 2,
-      "name_en": "Subcommittee on Bill C-47, An Act respecting Human Reproductive Technologies and Commercial Transactions Relating to Human Reproduction, of the Standing Committee on Health",
-      "name_fr": "Sous-comit\u00e9 dur le projet de loi C-47, Loi concernant les techniques de reproduction humaine et les op\u00e9rations commerciales li\u00e9es \u00e0 la reproduction humaine, du Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Bill C-47, An Act respecting Human Reproductive Technologies and Commercial Transactions Relating to Human Reproduction, of the Standing Committee on Health"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 dur le projet de loi C-47, Loi concernant les techniques de reproduction humaine et les op\u00e9rations commerciales li\u00e9es \u00e0 la reproduction humaine, du Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 35,
       "session": 2,
-      "name_en": "Subcommittee on Bill C-47, An Act respecting Human Reproductive Technologies and Commercial Transactions Relating to Human Reproduction, of the Standing Committee on Health",
-      "name_fr": "Sous-comit\u00e9 dur le projet de loi C-47, Loi concernant les techniques de reproduction humaine et les op\u00e9rations commerciales li\u00e9es \u00e0 la reproduction humaine, du Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Bill C-47, An Act respecting Human Reproductive Technologies and Commercial Transactions Relating to Human Reproduction, of the Standing Committee on Health"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur le VIH / SIDA du Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 35,
       "session": 2,
-      "name_en": "Subcommittee on HIV / AIDS of the Standing Committee on Health",
-      "name_fr": "Sous-comit\u00e9 sur le VIH / SIDA du Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on HIV / AIDS of the Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 35,
       "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-102",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-102",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-102"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-102"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-122",
       "parliament": 34,
       "session": 3,
-      "name_en": "Legislative Committee on Bill C-122",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-122"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-122"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial charg\u00e9 de l'examen de la Loi concernant les douanes",
       "parliament": 34,
       "session": 3,
-      "name_en": "Special Committee on the Act Respecting Customs",
-      "name_fr": "Comit\u00e9 sp\u00e9cial charg\u00e9 de l'examen de la Loi concernant les douanes"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 34,
-      "session": 2,
-      "name_en": "Legislative Committee on Bill C-21",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-21"
+      "name_en": "Special Committee on the Act Respecting Customs"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-21",
       "parliament": 34,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-63",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-63"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-21"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-63",
       "parliament": 34,
       "session": 2,
-      "name_en": "Standing Committee on Human Rights and the Status of Disabled Persons",
-      "name_fr": "Comit\u00e9 permanent des droits de la personne et de la condition des personnes handicap\u00e9es"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-63"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des droits de la personne et de la condition des personnes handicap\u00e9es",
+      "parliament": 34,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Rights and the Status of Disabled Persons"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Volpe.J@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-6361",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "M6A 1A3",
+      "city_fr": "Toronto",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "511 Lawrence Avenue West",
+      "telephone": "416-781-5583",
+      "street_address_fr": "511, avenue Lawrence Ouest",
+      "fax": "416-781-5586",
+      "city_en": "Toronto"
+    }
+  },
+  "name": "Giuseppe (Joseph) Volpe",
+  "date_of_birth": "1947-09-21",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Eglinton--Lawrence",
+      "riding_fr": "Eglinton--Lawrence"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Eglinton--Lawrence",
+      "riding_fr": "Eglinton--Lawrence"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Eglinton--Lawrence",
+      "riding_fr": "Eglinton--Lawrence"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Eglinton--Lawrence",
+      "riding_fr": "Eglinton--Lawrence"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Eglinton--Lawrence",
+      "riding_fr": "Eglinton--Lawrence"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1993-10-25",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Eglinton--Lawrence",
+      "riding_fr": "Eglinton--Lawrence"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1988-11-21",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Eglinton--Lawrence",
+      "riding_fr": "Eglinton--Lawrence"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Monteleone, Puglia, Italie",
+    "name_en": "Monteleone, Puglia, Italy"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "1988-11-21",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "80ee6b25-0594-4740-b0a0-69aa667e9758",
+  "weblinks": [
     {
-      "name_en": "Educator",
-      "name_fr": "Directeur adjoint"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78499&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78499&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "School principal",
-      "name_fr": "Directeur d'\u00e9cole"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/8925_joe-volpe",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/8925_joe-volpe",
+      "name_en": "Party Website"
     },
     {
-      "name_en": "Teacher",
-      "name_fr": "Enseignant"
-    },
-    {
-      "name_en": "Vice-principal",
-      "name_fr": "P\u00e9dagogue"
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.joevolpemp.ca/",
+      "url_fr": "http://www.joevolpemp.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "80ee6b25-0594-4740-b0a0-69aa667e9758"
+  ]
 }

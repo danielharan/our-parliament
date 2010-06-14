@@ -1,0 +1,21 @@
+<% @content_layout = "has_sidebar_right" %>
+
+<p>Tu trouveras ci-dessous une liste des sénateurs qui servent présentement le Parlement. Un des sénateurs t'intéresse? Clique dessus pour voir son profil et ses coordonnées.</p>
+
+<p>Qui parle pour toi au Sénat? En fait, chaque province ou territoire est représenté par un nombre fixe de sénateurs. Au Québec, les sénateurs sont aussi assignés à de différents districts (Certains sénateurs de l'extérieur du Québec s'assignent parfois aussi à des districts mais ils représentent officiellement la province entière). Si tout ceci te semble un peu confus, on peut t'aider à comprendre le Sénat.</p>
+
+<div id="groups" class="block">
+  <ul>
+    <% Province.find(:all).each do |province| %>
+      <li><a href="#<%= province.name.underscore %>"><%= province.name %></a></li>
+    <% end %>
+  </ul>
+</div>
+
+<% Province.find(:all).each do |province| %>
+  <a name="<%= province.name.underscore %>"></a>
+  <h3><%= province.name %></h3>
+  <ul class="profiles_list">
+    <%= render :partial => 'shared/senator', :collection => province.senators %>
+  </ul>
+<% end %>

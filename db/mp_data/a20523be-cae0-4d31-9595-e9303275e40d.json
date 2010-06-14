@@ -1,64 +1,120 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Expert-conseil en communications",
+      "name_en": "Account manager"
+    },
+    {
+      "name_fr": "Gestionnaire de comptes",
+      "name_en": "Communication consultant"
     }
   ],
-  "date_of_birth": "1964-01-07",
-  "place_of_birth": {
-    "name_en": "Kitchener, Ontario, Canada",
-    "name_fr": "Kitchener, Ontario, Canada"
-  },
-  "name": "Peter Braid",
+  "parlinfo_id": 128782,
   "functions": [
 
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
+      "name_en": "Standing Committee on National Defence"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "parliament": 40,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Braid.P@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-996-5928",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-992-6251",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "braidp1@parl.gc.ca",
+      "postal_code": "N2J 1N8",
+      "city_fr": "Waterloo",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "22 King Street South",
+      "telephone": "519-746-1573",
+      "street_address_fr": "22, rue King Sud",
+      "fax": "519-746-6436",
+      "city_en": "Waterloo"
+    }
+  },
+  "name": "Peter Braid",
+  "date_of_birth": "1964-01-07",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Kitchener--Waterloo",
+      "riding_fr": "Kitchener--Waterloo"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Kitchener, Ontario, Canada",
+    "name_en": "Kitchener, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2008-10-14",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "a20523be-cae0-4d31-9595-e9303275e40d",
+  "weblinks": [
     {
-      "name_en": "Account manager",
-      "name_fr": "Expert-conseil en communications"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128782&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128782&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Communication consultant",
-      "name_fr": "Gestionnaire de comptes"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1523&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1523&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel  (Disponible en anglais seulement)",
+      "url_en": "http://www.peterbraid.ca/EN/3477/",
+      "url_fr": "http://www.peterbraid.ca/EN/3477/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "a20523be-cae0-4d31-9595-e9303275e40d"
+  ]
 }

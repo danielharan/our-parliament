@@ -1,106 +1,167 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2006-01-23",
-      "name_en": "New Democratic Party",
-      "name_fr": "Nouveau Parti d\u00e9mocratique"
+      "name_fr": "P\u00e9dagogue",
+      "name_en": "Educator"
     }
   ],
-  "date_of_birth": "1943-11-21",
-  "place_of_birth": {
-    "name_en": "St-Boniface, Manitoba, Canada",
-    "name_fr": "Saint-Boniface, Manitoba, Canada"
-  },
-  "name": "Denise Savoie",
+  "parlinfo_id": 78359,
   "functions": [
     {
-      "role_en": "Deputy Chair of Committees of the Whole",
+      "title_fr": "Vice-pr\u00e9sidente des comit\u00e9s pl\u00e9niers",
       "start_date": "2008-11-21",
+      "role_en": "Deputy Chair of Committees of the Whole",
       "role_fr": "Vice-pr\u00e9sident des comit\u00e9s pl\u00e9niers",
-      "title_en": "Deputy Chair of Committees of the Whole",
-      "title_fr": "Vice-pr\u00e9sidente des comit\u00e9s pl\u00e9niers"
+      "title_en": "Deputy Chair of Committees of the Whole"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Itin\u00e9rance",
       "start_date": "2008-11-17",
-      "role_fr": "Porte-parole",
       "end_date": "2009-02-12",
-      "title_en": "Canada Mortgage and Housing Corporation",
-      "title_fr": "Itin\u00e9rance"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Canada Mortgage and Housing Corporation"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Logement",
       "start_date": "2008-11-17",
-      "role_fr": "Porte-parole",
       "end_date": "2009-02-12",
-      "title_en": "Homelessness",
-      "title_fr": "Logement"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Homelessness"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Soci\u00e9t\u00e9 canadienne d'hypoth\u00e8ques et de logement",
       "start_date": "2008-11-17",
-      "role_fr": "Porte-parole",
       "end_date": "2009-02-12",
-      "title_en": "Housing",
-      "title_fr": "Soci\u00e9t\u00e9 canadienne d'hypoth\u00e8ques et de logement"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Housing"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Transports en commun",
       "start_date": "2008-11-17",
-      "role_fr": "Porte-parole",
       "end_date": "2009-02-12",
-      "title_en": "Public Transit",
-      "title_fr": "Transports en commun"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Transit"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Affaires intergouvernementales",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole",
       "end_date": "2007-09-26",
-      "title_en": "Intergovernmental Affairs",
-      "title_fr": "Affaires intergouvernementales"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Intergovernmental Affairs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "\u00c9ducation post secondaire",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-16",
-      "title_en": "Post Secondary Education",
-      "title_fr": "\u00c9ducation post secondaire"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Post Secondary Education"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Alphab\u00e9tisation",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-17",
-      "title_en": "Literacy",
-      "title_fr": "Alphab\u00e9tisation"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Literacy"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Am\u00e9riques",
       "start_date": "2008-11-17",
+      "role_en": "Assistant Critic",
       "role_fr": "Porte-parole adjoint",
-      "title_en": "Americas",
-      "title_fr": "Am\u00e9riques"
+      "title_en": "Americas"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Formation",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2008-11-16",
-      "title_en": "Training",
-      "title_fr": "Formation"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Training"
     }
   ],
   "committees": [
 
   ],
-  "language": "English",
-  "professions": [
+  "contact_info": {
+    "parliament": {
+      "email": "Savoie.D@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-996-2358",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "savoid@parl.gc.ca",
+      "postal_code": "V8W 2H3",
+      "city_fr": "Victoria",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "970 Blanshard Street",
+      "telephone": "250-363-3600",
+      "street_address_fr": "970, rue Blanshard",
+      "city_en": "Victoria"
+    }
+  },
+  "name": "Denise Savoie",
+  "date_of_birth": "1943-11-21",
+  "constituencies": [
     {
-      "name_en": "Educator",
-      "name_fr": "P\u00e9dagogue"
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Victoria",
+      "riding_fr": "Victoria"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Victoria",
+      "riding_fr": "Victoria"
     }
   ],
-  "id": "43d98498-4000-43e4-b468-5f79352823ad"
+  "place_of_birth": {
+    "name_fr": "Saint-Boniface, Manitoba, Canada",
+    "name_en": "St-Boniface, Manitoba, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "start_date": "2006-01-23",
+      "name_en": "New Democratic Party"
+    }
+  ],
+  "language": "English",
+  "id": "43d98498-4000-43e4-b468-5f79352823ad",
+  "weblinks": [
+    {
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78359&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78359&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/denisesavoie",
+      "url_fr": "http://www.npd.ca/denisesavoie",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.denisesavoie.ca/",
+      "url_fr": "http://www.denisesavoie.ca/",
+      "name_en": "Personal Website"
+    }
+  ]
 }

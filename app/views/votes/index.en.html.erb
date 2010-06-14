@@ -1,0 +1,15 @@
+<% @content_layout = "has_sidebar_right" %>
+
+<p>Whenever the House of Commons wants to do something - whether it's amending a bill or going home for the day - they vote on it as a motion. MPs can vote either "yea" or "nay" on a motion, although sometimes they won't cast a vote - either because they're absent, or because they prefer to abstain as a matter of principle.</p>
+
+<p>MPs can also "pair" their votes. This is the Parliamentary version of the buddy system: when an MP from one party can't attend a vote, MPs from the other parties will "pair" with them to maintain the balance of power in the House of Commons.</p>
+
+<div id="votes" class="block">
+  <ul>
+    <%= render :partial => 'shared/vote', :collection => @votes %>
+  </ul>
+</div>
+
+<% content_for :sidebar_right do %>
+  <%= render :partial => 'shared/links' %>
+<% end %>

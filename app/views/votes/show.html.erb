@@ -15,8 +15,8 @@
 <div id="votes_by_party">
 	<% for party in @parties %>
 	<div class="party_summary">
-		<% if File.exists?("public/images/parties/#{party.name.underscore}.png") %>
-			<%= image_tag "parties/#{party.name.underscore}.png", :style => "float:left" %>
+		<% if party.image %>
+			<%= image_tag "parties/#{party.image}.png", :style => "float:left" %>
 		<% else %>
 			<div style="width: 200px; height: 110px; float: left;">
 				<h3 style="text-align:right;margin:30px 20px 0 0;"><%= party.name %></h3>
@@ -28,7 +28,7 @@
 			<li class="paired_small"><span class="votes"><%= @votes_by_party[party.id]['paired'] %></span><span class="description">Paired or didn't vote</span></li>
 		</ul>
 		<div class="clear"></div>
-		<a href="#" class="toggle_votes">See how individual MPs voted</a>
+		<a href="#" class="toggle_votes"><%= t('votes.show.members_link') %></a>
 		<div class="clear"></div>
 		<div class="individual_votes">
 			<ul class="profiles_list">

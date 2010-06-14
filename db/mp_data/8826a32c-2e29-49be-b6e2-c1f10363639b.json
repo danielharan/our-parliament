@@ -1,141 +1,222 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1997-06-02",
-      "name_en": "New Democratic Party",
-      "name_fr": "Nouveau Parti d\u00e9mocratique"
+      "name_fr": "Activiste communautaire",
+      "name_en": "Community activist"
+    },
+    {
+      "name_fr": "Enseignante",
+      "name_en": "Teacher"
     }
   ],
-  "date_of_birth": "1951-08-16",
-  "place_of_birth": {
-    "name_en": "London, Ontario, Canada",
-    "name_fr": "London, Ontario, Canada"
-  },
-  "name": "Irene Mathyssen",
+  "parlinfo_id": 78675,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Condition f\u00e9minine",
       "start_date": "2006-02-14",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Status of Women",
-      "title_fr": "Condition f\u00e9minine"
+      "title_en": "Status of Women"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Logement",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole",
       "end_date": "2007-09-26",
-      "title_en": "Housing",
-      "title_fr": "Logement"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2006-02-14",
       "role_fr": "Porte-parole",
-      "end_date": "2007-09-26",
-      "title_en": "Housing, Public",
-      "title_fr": "Logement social"
+      "title_en": "Housing"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Logement social",
+      "start_date": "2006-02-14",
+      "end_date": "2007-09-26",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Housing, Public"
+    },
+    {
+      "title_fr": "S\u00e9curit\u00e9 publique",
       "start_date": "2008-11-17",
+      "role_en": "Assistant Critic",
       "role_fr": "Porte-parole adjoint",
-      "title_en": "Public Safety",
-      "title_fr": "S\u00e9curit\u00e9 publique"
+      "title_en": "Public Safety"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
+      "name_en": "Standing Committee on the Status of Women"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
+      "name_en": "Standing Committee on the Status of Women"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
+      "name_en": "Standing Committee on the Status of Women"
     },
     {
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "parliament": 39,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine"
+      "name_en": "Standing Committee on the Status of Women"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine",
+      "parliament": 39,
+      "session": 1,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on the Status of Women"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on the Status of Women"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
+      "name_en": "Standing Committee on the Status of Women"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on the Status of Women"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine",
+      "parliament": 39,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Mathyssen.I@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-2901",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "mathyi@parl.gc.ca",
+      "postal_code": "N5W 3C9",
+      "city_fr": "London",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "1700 Dundas Street",
+      "telephone": "519-685-4745",
+      "street_address_fr": "1700, rue Dundas",
+      "city_en": "London"
+    }
+  },
+  "name": "Irene Mathyssen",
+  "date_of_birth": "1951-08-16",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "London--Fanshawe",
+      "riding_fr": "London--Fanshawe"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lue",
+      "riding_en": "London--Fanshawe",
+      "riding_fr": "London--Fanshawe"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "2004-06-28",
+      "result_fr": "D\u00e9faite",
+      "riding_en": "London--Fanshawe",
+      "riding_fr": "London--Fanshawe"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "1997-06-02",
+      "result_fr": "D\u00e9faite",
+      "riding_en": "London--Fanshawe",
+      "riding_fr": "London--Fanshawe"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "London, Ontario, Canada",
+    "name_en": "London, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "start_date": "1997-06-02",
+      "name_en": "New Democratic Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "8826a32c-2e29-49be-b6e2-c1f10363639b",
+  "weblinks": [
     {
-      "name_en": "Community activist",
-      "name_fr": "Activiste communautaire"
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78675&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78675&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Teacher",
-      "name_fr": "Enseignante"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/irenemathyssen",
+      "url_fr": "http://www.npd.ca/irenemathyssen",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.irenemathyssen.ca/",
+      "url_fr": "http://www.irenemathyssen.ca/",
+      "name_en": "Personal Website"
+    },
+    {
+      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
+      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=407",
+      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=407",
+      "name_en": "Ontario Legislative Assembly Website"
     }
-  ],
-  "id": "8826a32c-2e29-49be-b6e2-c1f10363639b"
+  ]
 }

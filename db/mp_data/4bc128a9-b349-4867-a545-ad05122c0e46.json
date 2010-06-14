@@ -1,71 +1,131 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2006-01-23",
-      "name_en": "New Democratic Party",
-      "name_fr": "Nouveau Parti d\u00e9mocratique"
+      "name_fr": "Charg\u00e9e de cours",
+      "name_en": "Instructor"
+    },
+    {
+      "name_fr": "Instructrice",
+      "name_en": "Lecturer"
+    },
+    {
+      "name_fr": "Recherchiste",
+      "name_en": "Researcher"
     }
   ],
-  "date_of_birth": "1982-09-09",
-  "place_of_birth": {
-    "name_en": "Thompson, Manitoba, Canada",
-    "name_fr": "Thompson, Manitoba, Canada"
-  },
-  "name": "Niki Ashton",
+  "parlinfo_id": 128733,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Alphab\u00e9tisation",
       "start_date": "2009-02-13",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Literacy",
-      "title_fr": "Alphab\u00e9tisation"
+      "title_en": "Literacy"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "\u00c9ducation post secondaire",
       "start_date": "2009-02-13",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Post Secondary Education",
-      "title_fr": "\u00c9ducation post secondaire"
+      "title_en": "Post Secondary Education"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "D\u00e9veloppement communautaire",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Community Development",
-      "title_fr": "D\u00e9veloppement communautaire"
+      "title_en": "Community Development"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "D\u00e9veloppement rural",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Rural Development",
-      "title_fr": "D\u00e9veloppement rural"
+      "title_en": "Rural Development"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Jeunesse",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Youth",
-      "title_fr": "Jeunesse"
+      "title_en": "Youth"
     }
   ],
   "committees": [
 
   ],
-  "language": "English",
-  "professions": [
+  "contact_info": {
+    "parliament": {
+      "email": "Ashton.N@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-3018",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "R8N 0L4",
+      "city_fr": "Thompson",
+      "province_en": "Manitoba",
+      "province_fr": "Manitoba",
+      "street_address_en": "307-83 Churchill Drive",
+      "street_address_fr": "307-83, promenade Churchill",
+      "fax": "1-204-677-1339",
+      "city_en": "Thompson"
+    }
+  },
+  "name": "Niki Ashton",
+  "date_of_birth": "1982-09-09",
+  "constituencies": [
     {
-      "name_en": "Instructor",
-      "name_fr": "Charg\u00e9e de cours"
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Churchill",
+      "riding_fr": "Churchill"
     },
     {
-      "name_en": "Lecturer",
-      "name_fr": "Instructrice"
-    },
-    {
-      "name_en": "Researcher",
-      "name_fr": "Recherchiste"
+      "result_en": "Defeated",
+      "election_date": "2006-01-23",
+      "result_fr": "D\u00e9faite",
+      "riding_en": "Churchill",
+      "riding_fr": "Churchill"
     }
   ],
-  "id": "4bc128a9-b349-4867-a545-ad05122c0e46"
+  "place_of_birth": {
+    "name_fr": "Thompson, Manitoba, Canada",
+    "name_en": "Thompson, Manitoba, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "start_date": "2006-01-23",
+      "name_en": "New Democratic Party"
+    }
+  ],
+  "language": "English",
+  "id": "4bc128a9-b349-4867-a545-ad05122c0e46",
+  "weblinks": [
+    {
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128733&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128733&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/nikiashton",
+      "url_fr": "http://www.npd.ca/nikiashton",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.nikiashton.ca/",
+      "url_fr": "http://www.nikiashton.ca/",
+      "name_en": "Personal Website"
+    }
+  ]
 }

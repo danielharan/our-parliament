@@ -1,153 +1,233 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
-    },
-    {
-      "start_date": "2000-11-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+      "name_fr": "Chiropraticien",
+      "name_en": "Chiropractor"
     }
   ],
-  "date_of_birth": "1951-09-05",
-  "place_of_birth": {
-    "name_en": "Winnipeg, Manitoba, Canada",
-    "name_fr": "Winnipeg, Manitoba, Canada"
-  },
-  "name": "James D. Lunney",
+  "parlinfo_id": 78997,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Langues officielles",
       "start_date": "2004-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Natural Health Products",
-      "title_fr": "Langues officielles"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Natural Health Products"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Produits naturels",
       "start_date": "2004-01-22",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Official Languages",
-      "title_fr": "Produits naturels"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Official Languages"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "P\u00eaches",
       "start_date": "2002-04-04",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2003-06-22",
-      "title_en": "Fisheries",
-      "title_fr": "P\u00eaches"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Fisheries"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Sant\u00e9",
       "start_date": "2001-06-18",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2002-04-03",
-      "title_en": "Health",
-      "title_fr": "Sant\u00e9"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Health"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent des langues officielles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Official Languages",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Official Languages"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 37,
-      "session": 1,
-      "name_en": "Standing Committee on Fisheries and Oceans",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
+      "name_en": "Standing Committee on Health"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Fisheries and Oceans"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "parliament": 37,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Lunney.J@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-5243",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "V9Y 1X6",
+      "city_fr": "Port Alberni",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "3074 Kingsway Avenue",
+      "telephone": "250-720-4457",
+      "street_address_fr": "3074, avenue Kingsway",
+      "city_en": "Port Alberni"
+    }
+  },
+  "name": "James D. Lunney",
+  "date_of_birth": "1951-09-05",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Nanaimo--Alberni",
+      "riding_fr": "Nanaimo--Alberni"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Nanaimo--Alberni",
+      "riding_fr": "Nanaimo--Alberni"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Nanaimo--Alberni",
+      "riding_fr": "Nanaimo--Alberni"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Nanaimo--Alberni",
+      "riding_fr": "Nanaimo--Alberni"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Winnipeg, Manitoba, Canada",
+    "name_en": "Winnipeg, Manitoba, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2000-11-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "a52ac646-bd34-440f-b534-2474625065e9",
+  "weblinks": [
     {
-      "name_en": "Chiropractor",
-      "name_fr": "Chiropraticien"
+      "name_fr": "Adresse de la coline",
+      "url_en": "http://www.jameslunneymp.ca",
+      "url_fr": "N/A",
+      "name_en": "Hill Address"
+    },
+    {
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78997&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78997&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1797&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1797&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.jameslunneymp.ca",
+      "url_fr": "http://www.jameslunneymp.ca",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "a52ac646-bd34-440f-b534-2474625065e9"
+  ]
 }

@@ -1,122 +1,189 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Charg\u00e9 de compte",
+      "name_en": "Account executive"
+    },
+    {
+      "name_fr": "Directeur des ventes",
+      "name_en": "Businessman"
+    },
+    {
+      "name_fr": "Homme d'affaires",
+      "name_en": "Sales director"
     }
   ],
-  "date_of_birth": "1969-06-04",
-  "place_of_birth": {
-    "name_en": "New Westminster, British Columbia, Canada",
-    "name_fr": "New Westminster, Colombie-Britannique, Canada"
-  },
-  "name": "Mike Lake",
+  "parlinfo_id": 78415,
   "functions": [
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Industrie",
       "start_date": "2008-11-07",
+      "role_en": "Parliamentary Secretary",
       "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Industry",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Industrie"
+      "title_en": "Parliamentary Secretary to the Minister of Industry"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
+      "name_en": "Standing Committee on Public Accounts"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "parliament": 39,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Lake.M@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-8695",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "Lake.M@parl.gc.ca",
+      "postal_code": "T6L 6K3",
+      "city_fr": "Edmonton",
+      "province_en": "Alberta",
+      "province_fr": "Alberta",
+      "street_address_en": "212 -  6203  28 Avenue",
+      "telephone": "780-495-2149",
+      "street_address_fr": "212 - 6203, avenue 28",
+      "city_en": "Edmonton"
+    }
+  },
+  "name": "Mike Lake",
+  "date_of_birth": "1969-06-04",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Edmonton--Mill Woods--Beaumont",
+      "riding_fr": "Edmonton--Mill Woods--Beaumont"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Edmonton--Mill Woods--Beaumont",
+      "riding_fr": "Edmonton--Mill Woods--Beaumont"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "New Westminster, Colombie-Britannique, Canada",
+    "name_en": "New Westminster, British Columbia, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2006-01-23",
+      "name_en": "Conservative Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "00c812a1-d71b-48b6-8c98-8633505a63b4",
+  "weblinks": [
     {
-      "name_en": "Account executive",
-      "name_fr": "Charg\u00e9 de compte"
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.ic.gc.ca/epic/site/ic1.nsf/en/00095e.html",
+      "url_fr": "http://www.ic.gc.ca/epic/site/ic1.nsf/fr/00095f.html",
+      "name_en": "Department Website"
     },
     {
-      "name_en": "Businessman",
-      "name_fr": "Directeur des ventes"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78415&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78415&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Sales director",
-      "name_fr": "Homme d'affaires"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1735&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1735&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.mikelake.ca/",
+      "url_fr": "http://www.mikelake.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "00c812a1-d71b-48b6-8c98-8633505a63b4"
+  ]
 }

@@ -1,249 +1,327 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1998-09-14",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois",
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+      "name_fr": "Comptable agr\u00e9\u00e9",
+      "name_en": "Chartered accountant"
     }
   ],
-  "date_of_birth": "1950-07-02",
-  "place_of_birth": {
-    "name_en": "Sherbrooke, Quebec, Canada",
-    "name_fr": "Sherbrooke, Qu\u00e9bec, Canada"
-  },
-  "name": "Serge Cardin",
+  "parlinfo_id": 78644,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Sciences et Technologie",
       "start_date": "2009-12-15",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Science and Technology",
-      "title_fr": "Sciences et Technologie"
+      "title_en": "Science and Technology"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "T\u00e9l\u00e9communications",
       "start_date": "2009-12-15",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Telecommunications",
-      "title_fr": "T\u00e9l\u00e9communications"
+      "title_en": "Telecommunications"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Commerce international",
       "start_date": "2006-09-12",
-      "role_fr": "Porte-parole",
       "end_date": "2009-12-14",
-      "title_en": "International Trade",
-      "title_fr": "Commerce international"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "International Trade"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Ressources naturelles",
       "start_date": "1999-06-30",
-      "role_fr": "Porte-parole",
       "end_date": "2006-09-11",
-      "title_en": "Natural Resources",
-      "title_fr": "Ressources naturelles"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Natural Resources"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
+      "name_en": "Standing Committee on International Trade"
     },
     {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "parliament": 39,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international"
+      "name_en": "Standing Committee on International Trade"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international",
+      "parliament": 39,
+      "session": 1,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources and Government Operations",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 36,
-      "session": 1,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
+      "name_en": "Standing Committee on Natural Resources and Government Operations"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
-      "name_fr": "Sous-comit\u00e9 des lignes directrices et normes internationales relativement aux \u00e9tats financiers du secteur public du Comit\u00e9 permanent des comptes publics"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 des lignes directrices et normes internationales relativement aux \u00e9tats financiers du secteur public du Comit\u00e9 permanent des comptes publics",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Financial Reporting of the Standing Committee on Public Accounts",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on International Financial Reporting Guidelines and Standards for the Public Sector of the Standing Committee on Public Accounts",
-      "name_fr": "Sous-comit\u00e9 sur des \u00e9tats financiers du Comit\u00e9 permanent des comptes publics"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Financial Reporting of the Standing Committee on Public Accounts"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 sur des \u00e9tats financiers du Comit\u00e9 permanent des comptes publics",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Tax Equity for Canadian Families with Dependent Children of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 sur l'\u00e9quit\u00e9 fiscale pour les familles canadiennes avec des enfants \u00e0 charge du Comit\u00e9 permanent des finances"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on International Financial Reporting Guidelines and Standards for the Public Sector of the Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur l'\u00e9quit\u00e9 fiscale pour les familles canadiennes avec des enfants \u00e0 charge du Comit\u00e9 permanent des finances",
+      "parliament": 36,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Tax Equity for Canadian Families with Dependent Children of the Standing Committee on Finance"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Cardin.S@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-943-7896",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-943-7902",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "cardis1@parl.gc.ca",
+      "postal_code": "J1H 4M2",
+      "city_fr": "Sherbrooke",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "234 Dufferin Street, Suite 110",
+      "telephone": "819-564-4200",
+      "street_address_fr": "234, rue Dufferin, bureau 110",
+      "fax": "819-564-3745",
+      "city_en": "Sherbrooke"
+    }
+  },
+  "name": "Serge Cardin",
+  "date_of_birth": "1950-07-02",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Sherbrooke",
+      "riding_fr": "Sherbrooke"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Sherbrooke",
+      "riding_fr": "Sherbrooke"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Sherbrooke",
+      "riding_fr": "Sherbrooke"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Sherbrooke",
+      "riding_fr": "Sherbrooke"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1998-09-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Sherbrooke",
+      "riding_fr": "Sherbrooke"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Sherbrooke, Qu\u00e9bec, Canada",
+    "name_en": "Sherbrooke, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "start_date": "1998-09-14",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois"
     }
   ],
   "language": "French",
-  "professions": [
+  "id": "d2983554-c9a0-4e21-9065-aa9105f9510a",
+  "weblinks": [
     {
-      "name_en": "Chartered accountant",
-      "name_fr": "Comptable agr\u00e9\u00e9"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78644&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78644&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=bcdb3ddb-19c4-4c3c-ba3d-8954de7a3655",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=bcdb3ddb-19c4-4c3c-ba3d-8954de7a3655",
+      "name_en": "Party Website (Available in French only)"
     }
-  ],
-  "id": "d2983554-c9a0-4e21-9065-aa9105f9510a"
+  ]
 }

@@ -1,150 +1,225 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1997-06-02",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
-    }
-  ],
-  "date_of_birth": "1960-05-13",
-  "place_of_birth": {
-    "name_en": "Belfast, Northern Ireland",
-    "name_fr": "Belfast, Irlande du Nord"
-  },
-  "name": "Michael John Savage",
-  "functions": [
-    {
-      "role_en": "Critic",
-      "start_date": "2007-01-18",
-      "role_fr": "Porte-parole",
-      "title_en": "Human Resources and Skills Development",
-      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences"
+      "name_fr": "Directeur du recrutement",
+      "name_en": "Consultant"
     },
     {
+      "name_fr": "Expert-conseil",
+      "name_en": "Manager"
+    },
+    {
+      "name_fr": "G\u00e9rant",
+      "name_en": "Recruiting executive"
+    },
+    {
+      "name_fr": "G\u00e9rant des ventes",
+      "name_en": "Sales manager"
+    }
+  ],
+  "parlinfo_id": 78797,
+  "functions": [
+    {
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences",
+      "start_date": "2007-01-18",
       "role_en": "Critic",
-      "start_date": "2006-02-23",
       "role_fr": "Porte-parole",
+      "title_en": "Human Resources and Skills Development"
+    },
+    {
+      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique",
+      "start_date": "2006-02-23",
       "end_date": "2007-01-17",
-      "title_en": "Atlantic Canada Opportunities Agency",
-      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Atlantic Canada Opportunities Agency"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 39,
-      "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des Ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des Ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "parliament": 39,
+      "session": 2,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-20",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-20"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des Ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des Ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 38,
-      "session": 1,
-      "name_en": "Legislative Committee on Bill C-38",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38"
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-38"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "parliament": 38,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Savage.M@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-9378",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "msavage@ns.aliantzinc.ca",
+      "postal_code": "B2W 3Y6",
+      "city_fr": "Dartmouth",
+      "province_en": "Nova Scotia",
+      "province_fr": "Nouvelle-\u00c9cosse",
+      "street_address_en": "73 Tacoma Drive, Suite 600",
+      "telephone": "902-462-6453",
+      "street_address_fr": "73, promenade Tacoma, bureau 600",
+      "city_en": "Dartmouth"
+    }
+  },
+  "name": "Michael John Savage",
+  "date_of_birth": "1960-05-13",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Dartmouth--Cole Harbour",
+      "riding_fr": "Dartmouth--Cole Harbour"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Dartmouth--Cole Harbour",
+      "riding_fr": "Dartmouth--Cole Harbour"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Dartmouth--Cole Harbour",
+      "riding_fr": "Dartmouth--Cole Harbour"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "1997-06-02",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Dartmouth",
+      "riding_fr": "Dartmouth"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Belfast, Irlande du Nord",
+    "name_en": "Belfast, Northern Ireland"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "1997-06-02",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "d167eba6-d72b-4d64-824f-3de7096fc459",
+  "weblinks": [
     {
-      "name_en": "Consultant",
-      "name_fr": "Directeur du recrutement"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78797&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78797&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Manager",
-      "name_fr": "Expert-conseil"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/12751_michael-savage",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/12751_michael-savage",
+      "name_en": "Party Website"
     },
     {
-      "name_en": "Recruiting executive",
-      "name_fr": "G\u00e9rant"
-    },
-    {
-      "name_en": "Sales manager",
-      "name_fr": "G\u00e9rant des ventes"
+      "name_fr": "Site Web personnel",
+      "url_en": "http://mikesavage.liberal.ca/en/default.aspx",
+      "url_fr": "http://mikesavage.liberal.ca/fr/default.aspx",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "d167eba6-d72b-4d64-824f-3de7096fc459"
+  ]
 }

@@ -1,100 +1,161 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2007-09-17",
-      "name_en": "New Democratic Party",
-      "name_fr": "Nouveau Parti d\u00e9mocratique"
+      "name_fr": "Avocat",
+      "name_en": "Lawyer"
+    },
+    {
+      "name_fr": "Professeur",
+      "name_en": "Professor"
     }
   ],
-  "date_of_birth": "1954-10-24",
-  "place_of_birth": {
-    "name_en": "Ottawa, Ontario, Canada",
-    "name_fr": "Ottawa, Ontario, Canada"
-  },
-  "name": "Thomas J. Mulcair",
+  "parlinfo_id": 113956,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "R\u00e9gion de Qu\u00e9bec",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Quebec Region",
-      "title_fr": "R\u00e9gion de Qu\u00e9bec"
+      "title_en": "Quebec Region"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
       "start_date": "2007-09-27",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
-      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec"
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Finances",
       "start_date": "2007-09-27",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Finance",
-      "title_fr": "Finances"
+      "title_en": "Finance"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 39,
-      "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
+      "parliament": 39,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Mulcair.T@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-7691",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "Mulcair.T@parl.gc.ca",
+      "postal_code": "H3V 1A2",
+      "city_fr": "Montr\u00e9al",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "3333 Queen Mary Road, Suite 310",
+      "telephone": "514-736-2727",
+      "street_address_fr": "3333 chemin Queen Mary,\r\nbureau 310",
+      "city_en": "Montreal"
+    }
+  },
+  "name": "Thomas J. Mulcair",
+  "date_of_birth": "1954-10-24",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Outremont",
+      "riding_fr": "Outremont"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2007-09-17",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Outremont",
+      "riding_fr": "Outremont"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Ottawa, Ontario, Canada",
+    "name_en": "Ottawa, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "start_date": "2007-09-17",
+      "name_en": "New Democratic Party"
     }
   ],
   "language": "English, French",
-  "professions": [
+  "id": "551183c2-2f3e-41ba-8660-2d194cf60169",
+  "weblinks": [
     {
-      "name_en": "Lawyer",
-      "name_fr": "Avocat"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=113956&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=113956&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Professor",
-      "name_fr": "Professeur"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/thomasmulcair",
+      "url_fr": "http://www.npd.ca/thomasmulcair",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web de l'Assembl\u00e9e nationale du Qu\u00e9bec",
+      "url_en": "http://www.assnat.qc.ca/en/deputes/mulcair-thomas-j-4595/biographie.html",
+      "url_fr": "http://www.assnat.qc.ca/fr/deputes/mulcair-thomas-j-4595/biographie.html",
+      "name_en": "National Assembly of Quebec Website (Available in French only)"
     }
-  ],
-  "id": "551183c2-2f3e-41ba-8660-2d194cf60169"
+  ]
 }

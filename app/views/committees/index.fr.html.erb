@@ -1,0 +1,17 @@
+<% @content_layout = "has_sidebar_right" %>
+
+<p>Les comités sont une façon pour le Parlement d'explorer des problèmes spécifiques en profondeur. Ils revoient les projets de lois, appellent des témoins experts, enquêtent sur des scandales et rapportent tout cela à la Chambre des communes. Il y a différents types de comités dotés de différents rôles. Ci-dessous, tu trouveras une liste des différents comités existants - ils sont les groupes permanents qui gèrent un aspect spécifique du gouvernement.</p> 
+
+<p>Alors, qu'arrive-t-il lors des rencontres de comités? <%= link_to "Rien de mystérieux là-dessus", "http://www.parl.gc.ca/common/committee.asp?Language=F" %>, mais la Fabrique citoyenne n'a pas encore accès à cette information. Le Parlement a annoncé qu'il partagera bientôt cette information alors garde l'œil ouvert.</p> 
+
+<div id="current_committees" class="section">
+	<ul>
+	<% for committee in @current_committees %>
+		<li><%= link_to(committee.name, committee_path(committee)) %></li>
+	<% end %>
+	</ul>
+</div>
+
+<% content_for :sidebar_right do %>
+  <%= render :partial => 'shared/links' %>
+<% end %>

@@ -1,235 +1,310 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2000-11-27",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Enseignant",
+      "name_en": "Teacher"
     }
   ],
-  "date_of_birth": "1943-04-02",
-  "place_of_birth": {
-    "name_en": "Toronto, Ontario, Canada",
-    "name_fr": "Toronto, Ontario, Canada"
-  },
-  "name": "Alan Tonks",
+  "parlinfo_id": 78347,
   "functions": [
     {
+      "title_fr": "Adjoint parlementaire du ministre de l'Environnement",
+      "start_date": "2003-01-13",
+      "end_date": "2003-12-11",
       "role_en": "Minister",
-      "start_date": "2003-01-13",
       "role_fr": "Ministre",
-      "end_date": "2003-12-11",
-      "title_en": "Parliamentary Secretary to the Minister of the Environment",
-      "title_fr": "Adjoint parlementaire du ministre de l'Environnement"
+      "title_en": "Parliamentary Secretary to the Minister of the Environment"
     },
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Adjoint parlementaire du ministre de l'Environnement",
       "start_date": "2003-01-13",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2003-12-11",
-      "title_en": "Parliamentary Secretary to the Minister of the Environment",
-      "title_fr": "Adjoint parlementaire du ministre de l'Environnement"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of the Environment"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "R\u00e9forme d\u00e9mocratique",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2007-01-17",
-      "title_en": "Democratic Reform",
-      "title_fr": "R\u00e9forme d\u00e9mocratique"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Democratic Reform"
     }
   ],
   "committees": [
     {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "parliament": 38,
+      "session": 1,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 38,
-      "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "name_en": "Standing Committee on Environment and Sustainable Development"
     },
     {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "parliament": 38,
+      "session": 1,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 38,
-      "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
     },
     {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "parliament": 40,
+      "session": 3,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 40,
-      "session": 3,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
+      "name_en": "Standing Committee on Natural Resources"
     },
     {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "parliament": 40,
+      "session": 2,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
+      "name_en": "Standing Committee on Natural Resources"
     },
     {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "parliament": 39,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
+      "name_en": "Standing Committee on Natural Resources"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Natural Resources",
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Natural Resources"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 de Liaison",
       "parliament": 38,
       "session": 1,
-      "name_en": "Liaison Committee",
-      "name_fr": "Comit\u00e9 de Liaison"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Liaison Committee"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Transport",
-      "name_fr": "Comit\u00e9 permanent des transports"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 37,
-      "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
+      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des enfants et jeunes \u00e0 risque du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
+      "parliament": 37,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Children and Youth at Risk of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Tonks.A@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-0777",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "M6L 2N8",
+      "city_fr": "Toronto",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "2534 Keele Street",
+      "telephone": "416-656-2526",
+      "street_address_fr": "2534, rue Keele",
+      "fax": "416-656-9908",
+      "city_en": "Toronto"
+    }
+  },
+  "name": "Alan Tonks",
+  "date_of_birth": "1943-04-02",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "York South--Weston",
+      "riding_fr": "York-Sud--Weston"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "York South--Weston",
+      "riding_fr": "York-Sud--Weston"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "York South--Weston",
+      "riding_fr": "York-Sud--Weston"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "York South--Weston",
+      "riding_fr": "York-Sud--Weston"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Toronto, Ontario, Canada",
+    "name_en": "Toronto, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "2000-11-27",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "7be31897-2aa9-4cff-8581-8f6eb0edff6e",
+  "weblinks": [
     {
-      "name_en": "Teacher",
-      "name_fr": "Enseignant"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78347&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78347&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=11661",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=11661",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.alantonks.com/",
+      "url_fr": "http://www.alantonks.com/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "7be31897-2aa9-4cff-8581-8f6eb0edff6e"
+  ]
 }

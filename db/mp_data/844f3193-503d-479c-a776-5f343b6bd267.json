@@ -1,80 +1,147 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Administratrice",
+      "name_en": "Administrator"
     },
     {
-      "start_date": "2000-11",
-      "end_date": "2003-12",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+      "name_fr": "Entrepreneure",
+      "name_en": "Educator"
+    },
+    {
+      "name_fr": "P\u00e9dagogue",
+      "name_en": "Entrepreneur"
     }
   ],
-  "date_of_birth": "1948-06-30",
-  "place_of_birth": {
-    "name_en": "Hong Kong",
-    "name_fr": "Hong Kong"
-  },
-  "name": "Alice Wong",
+  "parlinfo_id": 128331,
   "functions": [
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire pour le Multiculturalisme",
       "start_date": "2008-11-07",
+      "role_en": "Parliamentary Secretary",
       "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary for Multiculturalism",
-      "title_fr": "Secr\u00e9taire parlementaire pour le Multiculturalisme"
+      "title_en": "Parliamentary Secretary for Multiculturalism"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
+      "name_en": "Standing Committee on the Status of Women"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on the Status of Women",
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "parliament": 40,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on the Status of Women"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Wong.A@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-995-2021",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "V6X 2E3",
+      "city_fr": "Richmond",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "5951 No.3 Road, Unit 360",
+      "telephone": "604-775-5790",
+      "street_address_fr": "5951, chemin No.3, unit\u00e9 360",
+      "city_en": "Richmond"
+    }
+  },
+  "name": "Alice Wong",
+  "date_of_birth": "1948-06-30",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Richmond",
+      "riding_fr": "Richmond"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "2004-06-28",
+      "result_fr": "D\u00e9faite",
+      "riding_en": "Richmond",
+      "riding_fr": "Richmond"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "2000-11-27",
+      "result_fr": "D\u00e9faite",
+      "riding_en": "Vancouver Kingsway",
+      "riding_fr": "Vancouver Kingsway"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Hong Kong",
+    "name_en": "Hong Kong"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2000-11",
+      "end_date": "2003-12",
+      "name_en": "Canadian Reform Conservative Alliance"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "844f3193-503d-479c-a776-5f343b6bd267",
+  "weblinks": [
     {
-      "name_en": "Administrator",
-      "name_fr": "Administratrice"
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128331&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128331&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Educator",
-      "name_fr": "Entrepreneure"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1815",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1815&language_id=2",
+      "name_en": "Party Website"
     },
     {
-      "name_en": "Entrepreneur",
-      "name_fr": "P\u00e9dagogue"
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.alicewongmp.ca/",
+      "url_fr": "http://www.alicewongmp.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "844f3193-503d-479c-a776-5f343b6bd267"
+  ]
 }

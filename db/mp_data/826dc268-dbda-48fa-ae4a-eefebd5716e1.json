@@ -1,170 +1,239 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2000-11-27",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Auteur",
+      "name_en": "Author"
+    },
+    {
+      "name_fr": "\u00e9conomiste",
+      "name_en": "Economist"
+    },
+    {
+      "name_fr": "Professeur",
+      "name_en": "Professor"
     }
   ],
-  "date_of_birth": "1950-04-09",
-  "place_of_birth": {
-    "name_en": "Montreal, Quebec, Canada",
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
-  },
-  "name": "John McCallum",
+  "parlinfo_id": 78387,
   "functions": [
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre des Ressources naturelles(par int\u00e9rim)",
       "start_date": "2005-09-26",
-      "role_fr": "Ministre",
       "end_date": "2006-02-05",
-      "title_en": "Minister of National Revenue and Acting Minister of Natural Resources",
-      "title_fr": "Ministre des Ressources naturelles(par int\u00e9rim)"
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of National Revenue and Acting Minister of Natural Resources"
     },
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre du Revenu national et ministre suppl\u00e9ant des Ressources naturelles",
       "start_date": "2005-09-26",
-      "role_fr": "Ministre",
       "end_date": "2006-02-05",
-      "title_en": "Minister of Natural Resources(Acting)",
-      "title_fr": "Ministre du Revenu national et ministre suppl\u00e9ant des Ressources naturelles"
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of Natural Resources(Acting)"
     },
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre du Revenu national",
       "start_date": "2004-07-20",
-      "role_fr": "Ministre",
       "end_date": "2006-02-05",
-      "title_en": "Minister of National Revenue",
-      "title_fr": "Ministre du Revenu national"
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of National Revenue"
     },
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre des Anciens Combattants",
       "start_date": "2003-12-12",
-      "role_fr": "Ministre",
       "end_date": "2004-07-19",
-      "title_en": "Minister of Veterans Affairs",
-      "title_fr": "Ministre des Anciens Combattants"
-    },
-    {
       "role_en": "Minister",
-      "start_date": "2002-05-26",
       "role_fr": "Ministre",
+      "title_en": "Minister of Veterans Affairs"
+    },
+    {
+      "title_fr": "Ministre de la D\u00e9fense nationale",
+      "start_date": "2002-05-26",
       "end_date": "2003-12-11",
-      "title_en": "Minister of National Defence",
-      "title_fr": "Ministre de la D\u00e9fense nationale"
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of National Defence"
     },
     {
-      "role_en": "Minister / Secretary of State",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Institutions financi\u00e8res internationales)",
       "start_date": "2002-01-15",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
       "end_date": "2002-05-25",
-      "title_en": "Secretary of State (International Financial Institutions)",
-      "title_fr": "Secr\u00e9taire d'\u00c9tat (Institutions financi\u00e8res internationales)"
+      "role_en": "Minister / Secretary of State",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Secretary of State (International Financial Institutions)"
     },
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances",
       "start_date": "2001-09-13",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2002-01-14",
-      "title_en": "Parliamentary Secretary to the Minister of Finance",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Finance"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Finances",
       "start_date": "2009-01-22",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Finance",
-      "title_fr": "Finances"
+      "title_en": "Finance"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Finances",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-13",
-      "title_en": "Finance",
-      "title_fr": "Finances"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Finance"
     }
   ],
   "committees": [
     {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "parliament": 37,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 37,
-      "session": 1,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
+      "name_en": "Standing Committee on Citizenship and Immigration"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 37,
-      "session": 1,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
+      "name_en": "Standing Committee on Finance"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
+      "parliament": 37,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "McCallum.J@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-996-3374",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "john@johnmccallum.ca",
+      "postal_code": "L3R 0B4",
+      "city_fr": "Markham",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "7750 Birchmount Road, Unit 21-22",
+      "telephone": "905-479-8100",
+      "street_address_fr": "7750, chemin Birchmount, \r\nunit\u00e9 21-22",
+      "city_en": "Markham"
+    }
+  },
+  "name": "John McCallum",
+  "date_of_birth": "1950-04-09",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Markham--Unionville",
+      "riding_fr": "Markham--Unionville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Markham--Unionville",
+      "riding_fr": "Markham--Unionville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Markham--Unionville",
+      "riding_fr": "Markham--Unionville"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Markham",
+      "riding_fr": "Markham"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
+    "name_en": "Montreal, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "2000-11-27",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "826dc268-dbda-48fa-ae4a-eefebd5716e1",
+  "weblinks": [
     {
-      "name_en": "Author",
-      "name_fr": "Auteur"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78387&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78387&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Economist",
-      "name_fr": "\u00e9conomiste"
-    },
-    {
-      "name_en": "Professor",
-      "name_fr": "Professeur"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/11684_john-mccallum",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/11684_john-mccallum",
+      "name_en": "Party Website"
     }
-  ],
-  "id": "826dc268-dbda-48fa-ae4a-eefebd5716e1"
+  ]
 }

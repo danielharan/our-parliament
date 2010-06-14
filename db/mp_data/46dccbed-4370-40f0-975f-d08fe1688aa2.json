@@ -1,330 +1,417 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-02-02",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Avocat",
+      "name_en": "Crown attorney"
     },
     {
-      "start_date": "1997-06-02",
-      "end_date": "2004-02-01",
-      "name_en": "Progressive Conservative Party",
-      "name_fr": "Parti progressiste-conservateur"
+      "name_fr": "Procureur de la couronne",
+      "name_en": "Lawyer"
     }
   ],
-  "date_of_birth": "1965-09-27",
-  "place_of_birth": {
-    "name_en": "New Glasgow, Nova Scotia, Canada",
-    "name_fr": "New Glasgow, Nouvelle-\u00c9cosse, Canada"
-  },
-  "name": "Peter Gordon MacKay",
+  "parlinfo_id": 78900,
   "functions": [
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre de la D\u00e9fense nationale",
       "start_date": "2007-08-14",
+      "role_en": "Minister",
       "role_fr": "Ministre",
-      "title_en": "Minister of National Defence",
-      "title_fr": "Ministre de la D\u00e9fense nationale"
+      "title_en": "Minister of National Defence"
     },
     {
-      "role_en": "Minister",
+      "title_fr": "Ministre des Affaires \u00e9trang\u00e8res",
       "start_date": "2006-02-06",
-      "role_fr": "Ministre",
       "end_date": "2007-08-13",
-      "title_en": "Minister of Foreign Affairs",
-      "title_fr": "Ministre des Affaires \u00e9trang\u00e8res"
-    },
-    {
       "role_en": "Minister",
-      "start_date": "2006-02-06",
       "role_fr": "Ministre",
-      "end_date": "2008-10-29",
-      "title_en": "Minister of the Atlantic Canada Opportunities Agency",
-      "title_fr": "Ministre de l\u2019Agence de promotion \u00e9conomique du Canada atlantique"
+      "title_en": "Minister of Foreign Affairs"
     },
     {
-      "role_en": "Minister / Secretary of State",
+      "title_fr": "Ministre de l\u2019Agence de promotion \u00e9conomique du Canada atlantique",
+      "start_date": "2006-02-06",
+      "end_date": "2008-10-29",
+      "role_en": "Minister",
+      "role_fr": "Ministre",
+      "title_en": "Minister of the Atlantic Canada Opportunities Agency"
+    },
+    {
+      "title_fr": "Ministre de la porte d'entr\u00e9e de l'Atlantique",
       "start_date": "2008-10-30",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
       "end_date": "2010-01-18",
-      "title_en": "Minister for the Atlantic Gateway",
-      "title_fr": "Ministre de la porte d'entr\u00e9e de l'Atlantique"
+      "role_en": "Minister / Secretary of State",
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
+      "title_en": "Minister for the Atlantic Gateway"
     },
     {
-      "role_en": "Regional Minister",
+      "title_fr": "Terre-Neuve-et-Labrador",
       "start_date": "2008-10-30",
+      "role_en": "Regional Minister",
       "role_fr": "Ministre r\u00e9gional",
-      "title_en": "Newfoundland and Labrador",
-      "title_fr": "Terre-Neuve-et-Labrador"
+      "title_en": "Newfoundland and Labrador"
     },
     {
-      "role_en": "Regional Minister",
+      "title_fr": "Nouvelle-\u00c9cosse",
       "start_date": "2006-02-06",
+      "role_en": "Regional Minister",
       "role_fr": "Ministre r\u00e9gional",
-      "title_en": "Nova Scotia",
-      "title_fr": "Nouvelle-\u00c9cosse"
+      "title_en": "Nova Scotia"
     },
     {
-      "role_en": "Regional Minister",
+      "title_fr": "\u00cele-du-Prince-\u00c9douard",
       "start_date": "2006-02-06",
-      "role_fr": "Ministre r\u00e9gional",
       "end_date": "2008-10-29",
-      "title_en": "Prince Edward Island",
-      "title_fr": "\u00cele-du-Prince-\u00c9douard"
+      "role_en": "Regional Minister",
+      "role_fr": "Ministre r\u00e9gional",
+      "title_en": "Prince Edward Island"
     },
     {
-      "role_en": "House Leader",
+      "title_fr": "Leader en Chambre du Parti progressiste conservateur",
       "start_date": "2002-04-11",
-      "role_fr": "Leader parlementaire",
       "end_date": "2002-10-29",
-      "title_en": "Progressive Conservative Party House Leader",
-      "title_fr": "Leader en Chambre du Parti progressiste conservateur"
+      "role_en": "House Leader",
+      "role_fr": "Leader parlementaire",
+      "title_en": "Progressive Conservative Party House Leader"
     },
     {
-      "role_en": "House Leader",
+      "title_fr": "Leader en Chambre de la Coalition PC/RD",
       "start_date": "2001-09-19",
-      "role_fr": "Leader parlementaire",
       "end_date": "2002-04-09",
-      "title_en": "PC/DR Coalition House Leader",
-      "title_fr": "Leader en Chambre de la Coalition PC/RD"
-    },
-    {
       "role_en": "House Leader",
-      "start_date": "1997-06-18",
       "role_fr": "Leader parlementaire",
-      "end_date": "2001-09-18",
-      "title_en": "Progressive Conservative Party House Leader",
-      "title_fr": "Leader en Chambre du Parti progressiste conservateur"
+      "title_en": "PC/DR Coalition House Leader"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Leader en Chambre du Parti progressiste conservateur",
+      "start_date": "1997-06-18",
+      "end_date": "2001-09-18",
+      "role_en": "House Leader",
+      "role_fr": "Leader parlementaire",
+      "title_en": "Progressive Conservative Party House Leader"
+    },
+    {
+      "title_fr": "S\u00e9curit\u00e9 publique et Protection civile",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Public Safety and Emergency Preparedness",
-      "title_fr": "S\u00e9curit\u00e9 publique et Protection civile"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Safety and Emergency Preparedness"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Vice-premier ministre",
       "start_date": "2004-03-22",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-05",
-      "title_en": "Deputy Prime Minister",
-      "title_fr": "Vice-premier ministre"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Deputy Prime Minister"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "S\u00e9curit\u00e9 publique et Protection civile",
       "start_date": "2004-02-02",
-      "role_fr": "Porte-parole",
       "end_date": "2004-03-21",
-      "title_en": "Public Safety and Emergency Preparedness",
-      "title_fr": "S\u00e9curit\u00e9 publique et Protection civile"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Safety and Emergency Preparedness"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Premier ministre",
       "start_date": "2003-05-31",
-      "role_fr": "Porte-parole",
       "end_date": "2004-02-01",
-      "title_en": "Prime Minister",
-      "title_fr": "Premier ministre"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2002-09-25",
       "role_fr": "Porte-parole",
-      "end_date": "2003-09-09",
-      "title_en": "Public Security",
-      "title_fr": "S\u00e9curit\u00e9 publique"
+      "title_en": "Prime Minister"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "S\u00e9curit\u00e9 publique",
       "start_date": "2002-09-25",
-      "role_fr": "Porte-parole",
       "end_date": "2003-09-09",
-      "title_en": "Solicitor General",
-      "title_fr": "Solliciteur g\u00e9n\u00e9ral"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Security"
     },
     {
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral",
+      "start_date": "2002-09-25",
+      "end_date": "2003-09-09",
       "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Solicitor General"
+    },
+    {
+      "title_fr": "Leader du Gouvernement \u00e0 la Chambre des communes",
       "start_date": "1998-06-19",
-      "role_fr": "Porte-parole",
       "end_date": "2002-10-29",
-      "title_en": "Leader of the Government in the House of Commons",
-      "title_fr": "Leader du Gouvernement \u00e0 la Chambre des communes"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Leader of the Government in the House of Commons"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral",
       "start_date": "1998-01-26",
-      "role_fr": "Porte-parole",
       "end_date": "2001-09-18",
-      "title_en": "Solicitor General",
-      "title_fr": "Solliciteur g\u00e9n\u00e9ral"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Solicitor General"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Justice",
       "start_date": "1998-01-26",
-      "role_fr": "Porte-parole",
       "end_date": "2003-09-09",
-      "title_en": "Justice",
-      "title_fr": "Justice"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Justice"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 de la S\u00e9curit\u00e9 publique et nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Public Safety and National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Sous-comit\u00e9 de la S\u00e9curit\u00e9 publique et nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Public Safety and National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-55",
       "parliament": 37,
       "session": 1,
-      "name_en": "Legislative Committee on Bill C-55",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-55"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-55"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 1,
-      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Modernization and Improvement of the Procedures of the House of Commons"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la modernisation et l'am\u00e9lioration de la proc\u00e9dure \u00e0 la Chambre des communes"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur la Loi sur le syst\u00e8me correctionnel et la mise en libert\u00e9 sous condition du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Corrections and Conditional Release Act of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 sur la Loi sur le syst\u00e8me correctionnel et la mise en libert\u00e9 sous condition du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Corrections and Conditional Release Act of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur le crime organis\u00e9 du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Organized Crime of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 sur le crime organis\u00e9 du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Organized Crime of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur l'\u00e9tude du Sport au Canada du Comit\u00e9 permanent sur le patrimoine canadien",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "name_fr": "Sous-comit\u00e9 sur l'\u00e9tude du Sport au Canada du Comit\u00e9 permanent sur le patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 36,
-      "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne"
+      "name_en": "Standing Committee on Justice and Human Rights"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on Corrections and Conditional Release Act Review of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 sur la r\u00e9vision de la Loi sur le syst\u00e8me correctionnel et la mise en libert\u00e9 sous condition du Comit\u00e9 permanent de la justice et droits de la personne"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Sous-comit\u00e9 sur la r\u00e9vision de la Loi sur le syst\u00e8me correctionnel et la mise en libert\u00e9 sous condition du Comit\u00e9 permanent de la justice et droits de la personne",
       "parliament": 36,
       "session": 1,
-      "name_en": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage",
-      "name_fr": "Sous-comit\u00e9 sur l'\u00e9tude du sport au Canada du Comit\u00e9 permanent du patrimoine canadien"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Corrections and Conditional Release Act Review of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur l'\u00e9tude du sport au Canada du Comit\u00e9 permanent du patrimoine canadien",
+      "parliament": 36,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on the Study of Sport in Canada of the Standing Committee on Canadian Heritage"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Mackay.P@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-6022",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "B0J 3B0",
+      "city_fr": "Sheet Harbour",
+      "province_en": "Nova Scotia",
+      "province_fr": "Nouvelle-\u00c9cosse",
+      "street_address_en": "22553 Highway 7\r\nP.O. Box 255",
+      "telephone": "902-885-3490",
+      "street_address_fr": "22553, autoroute 7\r\nCase postale 255",
+      "city_en": "Sheet Harbour"
+    }
+  },
+  "name": "Peter Gordon MacKay",
+  "date_of_birth": "1965-09-27",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Central Nova",
+      "riding_fr": "Nova-Centre"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Central Nova",
+      "riding_fr": "Nova-Centre"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Central Nova",
+      "riding_fr": "Nova-Centre"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Pictou--Antigonish--Guysborough",
+      "riding_fr": "Pictou--Antigonish--Guysborough"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Pictou--Antigonish--Guysborough",
+      "riding_fr": "Pictou--Antigonish--Guysborough"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "New Glasgow, Nouvelle-\u00c9cosse, Canada",
+    "name_en": "New Glasgow, Nova Scotia, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2004-02-02",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Parti progressiste-conservateur",
+      "start_date": "1997-06-02",
+      "end_date": "2004-02-01",
+      "name_en": "Progressive Conservative Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "46dccbed-4370-40f0-975f-d08fe1688aa2",
+  "weblinks": [
     {
-      "name_en": "Crown attorney",
-      "name_fr": "Avocat"
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.forces.gc.ca/site/minister-ministre/index-eng.asp",
+      "url_fr": "http://www.forces.gc.ca/site/Minister-ministre/index-fra.asp",
+      "name_en": "Department Website"
     },
     {
-      "name_en": "Lawyer",
-      "name_fr": "Procureur de la couronne"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78900&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78900&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/64953",
+      "url_fr": "http://www.conservative.ca/FR/4568/64955",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.petermackay.ca/",
+      "url_fr": "http://www.petermackay.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "46dccbed-4370-40f0-975f-d08fe1688aa2"
+  ]
 }

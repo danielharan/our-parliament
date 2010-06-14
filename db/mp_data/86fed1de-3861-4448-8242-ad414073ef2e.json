@@ -1,101 +1,175 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2006-01-23",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Entrepreneuse en reboisement",
+      "name_en": "Environmentalist"
+    },
+    {
+      "name_fr": "Environnementaliste",
+      "name_en": "Reforester"
     }
   ],
-  "date_of_birth": "1954-07-11",
-  "place_of_birth": {
-    "name_en": "Schweizer-Reneke, North West, South Africa",
-    "name_fr": "Schweizer-Reneke, North West, Afrique du Sud"
-  },
-  "name": "Joyce Murray",
+  "parlinfo_id": 128541,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Olympiques de 2010",
       "start_date": "2009-10-06",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "2010 Olympics",
-      "title_fr": "Olympiques de 2010"
+      "title_en": "2010 Olympics"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Sports",
       "start_date": "2009-10-06",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Sports",
-      "title_fr": "Sports"
+      "title_en": "Sports"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "R\u00e9forme d\u00e9mocratique",
       "start_date": "2008-11-14",
-      "role_fr": "Porte-parole",
       "end_date": "2009-01-21",
-      "title_en": "Democratic Reform",
-      "title_fr": "R\u00e9forme d\u00e9mocratique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Democratic Reform"
     }
   ],
   "committees": [
     {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "parliament": 40,
+      "session": 3,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
-      "parliament": 40,
-      "session": 3,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
+      "name_en": "Standing Committee on Health"
     },
     {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "parliament": 40,
+      "session": 2,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
+      "name_en": "Standing Committee on Health"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Health",
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Health"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on International Trade",
-      "name_fr": "Comit\u00e9 permanent du commerce international"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on International Trade"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Murray.J@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-2430",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "owens1@parl.gc.ca",
+      "postal_code": "V6K 2C8",
+      "city_fr": "Vancouver",
+      "province_en": "British Columbia",
+      "province_fr": "Colombie-Britannique",
+      "street_address_en": "2112 Broadway West, #206",
+      "telephone": "604-664-9220",
+      "street_address_fr": "2112, Broadway Ouest, #206",
+      "city_en": "Vancouver"
+    }
+  },
+  "name": "Joyce Murray",
+  "date_of_birth": "1954-07-11",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Vancouver Quadra",
+      "riding_fr": "Vancouver Quadra"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2008-03-17",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Vancouver Quadra",
+      "riding_fr": "Vancouver Quadra"
+    },
+    {
+      "result_en": "Defeated",
+      "election_date": "2006-01-23",
+      "result_fr": "D\u00e9faite",
+      "riding_en": "New Westminster--Coquitlam",
+      "riding_fr": "New Westminster--Coquitlam"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Schweizer-Reneke, North West, Afrique du Sud",
+    "name_en": "Schweizer-Reneke, North West, South Africa"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "2006-01-23",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "86fed1de-3861-4448-8242-ad414073ef2e",
+  "weblinks": [
     {
-      "name_en": "Environmentalist",
-      "name_fr": "Entrepreneuse en reboisement"
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128541&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128541&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Reforester",
-      "name_fr": "Environnementaliste"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/16016_joyce-murray",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/16016_joyce-murray",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://joycemurray.ca",
+      "url_fr": "http://joycemurray.ca",
+      "name_en": "Personal Website"
+    },
+    {
+      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de la Colombie-Britannique (Disponible en anglais seulement)",
+      "url_en": "http://www.leg.bc.ca/mla/37thparl/murray.htm",
+      "url_fr": "http://www.leg.bc.ca/mla/37thparl/murray.htm",
+      "name_en": "Legislative Assembly of British Columbia Website"
     }
-  ],
-  "id": "86fed1de-3861-4448-8242-ad414073ef2e"
+  ]
 }

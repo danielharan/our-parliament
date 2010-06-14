@@ -1,387 +1,469 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "1997-06-02",
-      "name_en": "Liberal Party of Canada",
-      "name_fr": "Parti lib\u00e9ral du Canada"
+      "name_fr": "Enseignant",
+      "name_en": "Teacher"
     }
   ],
-  "date_of_birth": "1952-07-14",
-  "place_of_birth": {
-    "name_en": "Toronto, Ontario, Canada",
-    "name_fr": "Toronto, Ontario, Canada"
-  },
-  "name": "Bryon Wilfert",
+  "parlinfo_id": 78627,
   "functions": [
     {
-      "role_en": "Parliamentary Secretary",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Environnement",
       "start_date": "2004-07-20",
-      "role_fr": "Secr\u00e9taire parlementaire",
       "end_date": "2006-02-05",
-      "title_en": "Parliamentary Secretary to the Minister of the Environment",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Environnement"
-    },
-    {
       "role_en": "Parliamentary Secretary",
-      "start_date": "2002-02-19",
       "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of the Environment"
+    },
+    {
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances",
+      "start_date": "2002-02-19",
       "end_date": "2003-12-11",
-      "title_en": "Parliamentary Secretary to the Minister of Finance",
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Finances"
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire",
+      "title_en": "Parliamentary Secretary to the Minister of Finance"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "start_date": "2008-11-14",
-      "role_fr": "Porte-parole",
       "end_date": "2009-01-21",
-      "title_en": "Foreign Affairs",
-      "title_fr": "Affaires \u00e9trang\u00e8res"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Foreign Affairs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "D\u00e9fense nationale",
       "start_date": "2008-03-31",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-13",
-      "title_en": "National Defence",
-      "title_fr": "D\u00e9fense nationale"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2006-05-30",
       "role_fr": "Porte-parole",
+      "title_en": "National Defence"
+    },
+    {
+      "title_fr": "Parcs nationaux",
+      "start_date": "2006-05-30",
       "end_date": "2007-10-08",
-      "title_en": "National Parks",
-      "title_fr": "Parcs nationaux"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "National Parks"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "start_date": "2007-10-09",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2008-03-30",
-      "title_en": "Foreign Affairs",
-      "title_fr": "Affaires \u00e9trang\u00e8res"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Foreign Affairs"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "start_date": "2006-02-23",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2006-05-29",
-      "title_en": "Foreign Affairs",
-      "title_fr": "Affaires \u00e9trang\u00e8res"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Foreign Affairs"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 40,
       "session": 3,
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 40,
       "session": 2,
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 40,
       "session": 3,
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 40,
       "session": 2,
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "parliament": 39,
       "session": 2,
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on National Defence",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la Mission canadienne en Afghanistan",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la Mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Citizenship and Immigration",
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Citizenship and Immigration"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des finances",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Finance",
-      "name_fr": "Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on National Defence and Veterans Affairs",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 36,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
       "parliament": 36,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of  the Standing Committee on Human Resources Development an the Status of Persons with Disabilties",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 36,
-      "session": 1,
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord"
+      "name_en": "Subcommittee on Agenda and Procedure of  the Standing Committee on Human Resources Development an the Status of Persons with Disabilties"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "parliament": 36,
       "session": 1,
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
+      "parliament": 36,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Wilfert.B@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-992-3802",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "wilfeb1@parl.gc.ca",
+      "postal_code": "L4B 3P4",
+      "city_fr": "Richmond Hill",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "231 - 225 East Beaver Creek Road",
+      "telephone": "905-709-5905",
+      "street_address_fr": "225, chemin East Beaver Creek, bureau 231",
+      "city_en": "Richmond Hill"
+    }
+  },
+  "name": "Bryon Wilfert",
+  "date_of_birth": "1952-07-14",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Richmond Hill",
+      "riding_fr": "Richmond Hill"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Richmond Hill",
+      "riding_fr": "Richmond Hill"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Richmond Hill",
+      "riding_fr": "Richmond Hill"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Oak Ridges",
+      "riding_fr": "Oak Ridges"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "1997-06-02",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Oak Ridges",
+      "riding_fr": "Oak Ridges"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Toronto, Ontario, Canada",
+    "name_en": "Toronto, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "start_date": "1997-06-02",
+      "name_en": "Liberal Party of Canada"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "270eed77-cf5d-4c14-9ee8-2e8ad61fba99",
+  "weblinks": [
     {
-      "name_en": "Teacher",
-      "name_fr": "Enseignant"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78627&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78627&Language=F",
+      "name_en": "MP profile"
+    },
+    {
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=9571",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=9571",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.bryonwilfert.com/",
+      "url_fr": "http://www.bryonwilfert.com/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "270eed77-cf5d-4c14-9ee8-2e8ad61fba99"
+  ]
 }

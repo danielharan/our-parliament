@@ -1,137 +1,199 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2004-06-28",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois",
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+      "name_fr": "Communicatrice",
+      "name_en": "Communication consultant"
+    },
+    {
+      "name_fr": "Experte-conseil en communications",
+      "name_en": "Communicator"
+    },
+    {
+      "name_fr": "Journaliste",
+      "name_en": "Journalist"
     }
   ],
-  "date_of_birth": "1954-01-23",
-  "place_of_birth": {
-    "name_en": "Montreal, Quebec, Canada",
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
-  },
-  "name": "Carole Lavall\u00e9e",
+  "parlinfo_id": 78473,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Patrimoine",
       "start_date": "2008-10-31",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Canadian Heritage",
-      "title_fr": "Patrimoine"
+      "title_en": "Canadian Heritage"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Patrimoine canadien",
       "start_date": "2008-10-31",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Heritage",
-      "title_fr": "Patrimoine canadien"
+      "title_en": "Heritage"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Vie priv\u00e9e et \u00c9thique",
       "start_date": "2008-01-15",
-      "role_fr": "Porte-parole",
       "end_date": "2008-10-30",
-      "title_en": "Privacy and Ethics",
-      "title_fr": "Vie priv\u00e9e et \u00c9thique"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Privacy and Ethics"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Travail",
       "start_date": "2004-08-06",
-      "role_fr": "Porte-parole",
       "end_date": "2008-10-30",
-      "title_en": "Labour",
-      "title_fr": "Travail"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Labour"
     }
   ],
   "committees": [
     {
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sidente",
-      "parliament": 40,
-      "session": 2,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
+      "name_en": "Standing Committee on Canadian Heritage"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "parliament": 40,
+      "session": 2,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sidente",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Canadian Heritage",
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Canadian Heritage"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent sur l'acc\u00e8s \u00e0 l'information, la protection des renseignements personnels et de l'\u00e9thique",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent sur l'acc\u00e8s \u00e0 l'information, la protection des renseignements personnels et de l'\u00e9thique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Acc\u00e8s \u00e0 l'Information, de la Protection des Renseignements Personnels et de l'\u00c9thique"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Acc\u00e8s \u00e0 l'Information, de la Protection des Renseignements Personnels et de l'\u00c9thique",
+      "parliament": 39,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Lavallee.C@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-996-2416",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "Lavallee.C@parl.gc.ca",
+      "postal_code": "J3Y 3P1",
+      "city_fr": "Saint-Hubert",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "5440 de Chambly Road, Suite 110",
+      "telephone": "450-926-5979",
+      "street_address_fr": "5440, chemin de Chambly, bureau 110",
+      "city_en": "Saint-Hubert"
+    }
+  },
+  "name": "Carole Lavall\u00e9e",
+  "date_of_birth": "1954-01-23",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Saint-Bruno--Saint-Hubert",
+      "riding_fr": "Saint-Bruno--Saint-Hubert"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Saint-Bruno--Saint-Hubert",
+      "riding_fr": "Saint-Bruno--Saint-Hubert"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Saint-Bruno--Saint-Hubert",
+      "riding_fr": "Saint-Bruno--Saint-Hubert"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
+    "name_en": "Montreal, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "start_date": "2004-06-28",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois"
     }
   ],
   "language": "French",
-  "professions": [
+  "id": "eb5609d3-e55e-43f5-a34f-cf49ae1bbabb",
+  "weblinks": [
     {
-      "name_en": "Communication consultant",
-      "name_fr": "Communicatrice"
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78473&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78473&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Communicator",
-      "name_fr": "Experte-conseil en communications"
-    },
-    {
-      "name_en": "Journalist",
-      "name_fr": "Journaliste"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=009ae0f1-5833-42c1-889d-8cb7149b5cb3",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=009ae0f1-5833-42c1-889d-8cb7149b5cb3",
+      "name_en": "Party Website (Available in French only)"
     }
-  ],
-  "id": "eb5609d3-e55e-43f5-a34f-cf49ae1bbabb"
+  ]
 }

@@ -10,14 +10,14 @@ div.sidebar { width: 220px; float: left; }
 #content.has_sidebar_left.has_sidebar_right #main { width: 480px; }
 
 /* Header */
-#header { background: #FFF url('../images/header_bg.gif') repeat-x left 10px; padding: 10px 0 0; position: relative; height: 120px; }
+#header { background: #ddd url('../images/header_bg.png') repeat-x left 0px; padding: 0; position: relative; height: 164px; }
 #header h1 a { font-size: 24px; text-decoration: none; text-decoration: none; }
 #header div.beta_marker { font-size: 10px; text-transform: uppercase; color: #FFF; font-weight: bold; position: absolute; top: 102px; left: 175px; }
 #header p { color: #EAAAAA; font-size: 18px; margin: 0; }
 #header ul { overflow: hidden; }
 #header #utilities { position: absolute; top: 0; right: 0; }
-#header #utilities li { margin: 0 0 0 10px; float: left; }
-#header #utilities li a { font-size: 12px; }
+#header #utilities li { margin: 10px 0 0 10px; float: left; }
+#header #utilities li a { font-size: 12px; color: #000; }
 
 /* Page Title */
 #page_title { margin: 0 0 20px; }
@@ -31,12 +31,12 @@ div.sidebar { width: 220px; float: left; }
 #footer p:last-child { margin-bottom: 0; }
 
 /* Navigation */
-ul#nav { position: absolute; bottom: 7px; right: 0; margin: 0; }
+ul#nav { position: absolute; bottom: 29px; right: 0; margin: 0; }
 ul#nav li { display: block; float: left; margin: 0 0 0 5px; }
 ul#nav li a {
-  font-weight: bold; display: block; padding: 0 10px; line-height: 22px; height: 22px; background: #EEEEEE;
-  color: #656565; font-size: 12px; text-decoration: none;
-  border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;
+  font-weight: bold; display: block; padding: 2px 10px; line-height: 23px; height: 22px;
+  color: #fff; font-size: 12px; text-decoration: none;
+  /*border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;*/
 }
 ul#nav li a:hover { background: #FFFFFF; color: #F60057; }
 ul#nav li.active a { background: #FFFFFF; color: #C00000; }
@@ -86,7 +86,7 @@ body#application_controller.show #search input.text {
 }
 body#application_controller.show #search input.text.with_help { color: #808080; }
 body#application_controller.show #search a.button.large { width: 150px; line-height: 2; margin: 0 5px; }
-body#application_controller.show #intro { width: 480px; margin: 0 auto; }
+body#application_controller.show #intro { width: 800px; margin: 0 auto; }
 body#application_controller.show #intro h3 { margin: 0 0 20px; text-align: center; }
 body#application_controller.show #intro p { font-size: 14px; color: #656565; text-align: justify; }
 

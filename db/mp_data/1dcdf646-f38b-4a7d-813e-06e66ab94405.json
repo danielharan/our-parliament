@@ -1,66 +1,116 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2008-10-14",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois",
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
+      "name_fr": "Administratrice",
+      "name_en": "Administrator"
+    },
+    {
+      "name_fr": "Agente de communications",
+      "name_en": "Communications officer"
+    },
+    {
+      "name_fr": "Coordinatrice",
+      "name_en": "Coordinator"
     }
   ],
-  "date_of_birth": "1961-12-20",
-  "place_of_birth": {
-    "name_en": "Saint-Lambert, Quebec, Canada",
-    "name_fr": "Saint-Lambert, Qu\u00e9bec, Canada"
-  },
-  "name": "Jos\u00e9e Beaudin",
+  "parlinfo_id": 128335,
   "functions": [
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Ressources humaines et D\u00e9veloppement social",
       "start_date": "2008-10-31",
+      "role_en": "Assistant Critic",
       "role_fr": "Porte-parole adjoint",
-      "title_en": "Human Resources and Social Development",
-      "title_fr": "Ressources humaines et D\u00e9veloppement social"
+      "title_en": "Human Resources and Social Development"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des comptes publics"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Public Accounts",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Public Accounts"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Beaudin.J@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-998-5961",
+      "street_address_fr": "Chambre des communes",
+      "fax": "613-954-0707",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "beaudij1@parl.gc.ca",
+      "postal_code": "J4K 3R9",
+      "city_fr": "Longueuil",
+      "province_en": "Quebec",
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "1080 Ste-H\u00e9l\u00e8ne Street",
+      "telephone": "450-646-2423",
+      "street_address_fr": "1080, rue Ste-H\u00e9l\u00e8ne",
+      "fax": "450-646-3018",
+      "city_en": "Longueuil"
+    }
+  },
+  "name": "Jos\u00e9e Beaudin",
+  "date_of_birth": "1961-12-20",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Saint-Lambert",
+      "riding_fr": "Saint-Lambert"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Saint-Lambert, Qu\u00e9bec, Canada",
+    "name_en": "Saint-Lambert, Quebec, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "start_date": "2008-10-14",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois"
     }
   ],
   "language": "French",
-  "professions": [
+  "id": "1dcdf646-f38b-4a7d-813e-06e66ab94405",
+  "weblinks": [
     {
-      "name_en": "Administrator",
-      "name_fr": "Administratrice"
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128335&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128335&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Communications officer",
-      "name_fr": "Agente de communications"
-    },
-    {
-      "name_en": "Coordinator",
-      "name_fr": "Coordinatrice"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=dccfad0c-cd2c-48db-92fb-a62947eac15f",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=dccfad0c-cd2c-48db-92fb-a62947eac15f",
+      "name_en": "Party Website (Available in French only)"
     }
-  ],
-  "id": "1dcdf646-f38b-4a7d-813e-06e66ab94405"
+  ]
 }

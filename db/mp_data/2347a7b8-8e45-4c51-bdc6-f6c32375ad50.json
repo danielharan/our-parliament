@@ -1,275 +1,350 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2002-05-13",
-      "name_en": "New Democratic Party",
-      "name_fr": "Nouveau Parti d\u00e9mocratique"
+      "name_fr": "Coordonnateur de programme",
+      "name_en": "Professor"
+    },
+    {
+      "name_fr": "Professeur",
+      "name_en": "Program coordinator"
     }
   ],
-  "date_of_birth": "1968-07-09",
-  "place_of_birth": {
-    "name_en": "Windsor, Ontario, Canada",
-    "name_fr": "Windsor, Ontario, Canada"
-  },
-  "name": "Brian Masse",
+  "parlinfo_id": 78884,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "Industrie",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Auto Policy",
-      "title_fr": "Industrie"
+      "title_en": "Auto Policy"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Politique automobile",
       "start_date": "2008-11-17",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Industry",
-      "title_fr": "Politique automobile"
+      "title_en": "Industry"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Transports",
       "start_date": "2007-09-27",
-      "role_fr": "Porte-parole",
       "end_date": "2008-11-16",
-      "title_en": "Transport",
-      "title_fr": "Transports"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2006-02-14",
       "role_fr": "Porte-parole",
-      "end_date": "2007-09-26",
-      "title_en": "Competitiveness and the New Economy",
-      "title_fr": "Comp\u00e9titivit\u00e9 et nouvelle \u00e9conomie"
+      "title_en": "Transport"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Comp\u00e9titivit\u00e9 et nouvelle \u00e9conomie",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole",
       "end_date": "2007-09-26",
-      "title_en": "Consumer Affairs",
-      "title_fr": "Consommation"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Competitiveness and the New Economy"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Consommation",
       "start_date": "2006-02-14",
-      "role_fr": "Porte-parole",
       "end_date": "2007-09-26",
-      "title_en": "Science and Research",
-      "title_fr": "Sciences et Recherche"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Consumer Affairs"
     },
     {
+      "title_fr": "Sciences et Recherche",
+      "start_date": "2006-02-14",
+      "end_date": "2007-09-26",
       "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Science and Research"
+    },
+    {
+      "title_fr": "Services canadiens \u00e0 la fronti\u00e8re",
       "start_date": "2004-07-22",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Canada Border Services",
-      "title_fr": "Services canadiens \u00e0 la fronti\u00e8re"
+      "title_en": "Canada Border Services"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Douanes",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-13",
-      "title_en": "Customs",
-      "title_fr": "Douanes"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Customs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Politique automobile",
       "start_date": "2004-07-22",
-      "role_fr": "Porte-parole",
       "end_date": "2007-09-26",
-      "title_en": "Auto Policy",
-      "title_fr": "Politique automobile"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Auto Policy"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Affaires urbaines",
       "start_date": "2003-02-04",
-      "role_fr": "Porte-parole",
       "end_date": "2004-01-21",
-      "title_en": "Urban Affairs",
-      "title_fr": "Affaires urbaines"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Urban Affairs"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Revenu national",
       "start_date": "2003-02-04",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "National Revenue",
-      "title_fr": "Revenu national"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "National Revenue"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Sciences, Recherche et D\u00e9veloppement",
       "start_date": "2003-02-04",
-      "role_fr": "Porte-parole",
       "end_date": "2006-02-13",
-      "title_en": "Science, Research and Development",
-      "title_fr": "Sciences, Recherche et D\u00e9veloppement"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Science, Research and Development"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Commerce transfrontalier Canado-am\u00e9ricain",
       "start_date": "2002-06-11",
+      "role_en": "Critic",
       "role_fr": "Porte-parole",
-      "title_en": "Canada-USA Border and Trade Issues",
-      "title_fr": "Commerce transfrontalier Canado-am\u00e9ricain"
+      "title_en": "Canada-USA Border and Trade Issues"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "Industrie",
       "start_date": "2002-06-11",
-      "role_fr": "Porte-parole",
       "end_date": "2007-09-26",
-      "title_en": "Industry",
-      "title_fr": "Industrie"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Industry"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Politique automobile",
       "start_date": "2007-09-27",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2008-11-16",
-      "title_en": "Auto Policy",
-      "title_fr": "Politique automobile"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "Auto Policy"
     }
   ],
   "committees": [
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 3,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "parliament": 39,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-2",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-2"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "parliament": 37,
       "session": 1,
-      "name_en": "Standing Committee on Industry, Science and Technology",
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Industry, Science and Technology"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Masse.B@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-996-1541",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "email": "MasseB@parl.gc.ca",
+      "postal_code": "N8X 1J8",
+      "city_fr": "Windsor",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "1398 Ouellette Avenue, Suite #2",
+      "telephone": "519-255-1631",
+      "street_address_fr": "1398, Avenue Ouellette, bureau #2",
+      "city_en": "Windsor"
+    }
+  },
+  "name": "Brian Masse",
+  "date_of_birth": "1968-07-09",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Windsor West",
+      "riding_fr": "Windsor-Ouest"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Windsor West",
+      "riding_fr": "Windsor-Ouest"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Windsor West",
+      "riding_fr": "Windsor-Ouest"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2002-05-13",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Windsor West",
+      "riding_fr": "Windsor-Ouest"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Windsor, Ontario, Canada",
+    "name_en": "Windsor, Ontario, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "start_date": "2002-05-13",
+      "name_en": "New Democratic Party"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "2347a7b8-8e45-4c51-bdc6-f6c32375ad50",
+  "weblinks": [
     {
-      "name_en": "Professor",
-      "name_fr": "Coordonnateur de programme"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78884&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78884&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Program coordinator",
-      "name_fr": "Professeur"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/brianmasse",
+      "url_fr": "http://www.npd.ca/brianmasse",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.brianmasse.ca/",
+      "url_fr": "http://www.brianmasse.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "2347a7b8-8e45-4c51-bdc6-f6c32375ad50"
+  ]
 }

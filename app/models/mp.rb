@@ -6,17 +6,13 @@ class Mp < ActiveRecord::Base
     ed_id
     parl_gc_id
     parl_gc_constituency_id
-    constituency_name
-    party
     name
     email
     website
     parliamentary_phone
     parliamentary_fax
-    preferred_language
     constituency_address
     constituency_city
-    constituency_province
     constituency_postal_code
     constituency_phone
     constituency_fax

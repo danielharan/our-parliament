@@ -1,373 +1,447 @@
 {
-  "parties": [
+  "professions": [
     {
-      "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada",
-      "name_fr": "Parti conservateur du Canada"
+      "name_fr": "Agriculteur",
+      "name_en": "Businessman"
     },
     {
-      "start_date": "2000-11-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance",
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne"
+      "name_fr": "Homme d'affaires",
+      "name_en": "Farmer"
     }
   ],
-  "date_of_birth": "1958-11-03",
-  "place_of_birth": {
-    "name_en": "Killam, Alberta, Canada",
-    "name_fr": "Killam, Alberta, Canada"
-  },
-  "name": "Kevin Sorenson",
+  "parlinfo_id": 78855,
   "functions": [
     {
-      "role_en": "Critic",
+      "title_fr": "S\u00e9curit\u00e9 publique et Protection civile",
       "start_date": "2004-03-22",
-      "role_fr": "Porte-parole",
       "end_date": "2004-07-21",
-      "title_en": "Public Safety and Emergency Preparedness",
-      "title_fr": "S\u00e9curit\u00e9 publique et Protection civile"
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Public Safety and Emergency Preparedness"
     },
     {
-      "role_en": "Critic",
+      "title_fr": "S\u00e9curit\u00e9 publique et Protection civile",
       "start_date": "2003-12-12",
-      "role_fr": "Porte-parole",
       "end_date": "2004-01-21",
-      "title_en": "Public Safety and Emergency Preparedness",
-      "title_fr": "S\u00e9curit\u00e9 publique et Protection civile"
-    },
-    {
       "role_en": "Critic",
-      "start_date": "2001-06-18",
       "role_fr": "Porte-parole",
-      "end_date": "2003-12-11",
-      "title_en": "Solicitor General",
-      "title_fr": "Solliciteur g\u00e9n\u00e9ral"
+      "title_en": "Public Safety and Emergency Preparedness"
     },
     {
-      "role_en": "Assistant Critic",
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral",
+      "start_date": "2001-06-18",
+      "end_date": "2003-12-11",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole",
+      "title_en": "Solicitor General"
+    },
+    {
+      "title_fr": "S\u00e9curit\u00e9 nationale",
       "start_date": "2004-09-01",
-      "role_fr": "Porte-parole adjoint",
       "end_date": "2006-02-05",
-      "title_en": "National Security",
-      "title_fr": "S\u00e9curit\u00e9 nationale"
+      "role_en": "Assistant Critic",
+      "role_fr": "Porte-parole adjoint",
+      "title_en": "National Security"
     }
   ],
   "committees": [
     {
-      "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 40,
       "session": 3,
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development"
     },
     {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "parliament": 39,
+      "session": 1,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
     },
     {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "parliament": 39,
+      "session": 1,
       "role_en": "Chair",
       "role_fr": "Pr\u00e9sident",
-      "parliament": 39,
-      "session": 1,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development"
     },
     {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "parliament": 39,
+      "session": 1,
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
+      "parliament": 38,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 38,
-      "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
     },
     {
+      "name_fr": "Sous-comit\u00e9 de la S\u00e9curit\u00e9 publique et nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
+      "parliament": 38,
+      "session": 1,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 38,
-      "session": 1,
-      "name_en": "Subcommittee on Public Safety and National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Sous-comit\u00e9 de la S\u00e9curit\u00e9 publique et nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
+      "name_en": "Subcommittee on Public Safety and National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
     },
     {
+      "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
+      "parliament": 37,
+      "session": 2,
       "role_en": "Vice-Chair",
       "role_fr": "Vice-pr\u00e9sident",
-      "parliament": 37,
-      "session": 2,
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne"
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 40,
       "session": 3,
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "parliament": 40,
       "session": 3,
-      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan"
+    },
+    {
+      "name_fr": "Comit\u00e9 de liaison",
       "parliament": 40,
       "session": 2,
-      "name_en": "Liaison Committee",
-      "name_fr": "Comit\u00e9 de liaison"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Liaison Committee"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 40,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 de liaison",
       "parliament": 39,
       "session": 2,
-      "name_en": "Liaison Committee",
-      "name_fr": "Comit\u00e9 de liaison"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Liaison Committee"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 de liaison",
       "parliament": 39,
       "session": 1,
-      "name_en": "Liaison Committee",
-      "name_fr": "Comit\u00e9 de liaison"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Liaison Committee"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "parliament": 39,
       "session": 1,
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 38,
       "session": 1,
-      "name_en": "Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de la S\u00e9curit\u00e9 publique et nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade",
-      "name_fr": "Sous-comit\u00e9 de la S\u00e9curit\u00e9 publique et nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Trade"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "parliament": 38,
       "session": 1,
-      "name_en": "Subcommittee on Public Safety and National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Public Safety and National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 37,
       "session": 3,
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "parliament": 37,
       "session": 3,
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
-      "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+    },
+    {
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique",
       "parliament": 37,
       "session": 2,
-      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 2,
-      "name_en": "Special Committee on the Non-Medical Use of Drugs",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Non-Medical Use of Drugs"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments",
       "parliament": 37,
       "session": 2,
-      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)"
+    },
+    {
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments (Projet de loi C-38)",
       "parliament": 37,
       "session": 2,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments (Projet de loi C-38)"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on Agenda and Procedure of the Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Subcommittee on National Security of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 2,
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "parliament": 37,
       "session": 1,
-      "name_en": "Special Committee on Non-Medical Use of Drugs",
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne"
-    },
-    {
       "role_en": "Member",
       "role_fr": "Membre",
-      "parliament": 37,
-      "session": 1,
-      "name_en": "Standing Committee on Justice and Human Rights",
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments"
+      "name_en": "Special Committee on Non-Medical Use of Drugs"
     },
     {
-      "role_en": "Member",
-      "role_fr": "Membre",
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments",
       "parliament": 37,
       "session": 1,
-      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights",
-      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne"
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Standing Committee on Justice and Human Rights"
+    },
+    {
+      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
+      "parliament": 37,
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre",
+      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights"
+    }
+  ],
+  "contact_info": {
+    "parliament": {
+      "email": "Sorenson.K@parl.gc.ca",
+      "postal_code": "K1A 0A6",
+      "city_fr": "Ottawa",
+      "province_en": "Ontario",
+      "province_fr": "Ontario",
+      "street_address_en": "House of Commons",
+      "telephone": "613-947-4608",
+      "street_address_fr": "Chambre des communes",
+      "city_en": "Ottawa"
+    },
+    "constituency": {
+      "postal_code": "T4V 1P9",
+      "city_fr": "Camrose",
+      "province_en": "Alberta",
+      "province_fr": "Alberta",
+      "street_address_en": "4945 - 50th Street",
+      "telephone": "780-608-4600",
+      "street_address_fr": "4945, 50e Rue",
+      "city_en": "Camrose"
+    }
+  },
+  "name": "Kevin Sorenson",
+  "date_of_birth": "1958-11-03",
+  "constituencies": [
+    {
+      "result_en": "Elected",
+      "election_date": "2008-10-14",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Crowfoot",
+      "riding_fr": "Crowfoot"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2006-01-23",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Crowfoot",
+      "riding_fr": "Crowfoot"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2004-06-28",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Crowfoot",
+      "riding_fr": "Crowfoot"
+    },
+    {
+      "result_en": "Elected",
+      "election_date": "2000-11-27",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Crowfoot",
+      "riding_fr": "Crowfoot"
+    }
+  ],
+  "place_of_birth": {
+    "name_fr": "Killam, Alberta, Canada",
+    "name_en": "Killam, Alberta, Canada"
+  },
+  "parties": [
+    {
+      "name_fr": "Parti conservateur du Canada",
+      "start_date": "2003-12-23",
+      "name_en": "Conservative Party of Canada"
+    },
+    {
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "start_date": "2000-11-27",
+      "end_date": "2003-12-22",
+      "name_en": "Canadian Reform Conservative Alliance"
     }
   ],
   "language": "English",
-  "professions": [
+  "id": "eb53bf99-e3d5-44b9-a15e-6c295470cdd4",
+  "weblinks": [
     {
-      "name_en": "Businessman",
-      "name_fr": "Agriculteur"
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78855&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78855&Language=F",
+      "name_en": "MP profile"
     },
     {
-      "name_en": "Farmer",
-      "name_fr": "Homme d'affaires"
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1733&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1733&language_id=2",
+      "name_en": "Party Website"
+    },
+    {
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.kevinsorenson.ca/",
+      "url_fr": "http://www.kevinsorenson.ca/",
+      "name_en": "Personal Website"
     }
-  ],
-  "id": "eb53bf99-e3d5-44b9-a15e-6c295470cdd4"
+  ]
 }
