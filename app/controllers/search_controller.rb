@@ -14,12 +14,12 @@ class SearchController < ApplicationController
   
   def postal_code
     @q        = params[:q]
-    query     = @q.gsub(/[\s_-]/, '')
-    province  = find_province_by_postal_code(query) 
+    @query     = @q.gsub(/[\s_-]/, '')
+    province  = find_province_by_postal_code(@query) 
     @senators = [*Senator.find_all_by_province_id(province.id)]
-    edids     = find_edids_by_postal_code(query)
-    if not edids.empty?
-      @mps    = [*Mp.find_by_riding_id(edids)]
+    @edids     = find_edids_by_postal_code(@query)
+    if not @edids.empty?
+      @mps    = [*Mp.find_all_by_riding_id(@edids)]
     else
       @mps    = []
     end
@@ -31,10 +31,11 @@ class SearchController < ApplicationController
     edids = []
     url = "http://postal-code-to-edid-webservice.heroku.com/postal_codes/#{postal_code}"
     begin
-    open(url) { |f|
-      result = JSON.parse(f.read)
-      edids << result["edid"]
-    }
+      open(url) { |f|
+        response = f.read
+        result = JSON.parse(response)
+        edids = result
+      }
     rescue
     end
     return edids

@@ -1,51 +1,49 @@
+<% @content_layout = "has_sidebar_right" %>
+
 <!--<p class="tagline">Parliament is sitting</p>-->
 
 <div id="intro">
-
-<h3>Qui te représente?</h3>
-
-<p>Découvre qui te représente à la Chambre des communes et au Sénat en inscrivant ton code postal.</p> 
-
-<p>Découvre leurs déclarations au Parlement, vois comment ils votent, et lis ce qui se dit à leur sujet dans les nouvelles.</p> 
-
-<div id="search">
-  <% form_tag '/search' do %>
-    <div class="search_field">
-      <%= text_field_tag 'q', 'Enter a Keyword', :class => 'text with_help default-value', :id => 'home_search' %>
-    </div>
-    <div class="submits">
-      <%= image_submit_tag("search.png", :alt => "search") %>
-    </div>
-  <% end %>
-</div>
-
-<h3>Cherches-tu quelque chose?</h3>
-
-<p>Tu peux également rechercher des sujets et des questions qui se discutent au Parlement.</p>
-
-<div id="search">
-  <% form_tag '/search/postal_code' do %>
-    <div class="search_field">
-      <%= text_field_tag 'q', 'Enter your Postal Code', :class => 'text with_help default-value', :id => 'postal_code_search' %>
-    </div>
-    <div class="submits">
-      <%= image_submit_tag("search.png", :alt => "search") %>
-    </div>
-  <% end %>
-</div>
 	
 <h3>Bienvenue à la Fabrique Citoyenne</h3>
 
 <p>Le Parlement n’est pas très facile à comprendre. C'est pourquoi la Fabrique Citoyenne est là - c'est une ressource en ligne pour la jeunesse canadienne créée par <%= link_to "L’apathie c’est plate", "http://www.apathyisboring.com/fr/home" %>. Notre objectif est de rendre l'information accessible et intéressante à propos du Parlement afin de te permettre de comprendre le fonctionnement de ton gouvernement. Il y a quatre éléments de base qui régissent la Fabrique Citoyenne:</p>
 
+<%= image_tag 'sections/mps_large.png' %>
 <p>Les <%= link_to 'députés', :controller => :members %> et les <%= link_to 'sénateurs', :controller => :senators %> sont les gens qui te représentent au Parlement. Jette un œil au profil de ton député ou de ton sénateur pour voir ce qu'il fait et pour savoir comment le contacter.</p>
+<div class="clear"></div>
 
+<%= image_tag 'sections/committees_large.png' %>
 <p>Les <%= link_to 'comités', :controller => :committees %> sont de petits groupes de députés et de sénateurs qui étudient un projet de loi ou une question particulière en détail, afin de pouvoir faire des recommandations au reste du Parlement. Découvre à quels comités ton député participe.</p>
+<div class="clear"></div>
 
-<p>Les <%= link_to 'débats', :controller => :hansards %> - Les députés passent beaucoup de temps à poser des questions, à en débattre ou parfois simplement à se lancer la balle entre eux. Découvre quels propos tient ton député à la Chambre des communes.</p>
+<%= image_tag 'sections/debates_large.png' %>
+<p>Les <%= link_to 'débats', :controller => :debates %> - Les députés passent beaucoup de temps à poser des questions, à en débattre ou parfois simplement à se lancer la balle entre eux. Découvre quels propos tient ton député à la Chambre des communes.</p>
+<div class="clear"></div>
 
+<%= image_tag 'sections/bills_large.png' %>
 <p>Les <%= link_to 'projets de loi', :controller => :bills %> - La raison de l’existence du Parlement, c'est de faire des lois, et toutes les lois sont tout d’abord des projets de loi. Suis l'avancement des projets de loi examinés par le Parlement et vois comment ton député ou ton sénateur a voté sur ces projets.</p>
+<div class="clear"></div>
 
 <p>Tu peux utiliser les informations suivantes pour <%= link_to "passer à l’action", "http://www.apathyisboring.com/fr/make_it_happen" %> en tant que citoyen ou parler de la Fabrique Citoyenne dans ta classe à l'aide de notre <%= link_to "guide de l'enseignant", "http://www.apathyisboring.com/en/the_facts/citizen_factory" %>.</p>
 	
 </div>
+
+<% content_for :sidebar_right do %>
+	<%= render :partial => 'shared/mp_search' %>
+	
+	<h3>Cherches-tu quelque chose?</h3>
+	
+	<p>Tu peux également rechercher des sujets et des questions qui se discutent au Parlement.</p>
+	
+	<div id="search">
+	  <% form_tag '/search' do %>
+	    <div class="search_field">
+	      <%= text_field_tag 'q', 'Entrez un mot clé', :class => 'text with_help default-value', :id => 'home_search' %>
+	    </div>
+	    <div class="submits">
+	      <%= image_submit_tag("search.png", :alt => "search") %>
+	    </div>
+	  <% end %>
+	</div>
+	
+<% end %>

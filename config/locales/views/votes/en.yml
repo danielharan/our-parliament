@@ -5,5 +5,5 @@ en:
             voted_on: "Voted on {{date}}"
             details_link: "…details"
         show:
-            title: ""
+            vote_title: "Vote {{vote_number}} on {{vote_date}}"
             members_link: "See how individual MPs voted"

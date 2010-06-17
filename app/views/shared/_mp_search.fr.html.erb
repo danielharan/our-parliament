@@ -1,0 +1,16 @@
+<h3>Qui te représente?</h3>
+
+<p>Découvre qui te représente à la Chambre des communes et au Sénat en inscrivant ton code postal.</p> 
+
+<p>Découvre leurs déclarations au Parlement, vois comment ils votent, et lis ce qui se dit à leur sujet dans les nouvelles.</p> 
+
+<div id="search">
+  <% form_tag '/search/postal_code' do %>
+    <div class="search_field">
+      <%= text_field_tag 'q', 'Entrez votre code postal', :class => 'text with_help default-value', :id => 'postal_code_search' %>
+    </div>
+    <div class="submits">
+      <%= image_submit_tag("search.png", :alt => "search") %>
+    </div>
+  <% end %>
+</div>

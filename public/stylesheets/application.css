@@ -68,27 +68,31 @@ table tfoot { background: #F7F7F7; }
 table tfoot td { border: none; text-align: right; font-weight: normal; }
 
 /* Homepage */
-body#application_controller.show #page { padding: 80px 0; }
+body#application_controller.show #page { padding: 20px 0; }
 body#application_controller.show #main p.tagline {
   font-size: 36px; margin: 0 0 40px; line-height: normal; color: #000; font-weight: bold; text-align: center;
 }
-body#application_controller.show #search { width: 480px; margin: 0 auto 40px; }
-body#application_controller.show #search form { text-align: center; }
-body#application_controller.show #search form div.search_field {
+#search { width: 250px; margin: 0 auto 40px; }
+#search form { text-align: center; }
+#search form div.search_field {
   background: #EEE; padding: 10px; margin: 0 0 20px;
   border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;
 }
-body#application_controller.show #search label { color: #EAAAAA; font-size: 18px; display: block; }
-body#application_controller.show #search input.text {
-  border: none; padding: 10px 0; color: #404040; font-size: 28px; width: 456px;
+#search label { color: #EAAAAA; font-size: 18px; display: block; }
+#search input.text {
+  border: none; padding: 10px 0; color: #404040; font-size: 16px; width: 220px;
   border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;
   text-align: center; border: 2px solid #F60057;
 }
-body#application_controller.show #search input.text.with_help { color: #808080; }
-body#application_controller.show #search a.button.large { width: 150px; line-height: 2; margin: 0 5px; }
-body#application_controller.show #intro { width: 800px; margin: 0 auto; }
-body#application_controller.show #intro h3 { margin: 0 0 20px; text-align: center; }
+#search input.text.with_help { color: #808080; }
+#search a.button.large { width: 150px; line-height: 2; margin: 0 5px; }
+body#application_controller.show #intro { width: 600px; margin: 0 auto; }
+body#application_controller.show #intro h3 { font-size: 20pt; margin: 0 0 20px; text-align: center; }
+body#application_controller.show #intro img { float: left; margin: 0 20px 20px 0; }
+body#application_controller.show #intro p.section { font-size: 14px; color: #656565; text-align: justify; }
 body#application_controller.show #intro p { font-size: 14px; color: #656565; text-align: justify; }
+
+body#application_controller.show div.sidebar.right { margin: 70px 0 0 20px; }
 
 /* Block > News */
 #news.block a.title { font-weight: bold; }
@@ -170,7 +174,7 @@ ul.profiles_list li div.description small { display: block; font-size: 11px; col
 #groups.block small { font-size: 11px; color: #656565; }
 
 /* Facts */
-#facts ul li { margin: 6px 0; }
+#facts ul li { margin: 2px 0; }
 
 /* Articles */
 #articles.block ul { margin: 0 0 -10px; }

@@ -1,8 +1,7 @@
-<% @title = "Vote #{@vote.number}" %>
+<% @title = t('votes.show.vote_title', :vote_number => @vote.number, :vote_date => @vote.vote_date) %>
 <% @content_layout = "has_sidebar_right" %>
 
 <p><%= @vote.title %></p>
-<p><%= l(@vote.vote_date) %></p>
 
 <div id="vote_summary">
 	<ul class="votes">

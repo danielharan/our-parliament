@@ -10,6 +10,14 @@ class CommitteesController < ApplicationController
     @committee = Committee.find(params[:id])
     @members_by_role = @committee.current_members_by_role
     @roles = CommitteeRole.find_all_by_id(@members_by_role.keys)
+    role_ranks = {
+      "Chair" => 1,
+      "Co-Chair" => 2,
+      "Vice-Chair" => 3
+    }
+    @roles.sort! { |a,b|
+      (role_ranks[a.name_en] ? role_ranks[a.name_en] : 999) <=> (role_ranks[b.name_en] ? role_ranks[b.name_en] : 999)
+    }
   end
 
 end
