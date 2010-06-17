@@ -2,6 +2,7 @@ class SenatorsController < ApplicationController
   before_filter :basic_admin, :only => [:edit, :update]
   before_filter :find_senator, :except => [:index]
   before_filter :cache_page, :only => [:index]
+  before_filter :fetch_random_links, :only => [:index]
   
   def index
     @senators = Senator.all

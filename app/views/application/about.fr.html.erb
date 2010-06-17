@@ -1,3 +1,5 @@
+<% @content_layout = "has_sidebar_right" %>
+
 <p>Le Parlement n’est pas très facile à comprendre. Les députés sont constamment à parier leur vote ou à passer des motions dilatoires, et la plupart d'entre nous n'avons aucune idée de ce que cela signifie. En conséquence, il est souvent plus facile d'ignorer le Parlement que de le comprendre.</p> 
 
 <p>C'est pourquoi la Fabrique Citoyenne est là - c'est une ressource en ligne pour la jeunesse canadienne créée par <%= link_to "L’apathie c’est plate", "http://www.apathyisboring.com/fr/home" %>. Notre objectif est de rendre l'information accessible et intéressante à propos du Parlement afin de te permettre de comprendre le fonctionnement de ton gouvernement. C'est un processus en deux étapes. D'abord, la Fabrique Citoyenne réunit toutes les informations nécessaires à propos du Parlement. Ensuite, on simplifie ces informations de sorte qu'il soit plus facile de comprendre le fonctionnement de ton gouvernement.</p>
@@ -17,3 +19,6 @@
 <h3>Guide de l'enseignant</h3>
 
 <p>Vous voulez enseigner à vos élèves le processus législatif sans les perdre dans la paperasse et le jargon? « L'apathie c'est plate » a élaboré une série de <%= link_to "plans de cours et des ressources", "http://www.apathyisboring.com/en/the_facts/citizen_factory" %> pour vous aider à présenter la Fabrique Citoyenne dans vos classes.</p>
+<% content_for :sidebar_right do %>
+  <%= render :partial => 'shared/links' %>
+<% end %>

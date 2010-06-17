@@ -3,7 +3,6 @@ require 'open-uri'
 
 class Mp < ActiveRecord::Base
   index do
-    ed_id
     parl_gc_id
     parl_gc_constituency_id
     name

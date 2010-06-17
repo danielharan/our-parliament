@@ -3,6 +3,7 @@
 
 class ApplicationController < ActionController::Base
   before_filter :set_title, :set_locale
+  before_filter :fetch_random_links, :only => [:about]
   helper :all # include all helpers, all the time
   #protect_from_forgery # See ActionController::RequestForgeryProtection for details
 

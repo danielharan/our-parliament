@@ -1,3 +1,5 @@
+<% @content_layout = "has_sidebar_right" %>
+
 <p>Parliament is confusing. MPs are constantly pairing their votes or passing dilatory motions, yet most of us have no idea what that means. As a result, it's often easier to ignore Parliament than to understand it.</p>
 
 <p>That's why Citizen Factory is here - it's an online resource for Canadian youth created by <%= link_to "Apathy is Boring", "http://www.apathyisboring.com/en" %>. Our goal is to help you make sense of Parliament. It's a two-step process: first Citizen Factory aggregates all the Parliamentary information that we can find. Next, we distill that information, so that it's easier to understand how your government works.</p>
@@ -16,4 +18,8 @@
 
 <h3>Teacher's Guide</h3>
 
-<p>Want to teach your students about the legislative process without losing them in paperwork and jargon? Apathy is Boring has developed a set of lesson plans and resources [http://www.apathyisboring.com/en/the_facts/citizen_factory] to help you bring Citizen Factory into the classroom.</p>
+<p>Want to teach your students about the legislative process without losing them in paperwork and jargon? Apathy is Boring has developed a set of <%= link_to 'lesson plans and resources', 'http://www.apathyisboring.com/en/the_facts/citizen_factory' %> to help you bring Citizen Factory into the classroom.</p>
+
+<% content_for :sidebar_right do %>
+  <%= render :partial => 'shared/links' %>
+<% end %>

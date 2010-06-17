@@ -1,4 +1,4 @@
-<% @title = t('votes.show.vote_title', :vote_number => @vote.number, :vote_date => @vote.vote_date) %>
+<% @title = t('votes.show.vote_title', :vote_number => @vote.number, :vote_date => @vote.vote_date.strftime("%B %d, %Y")) %>
 <% @content_layout = "has_sidebar_right" %>
 
 <p><%= @vote.title %></p>
