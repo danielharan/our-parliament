@@ -1,8 +1,7 @@
 <li>
   <div class="votes">
     <a href="<%= url_for :action => :show, :id => vote.id %>">
-    	<%= vote.total_votes %>
-    	<label>Votes</label>
+    	<%= vote.number %>
 	</a>
   </div>
   <% unless vote.bill_number.nil? %>
@@ -14,6 +13,6 @@
   <div class="description">
     <%= vote.title %>
 	(<%= link_to t('votes.index.details_link'), :action => :show, :id => vote.id %>)
-    <small><%= t('votes.index.voted_on', :date => vote.vote_date) %></small>
+    <small><%= t('votes.index.voted_on', :date => l(vote.vote_date, :format => :long)) %></small>
   </div>
 </li>

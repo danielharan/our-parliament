@@ -10,7 +10,7 @@
     </span>
     <small>
       <% if recorded_vote.mp and recorded_vote.mp.riding %><span class="constituency"><%= recorded_vote.mp.riding.name %></span><% end %><br/>
-	  <strong>Voted <%= recorded_vote.stance %></strong>
+	  <strong><%= t("votes.show.#{recorded_vote.stance}") %></strong>
     </small>
   </div>
 </li>

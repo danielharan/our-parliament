@@ -4,6 +4,7 @@ fr:
             title: "Sénateurs actuel"
         show:
             title: ""
+            subtitle: "Le sénateur {{party_name}} de {{province_name}}"
             intro: "Les sénateurs sont des personnes très occupées et on aimerait te dire ce qu'ils font. Malheureusement, la Fabrique citoyenne ne peut pas publier légalement les procédures du Sénat en ce moment. Mais ceci ne veut pas dire que tu ne peux pas contacter le Sénat ou en <a href=\"{{link}}\">apprendre plus sur ton député</a>."
             nominated: "Nommé le"
             retires: "Départ à la retraite le"

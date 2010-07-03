@@ -12,10 +12,16 @@ en:
             title: ""
         show:
             title: ""
+            subtitle: "{{party_name}} MP for {{riding_name}}"
             intro: "MPs represent you in the <a href=\"http://www.apathyisboring.com/en/the_facts/articles/decoding_the_house_of_commons\">House of Commons</a>. These profiles include their votes and speeches in the House, so you can use Citizen Factory keep tabs on your MP. And if there's something you think your MP should (or shouldn't) be doing, use the information on the left to contact them."
             riding: "MP for {{riding}}"
         votes:
             title: ""
+        activity_feed:
+            title: "Recent activity for {{mp_name}}"
+            description: "Activity for {{mp_name}}, MP for {{riding_name}}"
+            hansard_statement: "{{mp_name}} commented on {{topic}}"
+            twitter_post: "{{mp_name} posted on Twitter"
         activity_stream:
             title: "News Feed"
             time_ago: "{{time}} ago"

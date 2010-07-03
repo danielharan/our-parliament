@@ -3,6 +3,7 @@ div.container { margin: 0 auto; width: 960px; position: relative; }
 #page { overflow: hidden; padding: 40px 0; position: relative; }
 #main { position: relative; }
 div.sidebar { width: 220px; float: left; }
+div.sidebar p { line-heigh: 1em; font-size: 10pt; }
 #content.has_sidebar_left #main,
 #content.has_sidebar_right #main { width: 720px; float: left; }
 #content.has_sidebar_left div.sidebar.left { margin: 0 20px 0 0; }
@@ -22,20 +23,20 @@ div.sidebar { width: 220px; float: left; }
 /* Page Title */
 #page_title { margin: 0 0 20px; }
 #page_title h2 { margin: 0; }
-#page_title p.subtitle { margin: 0; color: #656565; font-size: 18px; }
+#page_title p.subtitle { margin: 0; font-size: 18px; }
 
 /* Footer */
 #footer { padding: 40px 0; border-top: 3px solid #EEE; }
 #footer a.aisb_logo { float: left; }
-#footer p { margin: 0 0 1.3em 206px; color: #656565; font-size: 12px; }
+#footer p { margin: 0 0 1.3em 206px; font-size: 12px; }
 #footer p:last-child { margin-bottom: 0; }
 
 /* Navigation */
-ul#nav { position: absolute; bottom: 29px; right: 0; margin: 0; }
-ul#nav li { display: block; float: left; margin: 0 0 0 5px; }
+ul#nav { position: absolute; bottom: 35px; right: 0; margin: 0; }
+ul#nav li { display: block; float: left; margin: 0; }
 ul#nav li a {
-  font-weight: bold; display: block; padding: 2px 10px; line-height: 23px; height: 22px;
-  color: #fff; font-size: 12px; text-decoration: none;
+  font-weight: normal; display: block; padding: 2px 14px; line-height: 23px; height: 22px;
+  color: #fff; font-size: 14px; text-decoration: none;
   /*border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;*/
 }
 ul#nav li a:hover { background: #FFFFFF; color: #F60057; }
@@ -72,8 +73,8 @@ body#application_controller.show #page { padding: 20px 0; }
 body#application_controller.show #main p.tagline {
   font-size: 36px; margin: 0 0 40px; line-height: normal; color: #000; font-weight: bold; text-align: center;
 }
-#search { width: 250px; margin: 0 auto 40px; }
-#search form { text-align: center; }
+#search { width: 250px; margin: 0 auto 40px; font-size: 12pt; }
+#search form { text-align: left; }
 #search form div.search_field {
   background: #EEE; padding: 10px; margin: 0 0 20px;
   border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;
@@ -86,13 +87,13 @@ body#application_controller.show #main p.tagline {
 }
 #search input.text.with_help { color: #808080; }
 #search a.button.large { width: 150px; line-height: 2; margin: 0 5px; }
-body#application_controller.show #intro { width: 600px; margin: 0 auto; }
-body#application_controller.show #intro h3 { font-size: 20pt; margin: 0 0 20px; text-align: center; }
+body#application_controller.show #intro { margin: 0 20px 0 0; }
+body#application_controller.show #intro h3 { font-size: 20pt; margin: 0 0 20px; text-align: left; }
 body#application_controller.show #intro img { float: left; margin: 0 20px 20px 0; }
-body#application_controller.show #intro p.section { font-size: 14px; color: #656565; text-align: justify; }
-body#application_controller.show #intro p { font-size: 14px; color: #656565; text-align: justify; }
+body#application_controller.show #intro p.section { font-size: 14px; text-align: justify; }
+body#application_controller.show #intro p { font-size: 14px; text-align: justify; }
 
-body#application_controller.show div.sidebar.right { margin: 70px 0 0 20px; }
+body#application_controller.show div.sidebar.right { margin: 80px 0 0 20px; }
 
 /* Block > News */
 #news.block a.title { font-weight: bold; }
@@ -194,7 +195,7 @@ ul.profiles_list li div.description small { display: block; font-size: 11px; col
   text-transform: uppercase; font-size: 10px; color: #656565; display: block; font-weight: normal; margin: 0;
 }
 #votes.block ul li div.votes {
-  float: left; width: 50px; padding: 8px 5px 5px; font-size: 16px; font-weight: bold; text-align: center;  line-height: 1;
+  float: left; width: 50px; padding: 5px; font-size: 16px; font-weight: bold; text-align: center;  line-height: 1;
   border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #F60057; color: #FFF;
 }
 #votes.block ul li div.votes label { text-transform: uppercase; font-size: 10px; color: #FDBFD5; display: block; margin: 0 0 3px; }
@@ -231,7 +232,7 @@ ul.profiles_list li div.description small { display: block; font-size: 11px; col
 #activity_stream.block ul li { display: block; padding: 0 0 10px; margin: 0 0 10px; border-bottom: 1px solid #EEE; overflow: hidden; }
 
 #activity_stream.block ul li div.description { margin: 0 70px; }
-#activity_stream.block ul li div.description small { display: block; color: #959595; font-size: 12px; }
+#activity_stream.block ul li div.description small { display: block; color: #656565; font-size: 12px; }
 
 #activity_stream.block em { font-size: 9pt; color: #999; }
 

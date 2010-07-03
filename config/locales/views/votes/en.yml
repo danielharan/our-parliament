@@ -7,3 +7,8 @@ en:
         show:
             vote_title: "Vote {{vote_number}} on {{vote_date}}"
             members_link: "See how individual MPs voted"
+            yea: "Voted Yea"
+            nay: "Voted Nay"
+            paired: "Paired their vote"
+            paired_or_no_vote: "Paired or didn't vote"
+            abstained: "Abstained"

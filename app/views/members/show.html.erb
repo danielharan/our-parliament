@@ -1,6 +1,10 @@
 <% @title = @mp.name %>
 <% @content_layout = "has_sidebar_left" %>
 
+<% content_for :subtitle do %>
+<%= t('members.show.subtitle', :party_name => @mp.party.name, :riding_name => @mp.riding.name) %>
+<% end %>
+
 <% content_for :sidebar_left do %>
 
   <div id="photo" class="block">
@@ -16,11 +20,8 @@
   <div id="facts" class="block">
     <h3><%= t('section.facts') %></h3>
     <ul>
-		<% if @mp.riding.name %>
-			<li><%= t('members.show.riding', :riding => @mp.riding.name) %></li>
-		<% end %>
 		<% if not @mp.election_results.empty? %>
-			<li><%= t('members.elected_date', :date => l(@mp.election_results.last.election.date), :percentage => @mp.election_results.last.vote_percentage ) %></li>
+			<li><%= t('members.elected_date', :date => l(@mp.election_results.last.election.date, :format => :long), :percentage => @mp.election_results.last.vote_percentage ) %></li>
 		<% end %>
 		<% if @mp.age %>
 			<li><%= t('members.age', :age => @mp.age) %></li>
@@ -66,12 +67,12 @@
 
 <div id="activity_stream" class="block">
 	<h3><%= t('members.activity_stream.title') %></h3>
+	<p class="more rss"><%= link_to t('members.activity_stream.rss_link'), :controller => :members, :action => :activity, :id => @mp.id %></p>
 	<ul>
 		<% for entry in @activity_stream.entries %>
 			<li class="entry <%= entry.object.class.name.underscore.downcase %>"><%= render :partial => "shared/entry/#{entry.object.class.name.underscore.downcase}", :locals => {:entry => entry} %></li>
 		<% end %>
 	</ul>
-	<p class="more rss"><%= link_to t('members.activity_stream.rss_link'), :controller => :members, :action => :activity, :id => @mp.id %></p>
 </div>
 
 <div id="google_news" class="block">
