@@ -1,0 +1,28 @@
+<li>
+	<div class="meta">
+		<% if hansard_statement.mp %>
+			<% if hansard_statement.mp.image? %>
+		      <%= link_to image_tag(hansard_statement.mp.image.url(:small), :alt => "photo of #{hansard_statement.mp.name}"),  :controller => :debates, :action => :show, :id => hansard_statement.hansard.date, :query => @q, :anchor => "statement_#{hansard_statement.id}", :title => "", :class => "photo" %>
+		    <% else %>
+		      <%= link_to image_tag("placeholder_photo_small.gif", :alt => hansard_statement.mp.name), member_path(hansard_statement.mp), :class => 'photo' %>
+		    <% end %>
+		<% end %>
+		<p class="time"><%= l(hansard_statement.hansard.date, :format => :long) %></p>
+		<!--<p class="topic"><%= hansard_statement.topic %></p>-->
+	</div>
+	<div class="details">
+		<% if hansard_statement.mp %>
+			<p class="attribution">
+				<%= link_to hansard_statement.mp.name, member_path(hansard_statement.mp), :title => "" %> - 
+				<% if hansard_statement.mp.party and hansard_statement.mp.riding %>
+					<%= t('members.show.subtitle', :party_name => hansard_statement.mp.party.name, :riding_name => hansard_statement.mp.riding.name) %>
+				<% end %>
+			</p>
+		<% else %>
+			<p class="attribution"><%= hansard_statement.attribution %></p>
+		<% end %>
+		<p><%= excerpt(hansard_statement.text, @q) %></p>
+		(<%= link_to '...details', :controller => :debates, :action => :show, :id => hansard_statement.hansard.date, :query => @q, :anchor => "statement_#{hansard_statement.id}" %>)
+	</div>
+	<div class="clear"></div>
+</li>

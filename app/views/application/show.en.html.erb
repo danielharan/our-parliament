@@ -21,7 +21,7 @@
 <div class="clear"></div>
 
 <%= image_tag 'sections/bills_large.png' %>
-<p class="section"><%= link_to 'Bills', :controller => :bills %> - The reason Parliament exists is to make laws, and every law starts out as a bill. Track the progress of bills being considered by Parliament and see how you MP voted on them.</p>
+<p class="section"><%= link_to 'Votes', :controller => :votes %> - Whenever Parliament wants to do something, they vote on it as a motion. See how your MP voted in the House of Commons.</p>
 <div class="clear"></div>
 
 <p>You can use this information to <%= link_to 'take action', 'http://www.apathyisboring.com/en/make_it_happen' %> as a citizen, or bring Citizen Factory into the classroom using our <%= link_to "Teacher's Guide", 'http://www.apathyisboring.com/en/the_facts/citizen_factory' %>.</p>
@@ -31,7 +31,7 @@
 <% content_for :sidebar_right do %>
 	<%= render :partial => 'shared/mp_search' %>
 	
-	<h3>Looking for something?</h3>
+	<h3>Looking for Someone?</h3>
 	
 	<p>You can also search for topics and issues being discussed in Parliament:</p>
 	
@@ -41,7 +41,7 @@
 	      <%= text_field_tag 'q', 'Enter a Keyword', :class => 'text with_help default-value', :id => 'home_search' %>
 	    </div>
 	    <div class="submits">
-	      <%= image_submit_tag("search.png", :alt => "search") %>
+	      <%= image_submit_tag("search.en.png", :alt => "search") %>
 	    </div>
 	  <% end %>
 	</div>

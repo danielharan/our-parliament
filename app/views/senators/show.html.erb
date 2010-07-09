@@ -1,6 +1,10 @@
 <% @content_layout = "has_sidebar_left" %>
 <% @title = @senator.normalized_name %>
 
+<% content_for :subtitle do %>
+<%= t('senators.show.subtitle', :party_name => @senator.party.name, :province_name => @senator.province.name) %>
+<% end %>
+
 <% content_for :sidebar_left do %>
 
   <div id="photo" class="block">
@@ -15,10 +19,8 @@
   <div id="facts" class="block">
     <h3><%= t('section.facts') %></h3>
     <ul>
-      <% if @senator.province %><li><%= @senator.province.name %></li><% end %>
-      <% if @senator.party %><li><%= @senator.party.name %></li><% end %>
-	  <% if @senator.nomination_date %><li><%= t('senators.show.nominated') %> <%= l(@senator.nomination_date) %></li><% end %>
-	  <% if @senator.retirement_date %><li><%= t('senators.show.retires') %> <%= l(@senator.retirement_date) %></li><% end %>
+	  <% if @senator.nomination_date %><li><%= t('senators.show.nominated') %> <%= l(@senator.nomination_date, :format => :long) %></li><% end %>
+	  <% if @senator.retirement_date %><li><%= t('senators.show.retires') %> <%= l(@senator.retirement_date, :format => :long) %></li><% end %>
     </ul>
   </div>
   
@@ -44,7 +46,7 @@
 <div id="google_news" class="block">
   <h3><%= t('section.news') %></h3>
   <iframe frameborder="0" width="728" height="90" marginwidth="0" marginheight="0"
-         src="http://www.google.com/uds/modules/elements/newsshow/iframe.html?q=<%= @senator.news_search_name %>&ned=ca&rsz=large&hl=en&format=728x90">
+         src='http://www.google.com/uds/modules/elements/newsshow/iframe.html?q=<%= @senator.news_search_name %>+Senator&ned=ca&rsz=large&hl=en&format=728x90'>
   </iframe>
 </div>
 

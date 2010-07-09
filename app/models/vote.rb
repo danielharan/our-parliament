@@ -21,12 +21,17 @@ class Vote < ActiveRecord::Base
     find(:all, :order => "vote_date DESC", :limit => n)
   end
   
+  def abstained
+    Mp.active.all.size - (in_favour + opposed + paired)
+  end
+  
   def total_votes
-    in_favour + opposed + paired
+    in_favour + opposed + paired + abstained
   end
   
   def total_votes_by_party
     votes_by_party = {}
+    current_mps = Mp.active.all
     recorded_votes.each { |vote|
       if vote.mp.party_id
         votes_by_stance = votes_by_party[vote.mp.party_id]
@@ -36,7 +41,21 @@ class Vote < ActiveRecord::Base
         end
         votes_by_stance[vote.stance] = votes_by_stance[vote.stance] + 1
         votes_by_stance['votes'] << vote
+        current_mps.delete(vote.mp)
       end
+    }
+    current_mps.each { |mp|
+      vote = RecordedVote.new
+      vote.mp = mp
+      vote.stance = 'abstained'
+      
+      votes_by_stance = votes_by_party[mp.party_id]
+      if not votes_by_stance
+        votes_by_stance = {'yea' => 0, 'nay' => 0, 'paired' => 0, 'votes' => []}
+        votes_by_party[mp.party.id] = votes_by_stance
+      end
+      votes_by_stance['paired'] = votes_by_stance['paired'] + 1
+      votes_by_stance['votes'] << vote
     }
     return votes_by_party 
   end

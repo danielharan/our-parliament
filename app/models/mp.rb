@@ -76,11 +76,11 @@ class Mp < ActiveRecord::Base
 
   def links
     h = {}
-    h[I18n.t('weblink.facebook')]         = facebook                        unless facebook.blank?
-    h[I18n.t('weblink.wikipedia')]        = wikipedia                       unless wikipedia.blank?
-    h[I18n.t('weblink.wikipedia_riding')] = wikipedia_riding                unless wikipedia_riding.blank?
-    h[I18n.t('weblink.twitter')]          = "http://twitter.com/#{twitter}" unless twitter.blank?
-    h[I18n.t('weblink.personal')]         = website                         unless website.blank?
+    h[I18n.t('members.weblink.facebook', :member_name => name)]         = facebook                        unless facebook.blank?
+    h[I18n.t('members.weblink.wikipedia', :member_name => name)]        = wikipedia                       unless wikipedia.blank?
+    h[I18n.t('members.weblink.wikipedia_riding', :member_name => name)] = wikipedia_riding                unless wikipedia_riding.blank?
+    h[I18n.t('members.weblink.twitter', :member_name => name)]          = "http://twitter.com/#{twitter}" unless twitter.blank?
+    h[I18n.t('members.weblink.personal', :member_name => name)]         = website                         unless website.blank?
     h
   end
 
@@ -129,21 +129,30 @@ class Mp < ActiveRecord::Base
   end
   
   def fetch_new_tweets
+    tweets = []
     url = "http://search.twitter.com/search.json?q=from:#{twitter}"
     begin
       open(url) { |f|
         JSON.parse(f.read)['results'].each { |result|
           if not Tweet.find_by_twitter_id(result['id'])
-            Tweet.create({
+            tweet = Tweet.create({
               :mp_id => id,
               :text => result['text'],
               :created_at => result['created_at'],
               :twitter_id => result['id']
             })
+            tweets << tweet
           end
         }
       }
     rescue
     end
+    return tweets
+  end
+  
+  def fetch_news_articles
+    articles = []
+    articles = GoogleNews.search(name + ' AND ("MP" OR "Member of Parliament") location:Canada')
+    return articles
   end
 end

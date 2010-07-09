@@ -1,1 +1,39 @@
-/* General */
+#hansard_statements li {
+	border-bottom: 1px solid #ccc;
+	margin: 0 0 10px 0;
+}
+
+#hansard_statements li .meta {
+	float: left;
+	text-align: center;
+	width: 140px;
+}
+
+#hansard_statements li .time {
+	margin: 0 0 4px 0;
+}
+
+#hansard_statements li .topic {
+	color: #999;
+	margin: 0 0 4px 0;
+}
+
+#hansard_statements li .details {
+	margin-left: 140px;
+}
+
+#hansard_statements li .details .attribution {
+	font-weight: bold;
+}
+
+#hansard_statements li .details p {
+	margin: 0 0 10px 0;
+}
+
+#search_controller.index #hansard_statements li .meta {
+	width: 100px;
+}
+
+#search_controller.index #hansard_statements li .details {
+	margin-left: 100px;
+}

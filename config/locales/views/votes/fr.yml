@@ -5,5 +5,10 @@ fr:
             voted_on: "Vote le {{date}}"
             details_link: "…détails"
         show:
-            title: ""
+            vote_title: "Vote {{vote_number}} sur {{vote_date}}"
             members_link: "Voir comment les différentes députés ont voté"
+            yea: "Voté oui"
+            nay: "Voté non"
+            paired: "Paires de leur droit de vote"
+            paired_or_no_vote: "Jumelés ou ne pas voter"
+            abstained: "Abstention"

@@ -1,3 +1,20 @@
-<!--<p>Everything that's said in the House of Commons is also transcribed: MPs debating a bill, Question Period, questions to cabinet ministers, everything. If you're interested in a specific topic or issue, the search box to the right will find speeches related to any keyword. You can also look through the transcripts for any given day (from 1994 onward) below.</p>--->
+<%= stylesheet_link_tag 'calendar/red/style' %>
 
-<%= render :partial => 'shared/under_development' %>
+<% @content_layout = "has_sidebar_right" %>
+
+<p>Everything that's said in the House of Commons is also transcribed: MPs debating a bill, Question Period, questions to cabinet ministers, everything. If you're interested in a specific topic or issue, the search box to the right will find speeches related to any keyword. You can also look through the transcripts for any given day (from 1994 onward) below.</p>
+
+<% for year in @years %>
+	<h3><%= year %></h3>
+	<% 0.upto(11) { |month| %>
+		<% if @hansards_by_year[year][month] %>
+			<%= calendar(:year => year, :month => month) do |d|
+				@hansards_by_year[year][month][d.day] ? link_to(d.day, :action => :show, :id => d) : d.day
+			end %>
+		<% end %>
+	<% } %>
+<% end %>
+
+<% content_for :sidebar_right do %>
+  <%= render :partial => 'shared/links' %>
+<% end %>

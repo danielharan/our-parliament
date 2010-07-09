@@ -1,3 +1,20 @@
-<!--<p>Tout ce qui se dit dans la Maison des communes est aussi transcrit, que ce soit lors d’un débat des députés sur un projet de loi ou durant la période de question, lorsque les membres de l’opposition posent des questions aux membres du Cabinet. Si tu t’intéresses à un sujet ou à un problème en particulier, cherche dans la boîte à ta droite pour trouver des discours reliés à n’importe quel mot clé. Tu peux aussi lire les transcriptions de n’importe quel jour (depuis 1994) ci-dessous. </p>-->
+<%= stylesheet_link_tag 'calendar/red/style' %>
 
-<%= render :partial => 'shared/under_development' %>
+<% @content_layout = "has_sidebar_right" %>
+
+<p>Tout ce qui se dit dans la Maison des communes est aussi transcrit, que ce soit lors d’un débat des députés sur un projet de loi ou durant la période de question, lorsque les membres de l’opposition posent des questions aux membres du Cabinet. Si tu t’intéresses à un sujet ou à un problème en particulier, cherche dans la boîte à ta droite pour trouver des discours reliés à n’importe quel mot clé. Tu peux aussi lire les transcriptions de n’importe quel jour (depuis 1994) ci-dessous. </p>
+
+<% for year in @years %>
+	<h3><%= year %></h3>
+	<% 0.upto(11) { |month| %>
+		<% if @hansards_by_year[year][month] %>
+			<%= calendar(:year => year, :month => month) do |d|
+				@hansards_by_year[year][month][d.day] ? link_to(d.day, :action => :show, :id => d) : d.day
+			end %>
+		<% end %>
+	<% } %>
+<% end %>
+
+<% content_for :sidebar_right do %>
+  <%= render :partial => 'shared/links' %>
+<% end %>

@@ -1,0 +1,47 @@
+<% @content_layout = "has_sidebar_right" %>
+<% @title = t('debates.show.debate_title', :date => l(@hansard.date, :format => :long)) %>
+<%= stylesheet_link_tag 'hansards' %>
+
+<ul id="hansard_statements">
+<% for statement in @hansard.statements %>
+	<li>
+		<a name="statement_<%= statement.id %>"></a>
+		<div class="meta">
+			<% if statement.mp %>
+				<% if statement.mp.image? %>
+			      <%= link_to image_tag(statement.mp.image.url, :alt => "photo of #{statement.mp.name}"),  member_path(statement.mp), :title => "", :class => "photo" %>
+			    <% else %>
+			      <%= link_to image_tag("placeholder_photo_medium.gif", :alt => statement.mp.name), member_path(statement.mp), :class => 'photo' %>
+			    <% end %>
+			<% end %>
+			<p class="time"><%= l(statement.time, :format => :time) %></p>
+			<p class="topic"><%= statement.topic %></p>
+		</div>
+		<div class="details">
+			<% if statement.mp %>
+				<p class="attribution">
+					<%= link_to statement.mp.name, member_path(statement.mp), :title => "" %> - 
+					<% if statement.mp.party and statement.mp.riding %>
+						<%= t('members.show.subtitle', :party_name => statement.mp.party.name, :riding_name => statement.mp.riding.name) %>
+					<% end %>
+				</p>
+			<% else %>
+				<p class="attribution"><%= statement.attribution %></p>
+			<% end %>
+			
+			<p class="statment">
+			<% if params[:query] %>
+				<%= highlight statement.text, params[:query] %>
+			<% else %>
+				<%= statement.text %>
+			<% end %>
+			</p>
+		</div>
+		<div class="clear"></div>
+	</li>
+<% end %>
+</ul>
+
+<% content_for :sidebar_right do %>
+  <%= render :partial => 'shared/links' %>
+<% end %>

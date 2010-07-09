@@ -12,10 +12,16 @@ en:
             title: ""
         show:
             title: ""
+            subtitle: "{{party_name}} Member for {{riding_name}}"
             intro: "MPs represent you in the <a href=\"http://www.apathyisboring.com/en/the_facts/articles/decoding_the_house_of_commons\">House of Commons</a>. These profiles include their votes and speeches in the House, so you can use Citizen Factory keep tabs on your MP. And if there's something you think your MP should (or shouldn't) be doing, use the information on the left to contact them."
             riding: "MP for {{riding}}"
         votes:
             title: ""
+        activity_feed:
+            title: "Recent activity for {{mp_name}}"
+            description: "Activity for {{mp_name}}, MP for {{riding_name}}"
+            hansard_statement: "{{mp_name}} commented on {{topic}}"
+            twitter_post: "{{mp_name} posted on Twitter"
         activity_stream:
             title: "News Feed"
             time_ago: "{{time}} ago"
@@ -24,9 +30,24 @@ en:
             vote:
                 yea: "Voted yes on"
                 nay: "Voted no on"
-                abstained: "Abstained for"
+                abstained: "Absent for"
             twitter:
                 text: "Posted the following on Twitter"
             rss_link: "Subscribe to this member's activity feed"
-        age: "{{age}} years old"
-        elected_date: "Elected on {{date}} with {{percentage}}% of the vote"
+        age: "{{age}} Years Old"
+        elected_date: "Elected on {{date}} with {{percentage}}% of the Vote"
+        section:
+            facts: "The Facts"
+            contact: "Contact Them"
+            links: "Links"
+            news: "News Search"
+        weblink:
+            facebook: "{{member_name}} on Facebook"
+            wikipedia: "{{member_name}}'s Wikipedia Entry"
+            wikipedia_riding: "{{member_name}}'s Riding Entry"
+            twitter: "{{member_name}} on Twitter"
+            personal: "{{member_name}}'s Personal Website"
+            party:  "{{member_name}}'s Party Website"
+        photo:
+            prompt: "Do you own a photo of this MP?"
+            prompt_link: "Let us use it!"

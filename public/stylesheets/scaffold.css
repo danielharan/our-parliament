@@ -12,14 +12,15 @@ html[xmlns] .clearfix{display:block;}
 * { zoom: 1; }
 /* Common */
 body { font-family: helvetica, arial, sans-serif; font-size: 12px; background: #FFF; }
-h2 { font-size: 28px; font-weight: bold; margin: 0 0 0.8em; color: #000000; line-height: 1.6em; }
-h3 { font-size: 18px; font-weight: bold; margin: 0 0 0.8em; color: #000000; line-height: 1.6em; }
+h2 { font-size: 28px; font-weight: bold; margin: 0 0 0.8em; color: #333333; line-height: 1.6em; }
+h3 { font-size: 18px; font-weight: bold; margin: 0 0 0.8em; color: #333333; line-height: 1.6em; }
 p { font-size: 14px; color: #202020; margin: 0 0 1.6em; line-height: 1.6em; }
-p.more { margin: 0; }
+p.more { margin: 0 0 10px 0; }
 p.more.rss a { padding: 0 0 0 21px; background: url('../images/icons/feed.png') no-repeat left center; }
 ol, ul { margin: 0 0 1.6em; }
-li { font-size: 14px; color: #202020; line-height: 1.6em; }
-a { color: #f09; text-decoration: none; }
+li { font-size: 14px; color: #333333; line-height: 1.6em; }
+a { color: #f06; text-decoration: none; }
 a:hover { text-decoration: underline; }
 /* Blocks */
 div.block { margin: 0 0 20px; }
+strong.highlight { font-weight: normal; background: #fbb; padding: 0 2px; }

@@ -1,13 +1,13 @@
-<% @title = t('votes.show.vote_title', :vote_number => @vote.number, :vote_date => @vote.vote_date.strftime("%B %d, %Y")) %>
+<% @title = t('votes.show.vote_title', :vote_number => @vote.number, :vote_date => l(@vote.vote_date, :format => :long)) %>
 <% @content_layout = "has_sidebar_right" %>
 
 <p><%= @vote.title %></p>
 
 <div id="vote_summary">
 	<ul class="votes">
-		<li class="yea_large"><span class="votes"><%= @vote.in_favour %></span><span class="description">Voted Yea</span></li>
-		<li class="nay_large"><span class="votes"><%= @vote.opposed %></span><span class="description">Voted Nay</span></li>
-		<li class="paired_large"><span class="votes"><%= @vote.paired %></span><span class="description">Paired or didn't vote</span></li>
+		<li class="yea_large"><span class="votes"><%= @vote.in_favour %></span><span class="description"><%= t("votes.show.yea") %></span></li>
+		<li class="nay_large"><span class="votes"><%= @vote.opposed %></span><span class="description"><%= t("votes.show.nay") %></span></li>
+		<li class="paired_large"><span class="votes"><%= @vote.paired + @vote.abstained %></span><span class="description"><%= t("votes.show.paired_or_no_vote") %></span></li>
 	</ul>
 </div>
 
@@ -15,16 +15,16 @@
 	<% for party in @parties %>
 	<div class="party_summary">
 		<% if party.image %>
-			<%= image_tag "parties/#{party.image}.png", :style => "float:left" %>
+			<%= image_tag "parties/#{party.image}.#{I18n.locale}.png", :style => "float:left" %>
 		<% else %>
 			<div style="width: 200px; height: 110px; float: left;">
 				<h3 style="text-align:right;margin:30px 20px 0 0;"><%= party.name %></h3>
 			</div>
 		<% end %>
 		<ul class="votes">
-			<li class="yea_small"><span class="votes"><%= @votes_by_party[party.id]['yea'] %></span><span class="description">Voted Yea</span></li>
-			<li class="nay_small"><span class="votes"><%= @votes_by_party[party.id]['nay'] %></span><span class="description">Voted Nay</span></li>
-			<li class="paired_small"><span class="votes"><%= @votes_by_party[party.id]['paired'] %></span><span class="description">Paired or didn't vote</span></li>
+			<li class="yea_small"><span class="votes"><%= @votes_by_party[party.id]['yea'] %></span><span class="description"><%= t("votes.show.yea") %></span></li>
+			<li class="nay_small"><span class="votes"><%= @votes_by_party[party.id]['nay'] %></span><span class="description"><%= t("votes.show.nay") %></span></li>
+			<li class="paired_small"><span class="votes"><%= @votes_by_party[party.id]['paired'] %></span><span class="description"><%= t("votes.show.paired_or_no_vote") %></span></li>
 		</ul>
 		<div class="clear"></div>
 		<a href="#" class="toggle_votes"><%= t('votes.show.members_link') %></a>
