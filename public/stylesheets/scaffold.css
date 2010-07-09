@@ -23,3 +23,4 @@ a { color: #f06; text-decoration: none; }
 a:hover { text-decoration: underline; }
 /* Blocks */
 div.block { margin: 0 0 20px; }
+strong.highlight { font-weight: normal; background: #fbb; padding: 0 2px; }

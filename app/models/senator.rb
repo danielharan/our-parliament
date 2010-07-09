@@ -1,4 +1,6 @@
 require 'open-uri'
+require 'google_news'
+
 class Senator < ActiveRecord::Base
   index do
     name
@@ -68,6 +70,12 @@ class Senator < ActiveRecord::Base
           :nomination_date => clean(elem / (elem.path + "/td[4]")),
           :retirement_date => clean(elem / (elem.path + "/td[5]")),
           :appointed_by    => clean(elem / (elem.path + "/td[6]"))
+    end
+    
+    def fetch_news_articles
+      articles = []
+      articles = GoogleNews.search(name + ' AND "Senator" location:Canada')
+      return articles
     end
     
     private

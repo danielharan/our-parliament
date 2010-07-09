@@ -1,14 +1,16 @@
 <% @title = t('search.results', :query => @q) %>
+<%= stylesheet_link_tag 'hansards' %>
 
 <div id="groups" class="block">
   <ul>
     <% if @senators.any? %><li><a href="#senators"><%= t('search.section.senators') %></a></li><% end %>
     <% if @mps.any? %><li><a href="#mps"><%= t('search.section.mps') %></a></li><% end %>
     <% if @votes.any? %><li><a href="#votes"><%= t('search.section.votes') %></a></li><% end %>
+	<% if @statements.any? %><li><a href="#statements"><%= t('search.section.statements') %></a></li><% end %>
   </ul>
 </div>
 
-<% if (@senators.length + @mps.length + @votes.length) == 0 %>
+<% if (@senators.length + @mps.length + @votes.length + @statements.length) == 0 %>
   <%= t('search.no_results', :query => @q) %>.
 <% end %>
 
@@ -34,6 +36,16 @@
   <div id="votes" class="block">
     <ul class="profiles_list">
       <%= render :partial => 'shared/vote', :collection => @votes %>
+    </ul>
+  </div>
+<% end %>
+
+<% if @statements.any? %>
+  <a name="#statements"></a>
+  <h3><%= t('search.section.statements') %></h3>
+  <div id="statements" class="block">
+    <ul id="hansard_statements">
+      <%= render :partial => 'shared/hansard_statement', :collection => @statements %>
     </ul>
   </div>
 <% end %>

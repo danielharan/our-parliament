@@ -9,5 +9,6 @@ fr:
             senators: "Sénateurs"
             mps: "Députés"
             votes: "Votes"
-        results: "Résultats pour {{query}}"
-        no_results: "Aucun résultat pour {{query}}"
+            statements: "Débats"
+        results: "Résultats pour \"{{query}}\""
+        no_results: "Aucun résultat pour \"{{query}}\""

@@ -3,7 +3,7 @@ class VotesController < ApplicationController
   before_filter :fetch_random_links, :only => [:index, :show]
   
   def index
-    @votes = Vote.find_all_by_parliament_and_session(ENV['CURRENT_PARLIAMENT'].to_i, ENV['CURRENT_SESSION'].to_i, :order => "number ASC")
+    @votes = Vote.all(:order => "vote_date DESC")
   end
   
   def show

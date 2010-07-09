@@ -40,15 +40,28 @@ namespace :update do
   end
   
   desc "update the list of tweet by MPs using the Twitter Search API"
-  task :tweets => :environment do
+  task :twitter => :environment do
     puts "Updating twitter feeds..."
-    num_found = 0
     Mp.find(:all, :conditions => "twitter IS NOT NULL AND LENGTH(twitter) > 0").each { |mp|
       tweets = mp.fetch_new_tweets
       puts "Found #{tweets.size} new tweets for #{mp.name}" if tweets.size > 0
-      num_found = num_found + tweets.size
       sleep(1)
     }
-    #puts "Found #{num_found} new tweets" if num_found > 0
   end
+  
+  desc "update the list of news articles for MPs ad Senators using the Google News"
+  task :news => :environment do
+    puts "Updating news feeds..."
+    Mp.find(:all).each { |mp|
+      articles = mp.fetch_news_articles
+      puts "Found #{articles.size} new articles for #{mp.name}" if articles.size > 0
+      sleep(1)
+    }
+    Senator.find(:all).each { |senator|
+      articles = senator.fetch_news_articles
+      puts "Found #{articles.size} new articles for #{senator.name}" if articles.size > 0
+      sleep(1)
+    }
+  end
+  
 end

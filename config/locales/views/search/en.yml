@@ -10,5 +10,6 @@ en:
             senators: "Senators"
             mps: "MPs"
             votes: "Votes"
-        results: "Search results for {{query}}"
-        no_results: "No results found for {{query}}"
+            statements: "Debates"
+        results: "Search results for \"{{query}}\""
+        no_results: "No results found for \"{{query}}\""

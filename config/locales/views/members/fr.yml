@@ -26,3 +26,18 @@ fr:
             rss_link: "Abonnez-vous aux nouvelles de ce membre"
         age: "{{age}} ans"
         elected_date: "Élu le {{date}} avec {{percentage}}% des voix"
+        section:
+            facts: "Les faits"
+            contact: "Contactez-les"
+            links: "Liens"
+            news: "Recherche de nouvelles"
+        weblink:
+            facebook: "{{member_name}} sur Facebook"
+            wikipedia: "Entrée Wikipédia de {{member_name}}"
+            wikipedia_riding: "Circonscription Wikipédia entrée de {{member_name}"
+            twitter: "{{member_name}} sur Twitter"
+            personal: "Le site internet personnel de {{member_name}}"
+            party:  "Le site internet du parti de {{member_name}}"
+        photo:
+            prompt: "Possédez-vous une photo de ce député?"
+            prompt_link: "Permettez-nous de l'utiliser!"

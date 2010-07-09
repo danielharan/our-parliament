@@ -18,7 +18,7 @@ div.sidebar p { line-heigh: 1em; font-size: 10pt; }
 #header ul { overflow: hidden; }
 #header #utilities { position: absolute; top: 0; right: 0; }
 #header #utilities li { margin: 10px 0 0 10px; float: left; }
-#header #utilities li a { font-size: 12px; color: #000; }
+#header #utilities li a { font-size: 12px; color: #333; }
 
 /* Page Title */
 #page_title { margin: 0 0 20px; }
@@ -175,7 +175,12 @@ ul.profiles_list li div.description small { display: block; font-size: 11px; col
 #groups.block small { font-size: 11px; color: #656565; }
 
 /* Facts */
-#facts ul li { margin: 2px 0; }
+#facts ul { margin: 2px 0 -10px; }
+#facts ul li { padding: 0 0 0 21px; background: url('../images/icons/quill.png')  no-repeat left 2px; margin: 0 0 10px; line-height: 1.3; }
+
+/* Contact */
+#contact ul {}
+#contact ul li { padding: 0 0 0 21px; margin: 0 0 10px; line-height: 1.3; }
 
 /* Articles */
 #articles.block ul { margin: 0 0 -10px; }

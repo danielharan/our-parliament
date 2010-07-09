@@ -76,11 +76,11 @@ class Mp < ActiveRecord::Base
 
   def links
     h = {}
-    h[I18n.t('weblink.facebook')]         = facebook                        unless facebook.blank?
-    h[I18n.t('weblink.wikipedia')]        = wikipedia                       unless wikipedia.blank?
-    h[I18n.t('weblink.wikipedia_riding')] = wikipedia_riding                unless wikipedia_riding.blank?
-    h[I18n.t('weblink.twitter')]          = "http://twitter.com/#{twitter}" unless twitter.blank?
-    h[I18n.t('weblink.personal')]         = website                         unless website.blank?
+    h[I18n.t('members.weblink.facebook', :member_name => name)]         = facebook                        unless facebook.blank?
+    h[I18n.t('members.weblink.wikipedia', :member_name => name)]        = wikipedia                       unless wikipedia.blank?
+    h[I18n.t('members.weblink.wikipedia_riding', :member_name => name)] = wikipedia_riding                unless wikipedia_riding.blank?
+    h[I18n.t('members.weblink.twitter', :member_name => name)]          = "http://twitter.com/#{twitter}" unless twitter.blank?
+    h[I18n.t('members.weblink.personal', :member_name => name)]         = website                         unless website.blank?
     h
   end
 
@@ -148,5 +148,11 @@ class Mp < ActiveRecord::Base
     rescue
     end
     return tweets
+  end
+  
+  def fetch_news_articles
+    articles = []
+    articles = GoogleNews.search(name + ' AND ("MP" OR "Member of Parliament") location:Canada')
+    return articles
   end
 end
