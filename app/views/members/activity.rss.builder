@@ -18,8 +18,13 @@ xml.rss :version => "2.0" do
         elsif Tweet === entry.object
           xml.title t("members.activity_feed.twitter_post", :mp_name => @mp.name)
           xml.description "#{auto_link(entry.object.text)} (#{entry.object.time})"
-          xml.link "http://twitter.com/mathewi/status/#{entry.object.twitter_id}"
+          xml.link "http://twitter.com/#{@mp.twitter}/status/#{entry.object.twitter_id}"
           xml.pubDate entry.object.created_at.to_s(:rfc822)
+        elsif NewsArticle === entry.object
+          xml.title t("members.activity_feed.news_article", :mp_name => @mp.name, :article_name => entry.object.title)
+          xml.description entry.object.summary
+          xml.link entry.object.url
+          xml.pubDate entry.object.date.to_s(:rfc822)
         end
       end
     end

@@ -35,6 +35,7 @@ class Mp < ActiveRecord::Base
   belongs_to :province
   belongs_to :riding, :include => "province"
   belongs_to :party
+  has_and_belongs_to_many :news_articles, :join_table => 'mps_news_articles'
   
   named_scope :active, :conditions => {:active => true}
   

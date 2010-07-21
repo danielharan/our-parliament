@@ -75,13 +75,6 @@
 	</ul>
 </div>
 
-<div id="google_news" class="block">
-  <h3><%= t('members.section.news') %></h3>
-  <iframe frameborder="0" width="728" height="90" marginwidth="0" marginheight="0"
-         src="http://www.google.com/uds/modules/elements/newsshow/iframe.html?q=<%= @mp.news_search_name %>&ned=ca&rsz=large&hl=en&format=728x90">
-  </iframe>
-</div>
-
 <script type="text/javascript">
   $(document).ready(function(){
   	$("#activity_stream li .summary").truncate({max_length: 100,more:'<%= t("jquery.truncator.more") %>',less:'<%= t("jquery.truncator.less") %>'});

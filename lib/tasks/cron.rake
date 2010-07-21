@@ -3,4 +3,5 @@ task :cron => :environment do
     Rake::Task['update:hansards'].execute
   end
   Rake::Task['update:twitter'].execute
+  Rake::Task['update:news'].execute
 end

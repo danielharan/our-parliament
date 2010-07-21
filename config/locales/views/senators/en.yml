@@ -10,3 +10,21 @@ en:
             intro: "Senators are busy people and we'd love to tell you what they're up to. Unfortunately, Citizen Factory can't legally republish the Senate's proceedings at this time. But that doesn't mean you can't contact your Senator or <a href=\"{{link}}\">learn about your MP</a> instead."
             nominated: "Nominated on"
             retires: "Retires on"
+        section:
+            facts: "The Facts"
+            contact: "Contact Them"
+            links: "Links"
+            news: "News Search"
+        activity_stream:
+            title: "News Feed"
+            time_ago: "{{time}} ago"
+            twitter:
+                text: "Posted the following on Twitter"
+            news_article:
+                text: "Appeared in the article"
+            rss_link: "Subscribe to this senator's news feed"
+        activity_feed:
+            title: "Recent news for {{senator_name}}"
+            description: "News feed for {{senator_name}}, senator from {{province_name}}"
+            twitter_post: "{{senator_name}} posted on Twitter"
+            news_article: "{{senator_name}} appeared in the article {{article_name}}"

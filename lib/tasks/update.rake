@@ -52,13 +52,17 @@ namespace :update do
   desc "update the list of news articles for MPs ad Senators using the Google News"
   task :news => :environment do
     puts "Updating news feeds..."
-    Mp.find(:all).each { |mp|
+    Mp.active.all.each { |mp|
       articles = mp.fetch_news_articles
+      mp.news_articles << articles
+      mp.save
       puts "Found #{articles.size} new articles for #{mp.name}" if articles.size > 0
       sleep(1)
     }
     Senator.find(:all).each { |senator|
       articles = senator.fetch_news_articles
+      senator.news_articles << articles
+      senator.save
       puts "Found #{articles.size} new articles for #{senator.name}" if articles.size > 0
       sleep(1)
     }

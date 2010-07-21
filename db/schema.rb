@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100614204952) do
+ActiveRecord::Schema.define(:version => 20100708182251) do
 
   create_table "committee_memberships", :force => true do |t|
     t.integer "mp_id"
@@ -115,6 +115,19 @@ ActiveRecord::Schema.define(:version => 20100614204952) do
     t.integer  "province_id"
   end
 
+  create_table "mps_news_articles", :id => false, :force => true do |t|
+    t.integer "mp_id"
+    t.integer "news_article_id"
+  end
+
+  create_table "news_articles", :force => true do |t|
+    t.string   "url",     :limit => 1024
+    t.string   "title",   :limit => 1024
+    t.string   "source"
+    t.datetime "date"
+    t.text     "summary"
+  end
+
   create_table "parliamentary_functions", :force => true do |t|
     t.integer "mp_id"
     t.date    "start_date"
@@ -179,6 +192,11 @@ ActiveRecord::Schema.define(:version => 20100614204952) do
     t.string   "party_website"
     t.integer  "party_id"
     t.integer  "province_id"
+  end
+
+  create_table "senators_news_articles", :id => false, :force => true do |t|
+    t.integer "senator_id"
+    t.integer "news_article_id"
   end
 
   create_table "tweets", :force => true do |t|
