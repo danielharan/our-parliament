@@ -5,7 +5,7 @@ class CreateNewsArticles < ActiveRecord::Migration
       t.string   :title, :limit => 1024
       t.string   :source
       t.timestamp :date
-      t.text   :summary, :limit => 1024
+      t.string   :summary, :limit => 1024
     end
     create_table :mps_news_articles, :id => false do |t|
       t.integer  :mp_id
