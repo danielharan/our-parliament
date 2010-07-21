@@ -243,6 +243,8 @@ ul.profiles_list li div.description small { display: block; font-size: 11px; col
 
 #activity_stream.block li p { margin: 6px 0 0 0; }
 
+#activity_stream p.source {font-size: 9pt; margin: 0px;}
+
 /* Votes */
 #vote_summary .votes li {display: block; width: 117px; float: left; }
 #vote_summary .yea_large { background: url(../images/votes/yea_large.png) no-repeat; padding: 20px 0 0 100px; min-height: 100px; }

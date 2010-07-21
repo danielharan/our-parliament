@@ -21,7 +21,8 @@ en:
             title: "Recent activity for {{mp_name}}"
             description: "Activity for {{mp_name}}, MP for {{riding_name}}"
             hansard_statement: "{{mp_name}} commented on {{topic}}"
-            twitter_post: "{{mp_name} posted on Twitter"
+            twitter_post: "{{mp_name}} posted on Twitter"
+            news_article: "{{mp_name}} appeared in the article {{article_name}}"
         activity_stream:
             title: "News Feed"
             time_ago: "{{time}} ago"
@@ -33,6 +34,8 @@ en:
                 abstained: "Absent for"
             twitter:
                 text: "Posted the following on Twitter"
+            news_article:
+                text: "Appeared in the article"
             rss_link: "Subscribe to this member's activity feed"
         age: "{{age}} Years Old"
         elected_date: "Elected on {{date}} with {{percentage}}% of the Vote"

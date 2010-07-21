@@ -16,6 +16,7 @@ class Senator < ActiveRecord::Base
 
   belongs_to :province
   belongs_to :party
+  has_and_belongs_to_many :news_articles, :join_table => 'senators_news_articles'
 
   def news_search_name
     URI.encode(normalized_name.gsub(/^.*Hon. /, '').gsub(',', ''))
@@ -38,6 +39,12 @@ class Senator < ActiveRecord::Base
     h[I18n.t('weblink.personal')]    = personal_website       unless personal_website.blank?
     h[I18n.t('weblink.party')]       = party_website          unless party_website.blank?
     h
+  end
+  
+  def fetch_news_articles
+    articles = []
+    articles = GoogleNews.search(name + ' AND "Senator" location:Canada')
+    return articles
   end
   
   class << self
@@ -70,12 +77,6 @@ class Senator < ActiveRecord::Base
           :nomination_date => clean(elem / (elem.path + "/td[4]")),
           :retirement_date => clean(elem / (elem.path + "/td[5]")),
           :appointed_by    => clean(elem / (elem.path + "/td[6]"))
-    end
-    
-    def fetch_news_articles
-      articles = []
-      articles = GoogleNews.search(name + ' AND "Senator" location:Canada')
-      return articles
     end
     
     private

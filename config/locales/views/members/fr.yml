@@ -11,7 +11,8 @@ fr:
             title: "L'activité récente de {{mp_name}}"
             description: "Activité pour {{mp_name}}, député de {{riding_name}}"
             hansard_statement: "{{mp_name}} a commenté sur {{topic}}"
-            twitter_post: "{{mp_name} posté sur"
+            twitter_post: "{{mp_name}} posté sur"
+            news_article: "{{mp_name}} paru dans l'article {{article_name}}"
         activity_stream:
             title: "Nouvelles"
             time_ago: "Il y a {{time}}"
@@ -23,6 +24,8 @@ fr:
                 abstained: "S'est abstenu de"
             twitter:
                 text: "Posté le texte suivant sur Twitter"
+            news_article:
+                text: "Paru dans l'article"
             rss_link: "Abonnez-vous aux nouvelles de ce membre"
         age: "{{age}} ans"
         elected_date: "Élu le {{date}} avec {{percentage}}% des voix"

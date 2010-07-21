@@ -54,6 +54,7 @@ class MembersController < ApplicationController
     activity_stream.add_entries(fetch_vote_entries())
     activity_stream.add_entries(fetch_quote_entries())
     activity_stream.add_entries(fetch_twitter_entries())
+    activity_stream.add_entries(fetch_news_entries())
     return activity_stream
   end
   
@@ -80,6 +81,15 @@ class MembersController < ApplicationController
     tweets = @mp.tweets.first 5
     tweets.each { |tweet|
       entries << ActivityStream::Entry.new(tweet.created_at.to_date, tweet)
+    }
+    return entries
+  end
+  
+  def fetch_news_entries
+    entries = []
+    articles = @mp.news_articles.last 10
+    articles.each { |article|
+      entries << ActivityStream::Entry.new(article.date.to_date, article)
     }
     return entries
   end
