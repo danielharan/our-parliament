@@ -32,7 +32,7 @@ end
 
 def scrape_legisinfo(vote)
   voting_record = Confidence::Vote.fetch :parliament => vote.parliament, :session => vote.session, :number => vote.number
-  vote.bill_number = voting_record.bill ? voting_record.bill.number : nil
+  vote.bill_number = (not voting_record.bill or voting_record.bill.number.empty?) ? nil : voting_record.bill.number
   if vote.bill_number
     feed_url = "http://www2.parl.gc.ca/Sites/LOP/LEGISINFO/RSSFeeds.asp?parlNumber=#{vote.parliament}&session=#{vote.session}&chamber=C&billNumber=#{vote.bill_number[2..-1]}&billLetter=&language=E"
     open(feed_url) { |src|
