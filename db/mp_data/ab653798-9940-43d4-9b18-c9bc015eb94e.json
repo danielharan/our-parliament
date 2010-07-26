@@ -1,147 +1,148 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Adjoint ex\u00e9cutif",
-      "name_en": "Administrator-manager"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145796&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145796&Language=F"
     },
     {
-      "name_fr": "Administrateur-gestionnaire",
-      "name_en": "Director general"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=aa2e095f-4ce5-44a9-b9d6-9220e10d29cc",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=aa2e095f-4ce5-44a9-b9d6-9220e10d29cc"
     },
     {
-      "name_fr": "Analyste financier",
-      "name_en": "Economist"
-    },
-    {
-      "name_fr": "Directeur g\u00e9n\u00e9ral",
-      "name_en": "Executive assistant"
-    },
-    {
-      "name_fr": "\u00e9conomiste",
-      "name_en": "Financial analyst"
-    },
-    {
-      "name_fr": "Professeur",
-      "name_en": "Professor"
+      "name_en": "National Assembly of Quebec Website (Available in French only)",
+      "name_fr": "Site Web de l'Assembl\u00e9e nationale du Qu\u00e9bec",
+      "url_en": "http://www.assnat.qc.ca/en/deputes/paille-daniel-4699/biographie.html",
+      "url_fr": "http://www.assnat.qc.ca/fr/deputes/paille-daniel-4699/biographie.html"
     }
   ],
-  "parlinfo_id": 145796,
   "functions": [
     {
-      "title_fr": "Finances",
+      "title_en": "Finance",
       "start_date": "2009-12-15",
+      "title_fr": "Finances",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Finance"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2009-11-09",
+  "professions": [
+    {
+      "name_en": "Administrator-manager",
+      "name_fr": "Adjoint ex\u00e9cutif"
+    },
+    {
+      "name_en": "Director general",
+      "name_fr": "Administrateur-gestionnaire"
+    },
+    {
+      "name_en": "Economist",
+      "name_fr": "Analyste financier"
+    },
+    {
+      "name_en": "Executive assistant",
+      "name_fr": "Directeur g\u00e9n\u00e9ral"
+    },
+    {
+      "name_en": "Financial analyst",
+      "name_fr": "\u00e9conomiste"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "Professeur"
+    }
+  ],
+  "parlinfo_id": 145796,
+  "name": "Daniel Paill\u00e9",
   "contact_info": {
     "parliament": {
       "email": "Paille.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "H1V 2C8",
+      "city_en": "Montreal",
       "city_fr": "Montr\u00e9al",
       "province_en": "Quebec",
+      "telephone": "(514) 283-2655",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "2030 Pie-IX, Suite 225",
-      "telephone": "(514) 283-2655",
-      "street_address_fr": "2030 Pie-IX, Bureau 225",
       "fax": "(514) 283-6485",
-      "city_en": "Montreal"
+      "street_address_fr": "2030 Pie-IX, Bureau 225"
     }
   },
-  "name": "Daniel Paill\u00e9",
   "date_of_birth": "1950-04-01",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Hochelaga",
       "election_date": "2009-11-09",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Hochelaga",
-      "riding_fr": "Hochelaga"
+      "riding_en": "Hochelaga"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
-    "name_en": "Montreal, Quebec, Canada"
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
   },
+  "id": "ab653798-9940-43d4-9b18-c9bc015eb94e",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2009-11-09",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "ab653798-9940-43d4-9b18-c9bc015eb94e",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145796&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145796&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=aa2e095f-4ce5-44a9-b9d6-9220e10d29cc",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=aa2e095f-4ce5-44a9-b9d6-9220e10d29cc",
-      "name_en": "Party Website (Available in French only)"
-    },
-    {
-      "name_fr": "Site Web de l'Assembl\u00e9e nationale du Qu\u00e9bec",
-      "url_en": "http://www.assnat.qc.ca/en/deputes/paille-daniel-4699/biographie.html",
-      "url_fr": "http://www.assnat.qc.ca/fr/deputes/paille-daniel-4699/biographie.html",
-      "name_en": "National Assembly of Quebec Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

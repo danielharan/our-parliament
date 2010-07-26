@@ -1,254 +1,255 @@
 {
-  "professions": [
+  "language": "English, French",
+  "weblinks": [
     {
-      "name_fr": "Administrateur-gestionnaire",
-      "name_en": "Administrator-manager"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78683&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78683&Language=F"
     },
     {
-      "name_fr": "Conseiller",
-      "name_en": "Advisor"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=12901",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12901"
     },
     {
-      "name_fr": "Entrepreneur",
-      "name_en": "Entrepreneur"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.anthonyrota.ca/en/",
+      "url_fr": "http://www.anthonyrota.ca/fr/"
     }
   ],
-  "parlinfo_id": 78683,
   "functions": [
     {
-      "title_fr": "Pr\u00e9sident du caucus du Parti lib\u00e9ral",
+      "title_en": "Liberal Party Caucus Chair",
       "start_date": "2007-10-24",
+      "title_fr": "Pr\u00e9sident du caucus du Parti lib\u00e9ral",
       "role_en": "Caucus Chair",
-      "role_fr": "Pr\u00e9sident du caucus",
-      "title_en": "Liberal Party Caucus Chair"
+      "role_fr": "Pr\u00e9sident du caucus"
     },
     {
-      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario",
+      "title_en": "Federal Economic Development Initiative for Northern Ontario",
       "start_date": "2008-11-14",
+      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario",
       "end_date": "2009-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Federal Economic Development Initiative for Northern Ontario"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario",
+      "title_en": "Federal Economic Development Initiative for Northern Ontario",
       "start_date": "2006-02-23",
+      "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario",
       "end_date": "2007-01-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Federal Economic Development Initiative for Northern Ontario"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 40,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 40,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on National Defence",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et anciens combattants",
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et anciens combattants",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Administrator-manager",
+      "name_fr": "Administrateur-gestionnaire"
+    },
+    {
+      "name_en": "Advisor",
+      "name_fr": "Conseiller"
+    },
+    {
+      "name_en": "Entrepreneur",
+      "name_fr": "Entrepreneur"
+    }
+  ],
+  "parlinfo_id": 78683,
+  "name": "Anthony Rota",
   "contact_info": {
     "parliament": {
       "email": "Rota.A@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-6255",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-6255",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "rotaa2@parl.gc.ca",
       "postal_code": "P0J 1P0",
+      "city_en": "New Liskeard",
       "city_fr": "New Liskeard",
       "province_en": "Ontario",
+      "telephone": "705-647-6262",
       "province_fr": "Ontario",
       "street_address_en": "112 Whitewood Avenue WestP.O. Box 158",
-      "telephone": "705-647-6262",
-      "street_address_fr": "112, avenue Whitewood OuestCase postale 158",
-      "city_en": "New Liskeard"
+      "street_address_fr": "112, avenue Whitewood OuestCase postale 158"
     }
   },
-  "name": "Anthony Rota",
   "date_of_birth": "1961-05-15",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Nipissing--Timiskaming",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Nipissing--Timiskaming",
-      "riding_fr": "Nipissing--Timiskaming"
+      "riding_en": "Nipissing--Timiskaming"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Nipissing--Timiskaming",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Nipissing--Timiskaming",
-      "riding_fr": "Nipissing--Timiskaming"
+      "riding_en": "Nipissing--Timiskaming"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Nipissing--Timiskaming",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Nipissing--Timiskaming",
-      "riding_fr": "Nipissing--Timiskaming"
+      "riding_en": "Nipissing--Timiskaming"
     }
   ],
   "place_of_birth": {
-    "name_fr": "North Bay, Ontario, Canada",
-    "name_en": "North Bay, Ontario, Canada"
+    "name_en": "North Bay, Ontario, Canada",
+    "name_fr": "North Bay, Ontario, Canada"
   },
+  "id": "16c839d3-0183-4ed6-892a-8d7bdc37c474",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English, French",
-  "id": "16c839d3-0183-4ed6-892a-8d7bdc37c474",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78683&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78683&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/members_e.aspx?id=12901",
-      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12901",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.anthonyrota.ca/en/",
-      "url_fr": "http://www.anthonyrota.ca/fr/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

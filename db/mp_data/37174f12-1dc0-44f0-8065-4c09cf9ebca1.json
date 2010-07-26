@@ -1,177 +1,178 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Activiste communautaire",
-      "name_en": "Community activist"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128555&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128555&Language=F"
     },
     {
-      "name_fr": "Auxiliare juridique communautaire",
-      "name_en": "Community legal worker"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/meganleslie",
+      "url_fr": "http://www.npd.ca/meganleslie"
     },
     {
-      "name_fr": "Conseill\u00e8re juridique",
-      "name_en": "Environmentalist"
-    },
-    {
-      "name_fr": "Environnementaliste",
-      "name_en": "Legal counsel"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.meganleslie.ca/",
+      "url_fr": "http://www.meganleslie.ca/"
     }
   ],
-  "parlinfo_id": 128555,
   "functions": [
     {
-      "title_fr": "Sant\u00e9",
+      "title_en": "Health",
       "start_date": "2010-05-03",
+      "title_fr": "Sant\u00e9",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Health"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Canada Mortgage and Housing Corporation",
+      "start_date": "2009-02-13",
       "title_fr": "Soci\u00e9t\u00e9 canadienne d'hypoth\u00e8ques et de logement",
-      "start_date": "2009-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canada Mortgage and Housing Corporation"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Homelessness",
+      "start_date": "2009-02-13",
       "title_fr": "Itin\u00e9rance",
-      "start_date": "2009-02-13",
       "end_date": "2010-05-02",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Homelessness"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Housing",
+      "start_date": "2009-02-13",
       "title_fr": "Logement",
-      "start_date": "2009-02-13",
       "end_date": "2010-05-02",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Housing"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Literacy",
+      "start_date": "2008-11-17",
       "title_fr": "Alphab\u00e9tisation",
-      "start_date": "2008-11-17",
       "end_date": "2009-02-12",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Literacy"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Post Secondary Education",
+      "start_date": "2008-11-17",
       "title_fr": "\u00c9ducation post secondaire",
-      "start_date": "2008-11-17",
       "end_date": "2009-02-12",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Post Secondary Education"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Aboriginal AffairsArea of responsibility: Urban Issues",
+      "start_date": "2008-11-17",
       "title_fr": "Affaires autochtoneChamp de responsabilit\u00e9: Enjeux urbains",
-      "start_date": "2008-11-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Aboriginal AffairsArea of responsibility: Urban Issues"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Justice",
+      "title_en": "Justice",
       "start_date": "2008-11-17",
+      "title_fr": "Justice",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Justice"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Community activist",
+      "name_fr": "Activiste communautaire"
+    },
+    {
+      "name_en": "Community legal worker",
+      "name_fr": "Auxiliare juridique communautaire"
+    },
+    {
+      "name_en": "Environmentalist",
+      "name_fr": "Conseill\u00e8re juridique"
+    },
+    {
+      "name_en": "Legal counsel",
+      "name_fr": "Environnementaliste"
+    }
+  ],
+  "parlinfo_id": 128555,
+  "name": "Megan Leslie",
   "contact_info": {
     "parliament": {
       "email": "Leslie.M@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-7614",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-7614",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "B3K 3B5",
+      "city_en": "Halifax",
       "city_fr": "Halifax",
       "province_en": "Nova Scotia",
+      "telephone": "902-426-8691",
       "province_fr": "Nouvelle-\u00c9cosse",
       "street_address_en": "2207 Gottingin Street, Suite 1",
-      "telephone": "902-426-8691",
-      "street_address_fr": "2207, rue Gottingin, bureau 1",
       "fax": "902-426-8693",
-      "city_en": "Halifax"
+      "street_address_fr": "2207, rue Gottingin, bureau 1"
     }
   },
-  "name": "Megan Leslie",
   "date_of_birth": "1973-09-29",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Halifax",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Halifax",
-      "riding_fr": "Halifax"
+      "riding_en": "Halifax"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "37174f12-1dc0-44f0-8065-4c09cf9ebca1",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2008-10-14",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "37174f12-1dc0-44f0-8065-4c09cf9ebca1",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128555&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128555&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/meganleslie",
-      "url_fr": "http://www.npd.ca/meganleslie",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.meganleslie.ca/",
-      "url_fr": "http://www.meganleslie.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

@@ -1,188 +1,187 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Administratrice (services de sant\u00e9)",
-      "name_en": "Administrator (health services)"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78439&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78439&Language=F"
     },
     {
-      "name_fr": "Propri\u00e9taire de restaurant",
-      "name_en": "Restaurant owner"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=081d1413-d9bd-42b6-930f-6980785eaf24",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=081d1413-d9bd-42b6-930f-6980785eaf24"
+    },
+    {
+      "name_en": "Personal Website (Available in French only)",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.nicoledemers.com/",
+      "url_fr": "http://www.nicoledemers.com/"
     }
   ],
-  "parlinfo_id": 78439,
   "functions": [
     {
-      "title_fr": "Condition f\u00e9minine",
+      "title_en": "Status of Women",
       "start_date": "2007-01-23",
+      "title_fr": "Condition f\u00e9minine",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Status of Women"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "A\u00een\u00e9s",
+      "title_en": "Seniors",
       "start_date": "2006-02-10",
+      "title_fr": "A\u00een\u00e9s",
       "end_date": "2007-01-22",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Seniors"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Famille et Aidants naturels",
+      "title_en": "Families and Caregivers",
       "start_date": "2004-08-06",
+      "title_fr": "Famille et Aidants naturels",
       "end_date": "2006-02-09",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Families and Caregivers"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sant\u00e9",
+      "title_en": "Health",
       "start_date": "2006-02-10",
+      "title_fr": "Sant\u00e9",
       "end_date": "2007-01-22",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Health"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on Health",
       "parliament": 39,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 39,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Health",
+      "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Administrator (health services)",
+      "name_fr": "Administratrice (services de sant\u00e9)"
+    },
+    {
+      "name_en": "Restaurant owner",
+      "name_fr": "Propri\u00e9taire de restaurant"
+    }
+  ],
+  "parlinfo_id": 78439,
+  "name": "Nicole Demers",
   "contact_info": {
     "parliament": {
       "email": "Demers.N@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-7398",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-7398",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-1195",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "DemerN1@parl.gc.ca",
       "postal_code": "H7S 1Z4",
+      "city_en": "Laval",
       "city_fr": "Laval",
       "province_en": "Quebec",
+      "telephone": "450-686-2562",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "2281 Le Corbusier Boulevard",
-      "telephone": "450-686-2562",
-      "street_address_fr": "2281, boulevard Le Corbusier",
-      "fax": "450-686-0450",
-      "city_en": "Laval"
+      "street_address_fr": "2281, boulevard Le Corbusier"
     }
   },
-  "name": "Nicole Demers",
   "date_of_birth": "1950-01-15",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Laval",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Laval",
-      "riding_fr": "Laval"
+      "riding_en": "Laval"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Laval",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Laval",
-      "riding_fr": "Laval"
+      "riding_en": "Laval"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Laval",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Laval",
-      "riding_fr": "Laval"
+      "riding_en": "Laval"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
-    "name_en": "Montreal, Quebec, Canada"
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
   },
+  "id": "7f2075f9-a604-40bd-a583-0daacd6b8b81",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2004-06-28",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "7f2075f9-a604-40bd-a583-0daacd6b8b81",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78439&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78439&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=081d1413-d9bd-42b6-930f-6980785eaf24",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=081d1413-d9bd-42b6-930f-6980785eaf24",
-      "name_en": "Party Website (Available in French only)"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.nicoledemers.com/",
-      "url_fr": "http://www.nicoledemers.com/",
-      "name_en": "Personal Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

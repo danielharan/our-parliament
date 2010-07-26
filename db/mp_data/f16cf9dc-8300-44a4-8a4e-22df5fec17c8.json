@@ -1,231 +1,232 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Directeur g\u00e9n\u00e9ral",
-      "name_en": "Businessman"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.publicsafety.gc.ca/abt/wwa/ps-eng.aspx",
+      "url_fr": "http://www.securitepublique.gc.ca/abt/wwa/ps-fra.aspx"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Director general"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78896&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78896&Language=F"
     },
     {
-      "name_fr": "Policier",
-      "name_en": "Police officer"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1579&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1579&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.davemackenzie.ca/",
+      "url_fr": "http://www.davemackenzie.ca/"
     }
   ],
-  "parlinfo_id": 78896,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la S\u00e9curit\u00e9 publique",
+      "title_en": "Parliamentary Secretary to the Minister of Public Safety",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la S\u00e9curit\u00e9 publique",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Public Safety"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "D\u00e9fense nationale (Ministre associ\u00e9)",
+      "title_en": "National Defence (Associate Minister)",
       "start_date": "2004-07-22",
+      "title_fr": "D\u00e9fense nationale (Ministre associ\u00e9)",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Defence (Associate Minister)"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
-    },
-    {
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on the Review of the Anti-terrorism Act of the Standing Committee on Public Safety and National Security",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 sur l'examen de la Loi antiterroriste du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Review of the Anti-terrorism Act of the Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des bills priv\u00e9s en g\u00e9n\u00e9ral et du r\u00e8glement",
+      "name_en": "Standing Committee on Miscellaneous Private Bills and Standing Orders",
       "parliament": 30,
+      "name_fr": "Comit\u00e9 permanent des bills priv\u00e9s en g\u00e9n\u00e9ral et du r\u00e8glement",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Miscellaneous Private Bills and Standing Orders"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Directeur g\u00e9n\u00e9ral"
+    },
+    {
+      "name_en": "Director general",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "Police officer",
+      "name_fr": "Policier"
+    }
+  ],
+  "parlinfo_id": 78896,
+  "name": "Dave MacKenzie",
   "contact_info": {
     "parliament": {
       "email": "MacKenzie.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-4432",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-4432",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "N4G 1Z7",
+      "city_en": "Tillsonburg",
       "city_fr": "Tillsonburg",
       "province_en": "Ontario",
+      "telephone": "519-688-3620",
       "province_fr": "Ontario",
       "street_address_en": "43 Brock Street East",
-      "telephone": "519-688-3620",
-      "street_address_fr": "43, rue Brock Est",
-      "city_en": "Tillsonburg"
+      "street_address_fr": "43, rue Brock Est"
     }
   },
-  "name": "Dave MacKenzie",
   "date_of_birth": "1946-06-12",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Oxford",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Oxford",
-      "riding_fr": "Oxford"
+      "riding_en": "Oxford"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Oxford",
       "election_date": "2006-01-23",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Oxford",
-      "riding_fr": "Oxford"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "2004-06-28",
       "result_fr": "\u00c9lu",
-      "riding_en": "Oxford",
-      "riding_fr": "Oxford"
+      "riding_en": "Oxford"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Oxford",
+      "election_date": "2004-06-28",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Oxford"
+    },
+    {
+      "riding_fr": "Oxford",
       "election_date": "2000-11-27",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Oxford",
-      "riding_fr": "Oxford"
+      "riding_en": "Oxford"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Oxford",
       "election_date": "1997-06-02",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Oxford",
-      "riding_fr": "Oxford"
+      "riding_en": "Oxford"
     }
   ],
   "place_of_birth": {
-    "name_fr": "London, Ontario, Canada",
-    "name_en": "London, Ontario, Canada"
+    "name_en": "London, Ontario, Canada",
+    "name_fr": "London, Ontario, Canada"
   },
+  "id": "f16cf9dc-8300-44a4-8a4e-22df5fec17c8",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-02-02",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Parti progressiste-conservateur",
+      "name_en": "Progressive Conservative Party",
       "start_date": "1997-06-02",
-      "end_date": "2004-02-01",
-      "name_en": "Progressive Conservative Party"
-    }
-  ],
-  "language": "English",
-  "id": "f16cf9dc-8300-44a4-8a4e-22df5fec17c8",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.publicsafety.gc.ca/abt/wwa/ps-eng.aspx",
-      "url_fr": "http://www.securitepublique.gc.ca/abt/wwa/ps-fra.aspx",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78896&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78896&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1579&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1579&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.davemackenzie.ca/",
-      "url_fr": "http://www.davemackenzie.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti progressiste-conservateur",
+      "end_date": "2004-02-01"
     }
   ]
 }

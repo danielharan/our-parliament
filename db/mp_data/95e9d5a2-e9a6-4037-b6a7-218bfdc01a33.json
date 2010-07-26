@@ -1,115 +1,116 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
-    }
-  ],
-  "parlinfo_id": 78379,
-  "functions": [
-    {
-      "title_fr": "Ministre des Finances",
-      "start_date": "2006-02-06",
-      "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Finance"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.fin.gc.ca/comment/minfine.html",
+      "url_fr": "http://www.fin.gc.ca/comment/minfinf.html"
     },
     {
-      "title_fr": "OntarioRepr\u00e9sentant du Centre de l'Ontario et de la r\u00e9gion du Grand Toronto",
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78379&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78379&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65105",
+      "url_fr": "http://www.conservative.ca/FR/4568/65107"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.jimflaherty.com/",
+      "url_fr": "http://www.jimflaherty.com/"
+    },
+    {
+      "name_en": "Legislative Assembly of Ontario Website",
+      "name_fr": "Site Web de l'Assembl\u00e9e legislative de l'Ontario",
+      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=35",
+      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=35"
+    }
+  ],
+  "functions": [
+    {
+      "title_en": "Minister of Finance",
       "start_date": "2006-02-06",
+      "title_fr": "Ministre des Finances",
+      "role_en": "Minister",
+      "role_fr": "Ministre"
+    },
+    {
+      "title_en": "OntarioCentral Ontario and GTA representative",
+      "start_date": "2006-02-06",
+      "title_fr": "OntarioRepr\u00e9sentant du Centre de l'Ontario et de la r\u00e9gion du Grand Toronto",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "OntarioCentral Ontario and GTA representative"
+      "role_fr": "Ministre r\u00e9gional"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 78379,
+  "name": "James Michael (Jim) Flaherty",
   "contact_info": {
     "parliament": {
       "email": "Flaherty.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-6344",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-6344",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "jim@jimflahertymp.ca",
       "postal_code": "L1N 8Y9",
+      "city_en": "Whitby",
       "city_fr": "Whitby",
       "province_en": "Ontario",
+      "telephone": "905-665-8182",
       "province_fr": "Ontario",
       "street_address_en": "204-701 Rossland Road East",
-      "telephone": "905-665-8182",
-      "street_address_fr": "204-701, chemin Rossland Est",
-      "city_en": "Whitby"
+      "street_address_fr": "204-701, chemin Rossland Est"
     }
   },
-  "name": "James Michael (Jim) Flaherty",
   "date_of_birth": "1949-12-30",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Whitby--Oshawa",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Whitby--Oshawa",
-      "riding_fr": "Whitby--Oshawa"
+      "riding_en": "Whitby--Oshawa"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Whitby--Oshawa",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Whitby--Oshawa",
-      "riding_fr": "Whitby--Oshawa"
+      "riding_en": "Whitby--Oshawa"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Lachine, Qu\u00e9bec, Canada",
-    "name_en": "Lachine, Quebec, Canada"
+    "name_en": "Lachine, Quebec, Canada",
+    "name_fr": "Lachine, Qu\u00e9bec, Canada"
   },
+  "id": "95e9d5a2-e9a6-4037-b6a7-218bfdc01a33",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "95e9d5a2-e9a6-4037-b6a7-218bfdc01a33",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.fin.gc.ca/comment/minfine.html",
-      "url_fr": "http://www.fin.gc.ca/comment/minfinf.html",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78379&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78379&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65105",
-      "url_fr": "http://www.conservative.ca/FR/4568/65107",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.jimflaherty.com/",
-      "url_fr": "http://www.jimflaherty.com/",
-      "name_en": "Personal Website"
-    },
-    {
-      "name_fr": "Site Web de l'Assembl\u00e9e legislative de l'Ontario",
-      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=35",
-      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=35",
-      "name_en": "Legislative Assembly of Ontario Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

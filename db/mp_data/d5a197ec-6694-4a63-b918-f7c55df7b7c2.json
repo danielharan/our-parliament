@@ -1,244 +1,245 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Agriculteur",
-      "name_en": "Farmer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78803&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78803&Language=F"
     },
     {
-      "name_fr": "\u00e9leveur",
-      "name_en": "Rancher"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1497&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1497&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.larrymiller.ca",
+      "url_fr": "http://www.larrymiller.ca"
     }
   ],
-  "parlinfo_id": 78803,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 3,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 3,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 sur la salubrit\u00e9 des aliments du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de liaison",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de Liaison",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 sur la salubrit\u00e9 des aliments du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on International Trade",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du commerce international",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Farmer",
+      "name_fr": "Agriculteur"
+    },
+    {
+      "name_en": "Rancher",
+      "name_fr": "\u00e9leveur"
+    }
+  ],
+  "parlinfo_id": 78803,
+  "name": "Larry Miller",
   "contact_info": {
     "parliament": {
       "email": "Miller.L@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-5191",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-5191",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "manager@larrymiller.ca",
       "postal_code": "N4K 2J1",
+      "city_en": "Owen Sound",
       "city_fr": "Owen Sound",
       "province_en": "Ontario",
+      "telephone": "519-371-1059",
       "province_fr": "Ontario",
       "street_address_en": "1131 2nd Avenue East",
-      "telephone": "519-371-1059",
-      "street_address_fr": "1131,  2e Avenue Est",
-      "city_en": "Owen Sound"
+      "street_address_fr": "1131,  2e Avenue Est"
     }
   },
-  "name": "Larry Miller",
   "date_of_birth": "1956-07-21",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Bruce--Grey--Owen Sound",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Bruce--Grey--Owen Sound",
-      "riding_fr": "Bruce--Grey--Owen Sound"
+      "riding_en": "Bruce--Grey--Owen Sound"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Bruce--Grey--Owen Sound",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Bruce--Grey--Owen Sound",
-      "riding_fr": "Bruce--Grey--Owen Sound"
+      "riding_en": "Bruce--Grey--Owen Sound"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Grey--Bruce--Owen Sound",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Grey--Bruce--Owen Sound",
-      "riding_fr": "Grey--Bruce--Owen Sound"
+      "riding_en": "Grey--Bruce--Owen Sound"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Wiarton, Ontario, Canada",
-    "name_en": "Wiarton, Ontario, Canada"
+    "name_en": "Wiarton, Ontario, Canada",
+    "name_fr": "Wiarton, Ontario, Canada"
   },
+  "id": "d5a197ec-6694-4a63-b918-f7c55df7b7c2",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "d5a197ec-6694-4a63-b918-f7c55df7b7c2",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78803&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78803&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1497&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1497&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.larrymiller.ca",
-      "url_fr": "http://www.larrymiller.ca",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

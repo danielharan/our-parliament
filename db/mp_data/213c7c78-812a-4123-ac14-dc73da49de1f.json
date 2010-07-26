@@ -1,212 +1,213 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Chef d'entreprise",
-      "name_en": "Company head"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1226351996603&lang=e",
+      "url_fr": "http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1226351996603&lang=f"
     },
     {
-      "name_fr": "Expert-conseil",
-      "name_en": "Consultant"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78833&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78833&Language=F"
     },
     {
-      "name_fr": "Ing\u00e9nieur m\u00e9canicien",
-      "name_en": "Mechanical engineer"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1495&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1495&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.pierrelemieux.ca/",
+      "url_fr": "http://www.pierrelemieux.ca/"
     }
   ],
-  "parlinfo_id": 78833,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Agriculture",
+      "title_en": "Parliamentary Secretary to the Minister of Agriculture",
       "start_date": "2008-11-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Agriculture",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Agriculture"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire pour les Langues officielles",
+      "title_en": "Parliamentary Secretary for Official Languages",
       "start_date": "2007-10-10",
+      "title_fr": "Secr\u00e9taire parlementaire pour les Langues officielles",
       "end_date": "2008-11-06",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary for Official Languages"
+      "role_fr": "Secr\u00e9taire parlementaire"
     }
   ],
   "committees": [
     {
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
-      "parliament": 39,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la Mission canadienne en Afghanistan",
-      "parliament": 39,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la Mission canadienne en Afghanistan",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on International Trade",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on Official Languages",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Company head",
+      "name_fr": "Chef d'entreprise"
+    },
+    {
+      "name_en": "Consultant",
+      "name_fr": "Expert-conseil"
+    },
+    {
+      "name_en": "Mechanical engineer",
+      "name_fr": "Ing\u00e9nieur m\u00e9canicien"
+    }
+  ],
+  "parlinfo_id": 78833,
+  "name": "Pierre Lemieux",
   "contact_info": {
     "parliament": {
       "email": "Lemieux.P@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-0490",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-0490",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "K0C 1A0",
+      "city_en": "Alexandria",
       "city_fr": "Alexandria",
       "province_en": "Ontario",
+      "telephone": "613-525-4575",
       "province_fr": "Ontario",
       "street_address_en": "90 Main Street South, City Hall, 2nd Floor",
-      "telephone": "613-525-4575",
-      "street_address_fr": "90, rue Main Sud, H\u00f4tel de ville, 2e \u00e9tage",
-      "city_en": "Alexandria"
+      "street_address_fr": "90, rue Main Sud, H\u00f4tel de ville, 2e \u00e9tage"
     }
   },
-  "name": "Pierre Lemieux",
   "date_of_birth": "1963-04-09",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Glengarry--Prescott--Russell",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Glengarry--Prescott--Russell",
-      "riding_fr": "Glengarry--Prescott--Russell"
+      "riding_en": "Glengarry--Prescott--Russell"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Glengarry--Prescott--Russell",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Glengarry--Prescott--Russell",
-      "riding_fr": "Glengarry--Prescott--Russell"
+      "riding_en": "Glengarry--Prescott--Russell"
     }
   ],
   "place_of_birth": {
-    "name_fr": "London, Ontario, Canada",
-    "name_en": "London, Ontario, Canada"
+    "name_en": "London, Ontario, Canada",
+    "name_fr": "London, Ontario, Canada"
   },
+  "id": "213c7c78-812a-4123-ac14-dc73da49de1f",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "213c7c78-812a-4123-ac14-dc73da49de1f",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1226351996603&lang=e",
-      "url_fr": "http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1226351996603&lang=f",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78833&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78833&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1495&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1495&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.pierrelemieux.ca/",
-      "url_fr": "http://www.pierrelemieux.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

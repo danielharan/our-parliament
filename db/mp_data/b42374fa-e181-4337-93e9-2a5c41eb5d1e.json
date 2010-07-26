@@ -1,590 +1,591 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://canada.justice.gc.ca/eng/mag-mpg/index.html",
+      "url_fr": "http://canada.justice.gc.ca/fra/mpg-mag/index.html"
+    },
+    {
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78335&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78335&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/64869",
+      "url_fr": "http://www.conservative.ca/FR/4568/64871"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.robnicholson.ca/",
+      "url_fr": "http://www.robnicholson.ca/"
     }
   ],
-  "parlinfo_id": 78335,
   "functions": [
     {
-      "title_fr": "Ministre de la Justice et procureur g\u00e9n\u00e9ral du Canada",
+      "title_en": "Minister of Justice and Attorney General of Canada",
       "start_date": "2007-01-04",
+      "title_fr": "Ministre de la Justice et procureur g\u00e9n\u00e9ral du Canada",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Justice and Attorney General of Canada"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de la r\u00e9forme d\u00e9mocratique",
+      "title_en": "Minister for Democratic Reform",
       "start_date": "2006-02-06",
+      "title_fr": "Ministre de la r\u00e9forme d\u00e9mocratique",
       "end_date": "2007-01-03",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister for Democratic Reform"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Minister for Science",
+      "start_date": "1993-06-25",
       "title_fr": "Ministre charg\u00e9 de la Petite entreprise",
-      "start_date": "1993-06-25",
       "end_date": "1993-11-03",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister for Science"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Minister for Small Businesses",
+      "start_date": "1993-06-25",
       "title_fr": "Ministre des Sciences",
-      "start_date": "1993-06-25",
       "end_date": "1993-11-03",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister for Small Businesses"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du leader du gouvernement \u00e0 la Chambre des communes",
+      "title_en": "Parliamentary Secretary to the Leader of the Government in the House of Commons",
       "start_date": "1989-04-05",
+      "title_fr": "Secr\u00e9taire parlementaire du leader du gouvernement \u00e0 la Chambre des communes",
       "end_date": "1990-04-04",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Leader of the Government in the House of Commons"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Justice et procureur g\u00e9n\u00e9ral du Canada",
+      "title_en": "Parliamentary Secretary to the Minister of Justice and Attorney General of Canada",
       "start_date": "1989-04-05",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Justice et procureur g\u00e9n\u00e9ral du Canada",
       "end_date": "1993-06-24",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Justice and Attorney General of Canada"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
+      "title_en": "Leader of the Government in the House of Commons",
       "start_date": "2006-02-06",
+      "title_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
       "end_date": "2007-01-03",
       "role_en": "Leader of the Government in the House of Commons",
-      "role_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
-      "title_en": "Leader of the Government in the House of Commons"
+      "role_fr": "Leader du gouvernement \u00e0 la Chambre des communes"
     },
     {
-      "title_fr": "Leader en Chambre du Parti conservateur",
+      "title_en": "Conservative Party House Leader",
       "start_date": "2006-02-06",
+      "title_fr": "Leader en Chambre du Parti conservateur",
       "end_date": "2007-01-03",
       "role_en": "House Leader",
-      "role_fr": "Leader parlementaire",
-      "title_en": "Conservative Party House Leader"
+      "role_fr": "Leader parlementaire"
     },
     {
-      "title_fr": "Whip en chef de l'Opposition",
+      "title_en": "Chief Opposition Whip",
       "start_date": "2005-01-28",
+      "title_fr": "Whip en chef de l'Opposition",
       "end_date": "2006-02-05",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Chief Opposition Whip"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "Whip du Parti conservateur du Canada",
+      "title_en": "Whip of the Conservative Party of Canada",
       "start_date": "2005-01-28",
+      "title_fr": "Whip du Parti conservateur du Canada",
       "end_date": "2006-02-06",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Whip of the Conservative Party of Canada"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "Affaires parlementaires",
+      "title_en": "Parliamentary Affairs",
       "start_date": "2005-01-28",
+      "title_fr": "Affaires parlementaires",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Parliamentary Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Transports",
+      "title_en": "Transport",
       "start_date": "2004-07-22",
+      "title_fr": "Transports",
       "end_date": "2005-01-27",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Transport"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la justice et du solliciteur g\u00e9n\u00e9ral",
+      "name_en": "Standing Committee on Justice and Solicitor General",
       "parliament": 33,
+      "name_fr": "Comit\u00e9 permanent de la justice et du solliciteur g\u00e9n\u00e9ral",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Justice and Solicitor General"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee H on Bill C-17",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif H sur le projet de loi C-17",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee H on Bill C-17"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee H on Bill C-203",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif H sur le projet de loi C-203",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee H on Bill C-203"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-109",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-109",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-109"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-126",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-126",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-126"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-227",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-227",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-227"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-46",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-46",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-46"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-49",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-49",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-49"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-69",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-69",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-69"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-70",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-70",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-70"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-79",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-79",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-79"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-90",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-90",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-90"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Solicitor General",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 permanent de la justice et du solliciteur g\u00e9n\u00e9ral",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Solicitor General"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee B on Bill C-39",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif B sur le projet de loi C-39",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee B on Bill C-39"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee D on Bill C-58",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif D sur le projet de loi C-58",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee D on Bill C-58"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee E on Bill C-38",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif E sur le projet de loi C-38",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee E on Bill C-38"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee E on Bill C-53",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif E sur le projet de loi C-53",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee E on Bill C-53"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee E on Bill C-61",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif E sur le projet de loi C-61",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee E on Bill C-61"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-43",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-43",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-43"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-54",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-54",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-54"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-59",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-59",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-59"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-60",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-60",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-60"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-81",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-81",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-81"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-84",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-84",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-84"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill S-14",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi S-14",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill S-14"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee E on Bill C-53",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif E sur le projet de loi C-53",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee E on Bill C-53"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee E on Bill C-61",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif E sur le projet de loi C-61",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee E on Bill C-61"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-144",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-144",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-144"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-15",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-15",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-15"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-54",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-54",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-54"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-71",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-71",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-71"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-74",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-74",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-74"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-88",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-88",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-88"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-89",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-89",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-89"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on Child Care",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent de la justice et du solliciteur g\u00e9n\u00e9ral",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on Child Care"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Solicitor General",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la garde d'enfants",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Solicitor General"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee  on Bill C-67 and Bill C-68",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-49",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee  on Bill C-67 and Bill C-68"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-49",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-65",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-49"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-65",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur les projet de loi C-67 et projet de loi C-68",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-65"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on Child Care",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on Child Care"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee to pre-study bill C-78",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent de la justice et du solliciteur g\u00e9n\u00e9ral",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee to pre-study bill C-78"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on External Affairs and National Defence",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent des affaires ext\u00e9rieures et de la d\u00e9fense nationale",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on External Affairs and National Defence"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Legal Affairs",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la garde d'enfants",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Legal Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur l'\u00e9tude pr\u00e9liminaire du projet de loi C-78",
+      "name_en": "Standing Committee on Justice and Solicitor General",
       "parliament": 33,
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur l'\u00e9tude pr\u00e9liminaire du projet de loi C-78",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Solicitor General"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1995-05-09",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 78335,
+  "name": "Robert Douglas Nicholson",
   "contact_info": {
     "parliament": {
       "email": "Nicholson.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-1547",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-1547",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "NichoR1@parl.gc.ca",
       "postal_code": "L2J 2L3",
+      "city_en": "Niagara Falls",
       "city_fr": "Niagara Falls",
       "province_en": "Ontario",
+      "telephone": "905-353-9590",
       "province_fr": "Ontario",
       "street_address_en": "2895 St. Paul Avenue, Unit 11",
-      "telephone": "905-353-9590",
-      "street_address_fr": "2895, avenue St-Paul, unit\u00e9 11",
-      "city_en": "Niagara Falls"
+      "street_address_fr": "2895, avenue St-Paul, unit\u00e9 11"
     }
   },
-  "name": "Robert Douglas Nicholson",
   "date_of_birth": "1952-04-29",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Niagara Falls",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Niagara Falls",
-      "riding_fr": "Niagara Falls"
+      "riding_en": "Niagara Falls"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Niagara Falls",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Niagara Falls",
-      "riding_fr": "Niagara Falls"
+      "riding_en": "Niagara Falls"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Niagara Falls",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Niagara Falls",
-      "riding_fr": "Niagara Falls"
+      "riding_en": "Niagara Falls"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Niagara Falls",
       "election_date": "1997-06-02",
-      "result_fr": "D\u00e9fait",
-      "riding_en": "Niagara Falls",
-      "riding_fr": "Niagara Falls"
-    },
-    {
       "result_en": "Defeated",
-      "election_date": "1993-10-25",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Niagara Falls",
-      "riding_fr": "Niagara Falls"
+      "riding_en": "Niagara Falls"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Niagara Falls",
+      "election_date": "1993-10-25",
+      "result_en": "Defeated",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Niagara Falls"
+    },
+    {
+      "riding_fr": "Niagara Falls",
       "election_date": "1988-11-21",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Niagara Falls",
-      "riding_fr": "Niagara Falls"
+      "riding_en": "Niagara Falls"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Niagara Falls",
       "election_date": "1984-09-04",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Niagara Falls",
-      "riding_fr": "Niagara Falls"
+      "riding_en": "Niagara Falls"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Niagara Falls, Ontario, Canada",
-    "name_en": "Niagara Falls, Ontario, Canada"
+    "name_en": "Niagara Falls, Ontario, Canada",
+    "name_fr": "Niagara Falls, Ontario, Canada"
   },
+  "id": "b42374fa-e181-4337-93e9-2a5c41eb5d1e",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-02-02",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Parti progressiste-conservateur",
+      "name_en": "Progressive Conservative Party",
       "start_date": "1984-09-04",
-      "end_date": "2004-02-01",
-      "name_en": "Progressive Conservative Party"
-    }
-  ],
-  "language": "English",
-  "id": "b42374fa-e181-4337-93e9-2a5c41eb5d1e",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://canada.justice.gc.ca/eng/mag-mpg/index.html",
-      "url_fr": "http://canada.justice.gc.ca/fra/mpg-mag/index.html",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78335&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78335&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/64869",
-      "url_fr": "http://www.conservative.ca/FR/4568/64871",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.robnicholson.ca/",
-      "url_fr": "http://www.robnicholson.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti progressiste-conservateur",
+      "end_date": "2004-02-01"
     }
   ]
 }

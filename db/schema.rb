@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100708182251) do
+ActiveRecord::Schema.define(:version => 20100726112629) do
 
   create_table "committee_memberships", :force => true do |t|
     t.integer "mp_id"
@@ -27,8 +27,10 @@ ActiveRecord::Schema.define(:version => 20100708182251) do
   end
 
   create_table "committees", :force => true do |t|
-    t.string "name_en"
-    t.string "name_fr"
+    t.string  "name_en"
+    t.string  "name_fr"
+    t.string  "acronym"
+    t.integer "subcommittee_of"
   end
 
   create_table "election_results", :force => true do |t|
@@ -113,6 +115,7 @@ ActiveRecord::Schema.define(:version => 20100708182251) do
     t.string   "place_of_birth"
     t.integer  "party_id"
     t.integer  "province_id"
+    t.date     "start_date"
   end
 
   create_table "mps_news_articles", :id => false, :force => true do |t|
@@ -221,6 +224,7 @@ ActiveRecord::Schema.define(:version => 20100708182251) do
     t.text     "context"
     t.text     "sponsor"
     t.date     "vote_date"
+    t.integer  "legisinfo_bill_id"
   end
 
 end

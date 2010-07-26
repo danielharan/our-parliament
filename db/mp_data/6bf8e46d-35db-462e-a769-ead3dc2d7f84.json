@@ -1,122 +1,123 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
-    }
-  ],
-  "parlinfo_id": 128448,
-  "functions": [
-    {
-      "title_fr": "Agence f\u00e9d\u00e9rale de d\u00e9veloppement \u00e9conomique pour le Sud de l\u2019Ontario",
-      "start_date": "2009-08-14",
-      "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Federal Economic Development Agency for Southern Ontario"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128448&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128448&Language=F"
     },
     {
-      "title_fr": "Politique automobile",
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/17328_frank-valeriote",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/17328_frank-valeriote"
+    }
+  ],
+  "functions": [
+    {
+      "title_en": "Federal Economic Development Agency for Southern Ontario",
+      "start_date": "2009-08-14",
+      "title_fr": "Agence f\u00e9d\u00e9rale de d\u00e9veloppement \u00e9conomique pour le Sud de l\u2019Ontario",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole"
+    },
+    {
+      "title_en": "Auto Policy",
       "start_date": "2008-11-14",
+      "title_fr": "Politique automobile",
       "end_date": "2009-01-21",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Auto Policy"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 128448,
+  "name": "Francis Valeriote",
   "contact_info": {
     "parliament": {
       "email": "Valeriote.F@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-4758",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-4758",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "N1H 2W8",
+      "city_en": "Guelph",
       "city_fr": "Guelph",
       "province_en": "Ontario",
+      "telephone": "519-837-8276",
       "province_fr": "Ontario",
       "street_address_en": "40 Cork Street East",
-      "telephone": "519-837-8276",
-      "street_address_fr": "40, rue Cork Est",
       "fax": "519-837-8443",
-      "city_en": "Guelph"
+      "street_address_fr": "40, rue Cork Est"
     }
   },
-  "name": "Francis Valeriote",
   "date_of_birth": "1954-08-15",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Guelph",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Guelph",
-      "riding_fr": "Guelph"
+      "riding_en": "Guelph"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Guelph, Ontario, Canada",
-    "name_en": "Guelph, Ontario, Canada"
+    "name_en": "Guelph, Ontario, Canada",
+    "name_fr": "Guelph, Ontario, Canada"
   },
+  "id": "6bf8e46d-35db-462e-a769-ead3dc2d7f84",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "6bf8e46d-35db-462e-a769-ead3dc2d7f84",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128448&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128448&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/17328_frank-valeriote",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/17328_frank-valeriote",
-      "name_en": "Party Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

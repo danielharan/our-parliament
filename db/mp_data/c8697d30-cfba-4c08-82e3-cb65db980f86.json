@@ -1,239 +1,238 @@
 {
-  "professions": [
+  "language": "French, English",
+  "weblinks": [
     {
-      "name_fr": "Charg\u00e9 de compte",
-      "name_en": "Account executive"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78809&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78809&Language=F"
     },
     {
-      "name_fr": "Conseiller financier",
-      "name_en": "Development manager"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/12764_jean-claude-damours",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/12764_jean-claude-damours"
     },
     {
-      "name_fr": "Directeur technique",
-      "name_en": "Financial agent / adviser / consultant"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.jcdamours.ca/",
+      "url_fr": "http://www.jcdamours.ca/"
     }
   ],
-  "parlinfo_id": 78809,
   "functions": [
     {
-      "title_fr": "Porte d'entr\u00e9e de l'Atlantique",
+      "title_en": "Atlantic Gateway",
       "start_date": "2008-11-14",
+      "title_fr": "Porte d'entr\u00e9e de l'Atlantique",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Atlantic Gateway"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Langues officielles",
+      "title_en": "Official Languages",
       "start_date": "2008-11-14",
+      "title_fr": "Langues officielles",
       "end_date": "2009-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Official Languages"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique",
+      "title_en": "Atlantic Canada Opportunities Agency",
       "start_date": "2007-01-18",
+      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Atlantic Canada Opportunities Agency"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sant\u00e9",
+      "title_en": "Health",
       "start_date": "2006-05-30",
+      "title_fr": "Sant\u00e9",
       "end_date": "2007-01-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Health"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "P\u00eaches et Oc\u00e9ans",
+      "title_en": "Fisheries and Oceans",
       "start_date": "2006-04-13",
+      "title_fr": "P\u00eaches et Oc\u00e9ans",
       "end_date": "2006-05-29",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Fisheries and Oceans"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "name_en": "Standing Committee on Official Languages",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "name_en": "Standing Committee on Official Languages",
       "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Legislative Committee on Bill C-35",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-35"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les fonds de l'assurance-emploi du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 sur les fonds de l'assurance-emploi du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Account executive",
+      "name_fr": "Charg\u00e9 de compte"
+    },
+    {
+      "name_en": "Development manager",
+      "name_fr": "Conseiller financier"
+    },
+    {
+      "name_en": "Financial agent / adviser / consultant",
+      "name_fr": "Directeur technique"
+    }
+  ],
+  "parlinfo_id": 78809,
+  "name": "Jean-Claude D'Amours",
   "contact_info": {
     "parliament": {
       "email": "Damours.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-0581",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-0581",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-9736",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "damouj1@parl.gc.ca",
       "postal_code": "E3N 1A9",
+      "city_en": "Campbellton",
       "city_fr": "Campbellton",
       "province_en": "New Brunswick",
+      "telephone": "506-789-4580",
       "province_fr": "Nouveau-Brunswick",
       "street_address_en": "59 Water Street, Suite 202",
-      "telephone": "506-789-4580",
-      "street_address_fr": "59, rue Water, bureau 202",
-      "fax": "506-789-4581",
-      "city_en": "Campbellton"
+      "street_address_fr": "59, rue Water, bureau 202"
     }
   },
-  "name": "Jean-Claude D'Amours",
   "date_of_birth": "1972-12-19",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Madawaska--Restigouche",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Madawaska--Restigouche",
-      "riding_fr": "Madawaska--Restigouche"
+      "riding_en": "Madawaska--Restigouche"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Madawaska--Restigouche",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Madawaska--Restigouche",
-      "riding_fr": "Madawaska--Restigouche"
+      "riding_en": "Madawaska--Restigouche"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Madawaska--Restigouche",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Madawaska--Restigouche",
-      "riding_fr": "Madawaska--Restigouche"
+      "riding_en": "Madawaska--Restigouche"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Edmundston, Nouveau-Brunswick, Canada",
-    "name_en": "Edmundston, New Brunswick, Canada"
+    "name_en": "Edmundston, New Brunswick, Canada",
+    "name_fr": "Edmundston, Nouveau-Brunswick, Canada"
   },
+  "id": "c8697d30-cfba-4c08-82e3-cb65db980f86",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "French, English",
-  "id": "c8697d30-cfba-4c08-82e3-cb65db980f86",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78809&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78809&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/12764_jean-claude-damours",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/12764_jean-claude-damours",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.jcdamours.ca/",
-      "url_fr": "http://www.jcdamours.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

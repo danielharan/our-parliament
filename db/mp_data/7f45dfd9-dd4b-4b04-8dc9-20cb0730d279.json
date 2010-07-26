@@ -1,183 +1,184 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Agriculteur",
-      "name_en": "Farmer"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.tpsgc-pwgsc.gc.ca/apropos-about/scrtr-eng.html",
+      "url_fr": "http://www.tpsgc-pwgsc.gc.ca/apropos-about/scrtr-fra.html"
+    },
+    {
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78465&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78465&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1367&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1367&language_id=2"
     }
   ],
-  "parlinfo_id": 78465,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Travaux publics et des Services gouvernementaux et du ministre du Revenu national",
+      "title_en": "Parliamentary Secretary to the Minister of Public Works and Government Services and to the Minister of National Revenue",
       "start_date": "2008-11-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Travaux publics et des Services gouvernementaux et du ministre du Revenu national",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Public Works and Government Services and to the Minister of National Revenue"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre du Travail et du ministre de l'Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
+      "title_en": "Parliamentary Secretary to the Minister of Labour and Minister of the Economic Development Agency of Canada for the Regions of Quebec",
       "start_date": "2007-10-10",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre du Travail et du ministre de l'Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
       "end_date": "2008-11-06",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Labour and Minister of the Economic Development Agency of Canada for the Regions of Quebec"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources naturelles",
+      "title_en": "Parliamentary Secretary to the Minister of Natural Resources",
       "start_date": "2007-01-24",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources naturelles",
       "end_date": "2007-10-09",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Natural Resources"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de l\u2019Agriculture et de l\u2019Agroalimentaire et ministre de la Commission canadienne du bl\u00e9",
+      "title_en": "Parliamentary Secretary to the Minister of Agriculture and Agri-Food and Minister for the Canadian Wheat Board",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de l\u2019Agriculture et de l\u2019Agroalimentaire et ministre de la Commission canadienne du bl\u00e9",
       "end_date": "2007-01-23",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Agriculture and Agri-Food and Minister for the Canadian Wheat Board"
+      "role_fr": "Secr\u00e9taire parlementaire"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "name_en": "Standing Committee on Government Operations and Estimates",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-20",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-20"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-30",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-30"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Farmer",
+      "name_fr": "Agriculteur"
+    }
+  ],
+  "parlinfo_id": 78465,
+  "name": "Jacques Gourde",
   "contact_info": {
     "parliament": {
       "email": "Gourde.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-2639",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-2639",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "gourdj0@parl.gc.ca",
       "postal_code": "G6J 1B7",
+      "city_en": "Saint-\u00c9tienne-de-Lauzon",
       "city_fr": "Saint-\u00c9tienne-de-Lauzon",
       "province_en": "Quebec",
+      "telephone": "418-836-0970",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "910  Route Lagueux",
-      "telephone": "418-836-0970",
-      "street_address_fr": "910, route Lagueux",
-      "city_en": "Saint-\u00c9tienne-de-Lauzon"
+      "street_address_fr": "910, route Lagueux"
     }
   },
-  "name": "Jacques Gourde",
   "date_of_birth": "1964-01-13",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Lotbini\u00e8re--Chutes-de-la-Chaudi\u00e8re",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Lotbini\u00e8re--Chutes-de-la-Chaudi\u00e8re",
-      "riding_fr": "Lotbini\u00e8re--Chutes-de-la-Chaudi\u00e8re"
+      "riding_en": "Lotbini\u00e8re--Chutes-de-la-Chaudi\u00e8re"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Lotbini\u00e8re--Chutes-de-la-Chaudi\u00e8re",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Lotbini\u00e8re--Chutes-de-la-Chaudi\u00e8re",
-      "riding_fr": "Lotbini\u00e8re--Chutes-de-la-Chaudi\u00e8re"
+      "riding_en": "Lotbini\u00e8re--Chutes-de-la-Chaudi\u00e8re"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Saint-Narcisse-de-Beaurivage, Qu\u00e9bec, Canada",
-    "name_en": "Saint-Narcisse-de-Beaurivage, Quebec, Canada"
+    "name_en": "Saint-Narcisse-de-Beaurivage, Quebec, Canada",
+    "name_fr": "Saint-Narcisse-de-Beaurivage, Qu\u00e9bec, Canada"
   },
+  "id": "7f45dfd9-dd4b-4b04-8dc9-20cb0730d279",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "French",
-  "id": "7f45dfd9-dd4b-4b04-8dc9-20cb0730d279",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.tpsgc-pwgsc.gc.ca/apropos-about/scrtr-eng.html",
-      "url_fr": "http://www.tpsgc-pwgsc.gc.ca/apropos-about/scrtr-fra.html",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78465&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78465&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1367&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1367&language_id=2",
-      "name_en": "Party Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

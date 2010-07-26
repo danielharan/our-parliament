@@ -1,198 +1,199 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Analyste de la politique",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78377&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78377&Language=F"
     },
     {
-      "name_fr": "Expert-conseil en communications",
-      "name_en": "Communication consultant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1549&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1549&language_id=2"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Policy analyst"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.resultsforyou.ca/contact/",
+      "url_fr": "http://www.resultsforyou.ca/contact/"
     }
   ],
-  "parlinfo_id": 78377,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du premier ministre et de la ministre des Affaires intergouvernementales",
+      "title_en": "Parliamentary Secretary to the Prime Minister and to the Minister of Intergovernmental Affairs",
       "start_date": "2008-11-07",
+      "title_fr": "Secr\u00e9taire parlementaire du premier ministre et de la ministre des Affaires intergouvernementales",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Prime Minister and to the Minister of Intergovernmental Affairs"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du pr\u00e9sident du Conseil du Tr\u00e9sor",
+      "title_en": "Parliamentary Secretary to the President of the Treasury Board",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire du pr\u00e9sident du Conseil du Tr\u00e9sor",
       "end_date": "2008-11-06",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the President of the Treasury Board"
+      "role_fr": "Secr\u00e9taire parlementaire"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "name_en": "Standing Committee on Official Languages",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "name_en": "Standing Committee on Official Languages",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Analyste de la politique"
+    },
+    {
+      "name_en": "Communication consultant",
+      "name_fr": "Expert-conseil en communications"
+    },
+    {
+      "name_en": "Policy analyst",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 78377,
+  "name": "Pierre Poilievre",
   "contact_info": {
     "parliament": {
       "email": "PoiliP@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-2772",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-2772",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "K2H 8X4",
+      "city_en": "Nepean",
       "city_fr": "Nepean",
       "province_en": "Ontario",
+      "telephone": "613-990-4300",
       "province_fr": "Ontario",
       "street_address_en": "250B Greenbank Road, 2nd level",
-      "telephone": "613-990-4300",
-      "street_address_fr": "250B, chemin Greenbank, 2e \u00e9tage",
       "fax": "613-990-4333",
-      "city_en": "Nepean"
+      "street_address_fr": "250B, chemin Greenbank, 2e \u00e9tage"
     }
   },
-  "name": "Pierre Poilievre",
   "date_of_birth": "1979-06-03",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Nepean--Carleton",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Nepean--Carleton",
-      "riding_fr": "Nepean--Carleton"
+      "riding_en": "Nepean--Carleton"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Nepean--Carleton",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Nepean--Carleton",
-      "riding_fr": "Nepean--Carleton"
+      "riding_en": "Nepean--Carleton"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Nepean--Carleton",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Nepean--Carleton",
-      "riding_fr": "Nepean--Carleton"
+      "riding_en": "Nepean--Carleton"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Calgary, Alberta, Canada",
-    "name_en": "Calgary, Alberta, Canada"
+    "name_en": "Calgary, Alberta, Canada",
+    "name_fr": "Calgary, Alberta, Canada"
   },
+  "id": "ad4032f2-6bb1-497b-b146-f321cfb71ba9",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "ad4032f2-6bb1-497b-b146-f321cfb71ba9",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78377&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78377&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1549&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1549&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.resultsforyou.ca/contact/",
-      "url_fr": "http://www.resultsforyou.ca/contact/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

@@ -1,148 +1,147 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128429&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128429&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1543",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1543&language_id=2"
+    },
+    {
+      "name_en": "Personal Website (1)",
+      "name_fr": "Site Web personnel (1) (Disponible en anglais seulement)",
+      "url_en": "http://bobdechertmp.ca/",
+      "url_fr": "http://bobdechertmp.ca/"
+    },
+    {
+      "name_en": "Personal Website (2)",
+      "name_fr": "Site Web personnel (2) (Disponible en anglais seulement)",
+      "url_en": "http://www.bobdechert.ca/",
+      "url_fr": "http://www.bobdechert.ca/"
     }
   ],
-  "parlinfo_id": 128429,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Justice",
+      "title_en": "Parliamentary Secretary to the Minister of Justice",
       "start_date": "2010-03-05",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Justice",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Justice"
+      "role_fr": "Secr\u00e9taire parlementaire"
     }
   ],
   "committees": [
     {
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 128429,
+  "name": "Bob Dechert",
   "contact_info": {
     "parliament": {
       "email": "Dechert.B@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-7321",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-7321",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-6708",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "decheb1@parl.gc.ca",
       "postal_code": "L5C 4G8",
+      "city_en": "Mississauga",
       "city_fr": "Mississauga",
       "province_en": "Ontario",
+      "telephone": "905-897-1952",
       "province_fr": "Ontario",
       "street_address_en": "108-1300 Central Parkway West",
-      "telephone": "905-897-1952",
-      "street_address_fr": "108-1300, Central Parkway Ouest",
-      "fax": "905-897-6117",
-      "city_en": "Mississauga"
+      "street_address_fr": "108-1300, Central Parkway Ouest"
     }
   },
-  "name": "Bob Dechert",
   "date_of_birth": "1958-05-18",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Mississauga--Erindale",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Mississauga--Erindale",
-      "riding_fr": "Mississauga--Erindale"
+      "riding_en": "Mississauga--Erindale"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Mississauga--Erindale",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Mississauga--Erindale",
-      "riding_fr": "Mississauga--Erindale"
+      "riding_en": "Mississauga--Erindale"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Mississauga--Erindale",
       "election_date": "2004-06-28",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Mississauga--Erindale",
-      "riding_fr": "Mississauga--Erindale"
+      "riding_en": "Mississauga--Erindale"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Brampton, Ontario, Canada",
-    "name_en": "Brampton, Ontario, Canada"
+    "name_en": "Brampton, Ontario, Canada",
+    "name_fr": "Brampton, Ontario, Canada"
   },
+  "id": "9d1e4c91-5600-4728-a706-d812d6695e8b",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Parti progressiste-conservateur",
+      "name_en": "Progressive Conservative Party",
       "start_date": "1972",
-      "end_date": "2003-12-22",
-      "name_en": "Progressive Conservative Party"
-    }
-  ],
-  "language": "English",
-  "id": "9d1e4c91-5600-4728-a706-d812d6695e8b",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128429&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128429&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1543",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1543&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (1) (Disponible en anglais seulement)",
-      "url_en": "http://bobdechertmp.ca/",
-      "url_fr": "http://bobdechertmp.ca/",
-      "name_en": "Personal Website (1)"
-    },
-    {
-      "name_fr": "Site Web personnel (2) (Disponible en anglais seulement)",
-      "url_en": "http://www.bobdechert.ca/",
-      "url_fr": "http://www.bobdechert.ca/",
-      "name_en": "Personal Website (2)"
+      "name_fr": "Parti progressiste-conservateur",
+      "end_date": "2003-12-22"
     }
   ]
 }

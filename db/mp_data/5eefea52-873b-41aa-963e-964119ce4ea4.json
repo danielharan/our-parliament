@@ -1,338 +1,339 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Agriculteur",
-      "name_en": "Businessman"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.tc.gc.ca/minister/state.htm",
+      "url_fr": "http://www.tc.gc.ca/ministre/etat.htm"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Farmer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78936&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78936&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/107479",
+      "url_fr": "http://www.conservative.ca/FR/4568/107481"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.merrifieldmp.com/",
+      "url_fr": "http://www.merrifieldmp.com/"
     }
   ],
-  "parlinfo_id": 78936,
   "functions": [
     {
-      "title_fr": "Ministre d'\u00c9tat (Transports)",
+      "title_en": "Minister of State (Transport)",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre d'\u00c9tat (Transports)",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State (Transport)"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Affaires intergouvernementales",
+      "title_en": "Intergovernmental Affairs",
       "start_date": "2004-01-22",
+      "title_fr": "Affaires intergouvernementales",
       "end_date": "2004-03-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Intergovernmental Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Commission Romanow",
+      "title_en": "Romanow Commission",
       "start_date": "2001-12-18",
+      "title_fr": "Commission Romanow",
       "end_date": "2002-04-03",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Romanow Commission"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sant\u00e9",
+      "title_en": "Health",
       "start_date": "2001-12-18",
+      "title_fr": "Sant\u00e9",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Health"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sant\u00e9",
+      "title_en": "Health",
       "start_date": "2001-06-18",
+      "title_fr": "Sant\u00e9",
       "end_date": "2001-12-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Health"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 39,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
-      "parliament": 39,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances",
-      "parliament": 39,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la Sant\u00e9",
-      "parliament": 39,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 de liaison",
+      "name_en": "Liaison Committee",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 de liaison",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de Liaison",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de Liaison",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la Sant\u00e9",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-38",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-38"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2000-11-27",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Agriculteur"
+    },
+    {
+      "name_en": "Farmer",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 78936,
+  "name": "Rob Merrifield",
   "contact_info": {
     "parliament": {
       "email": "Merrifield.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-1653",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-1653",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "T7E 1V9",
+      "city_en": "Edson",
       "city_fr": "Edson",
       "province_en": "Alberta",
+      "telephone": "780-723-6068",
       "province_fr": "Alberta",
       "street_address_en": "119  50th Street P.O. Box 7887",
-      "telephone": "780-723-6068",
-      "street_address_fr": "119,  50e Rue\r\nCase postale 7887",
-      "city_en": "Edson"
+      "street_address_fr": "119,  50e Rue\r\nCase postale 7887"
     }
   },
-  "name": "Rob Merrifield",
   "date_of_birth": "1953-12-19",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Yellowhead",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Yellowhead",
-      "riding_fr": "Yellowhead"
+      "riding_en": "Yellowhead"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Yellowhead",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Yellowhead",
-      "riding_fr": "Yellowhead"
+      "riding_en": "Yellowhead"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Yellowhead",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Yellowhead",
-      "riding_fr": "Yellowhead"
+      "riding_en": "Yellowhead"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Yellowhead",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Yellowhead",
-      "riding_fr": "Yellowhead"
+      "riding_en": "Yellowhead"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Mayerthorpe, Alberta, Canada",
-    "name_en": "Mayerthorpe, Alberta, Canada"
+    "name_en": "Mayerthorpe, Alberta, Canada",
+    "name_fr": "Mayerthorpe, Alberta, Canada"
   },
+  "id": "5eefea52-873b-41aa-963e-964119ce4ea4",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "name_en": "Canadian Reform Conservative Alliance",
       "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance"
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "end_date": "2003-12-22"
     },
     {
-      "name_fr": "Parti r\u00e9formiste",
+      "name_en": "Reform Party",
       "start_date": "1991",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party"
-    }
-  ],
-  "language": "English",
-  "id": "5eefea52-873b-41aa-963e-964119ce4ea4",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.tc.gc.ca/minister/state.htm",
-      "url_fr": "http://www.tc.gc.ca/ministre/etat.htm",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78936&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78936&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/107479",
-      "url_fr": "http://www.conservative.ca/FR/4568/107481",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.merrifieldmp.com/",
-      "url_fr": "http://www.merrifieldmp.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti r\u00e9formiste",
+      "end_date": "2000-03-26"
     }
   ]
 }

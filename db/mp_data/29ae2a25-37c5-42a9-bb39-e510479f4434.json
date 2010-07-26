@@ -1,90 +1,91 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Businessman"
-    }
-  ],
-  "parlinfo_id": 128453,
-  "functions": [
-    {
-      "title_fr": "Sciences et Technologie",
-      "start_date": "2008-11-17",
-      "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Science and Technology"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128453&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128453&Language=F"
     },
     {
-      "title_fr": "Travaux publicsChamp de responsabilit\u00e9: Cybergouvernement",
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/jimmaloway",
+      "url_fr": "http://www.npd.ca/jimmaloway"
+    }
+  ],
+  "functions": [
+    {
+      "title_en": "Science and Technology",
       "start_date": "2008-11-17",
+      "title_fr": "Sciences et Technologie",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole"
+    },
+    {
+      "title_en": "Public WorksArea of responsibility: E-government",
+      "start_date": "2008-11-17",
+      "title_fr": "Travaux publicsChamp de responsabilit\u00e9: Cybergouvernement",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Public WorksArea of responsibility: E-government"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 128453,
+  "name": "Peter James (Jim) Maloway",
   "contact_info": {
     "parliament": {
       "email": "Maloway.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-6339",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-6339",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "R2C 3B5",
+      "city_en": "Winnipeg",
       "city_fr": "Winnipeg",
       "province_en": "Manitoba",
+      "telephone": "204-984-2499",
       "province_fr": "Manitoba",
       "street_address_en": "4-1600 Regent Avenue West",
-      "telephone": "204-984-2499",
-      "street_address_fr": "4-1600, avenue Regent Ouest",
       "fax": "204-984-2502",
-      "city_en": "Winnipeg"
+      "street_address_fr": "4-1600, avenue Regent Ouest"
     }
   },
-  "name": "Peter James (Jim) Maloway",
   "date_of_birth": "1952-11-10",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Elmwood--Transcona",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Elmwood--Transcona",
-      "riding_fr": "Elmwood--Transcona"
+      "riding_en": "Elmwood--Transcona"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Sioux Lookout, Ontario, Canada",
-    "name_en": "Sioux Lookout, Ontario, Canada"
+    "name_en": "Sioux Lookout, Ontario, Canada",
+    "name_fr": "Sioux Lookout, Ontario, Canada"
   },
+  "id": "29ae2a25-37c5-42a9-bb39-e510479f4434",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2008-10-14",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "29ae2a25-37c5-42a9-bb39-e510479f4434",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128453&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128453&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/jimmaloway",
-      "url_fr": "http://www.npd.ca/jimmaloway",
-      "name_en": "Party Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

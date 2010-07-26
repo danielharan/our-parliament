@@ -1,95 +1,95 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Directeur d'\u00e9cole",
-      "name_en": "Educator"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145911&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145911&Language=F"
     },
     {
-      "name_fr": "P\u00e9dagogue",
-      "name_en": "School principal"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1267",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1267&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.scottarmstrongmp.ca/",
+      "url_fr": "http://www.scottarmstrongmp.ca/"
     }
   ],
-  "parlinfo_id": 145911,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2009-11-09",
+  "professions": [
+    {
+      "name_en": "Educator",
+      "name_fr": "Directeur d'\u00e9cole"
+    },
+    {
+      "name_en": "School principal",
+      "name_fr": "P\u00e9dagogue"
+    }
+  ],
+  "parlinfo_id": 145911,
+  "name": "Scott Armstrong",
   "contact_info": {
     "parliament": {
       "email": "Armstrong.S@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-3366",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-3366",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "armsts@parl.gc.ca",
       "postal_code": "B2N 2K3",
+      "city_en": "Truro",
       "city_fr": "Truro",
       "province_en": "Nova Scotia",
+      "telephone": "902-893-2455",
       "province_fr": "Nouvelle-\u00c9cosse",
       "street_address_en": "28 Esplanade",
-      "telephone": "902-893-2455",
-      "street_address_fr": "28 rue Esplanade",
-      "fax": "902- 893-1959",
-      "city_en": "Truro"
+      "street_address_fr": "28 rue Esplanade"
     }
   },
-  "name": "Scott Armstrong",
   "date_of_birth": "1966-07-09",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Cumberland--Colchester--Musquodoboit Valley",
       "election_date": "2009-11-09",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Cumberland--Colchester--Musquodoboit Valley",
-      "riding_fr": "Cumberland--Colchester--Musquodoboit Valley"
+      "riding_en": "Cumberland--Colchester--Musquodoboit Valley"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Truro, Nouvelle-\u00c9cosse, Canada",
-    "name_en": "Truro, Nova Scotia, Canada"
+    "name_en": "Truro, Nova Scotia, Canada",
+    "name_fr": "Truro, Nouvelle-\u00c9cosse, Canada"
   },
+  "id": "d34b2845-a4e3-457b-b0eb-e95ac232d51d",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2009-11-09",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "d34b2845-a4e3-457b-b0eb-e95ac232d51d",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145911&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145911&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1267",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1267&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.scottarmstrongmp.ca/",
-      "url_fr": "http://www.scottarmstrongmp.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

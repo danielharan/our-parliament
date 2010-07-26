@@ -1,317 +1,318 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "G\u00e9rant",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78736&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78736&Language=F"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Manager"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1739&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1739&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.petergoldring.com/",
+      "url_fr": "http://www.petergoldring.com/"
     }
   ],
-  "parlinfo_id": 78736,
   "functions": [
     {
-      "title_fr": "Itin\u00e9rance",
+      "title_en": "Homelessness",
       "start_date": "2004-01-22",
+      "title_fr": "Itin\u00e9rance",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Homelessness"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Logement social",
+      "title_en": "Housing, Public",
       "start_date": "2002-04-04",
+      "title_fr": "Logement social",
       "end_date": "2004-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Housing, Public"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Travaux publics et Services gouvernementaux",
+      "title_en": "Public Works and Government Services",
       "start_date": "2001-06-18",
+      "title_fr": "Travaux publics et Services gouvernementaux",
       "end_date": "2002-04-03",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Public Works and Government Services"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Anciens combattants",
+      "title_en": "Veterans Affairs",
       "start_date": "1997-06-20",
+      "title_fr": "Anciens combattants",
       "end_date": "2000-07-31",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Veterans Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Cara\u00efbes",
+      "title_en": "Caribbean",
       "start_date": "2004-09-01",
+      "title_fr": "Cara\u00efbes",
       "end_date": "2006-02-05",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Caribbean"
+      "role_fr": "Porte-parole adjoint"
     },
     {
+      "title_en": "National Defence",
+      "start_date": "2000-08-01",
       "title_fr": "D\u00e9fense nationale",
-      "start_date": "2000-08-01",
       "end_date": "2001-06-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "National Defence"
+      "role_fr": "Porte-parole adjoint"
     },
     {
+      "title_en": "Public Works and Government Services",
+      "start_date": "2000-08-01",
       "title_fr": "Travaux publics et Services gouvernementaux",
-      "start_date": "2000-08-01",
       "end_date": "2001-06-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Public Works and Government Services"
+      "role_fr": "Porte-parole adjoint"
     },
     {
+      "title_en": "Intergovernmental Affairs",
+      "start_date": "1997-06-20",
       "title_fr": "Affaires intergouvernementales",
-      "start_date": "1997-06-20",
       "end_date": "1998-06-16",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Intergovernmental Affairs"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Conseil priv\u00e9",
+      "title_en": "Privy Council",
       "start_date": "1997-06-20",
+      "title_fr": "Conseil priv\u00e9",
       "end_date": "1998-06-16",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Privy Council"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 de liaison",
+      "name_en": "Liaison Committee",
       "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
-    },
-    {
       "name_fr": "Comit\u00e9 de liaison",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Liaison Committee",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 de liaison",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport and Government Operations",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des transports et des op\u00e9rations gouvernementales",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport and Government Operations"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on  Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on  Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1997-06-02",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "G\u00e9rant"
+    },
+    {
+      "name_en": "Manager",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 78736,
+  "name": "Peter Goldring",
   "contact_info": {
     "parliament": {
       "email": "Goldring.P@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-3821",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-3821",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "goldrp1@parl.gc.ca",
       "postal_code": "T5B 0T9",
+      "city_en": "Edmonton",
       "city_fr": "Edmonton",
       "province_en": "Alberta",
+      "telephone": "780-495-3261",
       "province_fr": "Alberta",
       "street_address_en": "9111  118th Avenue",
-      "telephone": "780-495-3261",
-      "street_address_fr": "9111,  118e Avenue",
-      "city_en": "Edmonton"
+      "street_address_fr": "9111,  118e Avenue"
     }
   },
-  "name": "Peter Goldring",
   "date_of_birth": "1944-12-12",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Edmonton-Est",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Edmonton East",
-      "riding_fr": "Edmonton-Est"
+      "riding_en": "Edmonton East"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Edmonton-Est",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Edmonton East",
-      "riding_fr": "Edmonton-Est"
+      "riding_en": "Edmonton East"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Edmonton-Est",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Edmonton East",
-      "riding_fr": "Edmonton-Est"
+      "riding_en": "Edmonton East"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Edmonton-Centre-Est",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Edmonton Centre-East",
-      "riding_fr": "Edmonton-Centre-Est"
+      "riding_en": "Edmonton Centre-East"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Edmonton-Est",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Edmonton East",
-      "riding_fr": "Edmonton-Est"
+      "riding_en": "Edmonton East"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "301f6c15-065e-4781-87d0-5de83f5afc58",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "name_en": "Canadian Reform Conservative Alliance",
       "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance"
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "end_date": "2003-12-22"
     },
     {
-      "name_fr": "Parti r\u00e9formiste",
+      "name_en": "Reform Party",
       "start_date": "1997-06-02",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party"
-    }
-  ],
-  "language": "English",
-  "id": "301f6c15-065e-4781-87d0-5de83f5afc58",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78736&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78736&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1739&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1739&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.petergoldring.com/",
-      "url_fr": "http://www.petergoldring.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti r\u00e9formiste",
+      "end_date": "2000-03-26"
     }
   ]
 }

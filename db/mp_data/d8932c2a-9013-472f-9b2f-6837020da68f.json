@@ -1,174 +1,175 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Attach\u00e9 politique",
-      "name_en": "Carpenter"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128277&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128277&Language=F"
     },
     {
-      "name_fr": "Charpentier-menuisier",
-      "name_en": "Political attach\u00e9"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=0e6a2eef-5e91-409b-a373-341420345d3d",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=0e6a2eef-5e91-409b-a373-341420345d3d"
     },
     {
-      "name_fr": "Menuisier",
-      "name_en": "Woodworker"
+      "name_en": "Personal Website (Available in French only)",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.rogerpomerleau.org",
+      "url_fr": "http://www.rogerpomerleau.org"
     }
   ],
-  "parlinfo_id": 128277,
   "functions": [
     {
-      "title_fr": "Patrimoine canadien",
+      "title_en": "Canadian Heritage",
       "start_date": "2008-10-31",
+      "title_fr": "Patrimoine canadien",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Canadian Heritage"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Finances",
+      "title_en": "Finance",
       "start_date": "1996",
+      "title_fr": "Finances",
       "end_date": "1997",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Finance"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Ressources naturelles",
+      "title_en": "Natural Resources",
       "start_date": "1994",
+      "title_fr": "Ressources naturelles",
       "end_date": "1996",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 35,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent des finances",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2005-03-08",
+  "professions": [
+    {
+      "name_en": "Carpenter",
+      "name_fr": "Attach\u00e9 politique"
+    },
+    {
+      "name_en": "Political attach\u00e9",
+      "name_fr": "Charpentier-menuisier"
+    },
+    {
+      "name_en": "Woodworker",
+      "name_fr": "Menuisier"
+    }
+  ],
+  "parlinfo_id": 128277,
+  "name": "Roger Pomerleau",
   "contact_info": {
     "parliament": {
       "email": "Pomerleau.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-947-4550",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-947-4550",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "J2C 1J9",
+      "city_en": "Drummondville",
       "city_fr": "Drummondville",
       "province_en": "Quebec",
+      "telephone": "819-477-3611",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "185 H\u00e9riot Street",
-      "telephone": "819-477-3611",
-      "street_address_fr": "185, rue H\u00e9riot",
       "fax": "819-477-7116",
-      "city_en": "Drummondville"
+      "street_address_fr": "185, rue H\u00e9riot"
     }
   },
-  "name": "Roger Pomerleau",
   "date_of_birth": "1947-06-07",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Drummond",
       "election_date": "2008-10-14",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Drummond",
-      "riding_fr": "Drummond"
-    },
-    {
-      "result_en": "Defeated",
-      "election_date": "1997-06-02",
-      "result_fr": "D\u00e9fait",
-      "riding_en": "Anjou--Rivi\u00e8re-des-Prairies",
-      "riding_fr": "Anjou--Rivi\u00e8re-des-Prairies"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "1993-10-25",
       "result_fr": "\u00c9lu",
-      "riding_en": "Anjou--Rivi\u00e8re-des-Prairies",
-      "riding_fr": "Anjou--Rivi\u00e8re-des-Prairies"
+      "riding_en": "Drummond"
+    },
+    {
+      "riding_fr": "Anjou--Rivi\u00e8re-des-Prairies",
+      "election_date": "1997-06-02",
+      "result_en": "Defeated",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Anjou--Rivi\u00e8re-des-Prairies"
+    },
+    {
+      "riding_fr": "Anjou--Rivi\u00e8re-des-Prairies",
+      "election_date": "1993-10-25",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Anjou--Rivi\u00e8re-des-Prairies"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
-    "name_en": "Montreal, Quebec, Canada"
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
   },
+  "id": "d8932c2a-9013-472f-9b2f-6837020da68f",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "1993-10-25",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "d8932c2a-9013-472f-9b2f-6837020da68f",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128277&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128277&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=0e6a2eef-5e91-409b-a373-341420345d3d",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=0e6a2eef-5e91-409b-a373-341420345d3d",
-      "name_en": "Party Website (Available in French only)"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.rogerpomerleau.org",
-      "url_fr": "http://www.rogerpomerleau.org",
-      "name_en": "Personal Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

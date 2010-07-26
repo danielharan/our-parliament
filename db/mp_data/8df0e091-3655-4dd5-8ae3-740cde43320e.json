@@ -1,95 +1,95 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "D\u00e9fenseur",
-      "name_en": "Advocate"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128215&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128215&Language=F"
     },
     {
-      "name_fr": "Fonctionnaire",
-      "name_en": "Public servant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1825",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1825&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.donacadman.ca/",
+      "url_fr": "http://www.donacadman.ca/"
     }
   ],
-  "parlinfo_id": 128215,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Advocate",
+      "name_fr": "D\u00e9fenseur"
+    },
+    {
+      "name_en": "Public servant",
+      "name_fr": "Fonctionnaire"
+    }
+  ],
+  "parlinfo_id": 128215,
+  "name": "Dona Cadman",
   "contact_info": {
     "parliament": {
       "email": "Cadman.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-2922",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-2922",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-0252",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "CadmaD1A@parl.gc.ca",
       "postal_code": "V3T 2V6",
+      "city_en": "Surrey",
       "city_fr": "Surrey",
       "province_en": "British Columbia",
+      "telephone": "604-586-2441",
       "province_fr": "Colombie-Britannique",
       "street_address_en": "9808 King George Highway, Unit 307",
-      "telephone": "604-586-2441",
-      "street_address_fr": "9808, route King George, unit\u00e9 307",
-      "city_en": "Surrey"
+      "street_address_fr": "9808, route King George, unit\u00e9 307"
     }
   },
-  "name": "Dona Cadman",
   "date_of_birth": "1950-07-09",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Surrey-Nord",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Surrey North",
-      "riding_fr": "Surrey-Nord"
+      "riding_en": "Surrey North"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Chilliwack, Colombie-Britannique, Canada",
-    "name_en": "Chilliwack, British Columbia, Canada"
+    "name_en": "Chilliwack, British Columbia, Canada",
+    "name_fr": "Chilliwack, Colombie-Britannique, Canada"
   },
+  "id": "8df0e091-3655-4dd5-8ae3-740cde43320e",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "8df0e091-3655-4dd5-8ae3-740cde43320e",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128215&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128215&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1825",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1825&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.donacadman.ca/",
-      "url_fr": "http://www.donacadman.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

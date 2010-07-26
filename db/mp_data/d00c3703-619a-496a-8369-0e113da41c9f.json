@@ -1,209 +1,209 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Administrateur",
-      "name_en": "Administrator"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79025&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79025&Language=F"
     },
     {
-      "name_fr": "G\u00e9rant",
-      "name_en": "Businessman"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/dennisbevington",
+      "url_fr": "http://www.npd.ca/dennisbevington"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Manager"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.dennisbevington.ca/",
+      "url_fr": "http://www.dennisbevington.ca/"
     }
   ],
-  "parlinfo_id": 79025,
   "functions": [
     {
+      "title_en": "Infrastructure and Communities",
+      "start_date": "2008-11-17",
       "title_fr": "Infrastructure et Collectivit\u00e9s",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Infrastructure and Communities"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Sovereignty",
+      "start_date": "2008-11-17",
       "title_fr": "Souverainet\u00e9",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Sovereignty"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Transport, Infrastructure and Communities",
+      "start_date": "2008-11-17",
       "title_fr": "Transports, Infrastructure et Collectivit\u00e9s",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Transport, Infrastructure and Communities"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Souverainet\u00e9 dans l'Arctique",
+      "title_en": "Arctic Sovereignty",
       "start_date": "2007-09-27",
+      "title_fr": "Souverainet\u00e9 dans l'Arctique",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Arctic Sovereignty"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Northern Affairs",
+      "start_date": "2006-02-14",
       "title_fr": "Affaires du Nord",
-      "start_date": "2006-02-14",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Northern Affairs"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Northern Development",
+      "start_date": "2006-02-14",
       "title_fr": "Mise en valeur du Nord",
-      "start_date": "2006-02-14",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Northern Development"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires rurales",
+      "title_en": "Rural Affairs",
       "start_date": "2006-02-14",
+      "title_fr": "Affaires rurales",
       "end_date": "2007-09-26",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Rural Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "\u00c9nergie",
+      "title_en": "Energy",
       "start_date": "2006-02-14",
+      "title_fr": "\u00c9nergie",
       "end_date": "2008-11-16",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Energy"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
+      "name_en": "Legislative Committee on Bill C-30",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-30"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Administrator",
+      "name_fr": "Administrateur"
+    },
+    {
+      "name_en": "Businessman",
+      "name_fr": "G\u00e9rant"
+    },
+    {
+      "name_en": "Manager",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 79025,
+  "name": "Dennis Fraser Bevington",
   "contact_info": {
     "parliament": {
       "email": "Bevington.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-4587",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-4587",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-1586",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "bevind1@parl.gc.ca",
       "postal_code": "X1A 2P5",
+      "city_en": "Yellowknife",
       "city_fr": "Yellowknife",
       "province_en": "Northwest Territories",
+      "telephone": "867-873-6995",
       "province_fr": "Territoires du Nord-Ouest",
       "street_address_en": "4908  49th Street P.O. Box 1986",
-      "telephone": "867-873-6995",
-      "street_address_fr": "4908,  49e Rue\r\nCase postale 1986",
-      "city_en": "Yellowknife"
+      "street_address_fr": "4908,  49e Rue\r\nCase postale 1986"
     }
   },
-  "name": "Dennis Fraser Bevington",
   "date_of_birth": "1953-03-27",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Western Arctic",
       "election_date": "2008-10-14",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Western Arctic",
-      "riding_fr": "Western Arctic"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "2006-01-23",
       "result_fr": "\u00c9lu",
-      "riding_en": "Western Arctic",
-      "riding_fr": "Western Arctic"
+      "riding_en": "Western Arctic"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Western Arctic",
+      "election_date": "2006-01-23",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Western Arctic"
+    },
+    {
+      "riding_fr": "Western Arctic",
       "election_date": "2004-06-28",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Western Arctic",
-      "riding_fr": "Western Arctic"
+      "riding_en": "Western Arctic"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Western Arctic",
       "election_date": "2000-11-27",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Western Arctic",
-      "riding_fr": "Western Arctic"
+      "riding_en": "Western Arctic"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Fort Smith, Territoires du Nord-Ouest, Canada",
-    "name_en": "Fort Smith, Northwest Territories, Canada"
+    "name_en": "Fort Smith, Northwest Territories, Canada",
+    "name_fr": "Fort Smith, Territoires du Nord-Ouest, Canada"
   },
+  "id": "d00c3703-619a-496a-8369-0e113da41c9f",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2000-11-27",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "d00c3703-619a-496a-8369-0e113da41c9f",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79025&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79025&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/dennisbevington",
-      "url_fr": "http://www.npd.ca/dennisbevington",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.dennisbevington.ca/",
-      "url_fr": "http://www.dennisbevington.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

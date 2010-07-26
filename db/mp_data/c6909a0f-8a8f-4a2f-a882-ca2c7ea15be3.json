@@ -1,540 +1,557 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Propri\u00e9taire de campagne",
-      "name_en": "Country gentleman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78886&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78886&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/peterstoffer",
+      "url_fr": "http://www.npd.ca/peterstoffer"
     }
   ],
-  "parlinfo_id": 78886,
   "functions": [
     {
-      "title_fr": "Anciens combattants",
+      "title_en": "Veterans Affairs",
       "start_date": "2004-07-22",
+      "title_fr": "Anciens combattants",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Veterans Affairs"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Seniors",
+      "start_date": "2004-07-22",
       "title_fr": "A\u00een\u00e9s",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Seniors"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Shipbuilding",
+      "start_date": "2004-07-22",
       "title_fr": "Construction navale",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Shipbuilding"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Sport",
+      "start_date": "2004-07-22",
       "title_fr": "Sport",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Sport"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "National Parks",
+      "start_date": "2003-02-04",
       "title_fr": "Parcs nationaux",
-      "start_date": "2003-02-04",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Parks"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Natural Resources",
+      "start_date": "2003-02-04",
       "title_fr": "Ressources naturelles",
-      "start_date": "2003-02-04",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Tourism",
+      "start_date": "2003-02-04",
       "title_fr": "Tourisme",
-      "start_date": "2003-02-04",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Tourism"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "National Defence",
+      "start_date": "2001-01-23",
       "title_fr": "Anciens combattants",
-      "start_date": "2001-01-23",
       "end_date": "2003-02-03",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Defence"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Veterans Affairs",
+      "start_date": "2001-01-23",
       "title_fr": "D\u00e9fense nationale",
-      "start_date": "2001-01-23",
       "end_date": "2003-02-03",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Veterans Affairs"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Regional Development",
+      "start_date": "2001-01-23",
       "title_fr": "D\u00e9veloppement r\u00e9gional",
-      "start_date": "2001-01-23",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Regional Development"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Rural Development",
+      "start_date": "2001-01-23",
       "title_fr": "D\u00e9veloppement rural",
-      "start_date": "2001-01-23",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Rural Development"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique",
+      "title_en": "Atlantic Canada Opportunities Agency",
       "start_date": "2000-01-26",
+      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique",
       "end_date": "2003-02-03",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Atlantic Canada Opportunities Agency"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Fisheries and Oceans",
+      "start_date": "1998-03-27",
       "title_fr": "P\u00eaches et Oc\u00e9ans",
-      "start_date": "1998-03-27",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Fisheries and Oceans"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Soci\u00e9t\u00e9 canadienne des postes",
+      "title_en": "Canada Post Corporation",
       "start_date": "1998-03-27",
+      "title_fr": "Soci\u00e9t\u00e9 canadienne des postes",
       "end_date": "2000-01-25",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canada Post Corporation"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Construction navale",
+      "title_en": "Shipbuilding",
       "start_date": "2006-02-13",
+      "title_fr": "Construction navale",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Shipbuilding"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
       "parliament": 40,
-      "session": 2,
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Veterans Affairs"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Veterans Affairs"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 39,
-      "session": 1,
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Veterans Affairs"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 38,
-      "session": 1,
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Fisheries and Oceans"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 38,
-      "session": 1,
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 37,
-      "session": 2,
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Fisheries and Oceans"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 40,
-      "session": 3,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
-    },
-    {
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des anciens combattants",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "session": 3,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs"
-    },
-    {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 39,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "session": 2,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "session": 2,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
+    },
+    {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "session": 1,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
+    },
+    {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 39,
       "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 39,
       "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 38,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 38,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 38,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 2,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
+    },
+    {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
+      "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 37,
-      "session": 3,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs"
-    },
-    {
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique",
-      "parliament": 37,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-17, Public Safety Act"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
-    },
-    {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs"
-    },
-    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
-      "session": 1,
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 37,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on  Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 du progamme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 37,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
-      "parliament": 36,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 de l'aquaculture et de la Loi sur les oc\u00e9ans du Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
-      "parliament": 36,
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des anciens combattants",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
-      "parliament": 36,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Aquaculture and Oceans Act of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 36,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 36,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 3,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "session": 3,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 3,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
+      "parliament": 37,
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on  Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 du progamme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 36,
+      "name_fr": "Sous-comit\u00e9 de l'aquaculture et de la Loi sur les oc\u00e9ans du Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Aquaculture and Oceans Act of the Standing Committee on Fisheries and Oceans",
+      "parliament": 36,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 36,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1997-06-02",
+  "professions": [
+    {
+      "name_en": "Country gentleman",
+      "name_fr": "Propri\u00e9taire de campagne"
+    }
+  ],
+  "parlinfo_id": 78886,
+  "name": "Peter Arend Stoffer",
   "contact_info": {
     "parliament": {
       "email": "Stoffer.P@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-5822",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-5822",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "stoffp1@parl.gc.ca",
       "postal_code": "B2T 1W4",
+      "city_en": "Fall River",
       "city_fr": "Fall River",
       "province_en": "Nova Scotia",
+      "telephone": "902-861-2311",
       "province_fr": "Nouvelle-\u00c9cosse",
       "street_address_en": "2900 Highway 2",
-      "telephone": "902-861-2311",
-      "street_address_fr": "2900, route  2",
-      "city_en": "Fall River"
+      "street_address_fr": "2900, route  2"
     }
   },
-  "name": "Peter Arend Stoffer",
   "date_of_birth": "1956-01-06",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Sackville--Eastern Shore",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Sackville--Eastern Shore",
-      "riding_fr": "Sackville--Eastern Shore"
+      "riding_en": "Sackville--Eastern Shore"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Sackville--Eastern Shore",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Sackville--Eastern Shore",
-      "riding_fr": "Sackville--Eastern Shore"
+      "riding_en": "Sackville--Eastern Shore"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Sackville--Eastern Shore",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Sackville--Eastern Shore",
-      "riding_fr": "Sackville--Eastern Shore"
+      "riding_en": "Sackville--Eastern Shore"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Sackville--Musquodoboit Valley--Eastern Shore",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Sackville--Musquodoboit Valley--Eastern Shore",
-      "riding_fr": "Sackville--Musquodoboit Valley--Eastern Shore"
+      "riding_en": "Sackville--Musquodoboit Valley--Eastern Shore"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Sackville--Eastern Shore",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Sackville--Eastern Shore",
-      "riding_fr": "Sackville--Eastern Shore"
+      "riding_en": "Sackville--Eastern Shore"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Heerlen, Limburg, Pays-Bas",
-    "name_en": "Heerlen, Limburg, Netherlands"
+    "name_en": "Heerlen, Limburg, Netherlands",
+    "name_fr": "Heerlen, Limburg, Pays-Bas"
   },
+  "id": "c6909a0f-8a8f-4a2f-a882-ca2c7ea15be3",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "1997-06-02",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "c6909a0f-8a8f-4a2f-a882-ca2c7ea15be3",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78886&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78886&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/peterstoffer",
-      "url_fr": "http://www.npd.ca/peterstoffer",
-      "name_en": "Party Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

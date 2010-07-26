@@ -1,124 +1,125 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Adjointe politique",
-      "name_en": "Communications officer"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128525&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128525&Language=F"
     },
     {
-      "name_fr": "Agente de communications",
-      "name_en": "Political assistant"
+      "name_en": "Party Website",
+      "name_fr": "Site du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/16958_alexandra-mendes",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/16958_alexandra-mendes"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://alexandramendes.liberal.ca/default.aspx",
+      "url_fr": "http://alexandramendes.liberal.ca/fr/default.aspx"
     }
   ],
-  "parlinfo_id": 128525,
   "functions": [
     {
-      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
       "start_date": "2009-01-22",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Economic Development Agency of Canada for the Regions of Quebec"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Citizenship and Immigration",
+      "start_date": "2008-11-14",
       "title_fr": "Citoyennet\u00e9 et Immigration",
-      "start_date": "2008-11-14",
       "end_date": "2009-01-21",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Citizenship and Immigration"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Multiculturalisme",
+      "title_en": "Multiculturalism",
       "start_date": "2008-11-14",
+      "title_fr": "Multiculturalisme",
       "end_date": "2009-01-21",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Multiculturalism"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
+      "name_en": "Standing Committee on Justice and Human Rights",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "name_en": "Standing Committee on Citizenship and Immigration",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Communications officer",
+      "name_fr": "Adjointe politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Agente de communications"
+    }
+  ],
+  "parlinfo_id": 128525,
+  "name": "Alexandra Mendes",
   "contact_info": {
     "parliament": {
       "email": "Mendes.A@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-9301",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-9301",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "Mendea@parl.gc.ca",
       "postal_code": "J4Y 1A2",
+      "city_en": "Brossard",
       "city_fr": "Brossard",
       "province_en": "Quebec",
+      "telephone": "450-466-6872",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "7505 Taschereau Boulevard, Suite 102",
-      "telephone": "450-466-6872",
-      "street_address_fr": "7505, boulevard Taschereau, bureau 102",
-      "city_en": "Brossard"
+      "street_address_fr": "7505, boulevard Taschereau, bureau 102"
     }
   },
-  "name": "Alexandra Mendes",
   "date_of_birth": "1963-11-03",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Brossard--La Prairie",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Brossard--La Prairie",
-      "riding_fr": "Brossard--La Prairie"
+      "riding_en": "Brossard--La Prairie"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Lisbonne, Portugal",
-    "name_en": "Lisbon, Portugal"
+    "name_en": "Lisbon, Portugal",
+    "name_fr": "Lisbonne, Portugal"
   },
+  "id": "3ff878ad-e5c8-4b69-83cc-70922b56fe89",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "French",
-  "id": "3ff878ad-e5c8-4b69-83cc-70922b56fe89",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128525&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128525&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/16958_alexandra-mendes",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/16958_alexandra-mendes",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://alexandramendes.liberal.ca/default.aspx",
-      "url_fr": "http://alexandramendes.liberal.ca/fr/default.aspx",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

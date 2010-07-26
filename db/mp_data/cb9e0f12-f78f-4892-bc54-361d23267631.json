@@ -1,154 +1,155 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "Department Website (1)",
+      "name_fr": "Site Web du minist\u00e8re (1)",
+      "url_en": "http://www.nrcan-rncan.gc.ca/com/deptmini/minmin/minmin-biobio-eng.php",
+      "url_fr": "http://www.nrcan-rncan.gc.ca/com/deptmini/minmin/minmin-biobio-fra.php"
+    },
+    {
+      "name_en": "Department Website (2)",
+      "name_fr": "Site Web du minist\u00e8re (2)",
+      "url_en": "http://www.dec-ced.gc.ca/eng/ministers/minister/minister.html",
+      "url_fr": "http://www.dec-ced.gc.ca/fra/ministres/ministre/ministre.html"
+    },
+    {
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78413&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78413&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65161",
+      "url_fr": "http://www.conservative.ca/FR/4568/65163"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.christianparadis.com/EN/6977/",
+      "url_fr": "http://www.christianparadis.com"
     }
   ],
-  "parlinfo_id": 78413,
   "functions": [
     {
-      "title_fr": "Ministre des Ressources naturelles",
+      "title_en": "Minister of Natural Resources",
       "start_date": "2010-01-19",
+      "title_fr": "Ministre des Ressources naturelles",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Natural Resources"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre des Travaux publics et des Services gouvernementaux",
+      "title_en": "Minister of Public Works and Government Services",
       "start_date": "2008-06-25",
+      "title_fr": "Ministre des Travaux publics et des Services gouvernementaux",
       "end_date": "2010-01-18",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Public Works and Government Services"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Secr\u00e9taire d'\u00c9tat (Agriculture)",
+      "title_en": "Secretary of State (Agriculture)",
       "start_date": "2007-01-04",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Agriculture)",
       "end_date": "2008-10-29",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Secretary of State (Agriculture)"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Qu\u00e9bec",
+      "title_en": "Quebec",
       "start_date": "2008-10-30",
+      "title_fr": "Qu\u00e9bec",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "Quebec"
+      "role_fr": "Ministre r\u00e9gional"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources naturelles",
+      "title_en": "Parliamentary Secretary to the Minister of Natural Resources",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Ressources naturelles",
       "end_date": "2007-01-03",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Natural Resources"
+      "role_fr": "Secr\u00e9taire parlementaire"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
+      "name_en": "Legislative Committee on Bill C-30",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-30"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 78413,
+  "name": "Christian Paradis",
   "contact_info": {
     "parliament": {
       "email": "Paradis.C@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-1377",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-1377",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "G6G 6K8",
+      "city_en": "Thetford Mines",
       "city_fr": "Thetford Mines",
       "province_en": "Quebec",
+      "telephone": "418-338-2903",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "1313 Frontenac Boulevard West, Suite 1",
-      "telephone": "418-338-2903",
-      "street_address_fr": "1313, boulevard Frontenac Ouest, bureau 1",
       "fax": "418-338-3631",
-      "city_en": "Thetford Mines"
+      "street_address_fr": "1313, boulevard Frontenac Ouest, bureau 1"
     }
   },
-  "name": "Christian Paradis",
   "date_of_birth": "1974-01-01",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "M\u00e9gantic--L'\u00c9rable",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "M\u00e9gantic--L'\u00c9rable",
-      "riding_fr": "M\u00e9gantic--L'\u00c9rable"
+      "riding_en": "M\u00e9gantic--L'\u00c9rable"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "M\u00e9gantic--L'\u00c9rable",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "M\u00e9gantic--L'\u00c9rable",
-      "riding_fr": "M\u00e9gantic--L'\u00c9rable"
+      "riding_en": "M\u00e9gantic--L'\u00c9rable"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Thetford Mines, Qu\u00e9bec, Canada",
-    "name_en": "Thetford Mines, Quebec, Canada"
+    "name_en": "Thetford Mines, Quebec, Canada",
+    "name_fr": "Thetford Mines, Qu\u00e9bec, Canada"
   },
+  "id": "cb9e0f12-f78f-4892-bc54-361d23267631",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "French",
-  "id": "cb9e0f12-f78f-4892-bc54-361d23267631",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re (1)",
-      "url_en": "http://www.nrcan-rncan.gc.ca/com/deptmini/minmin/minmin-biobio-eng.php",
-      "url_fr": "http://www.nrcan-rncan.gc.ca/com/deptmini/minmin/minmin-biobio-fra.php",
-      "name_en": "Department Website (1)"
-    },
-    {
-      "name_fr": "Site Web du minist\u00e8re (2)",
-      "url_en": "http://www.dec-ced.gc.ca/eng/ministers/minister/minister.html",
-      "url_fr": "http://www.dec-ced.gc.ca/fra/ministres/ministre/ministre.html",
-      "name_en": "Department Website (2)"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78413&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78413&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65161",
-      "url_fr": "http://www.conservative.ca/FR/4568/65163",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.christianparadis.com/EN/6977/",
-      "url_fr": "http://www.christianparadis.com",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

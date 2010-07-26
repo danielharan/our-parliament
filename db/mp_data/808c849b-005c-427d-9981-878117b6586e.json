@@ -1,427 +1,427 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Expert-conseil en ressources humaines",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78557&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78557&Language=F"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Human resources consultant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=1353",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=1353"
     }
   ],
-  "parlinfo_id": 78557,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Industrie",
+      "title_en": "Parliamentary Secretary to the Minister of Industry",
       "start_date": "1999-09-01",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Industrie",
       "end_date": "2001-09-12",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Industry"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "D\u00e9fense nationale",
+      "title_en": "National Defence",
       "start_date": "2006-02-23",
+      "title_fr": "D\u00e9fense nationale",
       "end_date": "2007-01-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "National Defence"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 38,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
-      "parliament": 38,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et anciens combattants",
-      "parliament": 38,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
+      "name_en": "Standing Committee on National Defence",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on National Defence"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
+      "name_en": "Standing Committee on National Defence",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on National Defence"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
+      "name_en": "Standing Committee on National Defence",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on National Defence",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 de la d\u00e9fense nationale",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 de Liaison",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des transports",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et anciens combattants",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce internation",
-      "parliament": 37,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports",
-      "parliament": 37,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Marine Transportation of the Standing Committee on Transport",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 sur le transport maritime du Comit\u00e9 permanent des transports",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Marine Transportation of the Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des transports",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport and Government Operations",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des transports et des op\u00e9rations gouvernementales",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport and Government Operations"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent de l'industrie",
-      "parliament": 36,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of  the Standing Committee on Industry",
+      "parliament": 36,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie",
-      "parliament": 36,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of  the Standing Committee on Industry"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
-      "parliament": 36,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des transports",
-      "parliament": 36,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des affaires des anciens combattants",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des affaires des anciens combattants",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des affaires des anciens combattants",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1993-10-25",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Expert-conseil en ressources humaines"
+    },
+    {
+      "name_en": "Human resources consultant",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 78557,
+  "name": "John Cannis",
   "contact_info": {
     "parliament": {
       "email": "Cannis.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-6823",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-6823",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-943-1045",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "M1P 4Z8",
+      "city_en": "Scarborough",
       "city_fr": "Scarborough",
       "province_en": "Ontario",
+      "telephone": "416-752-2358",
       "province_fr": "Ontario",
       "street_address_en": "1450 Midland Avenue, Suite 211",
-      "telephone": "416-752-2358",
-      "street_address_fr": "1450, avenue Midland, bureau 211",
       "fax": "416-752-4624",
-      "city_en": "Scarborough"
+      "street_address_fr": "1450, avenue Midland, bureau 211"
     }
   },
-  "name": "John Cannis",
   "date_of_birth": "1951-11-04",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough-Centre",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough Centre",
-      "riding_fr": "Scarborough-Centre"
+      "riding_en": "Scarborough Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough-Centre",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough Centre",
-      "riding_fr": "Scarborough-Centre"
+      "riding_en": "Scarborough Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough-Centre",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough Centre",
-      "riding_fr": "Scarborough-Centre"
+      "riding_en": "Scarborough Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough-Centre",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough Centre",
-      "riding_fr": "Scarborough-Centre"
+      "riding_en": "Scarborough Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough-Centre",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough Centre",
-      "riding_fr": "Scarborough-Centre"
+      "riding_en": "Scarborough Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough-Centre",
       "election_date": "1993-10-25",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough Centre",
-      "riding_fr": "Scarborough-Centre"
+      "riding_en": "Scarborough Centre"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Kalymnos, Gr\u00e8ce",
-    "name_en": "Kalymnos, Greece"
+    "name_en": "Kalymnos, Greece",
+    "name_fr": "Kalymnos, Gr\u00e8ce"
   },
+  "id": "808c849b-005c-427d-9981-878117b6586e",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "1993-10-25",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "808c849b-005c-427d-9981-878117b6586e",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78557&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78557&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/members_e.aspx?id=1353",
-      "url_fr": "http://www.liberal.ca/members_f.aspx?id=1353",
-      "name_en": "Party Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

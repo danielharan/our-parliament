@@ -1,120 +1,121 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Analyste des syst\u00e8mes de gestion",
-      "name_en": "Business analyst"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128328&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128328&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1513",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1513&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.benlobb.com/index.html",
+      "url_fr": "http://www.benlobb.com/index.html"
     }
   ],
-  "parlinfo_id": 128328,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Business analyst",
+      "name_fr": "Analyste des syst\u00e8mes de gestion"
+    }
+  ],
+  "parlinfo_id": 128328,
+  "name": "Ben Lobb",
   "contact_info": {
     "parliament": {
       "email": "Lobb.B@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-8234",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-8234",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "N0H 2C5",
+      "city_en": "Port Elgin",
       "city_fr": "Port Elgin",
       "province_en": "Ontario",
+      "telephone": "519-832-2999",
       "province_fr": "Ontario",
       "street_address_en": "5101 Highway 21 South\r\nBox 9, Site 4",
-      "telephone": "519-832-2999",
-      "street_address_fr": "5101, autoroute 21 Sud\r\nBo\u00eete 9, site 4",
-      "city_en": "Port Elgin"
+      "street_address_fr": "5101, autoroute 21 Sud\r\nBo\u00eete 9, site 4"
     }
   },
-  "name": "Ben Lobb",
   "date_of_birth": "1976-09-10",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Huron--Bruce",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Huron--Bruce",
-      "riding_fr": "Huron--Bruce"
+      "riding_en": "Huron--Bruce"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Huron--Bruce",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Huron--Bruce",
-      "riding_fr": "Huron--Bruce"
+      "riding_en": "Huron--Bruce"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Huron, Ontario, Canada",
-    "name_en": "Huron, Ontario, Canada"
+    "name_en": "Huron, Ontario, Canada",
+    "name_fr": "Huron, Ontario, Canada"
   },
+  "id": "37385e96-15e4-49cd-9b92-9932c96e0f69",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "37385e96-15e4-49cd-9b92-9932c96e0f69",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128328&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128328&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1513",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1513&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.benlobb.com/index.html",
-      "url_fr": "http://www.benlobb.com/index.html",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

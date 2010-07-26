@@ -1,110 +1,111 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Agriculteur",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128539&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128539&Language=F"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Farmer"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1697",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1697&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.randyhobackmp.ca/",
+      "url_fr": "http://www.randyhobackmp.ca/"
     }
   ],
-  "parlinfo_id": 128539,
   "functions": [
 
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Agriculteur"
+    },
+    {
+      "name_en": "Farmer",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 128539,
+  "name": "Randy Hoback",
   "contact_info": {
     "parliament": {
       "email": "Hoback.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-3295",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-3295",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "hobacr1@parl.gc.ca",
       "postal_code": "S6V 1G1",
+      "city_en": "Prince Albert",
       "city_fr": "Prince Albert",
       "province_en": "Saskatchewan",
+      "telephone": "306-953-8622",
       "province_fr": "Saskatchewan",
       "street_address_en": "137-15th Street East",
-      "telephone": "306-953-8622",
-      "street_address_fr": "137, 15e Rue Est",
-      "city_en": "Prince Albert"
+      "street_address_fr": "137, 15e Rue Est"
     }
   },
-  "name": "Randy Hoback",
   "date_of_birth": "1967-12-19",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Prince Albert",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Prince Albert",
-      "riding_fr": "Prince Albert"
+      "riding_en": "Prince Albert"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Prince Albert, Saskatchewan, Canada",
-    "name_en": "Prince Albert, Saskatchewan, Canada"
+    "name_en": "Prince Albert, Saskatchewan, Canada",
+    "name_fr": "Prince Albert, Saskatchewan, Canada"
   },
+  "id": "b15d7c05-f054-45fe-804e-54d178f2d3b4",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "b15d7c05-f054-45fe-804e-54d178f2d3b4",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128539&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128539&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1697",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1697&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.randyhobackmp.ca/",
-      "url_fr": "http://www.randyhobackmp.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

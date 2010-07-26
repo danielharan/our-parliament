@@ -1,130 +1,131 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Directeur - banque alimentaire",
-      "name_en": "Food bank director"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/17116_gerard-kennedy",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/17116_gerard-kennedy"
     },
     {
-      "name_fr": "Professeur",
-      "name_en": "Professor"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (disponible en anglais seulement)",
+      "url_en": "http://www.gerardkennedy.ca/",
+      "url_fr": "http://www.gerardkennedy.ca/"
+    },
+    {
+      "name_en": "Legislative Assembly of Ontario Website",
+      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
+      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=53",
+      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=53"
     }
   ],
   "functions": [
     {
+      "title_en": "Cities",
+      "start_date": "2009-01-22",
       "title_fr": "Infrastructure et Collectivit\u00e9s",
-      "start_date": "2009-01-22",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Cities"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Infrastructure and Communities",
+      "start_date": "2009-01-22",
       "title_fr": "Villes",
-      "start_date": "2009-01-22",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Infrastructure and Communities"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Industrie",
+      "title_en": "Industry",
       "start_date": "2008-11-14",
+      "title_fr": "Industrie",
       "end_date": "2009-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Industry"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires intergouvernementales",
+      "title_en": "Intergovernmental Affairs",
       "start_date": "2008-03-31",
+      "title_fr": "Affaires intergouvernementales",
       "end_date": "2008-11-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Intergovernmental Affairs"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Food bank director",
+      "name_fr": "Directeur - banque alimentaire"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "Professeur"
+    }
+  ],
+  "name": "Gerard Kennedy",
   "contact_info": {
     "parliament": {
       "email": "Kennedy.G@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-2936",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-2936",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "M6P 1Y6",
+      "city_en": "Toronto",
       "city_fr": "Toronto",
       "province_en": "Ontario",
+      "telephone": "416-769-5072",
       "province_fr": "Ontario",
       "street_address_en": "2849 Dundas Street West",
-      "telephone": "416-769-5072",
-      "street_address_fr": "2849, rue Dundas Ouest",
       "fax": "416-769-8343",
-      "city_en": "Toronto"
+      "street_address_fr": "2849, rue Dundas Ouest"
     }
   },
-  "name": "Gerard Kennedy",
   "date_of_birth": "1960-07-24",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Parkdale--High Park",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Parkdale--High Park",
-      "riding_fr": "Parkdale--High Park"
+      "riding_en": "Parkdale--High Park"
     }
   ],
   "place_of_birth": {
-    "name_fr": "The Pas, Manitoba, Canada",
-    "name_en": "The Pas, Manitoba, Canada"
+    "name_en": "The Pas, Manitoba, Canada",
+    "name_fr": "The Pas, Manitoba, Canada"
   },
+  "id": "de0d1a01-f241-4e1c-930d-625cf9087947",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2006-04-05",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "de0d1a01-f241-4e1c-930d-625cf9087947",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/17116_gerard-kennedy",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/17116_gerard-kennedy",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (disponible en anglais seulement)",
-      "url_en": "http://www.gerardkennedy.ca/",
-      "url_fr": "http://www.gerardkennedy.ca/",
-      "name_en": "Personal Website"
-    },
-    {
-      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
-      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=53",
-      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=53",
-      "name_en": "Legislative Assembly of Ontario Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

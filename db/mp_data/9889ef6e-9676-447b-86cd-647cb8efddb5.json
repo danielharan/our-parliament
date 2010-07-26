@@ -1,168 +1,168 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78435&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78435&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1587&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1587&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.deandelmastro.ca/",
+      "url_fr": "http://www.deandelmastro.ca/"
     }
   ],
-  "parlinfo_id": 78435,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre du Patrimoine canadien",
+      "title_en": "Parliamentary Secretary to the Minister of Canadian Heritage",
       "start_date": "2008-11-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre du Patrimoine canadien",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Canadian Heritage"
+      "role_fr": "Secr\u00e9taire parlementaire"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 39,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 39,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent des finances",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Finance",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
+      "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des finances",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 78435,
+  "name": "Dean Del Mastro",
   "contact_info": {
     "parliament": {
       "email": "DelMastro.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-6411",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-6411",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-9800",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "K9J 7C7",
+      "city_en": "Peterborough",
       "city_fr": "Peterborough",
       "province_en": "Ontario",
+      "telephone": "705-745-2108",
       "province_fr": "Ontario",
       "street_address_en": "1600 Lansdowne Street West, Unit 3",
-      "telephone": "705-745-2108",
-      "street_address_fr": "1600 rue Lansdowne Ouest, unit\u00e9 3",
       "fax": "705-741-4123",
-      "city_en": "Peterborough"
+      "street_address_fr": "1600 rue Lansdowne Ouest, unit\u00e9 3"
     }
   },
-  "name": "Dean Del Mastro",
   "date_of_birth": "1970-08-16",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Peterborough",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Peterborough",
-      "riding_fr": "Peterborough"
+      "riding_en": "Peterborough"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Peterborough",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Peterborough",
-      "riding_fr": "Peterborough"
+      "riding_en": "Peterborough"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Peterborough, Ontario, Canada",
-    "name_en": "Peterborough, Ontario, Canada"
+    "name_en": "Peterborough, Ontario, Canada",
+    "name_fr": "Peterborough, Ontario, Canada"
   },
+  "id": "9889ef6e-9676-447b-86cd-647cb8efddb5",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "9889ef6e-9676-447b-86cd-647cb8efddb5",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78435&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78435&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1587&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1587&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.deandelmastro.ca/",
-      "url_fr": "http://www.deandelmastro.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

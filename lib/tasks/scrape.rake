@@ -1,3 +1,8 @@
+require 'open-uri'
+require 'hpricot'
+
+USER_AGENT = "Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.4) Gecko/20100513 Firefox/3.6.4"
+
 def between(min, max)
   min + rand((max - min) * 1_000) / 1_000
 end
@@ -21,6 +26,25 @@ def scrape_vote(parliament, session, number)
       mp.recorded_votes.create :vote => vote, :stance => member.recorded_vote
     end
   end
+  
+  scrape_legisinfo(vote)
+end
+
+def scrape_legisinfo(vote)
+  voting_record = Confidence::Vote.fetch :parliament => vote.parliament, :session => vote.session, :number => vote.number
+  vote.bill_number = voting_record.bill ? voting_record.bill.number : nil
+  if vote.bill_number
+    feed_url = "http://www2.parl.gc.ca/Sites/LOP/LEGISINFO/RSSFeeds.asp?parlNumber=#{vote.parliament}&session=#{vote.session}&chamber=C&billNumber=#{vote.bill_number[2..-1]}&billLetter=&language=E"
+    open(feed_url) { |src|
+      content = src.read
+      id_pattern = Regexp.new('http://www2\.parl\.gc\.ca/Sites/LOP/LEGISINFO/index\.asp\?Language=E&amp;query=(\d+)&amp;Session=\d+&amp;List=toc', Regexp::IGNORECASE | Regexp::MULTILINE)
+      id_matches = id_pattern.match(content)
+      if id_matches != nil
+        vote.legisinfo_bill_id = id_matches[1].to_i
+      end
+    }
+  end
+  vote.save
 end
 
 namespace :scrape do
@@ -106,5 +130,66 @@ namespace :scrape do
         sleep between(1, 3)
       end
     end
+  end
+  
+  desc "update legisinfo ids for all votes"
+  task :legisinfo_vote => :environment do
+    parliament = ENV["PARLIAMENT"] || Vote.maximum(:parliament)
+    session    = ENV["SESSION"]    || Vote.maximum(:session, :conditions => {:parliament => parliament })
+    #Vote.find_all_by_parliament_and_session(parliament, session).each { |vote|
+    Vote.all.each { |vote|
+       scrape_legisinfo(vote)
+    }
+  end
+  
+  desc "update committee acronyms"
+  task :committee_acronyms => :environment do
+    parliament = ENV["PARLIAMENT"] || Vote.maximum(:parliament)
+    session    = ENV["SESSION"]    || Vote.maximum(:session, :conditions => {:parliament => parliament })
+    url = "http://www2.parl.gc.ca/CommitteeBusiness/CommitteeList.aspx?Language=E&Mode=1&Parl=#{parliament}&Ses=#{session}"
+    open(url, "User-Agent" => USER_AGENT) { |src|
+      content = src.read
+      doc = Hpricot(content)
+      doc.search("ul.CommitteeListItem li.CommitteeItem").each { |committee_list|
+        committee_name = committee_list.at("span.CommitteeItemText a").inner_text.strip
+        if committee_name =~ /^(.+)\(([A-Z,\d]+)\)$/
+          committee_name = $1.strip
+          acronym = $2
+          if committee_name == "Liaison"
+            full_committee_name = "Liaison Committee"
+          elsif committee_name =~ /^Bill.+/
+            full_committee_name = "Legislative Committee on " + committee_name
+          else
+            full_committee_name = "Standing Committee on " + committee_name
+          end
+          committee = Committee.find_by_name_en(full_committee_name)
+          if not committee
+            committee = Committee.find_by_name_en("Standing Committee on the " + committee_name)
+          end
+          if committee
+            committee.acronym = acronym
+            committee.save
+          else
+            puts "Couldn't find " + full_committee_name
+          end
+        end
+        if committee
+          committee_list.search("ul.SubcommitteeListItem").each { |subcommittee_list|
+            subcommittee_name = subcommittee_list.at("span.SubCommitteeItemText a").inner_text.strip
+            if subcommittee_name =~ /^(.+)\(([A-Z,\d]+)\)$/
+              subcommittee_name = $1.strip
+              acronym = $2
+              full_subcommittee_name = subcommittee_name + " of the " + full_committee_name
+              subcommittee = Committee.find_by_name_en(full_subcommittee_name)
+              if subcommittee
+                subcommittee.subcommittee_of = committee.id
+                subcommittee.acronym = acronym
+                subcommittee.save
+              end
+            end
+          }
+        end
+      }
+    }
   end
 end

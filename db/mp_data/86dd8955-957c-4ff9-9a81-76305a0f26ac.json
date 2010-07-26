@@ -1,224 +1,223 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Dirigeant syndical",
-      "name_en": "Labour and social activist"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78922&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78922&Language=F"
     },
     {
-      "name_fr": "Enseignant",
-      "name_en": "Teacher"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/pauldewar",
+      "url_fr": "http://www.npd.ca/pauldewar"
     },
     {
-      "name_fr": "Militant syndical",
-      "name_en": "Union officer"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.pauldewar.ca/",
+      "url_fr": "http://www.pauldewar.ca/"
     }
   ],
-  "parlinfo_id": 78922,
   "functions": [
     {
+      "title_en": "Foreign Affairs",
+      "start_date": "2007-09-27",
       "title_fr": "Affaires \u00e9trang\u00e8res",
-      "start_date": "2007-09-27",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Foreign Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Commission de la Capitale nationale",
+      "title_en": "Crown Corporations",
       "start_date": "2006-02-14",
+      "title_fr": "Commission de la Capitale nationale",
       "end_date": "2007-09-26",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Crown Corporations"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "National Capital Commission",
+      "start_date": "2006-02-14",
       "title_fr": "Conseil du tr\u00e9sor",
-      "start_date": "2006-02-14",
       "end_date": "2007-09-26",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Capital Commission"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Treasury Board",
+      "start_date": "2006-02-14",
       "title_fr": "Corporations de la Couronne",
-      "start_date": "2006-02-14",
       "end_date": "2007-09-26",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Treasury Board"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Commission de la Capitale nationale",
+      "title_en": "National Capital Commission",
       "start_date": "2007-09-27",
+      "title_fr": "Commission de la Capitale nationale",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "National Capital Commission"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee of Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
+      "name_en": "Legislative Committee on Bill C-30",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-30"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Labour and social activist",
+      "name_fr": "Dirigeant syndical"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "Enseignant"
+    },
+    {
+      "name_en": "Union officer",
+      "name_fr": "Militant syndical"
+    }
+  ],
+  "parlinfo_id": 78922,
+  "name": "Paul Dewar",
   "contact_info": {
     "parliament": {
       "email": "Dewar.P@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-5322",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-5322",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-5323",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "pauldewar@ndp.ca",
       "postal_code": "K1Y 3B2",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-946-8682",
       "province_fr": "Ontario",
       "street_address_en": "1306 Wellington Street, Suite 304",
-      "telephone": "613-946-8682",
-      "street_address_fr": "1306, rue Wellington, bureau 304",
-      "fax": "613-946-8680",
-      "city_en": "Ottawa"
+      "street_address_fr": "1306, rue Wellington, bureau 304"
     }
   },
-  "name": "Paul Dewar",
   "date_of_birth": "1963-01-25",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Ottawa-Centre",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ottawa Centre",
-      "riding_fr": "Ottawa-Centre"
+      "riding_en": "Ottawa Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Ottawa-Centre",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ottawa Centre",
-      "riding_fr": "Ottawa-Centre"
+      "riding_en": "Ottawa Centre"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Ottawa, Ontario, Canada",
-    "name_en": "Ottawa, Ontario, Canada"
+    "name_en": "Ottawa, Ontario, Canada",
+    "name_fr": "Ottawa, Ontario, Canada"
   },
+  "id": "86dd8955-957c-4ff9-9a81-76305a0f26ac",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2006-01-23",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "86dd8955-957c-4ff9-9a81-76305a0f26ac",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78922&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78922&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/pauldewar",
-      "url_fr": "http://www.npd.ca/pauldewar",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.pauldewar.ca/",
-      "url_fr": "http://www.pauldewar.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

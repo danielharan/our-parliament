@@ -1,246 +1,247 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Enseignant",
-      "name_en": "Teacher"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78606&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78606&Language=F"
+    },
+    {
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=9d333397-e4ca-4de4-885a-e0ab9f8e940b",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=9d333397-e4ca-4de4-885a-e0ab9f8e940b"
     }
   ],
-  "parlinfo_id": 78606,
   "functions": [
     {
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
+      "start_date": "2007-01-23",
       "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
-      "start_date": "2007-01-23",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Economic Development Agency of Canada for the Regions of Quebec"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Regional Development",
+      "start_date": "2007-01-23",
       "title_fr": "D\u00e9veloppement r\u00e9gional",
-      "start_date": "2007-01-23",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Regional Development"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "P\u00eaches et Oc\u00e9ans",
+      "title_en": "Fisheries and Oceans",
       "start_date": "2002-06-27",
+      "title_fr": "P\u00eaches et Oc\u00e9ans",
       "end_date": "2006-09-12",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Fisheries and Oceans"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "P\u00eaches et Oc\u00e9ans",
+      "title_en": "Fisheries and Oceans",
       "start_date": "2000-12-20",
+      "title_fr": "P\u00eaches et Oc\u00e9ans",
       "end_date": "2002-06",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Fisheries and Oceans"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "name_en": "Standing Committee on Government Operations and Estimates",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
       "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2000-11-27",
+  "professions": [
+    {
+      "name_en": "Teacher",
+      "name_fr": "Enseignant"
+    }
+  ],
+  "parlinfo_id": 78606,
+  "name": "Jean-Yves Roy",
   "contact_info": {
     "parliament": {
       "email": "Roy.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-1013",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-1013",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "royje1@parl.gc.ca",
       "postal_code": "G4W 4G1",
+      "city_en": "Matane",
       "city_fr": "Matane",
       "province_en": "Quebec",
+      "telephone": "418-562-0343",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "309B Fournier Street",
-      "telephone": "418-562-0343",
-      "street_address_fr": "309B, rue Fournier",
-      "city_en": "Matane"
+      "street_address_fr": "309B, rue Fournier"
     }
   },
-  "name": "Jean-Yves Roy",
   "date_of_birth": "1949-07-21",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Haute-Gasp\u00e9sie--La Mitis--Matane--Matap\u00e9dia",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Haute-Gasp\u00e9sie--La Mitis--Matane--Matap\u00e9dia",
-      "riding_fr": "Haute-Gasp\u00e9sie--La Mitis--Matane--Matap\u00e9dia"
+      "riding_en": "Haute-Gasp\u00e9sie--La Mitis--Matane--Matap\u00e9dia"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Haute-Gasp\u00e9sie--La Mitis--Matane--Matap\u00e9dia",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Haute-Gasp\u00e9sie--La Mitis--Matane--Matap\u00e9dia",
-      "riding_fr": "Haute-Gasp\u00e9sie--La Mitis--Matane--Matap\u00e9dia"
+      "riding_en": "Haute-Gasp\u00e9sie--La Mitis--Matane--Matap\u00e9dia"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Matap\u00e9dia--Matane",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Matap\u00e9dia--Matane",
-      "riding_fr": "Matap\u00e9dia--Matane"
+      "riding_en": "Matap\u00e9dia--Matane"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Matap\u00e9dia--Matane",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Matap\u00e9dia--Matane",
-      "riding_fr": "Matap\u00e9dia--Matane"
+      "riding_en": "Matap\u00e9dia--Matane"
     }
   ],
   "place_of_birth": {
-    "name_fr": "St-Charles-Garnier, Qu\u00e9bec, Canada",
-    "name_en": "St-Charles-Garnier, Quebec, Canada"
+    "name_en": "St-Charles-Garnier, Quebec, Canada",
+    "name_fr": "St-Charles-Garnier, Qu\u00e9bec, Canada"
   },
+  "id": "3ac5f51b-2b78-4d2f-9bbc-09eda7eec8db",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2000-11-27",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "3ac5f51b-2b78-4d2f-9bbc-09eda7eec8db",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78606&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78606&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=9d333397-e4ca-4de4-885a-e0ab9f8e940b",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=9d333397-e4ca-4de4-885a-e0ab9f8e940b",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

@@ -1,342 +1,341 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Administrateur",
-      "name_en": "Administrator"
+      "name_en": "Department Website (1)",
+      "name_fr": "Site Web du minist\u00e8re (1)",
+      "url_en": "http://www.vac-acc.gc.ca/general/sub.cfm?source=department/department-officials/bio-min",
+      "url_fr": "http://www.vac-acc.gc.ca/renseignements/sub.cfm?source=ministere/fonctionnaires/biographie-ministre"
     },
     {
-      "name_fr": "G\u00e9rant",
-      "name_en": "Manager"
+      "name_en": "Department Website (2)",
+      "name_fr": "Site Web du minist\u00e8re (2)",
+      "url_en": "http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1203440670923&lang=e",
+      "url_fr": "http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1203440670923&lang=f"
     },
     {
-      "name_fr": "Professeur - coll\u00e8ge",
-      "name_en": "Professor - community college"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78609&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78609&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/64891",
+      "url_fr": "http://www.conservative.ca/FR/4568/64893"
+    },
+    {
+      "name_en": "Personal Website (Available in French only)",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.jeanpierreblackburn.com/",
+      "url_fr": "http://www.jeanpierreblackburn.com/"
     }
   ],
-  "parlinfo_id": 78609,
   "functions": [
     {
-      "title_fr": "Ministre des Anciens Combattants",
+      "title_en": "Minister of Veterans Affairs",
       "start_date": "2010-01-19",
+      "title_fr": "Ministre des Anciens Combattants",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Veterans Affairs"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre du Revenu national",
+      "title_en": "Minister of National Revenue",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre du Revenu national",
       "end_date": "2010-01-18",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of National Revenue"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Minister of Labour",
+      "start_date": "2006-02-06",
       "title_fr": "Ministre de l'Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
-      "start_date": "2006-02-06",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Labour"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Minister of the Economic Development Agency of Canada for the Regions of Quebec",
+      "start_date": "2006-02-06",
       "title_fr": "Ministre du Travail",
-      "start_date": "2006-02-06",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of the Economic Development Agency of Canada for the Regions of Quebec"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre d'\u00c9tat (Agriculture)",
+      "title_en": "Minister of State (Agriculture)",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre d'\u00c9tat (Agriculture)",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State (Agriculture)"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale",
+      "title_en": "Parliamentary Secretary to the Minister of National Defence",
       "start_date": "1993-09-01",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale",
       "end_date": "1993-10-26",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of National Defence"
+      "role_fr": "Secr\u00e9taire parlementaire"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent du travail, de l'emploi et de l'immigration",
+      "name_en": "Standing Committee on Labour, Employment and Immigration",
       "parliament": 34,
+      "name_fr": "Comit\u00e9 permanent du travail, de l'emploi et de l'immigration",
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Labour, Employment and Immigration"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Immigration of the Standing Committee on Labour, Employment and Immigration",
+      "parliament": 34,
       "name_fr": "Sous-comit\u00e9 de l'immigration du Comit\u00e9 permanent du travail, de l'emploi et de l'immigration",
-      "parliament": 34,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Immigration of the Standing Committee on Labour, Employment and Immigration"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Labour and Employment of the Standing Committee on Labour, Employment and Immigration",
+      "parliament": 34,
       "name_fr": "Sous-comit\u00e9 du travail et emploi du Comit\u00e9 permanent du travail, de l'emploi et de l'immigration",
-      "parliament": 34,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Labour and Employment of the Standing Committee on Labour, Employment and Immigration"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 34,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Labour, Employment and Immigration",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et de l'organisation",
-      "parliament": 33,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Labour, Employment and Immigration"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Procedure and Organization",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent du travail, de l'emploi et de l'immigration",
-      "parliament": 33,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Procedure and Organization"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Legislative Committee F on Bill C-10",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif F sur le projet de loi C-10",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee F on Bill C-10"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee F on Bill C-9",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif F sur le projet de loi C-9",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee F on Bill C-9"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-21",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-21",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-21"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-21",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-21",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-21"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Labour, Employment and Immigration",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 permanent du travail, de l'emploi et de l'immigration",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Labour, Employment and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-16",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-16",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-16"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Communications and Culture",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent des communications et de la culture",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Communications and Culture"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee G on Bill C-55",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif G sur le projet de loi C-55",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee G on Bill C-55"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-87",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-87",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-87"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Labour, Employment and Immigration",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et de l'organisation",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Labour, Employment and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Labour, Manpower and Immigration",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent des pr\u00e9visions budg\u00e9taires en g\u00e9n\u00e9ral",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Labour, Manpower and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Miscellaneous Estimates",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent du travail, de la main-d'oeuvre et de l'immigration",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Miscellaneous Estimates"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du travail, de l'emploi et de l'immigration",
+      "name_en": "Standing Committee on Procedure and Organization",
       "parliament": 33,
+      "name_fr": "Comit\u00e9 permanent du travail, de l'emploi et de l'immigration",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and Organization"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1996-12-03",
+  "professions": [
+    {
+      "name_en": "Administrator",
+      "name_fr": "Administrateur"
+    },
+    {
+      "name_en": "Manager",
+      "name_fr": "G\u00e9rant"
+    },
+    {
+      "name_en": "Professor - community college",
+      "name_fr": "Professeur - coll\u00e8ge"
+    }
+  ],
+  "parlinfo_id": 78609,
+  "name": "Jean-Pierre Blackburn",
   "contact_info": {
     "parliament": {
       "email": "Blackburn.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-4649",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-4649",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-952-6608",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "G7X 0A5",
+      "city_en": "Jonqui\u00e8re",
       "city_fr": "Jonqui\u00e8re",
       "province_en": "Quebec",
+      "telephone": "418-695-4477",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "3750 Du Royaume Boulevard, Suite 204",
-      "telephone": "418-695-4477",
-      "street_address_fr": "3750, boulevard du Royaume, bureau 204",
-      "fax": "418-695-4467",
-      "city_en": "Jonqui\u00e8re"
+      "street_address_fr": "3750, boulevard du Royaume, bureau 204"
     }
   },
-  "name": "Jean-Pierre Blackburn",
   "date_of_birth": "1948-07-06",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Jonqui\u00e8re--Alma",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Jonqui\u00e8re--Alma",
-      "riding_fr": "Jonqui\u00e8re--Alma"
+      "riding_en": "Jonqui\u00e8re--Alma"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Jonqui\u00e8re--Alma",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Jonqui\u00e8re--Alma",
-      "riding_fr": "Jonqui\u00e8re--Alma"
+      "riding_en": "Jonqui\u00e8re--Alma"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Jonqui\u00e8re",
       "election_date": "1993-10-25",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Jonqui\u00e8re",
-      "riding_fr": "Jonqui\u00e8re"
+      "riding_en": "Jonqui\u00e8re"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Jonqui\u00e8re",
       "election_date": "1988-11-21",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Jonqui\u00e8re",
-      "riding_fr": "Jonqui\u00e8re"
+      "riding_en": "Jonqui\u00e8re"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Jonqui\u00e8re",
       "election_date": "1984-09-04",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Jonqui\u00e8re",
-      "riding_fr": "Jonqui\u00e8re"
+      "riding_en": "Jonqui\u00e8re"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Jonqui\u00e8re, Qu\u00e9bec, Canada",
-    "name_en": "Jonqui\u00e8re, Quebec, Canada"
+    "name_en": "Jonqui\u00e8re, Quebec, Canada",
+    "name_fr": "Jonqui\u00e8re, Qu\u00e9bec, Canada"
   },
+  "id": "74df2965-5f3e-47af-8a91-cdf4d6e3f66a",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-02-02",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Parti progressiste-conservateur",
+      "name_en": "Progressive Conservative Party",
       "start_date": "1984-09-04",
-      "end_date": "2004-02-01",
-      "name_en": "Progressive Conservative Party"
-    }
-  ],
-  "language": "French",
-  "id": "74df2965-5f3e-47af-8a91-cdf4d6e3f66a",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re (1)",
-      "url_en": "http://www.vac-acc.gc.ca/general/sub.cfm?source=department/department-officials/bio-min",
-      "url_fr": "http://www.vac-acc.gc.ca/renseignements/sub.cfm?source=ministere/fonctionnaires/biographie-ministre",
-      "name_en": "Department Website (1)"
-    },
-    {
-      "name_fr": "Site Web du minist\u00e8re (2)",
-      "url_en": "http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1203440670923&lang=e",
-      "url_fr": "http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1203440670923&lang=f",
-      "name_en": "Department Website (2)"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78609&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78609&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/64891",
-      "url_fr": "http://www.conservative.ca/FR/4568/64893",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.jeanpierreblackburn.com/",
-      "url_fr": "http://www.jeanpierreblackburn.com/",
-      "name_en": "Personal Website (Available in French only)"
+      "name_fr": "Parti progressiste-conservateur",
+      "end_date": "2004-02-01"
     }
   ]
 }

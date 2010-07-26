@@ -1,91 +1,92 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145850&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145850&Language=F"
+    },
+    {
+      "name_en": "Personal Website (Available in French only)",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.bernardgenereux.com",
+      "url_fr": "http://www.bernardgenereux.com"
     }
   ],
-  "parlinfo_id": 145850,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "name_en": "Standing Committee on Official Languages",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2009-11-09",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 145850,
+  "name": "Bernard G\u00e9n\u00e9reux",
   "contact_info": {
     "parliament": {
       "email": "Genereux.B@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-0265",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-0265",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "G5R 4C2",
+      "city_en": "Rivi\u00e8re-du-Loup",
       "city_fr": "Rivi\u00e8re-du-Loup",
       "province_en": "Quebec",
+      "telephone": "418-868-1280",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "298 Armand Th\u00e9riault Boulevard",
-      "telephone": "418-868-1280",
-      "street_address_fr": "298, boulevard Armand Th\u00e9riault",
-      "city_en": "Rivi\u00e8re-du-Loup"
+      "street_address_fr": "298, boulevard Armand Th\u00e9riault"
     }
   },
-  "name": "Bernard G\u00e9n\u00e9reux",
   "date_of_birth": "1962-04-23",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Montmagny--L'Islet--Kamouraska--Rivi\u00e8re-du-Loup",
       "election_date": "2009-11-09",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Montmagny--L'Islet--Kamouraska--Rivi\u00e8re-du-Loup",
-      "riding_fr": "Montmagny--L'Islet--Kamouraska--Rivi\u00e8re-du-Loup"
+      "riding_en": "Montmagny--L'Islet--Kamouraska--Rivi\u00e8re-du-Loup"
     }
   ],
   "place_of_birth": {
-    "name_fr": "La Pocati\u00e8re, Qu\u00e9bec, Canada",
-    "name_en": "La Pocati\u00e8re, Quebec, Canada"
+    "name_en": "La Pocati\u00e8re, Quebec, Canada",
+    "name_fr": "La Pocati\u00e8re, Qu\u00e9bec, Canada"
   },
+  "id": "e179296b-086b-4072-9082-6795b9b0da4c",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2009-11-09",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "French",
-  "id": "e179296b-086b-4072-9082-6795b9b0da4c",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145850&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145850&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.bernardgenereux.com",
-      "url_fr": "http://www.bernardgenereux.com",
-      "name_en": "Personal Website (Available in French only)"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

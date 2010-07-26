@@ -1,323 +1,324 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78801&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78801&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/7632_geoff-regan",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/7632_geoff-regan"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.geoffregan.ca/",
+      "url_fr": "http://www.geoffregan.ca/"
     }
   ],
-  "parlinfo_id": 78801,
   "functions": [
     {
-      "title_fr": "Ministre des P\u00eaches et des Oc\u00e9ans",
+      "title_en": "Minister of Fisheries and Oceans",
       "start_date": "2003-12-12",
+      "title_fr": "Ministre des P\u00eaches et des Oc\u00e9ans",
       "end_date": "2006-02-05",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Fisheries and Oceans"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Nouvelle-\u00c9cosse",
+      "title_en": "Nova Scotia",
       "start_date": "2004-01-20",
+      "title_fr": "Nouvelle-\u00c9cosse",
       "end_date": "2006-02-05",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "Nova Scotia"
+      "role_fr": "Ministre r\u00e9gional"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du leader du gouvernement \u00e0 la Chambre des communes",
+      "title_en": "Parliamentary Secretary to the Leader of the Government in the House of Commons",
       "start_date": "2001-09-13",
+      "title_fr": "Secr\u00e9taire parlementaire du leader du gouvernement \u00e0 la Chambre des communes",
       "end_date": "2003-12-11",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Leader of the Government in the House of Commons"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Ressources naturelles",
+      "title_en": "Natural Resources",
       "start_date": "2009-01-22",
+      "title_fr": "Ressources naturelles",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences",
+      "title_en": "Human Resources and Skills Development",
       "start_date": "2006-02-23",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences",
       "end_date": "2007-01-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Human Resources and Skills Development"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 39,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques",
+      "name_en": "Standing Committee on Human Resources Development",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de l'industrie",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Legal Affairs",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Legal Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Legal Affairs",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Legal Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les droits de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce internationale",
+      "name_en": "Subcommittee on Human Rights of the Standing Committee on Foreign Affairs and International Trade",
       "parliament": 35,
+      "name_fr": "Sous-comit\u00e9 sur les droits de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce internationale",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Human Rights of the Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1997-04-21",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 78801,
+  "name": "Geoff Regan",
   "contact_info": {
     "parliament": {
       "email": "Regan.G@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-3085",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-3085",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "geoff@geoffregan.ca",
       "postal_code": "B4E 1E5",
+      "city_en": "Bedford",
       "city_fr": "Bedford",
       "province_en": "Nova Scotia",
+      "telephone": "902-426-2217",
       "province_fr": "Nouvelle-\u00c9cosse",
       "street_address_en": "1496 Bedford Highway, Suite 222",
-      "telephone": "902-426-2217",
-      "street_address_fr": "1496, route Bedford, bureau 222",
-      "city_en": "Bedford"
+      "street_address_fr": "1496, route Bedford, bureau 222"
     }
   },
-  "name": "Geoff Regan",
   "date_of_birth": "1959-11-22",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Halifax-Ouest",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Halifax West",
-      "riding_fr": "Halifax-Ouest"
+      "riding_en": "Halifax West"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Halifax-Ouest",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Halifax West",
-      "riding_fr": "Halifax-Ouest"
+      "riding_en": "Halifax West"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Halifax-Ouest",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Halifax West",
-      "riding_fr": "Halifax-Ouest"
+      "riding_en": "Halifax West"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Halifax-Ouest",
       "election_date": "2000-11-27",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Halifax West",
-      "riding_fr": "Halifax-Ouest"
-    },
-    {
-      "result_en": "Defeated",
-      "election_date": "1997-06-02",
-      "result_fr": "D\u00e9fait",
-      "riding_en": "Halifax West",
-      "riding_fr": "Halifax-Ouest"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "1993-10-25",
       "result_fr": "\u00c9lu",
-      "riding_en": "Halifax West",
-      "riding_fr": "Halifax-Ouest"
+      "riding_en": "Halifax West"
+    },
+    {
+      "riding_fr": "Halifax-Ouest",
+      "election_date": "1997-06-02",
+      "result_en": "Defeated",
+      "result_fr": "D\u00e9fait",
+      "riding_en": "Halifax West"
+    },
+    {
+      "riding_fr": "Halifax-Ouest",
+      "election_date": "1993-10-25",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Halifax West"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Windsor, Nouvelle-\u00c9cosse, Canada",
-    "name_en": "Windsor, Nova Scotia, Canada"
+    "name_en": "Windsor, Nova Scotia, Canada",
+    "name_fr": "Windsor, Nouvelle-\u00c9cosse, Canada"
   },
+  "id": "3176068f-62ee-4b2f-aacd-1131201c6db1",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "1993-10-25",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "3176068f-62ee-4b2f-aacd-1131201c6db1",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78801&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78801&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/7632_geoff-regan",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/7632_geoff-regan",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.geoffregan.ca/",
-      "url_fr": "http://www.geoffregan.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

@@ -1,263 +1,262 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Contrema\u00eetre",
-      "name_en": "Foreman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78940&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78940&Language=F"
+    },
+    {
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=c0fd9ccf-396e-45c4-ad28-7ac4c9e6b043",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=c0fd9ccf-396e-45c4-ad28-7ac4c9e6b043"
     }
   ],
-  "parlinfo_id": 78940,
   "functions": [
     {
-      "title_fr": "For\u00eats",
+      "title_en": "Forestry",
       "start_date": "2000-12-20",
+      "title_fr": "For\u00eats",
       "end_date": "2004-08-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Forestry"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Ressources naturelles",
+      "title_en": "Natural Resources",
       "start_date": "1997",
+      "title_fr": "Ressources naturelles",
       "end_date": "1998-03",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
       "start_date": "2006-02-10",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Economic Development Agency of Canada for the Regions of Quebec"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Ressources naturelles",
+      "title_en": "Natural Resources",
       "start_date": "2004-08-06",
+      "title_fr": "Ressources naturelles",
       "end_date": "2006-02-09",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Transports",
+      "title_en": "Transport",
       "start_date": "1999-06-30",
+      "title_fr": "Transports",
       "end_date": "2001",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Transport"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Environnement",
+      "title_en": "Environment",
       "start_date": "1996",
+      "title_fr": "Environnement",
       "end_date": "2003-01",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Environment"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Travaux publics et Services gouvernementaux",
+      "title_en": "Public Works and Government Services",
       "start_date": "1994-09",
+      "title_fr": "Travaux publics et Services gouvernementaux",
       "end_date": "1997",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Public Works and Government Services"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Parliament Hill Security of the Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 sur la colline du Parlement du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Parliament Hill Security of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur le transport maritime du Comit\u00e9 permanent des transports",
+      "name_en": "Subcommittee on Marine Transportation of the Standing Committee on Transport",
       "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 sur le transport maritime du Comit\u00e9 permanent des transports",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Marine Transportation of the Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
-      "parliament": 36,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des transports",
-      "parliament": 36,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Natural Resources and Government Operations",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales",
-      "parliament": 36,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources and Government Operations"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des transports",
-      "parliament": 36,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent sur l'administration gouvernementale",
+      "name_en": "Standing Committee on Government Operations",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent sur l'administration gouvernementale",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1993-10-25",
+  "professions": [
+    {
+      "name_en": "Foreman",
+      "name_fr": "Contrema\u00eetre"
+    }
+  ],
+  "parlinfo_id": 78940,
+  "name": "G\u00e9rard Asselin",
   "contact_info": {
     "parliament": {
       "email": "Asselin.G@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-2363",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-2363",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-7954",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "asselg1@parl.gc.ca",
       "postal_code": "G4Z 3A7",
+      "city_en": "Baie-Comeau",
       "city_fr": "Baie-Comeau",
       "province_en": "Quebec",
+      "telephone": "418-296-2780",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "55 Comeau Boulevard, 2nd floor",
-      "telephone": "418-296-2780",
-      "street_address_fr": "55, boulevard Comeau, 2e \u00e9tage",
-      "fax": "418-296-2476",
-      "city_en": "Baie-Comeau"
+      "street_address_fr": "55, boulevard Comeau, 2e \u00e9tage"
     }
   },
-  "name": "G\u00e9rard Asselin",
   "date_of_birth": "1950-04-19",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Manicouagan",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Manicouagan",
-      "riding_fr": "Manicouagan"
+      "riding_en": "Manicouagan"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Manicouagan",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Manicouagan",
-      "riding_fr": "Manicouagan"
+      "riding_en": "Manicouagan"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Manicouagan",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Manicouagan",
-      "riding_fr": "Manicouagan"
+      "riding_en": "Manicouagan"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Charlevoix",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Charlevoix",
-      "riding_fr": "Charlevoix"
+      "riding_en": "Charlevoix"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Charlevoix",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Charlevoix",
-      "riding_fr": "Charlevoix"
+      "riding_en": "Charlevoix"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Charlevoix",
       "election_date": "1993-10-25",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Charlevoix",
-      "riding_fr": "Charlevoix"
+      "riding_en": "Charlevoix"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Sainte-Flavie, Qu\u00e9bec, Canada",
-    "name_en": "Ste-Flavie, Quebec, Canada"
+    "name_en": "Ste-Flavie, Quebec, Canada",
+    "name_fr": "Sainte-Flavie, Qu\u00e9bec, Canada"
   },
+  "id": "b56b160a-fd40-4cc1-9c45-336a167cf829",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "1993-10-25",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "b56b160a-fd40-4cc1-9c45-336a167cf829",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78940&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78940&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=c0fd9ccf-396e-45c4-ad28-7ac4c9e6b043",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=c0fd9ccf-396e-45c4-ad28-7ac4c9e6b043",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

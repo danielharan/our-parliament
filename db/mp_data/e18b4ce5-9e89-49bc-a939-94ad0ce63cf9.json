@@ -1,501 +1,517 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78419&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78419&Language=F"
+    },
+    {
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=52d7e62c-a5cf-4c00-be32-8e2c624b03a5",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=52d7e62c-a5cf-4c00-be32-8e2c624b03a5"
     }
   ],
-  "parlinfo_id": 78419,
   "functions": [
     {
-      "title_fr": "Whip du Bloc Qu\u00e9b\u00e9cois",
+      "title_en": "Whip of the Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2003-01-14",
+      "title_fr": "Whip du Bloc Qu\u00e9b\u00e9cois",
+      "end_date": "2010-06-22",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Whip of the Bloc Qu\u00e9b\u00e9cois"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "Whip du Bloc Qu\u00e9b\u00e9cois(par int\u00e9rim)",
+      "title_en": "Whip of the Bloc Qu\u00e9b\u00e9cois(Acting)",
       "start_date": "2002-12-17",
+      "title_fr": "Whip du Bloc Qu\u00e9b\u00e9cois(par int\u00e9rim)",
       "end_date": "2003-01-13",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Whip of the Bloc Qu\u00e9b\u00e9cois(Acting)"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "Whip adjoint du Bloc Qu\u00e9b\u00e9cois",
+      "title_en": "Deputy Whip of the Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2000-12-20",
+      "title_fr": "Whip adjoint du Bloc Qu\u00e9b\u00e9cois",
       "end_date": "2002-12-16",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Deputy Whip of the Bloc Qu\u00e9b\u00e9cois"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "Pr\u00e9sident du caucus du Bloc Qu\u00e9b\u00e9cois",
+      "title_en": "Bloc Qu\u00e9b\u00e9cois Caucus Chair",
       "start_date": "1994-09",
+      "title_fr": "Pr\u00e9sident du caucus du Bloc Qu\u00e9b\u00e9cois",
       "end_date": "1996-02-21",
       "role_en": "Caucus Chair",
-      "role_fr": "Pr\u00e9sident du caucus",
-      "title_en": "Bloc Qu\u00e9b\u00e9cois Caucus Chair"
+      "role_fr": "Pr\u00e9sident du caucus"
     },
     {
-      "title_fr": "Affaires parlementaires",
+      "title_en": "Infrastructure and Communities",
+      "start_date": "2010-06-23",
+      "title_fr": "Infrastructure et Collectivit\u00e9s",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole"
+    },
+    {
+      "title_en": "Transport, Infrastructure and Communities",
+      "start_date": "2010-06-23",
+      "title_fr": "Transports, Infrastructure et Collectivit\u00e9s",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole"
+    },
+    {
+      "title_en": "Parliamentary Affairs",
       "start_date": "2002-12-17",
+      "title_fr": "Affaires parlementaires",
       "end_date": "2003",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Parliamentary Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Transports",
+      "title_en": "Transport",
       "start_date": "1998-03-18",
+      "title_fr": "Transports",
       "end_date": "2000-12-19",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Transport"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "V\u00e9rificateur g\u00e9n\u00e9ral",
+      "title_en": "Auditor General",
       "start_date": "1996-05-12",
+      "title_fr": "V\u00e9rificateur g\u00e9n\u00e9ral",
       "end_date": "1998-08",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Auditor General"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Comptes publics",
+      "title_en": "Public Accounts",
       "start_date": "1996-05-12",
+      "title_fr": "Comptes publics",
       "end_date": "1999-01-01",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Public Accounts"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Transports",
+      "title_en": "Transport",
       "start_date": "1995",
+      "title_fr": "Transports",
       "end_date": "1996",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Transport"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 de Liaison",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 de la s\u00e9curit\u00e9 sur la colline du Parlement du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Parliament Hill Security of the Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Parliament Hill Security of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Parliamentary Privilege of the Standing Committee on Procedure and House Affairs",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 sur le privil\u00e8ge parlementaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Parliamentary Privilege of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 de la r\u00e9vision des limites des circonscriptions \u00e9lectorales du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 de la r\u00e9vision des limites des circonscriptions \u00e9lectorales du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Electoral Boundaries Readjustment of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-20",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 d'\u00e9tudier le projet de loi C-20",
-      "parliament": 36,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-20"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Liaison",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de liaison",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Liaison"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on the Budget of the Standing Committee on Liaison",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 du budget du Comit\u00e9 permanent de liaison",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Budget of the Standing Committee on Liaison"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on the Budget of the Standing Committee on Liaison",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 du budget du Comit\u00e9 permanent de liaison",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Budget of the Standing Committee on Liaison"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent des transports",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur la voie maritime du Saint-Laurent du Comit\u00e9 permanent des transports",
+      "name_en": "Subcommittee on the St. Lawrence Seaway of the Standing Committee on Transport",
       "parliament": 35,
+      "name_fr": "Sous-comit\u00e9 sur la voie maritime du Saint-Laurent du Comit\u00e9 permanent des transports",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the St. Lawrence Seaway of the Standing Committee on Transport"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1993-10-25",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 78419,
+  "name": "Michel Guimond",
   "contact_info": {
     "parliament": {
       "email": "Guimond.Jparl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-9732",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-9732",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "guimom1a@parl.gc.ca",
       "postal_code": "G1C 2J3",
+      "city_en": "Qu\u00e9bec",
       "city_fr": "Qu\u00e9bec",
       "province_en": "Quebec",
-      "province_fr": "Qu\u00e9bec",
-      "street_address_en": "4082 Sainte-Anne Boulevard",
       "telephone": "418-660-6776",
-      "street_address_fr": "4082, boulevard Saint-Anne",
-      "city_en": "Qu\u00e9bec"
+      "province_fr": "Qu\u00e9bec",
+      "street_address_en": "4611 Sainte-Anne Boulevard",
+      "street_address_fr": "4611, boulevard Saint-Anne"
     }
   },
-  "name": "Michel Guimond",
   "date_of_birth": "1953-12-26",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Montmorency--Charlevoix--Haute-C\u00f4te-Nord",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Montmorency--Charlevoix--Haute-C\u00f4te-Nord",
-      "riding_fr": "Montmorency--Charlevoix--Haute-C\u00f4te-Nord"
+      "riding_en": "Montmorency--Charlevoix--Haute-C\u00f4te-Nord"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Montmorency--Charlevoix--Haute-C\u00f4te-Nord",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Montmorency--Charlevoix--Haute-C\u00f4te-Nord",
-      "riding_fr": "Montmorency--Charlevoix--Haute-C\u00f4te-Nord"
+      "riding_en": "Montmorency--Charlevoix--Haute-C\u00f4te-Nord"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Charlevoix--Montmorency",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Charlevoix--Montmorency",
-      "riding_fr": "Charlevoix--Montmorency"
+      "riding_en": "Charlevoix--Montmorency"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Beauport--Montmorency--C\u00f4te-de-Beaupr\u00e9--\u00cele-d'Orl\u00e9ans",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Beauport--Montmorency--C\u00f4te-de-Beaupr\u00e9--\u00cele-d'Orl\u00e9ans",
-      "riding_fr": "Beauport--Montmorency--C\u00f4te-de-Beaupr\u00e9--\u00cele-d'Orl\u00e9ans"
+      "riding_en": "Beauport--Montmorency--C\u00f4te-de-Beaupr\u00e9--\u00cele-d'Orl\u00e9ans"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Beauport--Montmorency--Orl\u00e9ans",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Beauport--Montmorency--Orl\u00e9ans",
-      "riding_fr": "Beauport--Montmorency--Orl\u00e9ans"
+      "riding_en": "Beauport--Montmorency--Orl\u00e9ans"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Beauport--Montmorency--Orl\u00e9ans",
       "election_date": "1993-10-25",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Beauport--Montmorency--Orl\u00e9ans",
-      "riding_fr": "Beauport--Montmorency--Orl\u00e9ans"
+      "riding_en": "Beauport--Montmorency--Orl\u00e9ans"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Chicoutimi, Qu\u00e9bec, Canada",
-    "name_en": "Chicoutimi, Quebec, Canada"
+    "name_en": "Chicoutimi, Quebec, Canada",
+    "name_fr": "Chicoutimi, Qu\u00e9bec, Canada"
   },
+  "id": "e18b4ce5-9e89-49bc-a939-94ad0ce63cf9",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "1993-10-25",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "e18b4ce5-9e89-49bc-a939-94ad0ce63cf9",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78419&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78419&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=52d7e62c-a5cf-4c00-be32-8e2c624b03a5",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=52d7e62c-a5cf-4c00-be32-8e2c624b03a5",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

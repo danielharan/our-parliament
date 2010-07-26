@@ -26,6 +26,9 @@
 		<% if @mp.age %>
 			<li><%= t('members.age', :age => @mp.age) %></li>
 		<% end %>
+		<% if @mp.start_date %>
+			<li><%= t('members.show.days_of_service', :days => number_with_delimiter(Date.today - @mp.start_date, ',')) %></li>
+		<% end %>
 		<% for function in @mp.current_parliamentary_functions %>
 			<li><%= function.parliamentary_title.full_name %></li>
 		<% end %>

@@ -1,216 +1,217 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Adjointe politique",
-      "name_en": "Businesswoman"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128818&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128818&Language=F"
     },
     {
-      "name_fr": "Conseill\u00e8re en politique",
-      "name_en": "Policy adviser"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65157",
+      "url_fr": "http://www.conservative.ca/?section_id=4568&section_copy_id=65157&language_id=2"
     },
     {
-      "name_fr": "Fonctionnaire",
-      "name_en": "Political assistant"
-    },
-    {
-      "name_fr": "Femme d'affaires",
-      "name_en": "Public servant"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.helenaguergis.com/",
+      "url_fr": "http://www.helenaguergis.com/"
     }
   ],
-  "parlinfo_id": 128818,
   "functions": [
     {
-      "title_fr": "Ministre d'\u00c9tat (Condition f\u00e9minine)D\u00e9mission. Est l'objet d'une enqu\u00eate au sujet d'all\u00e9gations en ce qui a trait \u00e0 sa conduite.",
+      "title_en": "Minister of State (Status of Women)Resignation. Is the subject of inquiry concerning allegations regarding her conduct.",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre d'\u00c9tat (Condition f\u00e9minine)D\u00e9mission. Est l'objet d'une enqu\u00eate au sujet d'all\u00e9gations en ce qui a trait \u00e0 sa conduite.",
       "end_date": "2010-04-08",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State (Status of Women)Resignation. Is the subject of inquiry concerning allegations regarding her conduct."
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Secr\u00e9taire d'\u00c9tat (Affaires \u00e9trang\u00e8res et Commerce international) (Sports)",
+      "title_en": "Secretary of State (Foreign Affairs and International Trade) (Sport)",
       "start_date": "2007-01-04",
+      "title_fr": "Secr\u00e9taire d'\u00c9tat (Affaires \u00e9trang\u00e8res et Commerce international) (Sports)",
       "end_date": "2008-10-29",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Secretary of State (Foreign Affairs and International Trade) (Sport)"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire pour le Commerce international",
+      "title_en": "Parliamentary Secretary for International Trade",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire pour le Commerce international",
       "end_date": "2007-01-03",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary for International Trade"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
+      "title_en": "CIDA",
+      "start_date": "2005-05-25",
       "title_fr": "ACDI",
-      "start_date": "2005-05-25",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "CIDA"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "International Cooperation",
+      "start_date": "2005-05-25",
       "title_fr": "Coop\u00e9ration internationale",
-      "start_date": "2005-05-25",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "International Cooperation"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "A\u00een\u00e9s",
+      "title_en": "Seniors",
       "start_date": "2005-01-24",
+      "title_fr": "A\u00een\u00e9s",
       "end_date": "2005-06-05",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Seniors"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du commerce international",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 des droits de la personne et du d\u00e9veloppement international du comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Human Rights and International Development of the Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Businesswoman",
+      "name_fr": "Adjointe politique"
+    },
+    {
+      "name_en": "Policy adviser",
+      "name_fr": "Conseill\u00e8re en politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Fonctionnaire"
+    },
+    {
+      "name_en": "Public servant",
+      "name_fr": "Femme d'affaires"
+    }
+  ],
+  "parlinfo_id": 128818,
+  "name": "Helena Guergis",
   "contact_info": {
     "parliament": {
       "email": "Guergis.H@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-4224",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-4224",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "L9R 1T3",
+      "city_en": "Alliston",
       "city_fr": "Alliston",
       "province_en": "Ontario",
+      "telephone": "705-435-1809",
       "province_fr": "Ontario",
       "street_address_en": "35 Victoria Street East",
-      "telephone": "705-435-1809",
-      "street_address_fr": "35, rue Victoria Est",
-      "city_en": "Alliston"
+      "street_address_fr": "35, rue Victoria Est"
     }
   },
-  "name": "Helena Guergis",
   "date_of_birth": "1969-02-19",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Simcoe--Grey",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Simcoe--Grey",
-      "riding_fr": "Simcoe--Grey"
+      "riding_en": "Simcoe--Grey"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Simcoe--Grey",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Simcoe--Grey",
-      "riding_fr": "Simcoe--Grey"
+      "riding_en": "Simcoe--Grey"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Simcoe--Grey",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Simcoe--Grey",
-      "riding_fr": "Simcoe--Grey"
+      "riding_en": "Simcoe--Grey"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Barrie, Ontario, Canada",
-    "name_en": "Barrie, Ontario, Canada"
+    "name_en": "Barrie, Ontario, Canada",
+    "name_fr": "Barrie, Ontario, Canada"
   },
+  "id": "35c1a246-9b80-4b4b-b84e-9e4404c1421f",
   "parties": [
     {
-      "name_fr": "",
+      "name_en": "",
       "start_date": "2010-04-09",
-      "name_en": ""
+      "name_fr": ""
     },
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "end_date": "2010-04-08",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "35c1a246-9b80-4b4b-b84e-9e4404c1421f",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128818&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128818&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65157",
-      "url_fr": "http://www.conservative.ca/?section_id=4568&section_copy_id=65157&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.helenaguergis.com/",
-      "url_fr": "http://www.helenaguergis.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada",
+      "end_date": "2010-04-08"
     }
   ]
 }

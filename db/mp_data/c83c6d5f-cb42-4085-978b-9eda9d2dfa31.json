@@ -1,245 +1,246 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Administrateur scolaire",
-      "name_en": "Physical educator"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78704&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78704&Language=F"
     },
     {
-      "name_fr": "\u00e9ducateur physique",
-      "name_en": "School administrator"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=235c4b00-929f-4bf1-8980-0818e82226bc",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=235c4b00-929f-4bf1-8980-0818e82226bc"
     }
   ],
-  "parlinfo_id": 78704,
   "functions": [
     {
-      "title_fr": "Commerce international",
+      "title_en": "International Trade",
       "start_date": "2009-12-15",
+      "title_fr": "Commerce international",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "International Trade"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Finances",
+      "title_en": "Finance",
       "start_date": "2008-06-26",
+      "title_fr": "Finances",
       "end_date": "2009-12-14",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Finance"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Comptes publics",
+      "title_en": "Public Accounts",
       "start_date": "2006-09-12",
+      "title_fr": "Comptes publics",
       "end_date": "2008-06-25",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Public Accounts"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
+      "title_en": "Economic Development Agency of Canada for the Regions of Quebec",
       "start_date": "2006-02-01",
+      "title_fr": "Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec",
       "end_date": "2006-09-11",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Economic Development Agency of Canada for the Regions of Quebec"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Finances",
+      "title_en": "Finance",
       "start_date": "2008-01-15",
+      "title_fr": "Finances",
       "end_date": "2008-06-25",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Finance"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 40,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
-      "parliament": 40,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
       "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Physical educator",
+      "name_fr": "Administrateur scolaire"
+    },
+    {
+      "name_en": "School administrator",
+      "name_fr": "\u00e9ducateur physique"
+    }
+  ],
+  "parlinfo_id": 78704,
+  "name": "Jean-Yves Laforest",
   "contact_info": {
     "parliament": {
       "email": "Laforest.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-4895",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-4895",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "laforj1a@parl.gc.ca",
       "postal_code": "G9T 2H5",
+      "city_en": "Grand-M\u00e8re",
       "city_fr": "Grand-M\u00e8re",
       "province_en": "Quebec",
+      "telephone": "819-538-5291",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "632 6th Avenue",
-      "telephone": "819-538-5291",
-      "street_address_fr": "632,  6e Avenue",
-      "city_en": "Grand-M\u00e8re"
+      "street_address_fr": "632,  6e Avenue"
     }
   },
-  "name": "Jean-Yves Laforest",
   "date_of_birth": "1949-06-13",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Saint-Maurice--Champlain",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Saint-Maurice--Champlain",
-      "riding_fr": "Saint-Maurice--Champlain"
+      "riding_en": "Saint-Maurice--Champlain"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Saint-Maurice--Champlain",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Saint-Maurice--Champlain",
-      "riding_fr": "Saint-Maurice--Champlain"
+      "riding_en": "Saint-Maurice--Champlain"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Shawinigan, Qu\u00e9bec, Canada",
-    "name_en": "Shawinigan, Quebec, Canada"
+    "name_en": "Shawinigan, Quebec, Canada",
+    "name_fr": "Shawinigan, Qu\u00e9bec, Canada"
   },
+  "id": "c83c6d5f-cb42-4085-978b-9eda9d2dfa31",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2006-01-23",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "c83c6d5f-cb42-4085-978b-9eda9d2dfa31",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78704&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78704&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=235c4b00-929f-4bf1-8980-0818e82226bc",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=235c4b00-929f-4bf1-8980-0818e82226bc",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

@@ -1,212 +1,213 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Conseiller syndical",
-      "name_en": "Foreman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78671&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78671&Language=F"
     },
     {
-      "name_fr": "Contrema\u00eetre",
-      "name_en": "Union advisor"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=3ec50cce-a441-4705-a010-be8f94d34b91",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=3ec50cce-a441-4705-a010-be8f94d34b91"
     }
   ],
-  "parlinfo_id": 78671,
   "functions": [
     {
-      "title_fr": "Sciences et Technologie",
+      "title_en": "Science and Technology",
       "start_date": "2008-10-31",
+      "title_fr": "Sciences et Technologie",
       "end_date": "2009-12-14",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Science and Technology"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Travail",
+      "title_en": "Labour",
       "start_date": "2009-12-15",
+      "title_fr": "Travail",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Labour"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Industrie",
+      "title_en": "Industry",
       "start_date": "2006-02-10",
+      "title_fr": "Industrie",
       "end_date": "2008-10-30",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Industry"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Travail",
+      "title_en": "Labour",
       "start_date": "2004-08-06",
+      "title_fr": "Travail",
       "end_date": "2006-02-09",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Labour"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 40,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques",
+      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices",
       "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 sur l'industrie de l'automobile au Canada du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Automotive Industry in Canada of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 de la condition des personnes handicap\u00e9es du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 de la condition des personnes handicap\u00e9es du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Foreman",
+      "name_fr": "Conseiller syndical"
+    },
+    {
+      "name_en": "Union advisor",
+      "name_fr": "Contrema\u00eetre"
+    }
+  ],
+  "parlinfo_id": 78671,
+  "name": "Robert Vincent",
   "contact_info": {
     "parliament": {
       "email": "Vincent.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-5279",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-5279",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "vincer1a@parl.gc.ca",
       "postal_code": "J2G 4W5",
+      "city_en": "Granby",
       "city_fr": "Granby",
       "province_en": "Quebec",
+      "telephone": "450-378-3221",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "25 Dufferin Street, Suite 101",
-      "telephone": "450-378-3221",
-      "street_address_fr": "25, rue Dufferin, bureau 101",
-      "city_en": "Granby"
+      "street_address_fr": "25, rue Dufferin, bureau 101"
     }
   },
-  "name": "Robert Vincent",
   "date_of_birth": "1956-04-13",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Shefford",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Shefford",
-      "riding_fr": "Shefford"
+      "riding_en": "Shefford"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Shefford",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Shefford",
-      "riding_fr": "Shefford"
+      "riding_en": "Shefford"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Shefford",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Shefford",
-      "riding_fr": "Shefford"
+      "riding_en": "Shefford"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Granby, Qu\u00e9bec, Canada",
-    "name_en": "Granby, Quebec, Canada"
+    "name_en": "Granby, Quebec, Canada",
+    "name_fr": "Granby, Qu\u00e9bec, Canada"
   },
+  "id": "54443765-e347-41da-92c0-eaf1313168ea",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2004-06-28",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "54443765-e347-41da-92c0-eaf1313168ea",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78671&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78671&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=3ec50cce-a441-4705-a010-be8f94d34b91",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=3ec50cce-a441-4705-a010-be8f94d34b91",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

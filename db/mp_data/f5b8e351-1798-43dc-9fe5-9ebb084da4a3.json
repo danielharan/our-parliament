@@ -1,115 +1,116 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128874&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128874&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=17146",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=17146"
     }
   ],
-  "parlinfo_id": 128874,
   "functions": [
     {
-      "title_fr": "Justice",
+      "title_en": "Justice",
       "start_date": "2008-11-14",
+      "title_fr": "Justice",
       "end_date": "2009-01-21",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Justice"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 de liaison",
+      "name_en": "Liaison Committee",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 de liaison",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 128874,
+  "name": "Andrew J. Kania",
   "contact_info": {
     "parliament": {
       "email": "Kania.A@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-5381",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-5381",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "L6X 5A5",
+      "city_en": "Brampton",
       "city_fr": "Brampton",
       "province_en": "Ontario",
+      "telephone": "905-846-0076",
       "province_fr": "Ontario",
       "street_address_en": "213-10 Gillingham Drive",
-      "telephone": "905-846-0076",
-      "street_address_fr": "213-10, promenade Gillingham",
       "fax": "905-846-3901",
-      "city_en": "Brampton"
+      "street_address_fr": "213-10, promenade Gillingham"
     }
   },
-  "name": "Andrew J. Kania",
   "date_of_birth": "1967-12-07",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Brampton-Ouest",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Brampton West",
-      "riding_fr": "Brampton-Ouest"
+      "riding_en": "Brampton West"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "f5b8e351-1798-43dc-9fe5-9ebb084da4a3",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "f5b8e351-1798-43dc-9fe5-9ebb084da4a3",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128874&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128874&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/members_e.aspx?id=17146",
-      "url_fr": "http://www.liberal.ca/members_f.aspx?id=17146",
-      "name_en": "Party Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

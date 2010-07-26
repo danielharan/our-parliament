@@ -1,141 +1,140 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Adjoint politique",
-      "name_en": "Businessman"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.international.gc.ca/ministers-ministres/Lawrence_Cannon.aspx?lang=eng",
+      "url_fr": "http://www.international.gc.ca/ministers-ministres/Lawrence_Cannon.aspx?lang=fra&redirect=true"
     },
     {
-      "name_fr": "Expert-conseil en communications",
-      "name_en": "Communication consultant"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78345&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78345&Language=F"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Political assistant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65085",
+      "url_fr": "http://www.conservative.ca/FR/4568/65087"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.lawrencecannon.com/",
+      "url_fr": "http://www.lawrencecannon.com/"
+    },
+    {
+      "name_en": "National Assembly of Quebec Website (Available in French only)",
+      "name_fr": "Site Web de l'Assembl\u00e9e nationale du Qu\u00e9bec",
+      "url_en": "http://www.assnat.qc.ca/en/deputes/cannon-lawrence-2367/biographie.html",
+      "url_fr": "http://www.assnat.qc.ca/fr/deputes/cannon-lawrence-2367/biographie.html"
     }
   ],
-  "parlinfo_id": 78345,
   "functions": [
     {
-      "title_fr": "Ministre des Affaires \u00e9trang\u00e8res",
+      "title_en": "Minister of Foreign Affairs",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre des Affaires \u00e9trang\u00e8res",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Foreign Affairs"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre des Transports, de l'Infrastructure et des Collectivit\u00e9s",
+      "title_en": "Minister of Transport, Infrastructure and Communities",
       "start_date": "2006-02-06",
+      "title_fr": "Ministre des Transports, de l'Infrastructure et des Collectivit\u00e9s",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Transport, Infrastructure and Communities"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre d\u2019\u00c9tat (Commission de la capitale nationale)",
+      "title_en": "Minister of State (National Capital Commission)",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre d\u2019\u00c9tat (Commission de la capitale nationale)",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State (National Capital Commission)"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Qu\u00e9bec",
+      "title_en": "Quebec",
       "start_date": "2006-02-06",
+      "title_fr": "Qu\u00e9bec",
       "end_date": "2008-10-29",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "Quebec"
+      "role_fr": "Ministre r\u00e9gional"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Communication consultant",
+      "name_fr": "Expert-conseil en communications"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 78345,
+  "name": "Lawrence Cannon",
   "contact_info": {
     "parliament": {
       "email": "Cannon.L@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-5516",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-5516",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-6802",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "cannol3@parl.gc.ca",
       "postal_code": "J0X 1V0",
+      "city_en": "Mansfield",
       "city_fr": "Mansfield",
       "province_en": "Quebec",
+      "telephone": "819-683-1696",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "289, Highway 148, Suite 4",
-      "telephone": "819-683-1696",
-      "street_address_fr": "289, route 148, bureau 4",
-      "fax": "819-683-1939",
-      "city_en": "Mansfield"
+      "street_address_fr": "289, route 148, bureau 4"
     }
   },
-  "name": "Lawrence Cannon",
   "date_of_birth": "1947-12-06",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Pontiac",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Pontiac",
-      "riding_fr": "Pontiac"
+      "riding_en": "Pontiac"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Pontiac",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Pontiac",
-      "riding_fr": "Pontiac"
+      "riding_en": "Pontiac"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Qu\u00e9bec, Qu\u00e9bec, Canada",
-    "name_en": "Qu\u00e9bec, Quebec, Canada"
+    "name_en": "Qu\u00e9bec, Quebec, Canada",
+    "name_fr": "Qu\u00e9bec, Qu\u00e9bec, Canada"
   },
+  "id": "7d224fe4-489d-41a1-aaa5-a36d127d8585",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "French",
-  "id": "7d224fe4-489d-41a1-aaa5-a36d127d8585",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.international.gc.ca/ministers-ministres/Lawrence_Cannon.aspx?lang=eng",
-      "url_fr": "http://www.international.gc.ca/ministers-ministres/Lawrence_Cannon.aspx?lang=fra&redirect=true",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78345&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78345&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65085",
-      "url_fr": "http://www.conservative.ca/FR/4568/65087",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.lawrencecannon.com/",
-      "url_fr": "http://www.lawrencecannon.com/",
-      "name_en": "Personal Website"
-    },
-    {
-      "name_fr": "Site Web de l'Assembl\u00e9e nationale du Qu\u00e9bec",
-      "url_en": "http://www.assnat.qc.ca/en/deputes/cannon-lawrence-2367/biographie.html",
-      "url_fr": "http://www.assnat.qc.ca/fr/deputes/cannon-lawrence-2367/biographie.html",
-      "name_en": "National Assembly of Quebec Website (Available in French only)"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

@@ -1,228 +1,229 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Enseignant",
-      "name_en": "Teacher"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78488&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78488&Language=f"
+    },
+    {
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=94905eb4-01f9-4bfc-b41e-846e2d50bf0c",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=94905eb4-01f9-4bfc-b41e-846e2d50bf0c"
+    },
+    {
+      "name_en": "Personal Website (Available in French only)",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.richardnadeau.org",
+      "url_fr": "http://www.richardnadeau.org"
     }
   ],
-  "parlinfo_id": 78488,
   "functions": [
     {
-      "title_fr": "Langues officielles",
+      "title_en": "Official Languages",
       "start_date": "2007-01-23",
+      "title_fr": "Langues officielles",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Official Languages"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Conseil du tr\u00e9sor",
+      "title_en": "Treasury Board",
       "start_date": "2006-09-12",
+      "title_fr": "Conseil du tr\u00e9sor",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Treasury Board"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Conseil du tr\u00e9sor",
+      "title_en": "Treasury Board",
       "start_date": "2006-02-10",
+      "title_fr": "Conseil du tr\u00e9sor",
       "end_date": "2006-09-11",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Treasury Board"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Teacher",
+      "name_fr": "Enseignant"
+    }
+  ],
+  "parlinfo_id": 78488,
+  "name": "Richard Nadeau",
   "contact_info": {
     "parliament": {
       "email": "Nadeau.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-4351",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-4351",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "nadear1@parl.gc.ca",
       "postal_code": "J8T 1T7",
+      "city_en": "Gatineau",
       "city_fr": "Gatineau",
       "province_en": "Quebec",
+      "telephone": "819-561-5555",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "430 de l'H\u00f4pital Boulevard, Suite 200-A",
-      "telephone": "819-561-5555",
-      "street_address_fr": "430, boulevard de l'H\u00f4pital, bureau 200-A",
-      "city_en": "Gatineau"
+      "street_address_fr": "430, boulevard de l'H\u00f4pital, bureau 200-A"
     }
   },
-  "name": "Richard Nadeau",
   "date_of_birth": "1959-04-05",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Gatineau",
       "election_date": "2008-10-14",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Gatineau",
-      "riding_fr": "Gatineau"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "2006-01-23",
       "result_fr": "\u00c9lu",
-      "riding_en": "Gatineau",
-      "riding_fr": "Gatineau"
+      "riding_en": "Gatineau"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Gatineau",
+      "election_date": "2006-01-23",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Gatineau"
+    },
+    {
+      "riding_fr": "Gatineau",
       "election_date": "2004-06-28",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Gatineau",
-      "riding_fr": "Gatineau"
+      "riding_en": "Gatineau"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Gatineau",
       "election_date": "2000-11-27",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Gatineau",
-      "riding_fr": "Gatineau"
+      "riding_en": "Gatineau"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Hawkesbury, Ontario, Canada",
-    "name_en": "Hawkesbury, Ontario, Canada"
+    "name_en": "Hawkesbury, Ontario, Canada",
+    "name_fr": "Hawkesbury, Ontario, Canada"
   },
+  "id": "bae4cdea-b996-42b7-892c-03d982b43784",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2006-01-23",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "bae4cdea-b996-42b7-892c-03d982b43784",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78488&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78488&Language=f",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=94905eb4-01f9-4bfc-b41e-846e2d50bf0c",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=94905eb4-01f9-4bfc-b41e-846e2d50bf0c",
-      "name_en": "Party Website (Available in French only)"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.richardnadeau.org",
-      "url_fr": "http://www.richardnadeau.org",
-      "name_en": "Personal Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

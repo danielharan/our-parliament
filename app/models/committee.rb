@@ -20,4 +20,8 @@ class Committee < ActiveRecord::Base
     return members_by_role
   end
   
+  def subcommittees
+    return Committee.find_all_by_subcommittee_of(id)
+  end
+  
 end

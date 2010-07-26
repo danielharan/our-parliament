@@ -1,208 +1,216 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Travailleuse sociale",
-      "name_en": "Social worker"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78483&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78483&Language=F"
+    },
+    {
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=846b4b02-67e5-4927-80ff-a6ca47dd4ee6",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=846b4b02-67e5-4927-80ff-a6ca47dd4ee6"
+    },
+    {
+      "name_en": "Personal Website (Available in French only)",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.claudedebellefeuille.ca/",
+      "url_fr": "http://www.claudedebellefeuille.ca/"
     }
   ],
-  "parlinfo_id": 78483,
   "functions": [
     {
-      "title_fr": "Whip adjointe du Bloc qu\u00e9b\u00e9cois",
-      "start_date": "2008-10-31",
+      "title_en": "Whip of the Bloc Qu\u00e9b\u00e9cois",
+      "start_date": "2010-06-23",
+      "title_fr": "Whip du Bloc Qu\u00e9b\u00e9cois",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Deputy Whip of the Bloc Qu\u00e9b\u00e9cois"
+      "role_fr": "Whip"
     },
     {
+      "title_en": "Deputy Whip of the Bloc Qu\u00e9b\u00e9cois",
+      "start_date": "2008-10-31",
+      "title_fr": "Whip adjointe du Bloc qu\u00e9b\u00e9cois",
+      "end_date": "2010-06-22",
+      "role_en": "Whip",
+      "role_fr": "Whip"
+    },
+    {
+      "title_en": "Canadian Heritage",
+      "start_date": "2008-06-26",
       "title_fr": "Patrimoine",
-      "start_date": "2008-06-26",
       "end_date": "2008-10-30",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canadian Heritage"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Heritage",
+      "start_date": "2008-06-26",
       "title_fr": "Patrimoine canadien",
-      "start_date": "2008-06-26",
       "end_date": "2008-10-30",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Heritage"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Ressources naturelles",
+      "title_en": "Natural Resources",
       "start_date": "2006-09-12",
+      "title_fr": "Ressources naturelles",
       "end_date": "2008-06-25",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Agriculture et Agro-alimentaire",
+      "title_en": "Agriculture and Agri-Food",
       "start_date": "2006-02-10",
+      "title_fr": "Agriculture et Agro-alimentaire",
       "end_date": "2006-09-11",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Agriculture and Agri-Food"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Gifts under the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 des cadeaux en vertu du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 40,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 40,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-30",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-30"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Social worker",
+      "name_fr": "Travailleuse sociale"
+    }
+  ],
+  "parlinfo_id": 78483,
+  "name": "Claude DeBellefeuille",
   "contact_info": {
     "parliament": {
       "email": "DeBellefeuille.C@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-946-0644",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-946-0644",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-941-3300",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "debelc1@parl.gc.ca",
       "postal_code": "J6T 3X4",
+      "city_en": "Salaberry-de-Valleyfield",
       "city_fr": "Salaberry-de-Valleyfield",
       "province_en": "Quebec",
+      "telephone": "450-371-0644",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "38 Saint-Louis Street, Suite 1",
-      "telephone": "450-371-0644",
-      "street_address_fr": "38, rue Saint-Louis, bureau 1",
-      "city_en": "Salaberry-de-Valleyfield"
+      "street_address_fr": "38, rue Saint-Louis, bureau 1"
     }
   },
-  "name": "Claude DeBellefeuille",
   "date_of_birth": "1963-12-13",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Beauharnois--Salaberry",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Beauharnois--Salaberry",
-      "riding_fr": "Beauharnois--Salaberry"
+      "riding_en": "Beauharnois--Salaberry"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Beauharnois--Salaberry",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Beauharnois--Salaberry",
-      "riding_fr": "Beauharnois--Salaberry"
+      "riding_en": "Beauharnois--Salaberry"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Salaberry-de-Valleyfield, Qu\u00e9bec, Canada",
-    "name_en": "Salaberry-de-Valleyfield, Quebec, Canada"
+    "name_en": "Salaberry-de-Valleyfield, Quebec, Canada",
+    "name_fr": "Salaberry-de-Valleyfield, Qu\u00e9bec, Canada"
   },
+  "id": "19ce2b35-fc4f-4bde-934a-03c9133b3ed6",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2006-01-23",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "19ce2b35-fc4f-4bde-934a-03c9133b3ed6",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78483&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78483&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=846b4b02-67e5-4927-80ff-a6ca47dd4ee6",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=846b4b02-67e5-4927-80ff-a6ca47dd4ee6",
-      "name_en": "Party Website (Available in French only)"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.claudedebellefeuille.ca/",
-      "url_fr": "http://www.claudedebellefeuille.ca/",
-      "name_en": "Personal Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

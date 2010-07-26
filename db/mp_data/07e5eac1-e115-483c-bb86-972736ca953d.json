@@ -1,117 +1,118 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Adjoint politique",
-      "name_en": "Human resources consultant"
+      "name_en": "MP profile",
+      "name_fr": "Profil de d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128577&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128577&Language=F"
     },
     {
-      "name_fr": "Expert-conseil en ressources humaines",
-      "name_en": "Political assistant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1755",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1755&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.lavarpayne.ca/",
+      "url_fr": "http://www.lavarpayne.ca/"
     }
   ],
-  "parlinfo_id": 128577,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
+      "name_en": "Standing Committee on National Defence",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
+      "name_en": "Standing Committee on National Defence",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Human resources consultant",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Expert-conseil en ressources humaines"
+    }
+  ],
+  "parlinfo_id": 128577,
+  "name": "LaVar Payne",
   "contact_info": {
     "parliament": {
       "email": "Payne.L@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-4516",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-4516",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "T1H 1S2",
+      "city_en": "Taber",
       "city_fr": "Taber",
       "province_en": "Alberta",
+      "telephone": "403-388-2923",
       "province_fr": "Alberta",
       "street_address_en": "5324-48th Avenue",
-      "telephone": "403-388-2923",
-      "street_address_fr": "5324-48e Avenue",
-      "city_en": "Taber"
+      "street_address_fr": "5324-48e Avenue"
     }
   },
-  "name": "LaVar Payne",
   "date_of_birth": "1945-02-23",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Medicine Hat",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Medicine Hat",
-      "riding_fr": "Medicine Hat"
+      "riding_en": "Medicine Hat"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Lethbridge, Alberta, Canada",
-    "name_en": "Lethbridge, Alberta, Canada"
+    "name_en": "Lethbridge, Alberta, Canada",
+    "name_fr": "Lethbridge, Alberta, Canada"
   },
+  "id": "07e5eac1-e115-483c-bb86-972736ca953d",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "07e5eac1-e115-483c-bb86-972736ca953d",
-  "weblinks": [
-    {
-      "name_fr": "Profil de d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128577&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128577&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1755",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1755&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.lavarpayne.ca/",
-      "url_fr": "http://www.lavarpayne.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

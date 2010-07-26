@@ -1,130 +1,131 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Adjoint politique",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128600&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128600&Language=F"
     },
     {
-      "name_fr": "Courtier en immeubles",
-      "name_en": "Fire fighter"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1767&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1767"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Volunteer"
-    },
-    {
-      "name_fr": "Pompier volontaire",
-      "name_en": "Political assistant"
-    },
-    {
-      "name_fr": null,
-      "name_en": "Realtor"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.blakerichards.ca/",
+      "url_fr": "http://www.blakerichards.ca/"
     }
   ],
-  "parlinfo_id": 128600,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Fire fighter",
+      "name_fr": "Courtier en immeubles"
+    },
+    {
+      "name_en": "Volunteer",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Pompier volontaire"
+    },
+    {
+      "name_en": "Realtor",
+      "name_fr": null
+    }
+  ],
+  "parlinfo_id": 128600,
+  "name": "Blake Richards",
   "contact_info": {
     "parliament": {
       "email": "Richards.B@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-5152",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-5152",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "blake@blakerichards.ca",
       "postal_code": "T4B 2R3",
+      "city_en": "Airdrie",
       "city_fr": "Airdrie",
       "province_en": "Alberta",
+      "telephone": "403-948-5103",
       "province_fr": "Alberta",
       "street_address_en": "16-620 1st Avenue Northwest",
-      "telephone": "403-948-5103",
-      "street_address_fr": "16-620,  1re Avenue Nord-Ouest",
-      "city_en": "Airdrie"
+      "street_address_fr": "16-620,  1re Avenue Nord-Ouest"
     }
   },
-  "name": "Blake Richards",
   "date_of_birth": "1974-11-08",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Wild Rose",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Wild Rose",
-      "riding_fr": "Wild Rose"
+      "riding_en": "Wild Rose"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Olds, Alberta, Canada",
-    "name_en": "Olds, Alberta, Canada"
+    "name_en": "Olds, Alberta, Canada",
+    "name_fr": "Olds, Alberta, Canada"
   },
+  "id": "62bfd797-8d32-425b-91b1-1422ca16694f",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "62bfd797-8d32-425b-91b1-1422ca16694f",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128600&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128600&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1767&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1767",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.blakerichards.ca/",
-      "url_fr": "http://www.blakerichards.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

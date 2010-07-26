@@ -1,110 +1,117 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Machiniste",
-      "name_en": "Machinist"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128499&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128499&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/claudegravelle",
+      "url_fr": "http://www.npd.ca/claudegravelle"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://claudegravelle.ca/",
+      "url_fr": "http://claudegravelle.ca/fr/home"
     }
   ],
-  "parlinfo_id": 128499,
   "functions": [
     {
+      "title_en": "Federal Economic Development Initiative for Northern Ontario",
+      "start_date": "2008-11-17",
       "title_fr": "Francophonie",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Federal Economic Development Initiative for Northern Ontario"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Francophonie",
+      "start_date": "2008-11-17",
       "title_fr": "Initiative f\u00e9d\u00e9rale du d\u00e9veloppement \u00e9conomique pour le Nord de l'Ontario",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Francophonie"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Mines",
+      "title_en": "Mines",
       "start_date": "2008-11-17",
+      "title_fr": "Mines",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Mines"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Machinist",
+      "name_fr": "Machiniste"
+    }
+  ],
+  "parlinfo_id": 128499,
+  "name": "Claude Gravelle",
   "contact_info": {
     "parliament": {
       "email": "Gravelle.C@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-9107",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-9107",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "P3N 1N3",
+      "city_en": "Val Caron",
       "city_fr": "Val Caron",
       "province_en": "Ontario",
+      "telephone": "705-897-2222",
       "province_fr": "Ontario",
       "street_address_en": "2945 Highway 69 North, Suite 203",
-      "telephone": "705-897-2222",
-      "street_address_fr": "2945, autoroute 69 Nord, bureau 203",
-      "city_en": "Val Caron"
+      "street_address_fr": "2945, autoroute 69 Nord, bureau 203"
     }
   },
-  "name": "Claude Gravelle",
   "date_of_birth": "1949-10-26",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Nickel Belt",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Nickel Belt",
-      "riding_fr": "Nickel Belt"
+      "riding_en": "Nickel Belt"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Nickel Belt",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Nickel Belt",
-      "riding_fr": "Nickel Belt"
+      "riding_en": "Nickel Belt"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Nickel Belt",
       "election_date": "2004-06-28",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Nickel Belt",
-      "riding_fr": "Nickel Belt"
+      "riding_en": "Nickel Belt"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Chelmsford, Ontario, Canada",
-    "name_en": "Chelmsford, Ontario, Canada"
+    "name_en": "Chelmsford, Ontario, Canada",
+    "name_fr": "Chelmsford, Ontario, Canada"
   },
+  "id": "bfdca679-680e-498a-ae44-3d75b0950da0",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2004-06-28",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "bfdca679-680e-498a-ae44-3d75b0950da0",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128499&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128499&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/claudegravelle",
-      "url_fr": "http://www.npd.ca/claudegravelle",
-      "name_en": "Party Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

@@ -1,139 +1,140 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Cadre en radiodiffusion",
-      "name_en": "Broadcasting executive"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.acdi-cida.gc.ca/acdi-cida/acdi-cida.nsf/eng/NIC-5494720-J79",
+      "url_fr": "http://www.acdi-cida.gc.ca/acdi-cida/acdi-cida.nsf/fra/NIC-5494720-J79"
     },
     {
-      "name_fr": "Enseignante",
-      "name_en": "Communication consultant"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78512&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78512&Language=F"
     },
     {
-      "name_fr": "Experte-conseil en communications",
-      "name_en": "Teacher"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65038",
+      "url_fr": "http://www.conservative.ca/FR/4568/65040"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.bevoda.ca/",
+      "url_fr": "http://www.bevoda.ca/"
     }
   ],
-  "parlinfo_id": 78512,
   "functions": [
     {
-      "title_fr": "Ministre de la Coop\u00e9ration internationale",
+      "title_en": "Minister for International Cooperation",
       "start_date": "2007-08-14",
+      "title_fr": "Ministre de la Coop\u00e9ration internationale",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister for International Cooperation"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre du Patrimoine canadien et de la Condition f\u00e9mininePremi\u00e8re Canadienne d'origine japonaise nomm\u00e9e au Cabinet.",
+      "title_en": "Minister of Canadian Heritage and Status of WomenFirst Canadian of Japanese origin appointed Cabinet minister.",
       "start_date": "2006-02-06",
+      "title_fr": "Ministre du Patrimoine canadien et de la Condition f\u00e9mininePremi\u00e8re Canadienne d'origine japonaise nomm\u00e9e au Cabinet.",
       "end_date": "2007-08-13",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Canadian Heritage and Status of WomenFirst Canadian of Japanese origin appointed Cabinet minister."
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Patrimoine canadien",
+      "title_en": "Canadian Heritage",
       "start_date": "2004-07-22",
+      "title_fr": "Patrimoine canadien",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canadian Heritage"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Broadcasting executive",
+      "name_fr": "Cadre en radiodiffusion"
+    },
+    {
+      "name_en": "Communication consultant",
+      "name_fr": "Enseignante"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "Experte-conseil en communications"
+    }
+  ],
+  "parlinfo_id": 78512,
+  "name": "Beverley J. (Bev) Oda",
   "contact_info": {
     "parliament": {
       "email": "Oda.B@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-2792",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-2792",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "L1C 3X2",
+      "city_en": "Bowmanville",
       "city_fr": "Bowmanville",
       "province_en": "Ontario",
+      "telephone": "905-697-1699",
       "province_fr": "Ontario",
       "street_address_en": "68 King Street East, Unit 2",
-      "telephone": "905-697-1699",
-      "street_address_fr": "68, rue King Est, unit\u00e9 2",
-      "city_en": "Bowmanville"
+      "street_address_fr": "68, rue King Est, unit\u00e9 2"
     }
   },
-  "name": "Beverley J. (Bev) Oda",
   "date_of_birth": "1944-07-27",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Durham",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Durham",
-      "riding_fr": "Durham"
+      "riding_en": "Durham"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Durham",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Durham",
-      "riding_fr": "Durham"
+      "riding_en": "Durham"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Clarington--Scugog--Uxbridge",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Clarington--Scugog--Uxbridge",
-      "riding_fr": "Clarington--Scugog--Uxbridge"
+      "riding_en": "Clarington--Scugog--Uxbridge"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Thunder Bay, Ontario, Canada",
-    "name_en": "Thunder Bay, Ontario, Canada"
+    "name_en": "Thunder Bay, Ontario, Canada",
+    "name_fr": "Thunder Bay, Ontario, Canada"
   },
+  "id": "39a65c4b-9038-463b-a6ba-a22d94707191",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "39a65c4b-9038-463b-a6ba-a22d94707191",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.acdi-cida.gc.ca/acdi-cida/acdi-cida.nsf/eng/NIC-5494720-J79",
-      "url_fr": "http://www.acdi-cida.gc.ca/acdi-cida/acdi-cida.nsf/fra/NIC-5494720-J79",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78512&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78512&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65038",
-      "url_fr": "http://www.conservative.ca/FR/4568/65040",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.bevoda.ca/",
-      "url_fr": "http://www.bevoda.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

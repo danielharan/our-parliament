@@ -1,128 +1,127 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Dirigeant syndical",
-      "name_en": "Negotiator"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128177&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128177&Language=F"
     },
     {
-      "name_fr": "N\u00e9gociateur",
-      "name_en": "Union officer"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=f359548a-fc84-446f-ba72-b6d91c0ee99a",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=f359548a-fc84-446f-ba72-b6d91c0ee99a"
     }
   ],
-  "parlinfo_id": 128177,
   "functions": [
     {
-      "title_fr": "Travail",
+      "title_en": "Labour",
       "start_date": "2008-10-30",
+      "title_fr": "Travail",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Labour"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Negotiator",
+      "name_fr": "Dirigeant syndical"
+    },
+    {
+      "name_en": "Union officer",
+      "name_fr": "N\u00e9gociateur"
+    }
+  ],
+  "parlinfo_id": 128177,
+  "name": "Luc Desnoyers",
   "contact_info": {
     "parliament": {
       "email": "Desnoyers.L@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-7330",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-7330",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-2602",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "desnol1@parl.gc.ca",
       "postal_code": "J7R 1Y3",
+      "city_en": "Saint-Eustache",
       "city_fr": "Saint-Eustache",
       "province_en": "Quebec",
+      "telephone": "450-473-4864",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "172 Saint-Louis Street",
-      "telephone": "450-473-4864",
-      "street_address_fr": "172, rue Saint-Louis",
-      "fax": "450-473-9043",
-      "city_en": "Saint-Eustache"
+      "street_address_fr": "172, rue Saint-Louis"
     }
   },
-  "name": "Luc Desnoyers",
   "date_of_birth": "1950-10-02",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Rivi\u00e8re-des-Mille-\u00celes",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Rivi\u00e8re-des-Mille-\u00celes",
-      "riding_fr": "Rivi\u00e8re-des-Mille-\u00celes"
+      "riding_en": "Rivi\u00e8re-des-Mille-\u00celes"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Saint-J\u00e9r\u00f4me, Qu\u00e9bec, Canada",
-    "name_en": "St-J\u00e9r\u00f4me, Quebec, Canada"
+    "name_en": "St-J\u00e9r\u00f4me, Quebec, Canada",
+    "name_fr": "Saint-J\u00e9r\u00f4me, Qu\u00e9bec, Canada"
   },
+  "id": "13f8b4a1-d5c5-4ccd-8ac7-880fae6a9cec",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2008-10-14",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "13f8b4a1-d5c5-4ccd-8ac7-880fae6a9cec",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128177&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128177&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=f359548a-fc84-446f-ba72-b6d91c0ee99a",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=f359548a-fc84-446f-ba72-b6d91c0ee99a",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

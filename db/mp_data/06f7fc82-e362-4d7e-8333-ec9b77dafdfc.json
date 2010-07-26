@@ -1,237 +1,238 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.ic.gc.ca/eic/site/ic1.nsf/eng/00097.html",
+      "url_fr": "http://www.ic.gc.ca/eic/site/ic1.nsf/fra/00097.html?OpenDocument"
     },
     {
-      "name_fr": "Conseiller en politique",
-      "name_en": "Policy adviser"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78791&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78791&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1165&section_copy_id=9197&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1165&section_copy_id=9197&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.robmooremp.com/",
+      "url_fr": "http://www.robmooremp.com/"
     }
   ],
-  "parlinfo_id": 78791,
   "functions": [
     {
-      "title_fr": "Ministre d'\u00c9tat (Petite entreprise et Tourisme)",
+      "title_en": "Minister of State (Small Business and Tourism)",
       "start_date": "2010-01-19",
+      "title_fr": "Ministre d'\u00c9tat (Petite entreprise et Tourisme)",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State (Small Business and Tourism)"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Justice",
+      "title_en": "Parliamentary Secretary to the Minister of Justice",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la Justice",
       "end_date": "2010-01-18",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Justice"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Agriculture et Agro-alimentaire",
+      "title_en": "Agriculture and Agri-Food",
       "start_date": "2005-02-22",
+      "title_fr": "Agriculture et Agro-alimentaire",
       "end_date": "2006-02-05",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Agriculture and Agri-Food"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Legislative Committee on Bill C-31",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-31"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
+      "name_en": "Legislative Committee on Bill C-2",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-20",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-20"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-27",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-27",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-27"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-35",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-35"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-38",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-38"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-38",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-38"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur le processus de nomination \u00e0 la magistrature f\u00e9d\u00e9rale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
+      "name_en": "Subcommittee on the process for appointment to the Federal Judiciary of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 sur le processus de nomination \u00e0 la magistrature f\u00e9d\u00e9rale du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the process for appointment to the Federal Judiciary of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Policy adviser",
+      "name_fr": "Conseiller en politique"
+    }
+  ],
+  "parlinfo_id": 78791,
+  "name": "Rob Moore",
   "contact_info": {
     "parliament": {
       "email": "Moore.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-2332",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-2332",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "rmooremp@nb.aibn.com",
       "postal_code": "E5N 6C2",
+      "city_en": "Hampton",
       "city_fr": "Hampton",
       "province_en": "New Brunswick",
+      "telephone": "506-832-4200",
       "province_fr": "Nouveau-Brunswick",
       "street_address_en": "599 Main Street, Unit 104",
-      "telephone": "506-832-4200",
-      "street_address_fr": "599, rue Main, unit\u00e9 104",
-      "city_en": "Hampton"
+      "street_address_fr": "599, rue Main, unit\u00e9 104"
     }
   },
-  "name": "Rob Moore",
   "date_of_birth": "1974-05-14",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Fundy Royal",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Fundy Royal",
-      "riding_fr": "Fundy Royal"
+      "riding_en": "Fundy Royal"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Fundy Royal",
       "election_date": "2006-01-23",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Fundy Royal",
-      "riding_fr": "Fundy Royal"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "2004-06-28",
       "result_fr": "\u00c9lu",
-      "riding_en": "Fundy",
-      "riding_fr": "Fundy"
+      "riding_en": "Fundy Royal"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Fundy",
+      "election_date": "2004-06-28",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Fundy"
+    },
+    {
+      "riding_fr": "Fundy--Royal",
       "election_date": "2000-11-27",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Fundy--Royal",
-      "riding_fr": "Fundy--Royal"
+      "riding_en": "Fundy--Royal"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Gander, Terre-Neuve, Canada",
-    "name_en": "Gander, Newfoundland, Canada"
+    "name_en": "Gander, Newfoundland, Canada",
+    "name_fr": "Gander, Terre-Neuve, Canada"
   },
+  "id": "06f7fc82-e362-4d7e-8333-ec9b77dafdfc",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "name_en": "Canadian Reform Conservative Alliance",
       "start_date": "2000-11-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance"
-    }
-  ],
-  "language": "English",
-  "id": "06f7fc82-e362-4d7e-8333-ec9b77dafdfc",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.ic.gc.ca/eic/site/ic1.nsf/eng/00097.html",
-      "url_fr": "http://www.ic.gc.ca/eic/site/ic1.nsf/fra/00097.html?OpenDocument",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78791&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78791&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1165&section_copy_id=9197&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1165&section_copy_id=9197&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.robmooremp.com/",
-      "url_fr": "http://www.robmooremp.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "end_date": "2003-12-22"
     }
   ]
 }

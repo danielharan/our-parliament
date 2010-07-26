@@ -1,166 +1,167 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Adjointe ex\u00e9cutive",
-      "name_en": "Executive assistant"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.pco-bcp.gc.ca/index.asp?lang=eng&page=min&sub=AIA",
+      "url_fr": "http://www.pco-bcp.gc.ca/index.asp?lang=fra&page=min&sub=aia"
     },
     {
-      "name_fr": "Conseill\u00e8re politique",
-      "name_en": "Political adviser"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78491&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78491&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65112",
+      "url_fr": "http://www.conservative.ca/FR/4568/65114"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.joseeverner.ca/",
+      "url_fr": "http://www.joseeverner.ca/"
     }
   ],
-  "parlinfo_id": 78491,
   "functions": [
     {
+      "title_en": "Minister of Intergovernmental Affairs",
+      "start_date": "2008-10-30",
       "title_fr": "Ministre des Affaires intergouvernementales",
-      "start_date": "2008-10-30",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Intergovernmental Affairs"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "President of the Queen's Privy Council",
+      "start_date": "2008-10-30",
       "title_fr": "Pr\u00e9sidente du Conseil priv\u00e9",
-      "start_date": "2008-10-30",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "President of the Queen's Privy Council"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre du Patrimoine canadien et de la Condition f\u00e9minine",
+      "title_en": "Minister of Canadian Heritage and Status of Women",
       "start_date": "2007-08-14",
+      "title_fr": "Ministre du Patrimoine canadien et de la Condition f\u00e9minine",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Canadian Heritage and Status of Women"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de la Coop\u00e9ration internationale",
+      "title_en": "Minister for International Cooperation",
       "start_date": "2006-02-06",
+      "title_fr": "Ministre de la Coop\u00e9ration internationale",
       "end_date": "2007-08-13",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister for International Cooperation"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de la Francophonie",
+      "title_en": "Minister for La Francophonie",
       "start_date": "2008-05-27",
+      "title_fr": "Ministre de la Francophonie",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister for La Francophonie"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Ministre des Langues officielles",
+      "title_en": "Minister for Official Languages",
       "start_date": "2007-08-14",
+      "title_fr": "Ministre des Langues officielles",
       "end_date": "2008-05-26",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister for Official Languages"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Ministre de la Francophonie et des Langues officielles",
+      "title_en": "Minister for La Francophonie and Official Languages",
       "start_date": "2006-02-06",
+      "title_fr": "Ministre de la Francophonie et des Langues officielles",
       "end_date": "2007-08-13",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister for La Francophonie and Official Languages"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Qu\u00e9becRepr\u00e9sentante de la ville de Qu\u00e9bec",
+      "title_en": "QuebecResponsible for Qu\u00e9bec City",
       "start_date": "2008-10-30",
+      "title_fr": "Qu\u00e9becRepr\u00e9sentante de la ville de Qu\u00e9bec",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "QuebecResponsible for Qu\u00e9bec City"
+      "role_fr": "Ministre r\u00e9gional"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Executive assistant",
+      "name_fr": "Adjointe ex\u00e9cutive"
+    },
+    {
+      "name_en": "Political adviser",
+      "name_fr": "Conseill\u00e8re politique"
+    }
+  ],
+  "parlinfo_id": 78491,
+  "name": "Jos\u00e9e Verner",
   "contact_info": {
     "parliament": {
       "email": "Verner.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-4151",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-4151",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "vernerj1@parl.gc.ca",
       "postal_code": "G2K 1M1",
+      "city_en": "Qu\u00e9bec",
       "city_fr": "Qu\u00e9bec",
       "province_en": "Quebec",
+      "telephone": "418-626-5522",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "6655 Pierre Bertrand Boulevard, Suite 220",
-      "telephone": "418-626-5522",
-      "street_address_fr": "6655, boulevard Pierre Bertrand, bureau 220",
-      "city_en": "Qu\u00e9bec"
+      "street_address_fr": "6655, boulevard Pierre Bertrand, bureau 220"
     }
   },
-  "name": "Jos\u00e9e Verner",
   "date_of_birth": "1959-12-30",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Louis-Saint-Laurent",
       "election_date": "2008-10-14",
-      "result_fr": "\u00c9lue",
-      "riding_en": "Louis-Saint-Laurent",
-      "riding_fr": "Louis-Saint-Laurent"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "2006-01-23",
       "result_fr": "\u00c9lue",
-      "riding_en": "Louis-Saint-Laurent",
-      "riding_fr": "Louis-Saint-Laurent"
+      "riding_en": "Louis-Saint-Laurent"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Louis-Saint-Laurent",
+      "election_date": "2006-01-23",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Louis-Saint-Laurent"
+    },
+    {
+      "riding_fr": "Louis-Saint-Laurent",
       "election_date": "2004-06-28",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9faite",
-      "riding_en": "Louis-Saint-Laurent",
-      "riding_fr": "Louis-Saint-Laurent"
+      "riding_en": "Louis-Saint-Laurent"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Gatineau, Qu\u00e9bec, Canada",
-    "name_en": "Gatineau, Quebec, Canada"
+    "name_en": "Gatineau, Quebec, Canada",
+    "name_fr": "Gatineau, Qu\u00e9bec, Canada"
   },
+  "id": "5ce49042-d8c2-489e-b2b5-1b939682ca57",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "French",
-  "id": "5ce49042-d8c2-489e-b2b5-1b939682ca57",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.pco-bcp.gc.ca/index.asp?lang=eng&page=min&sub=AIA",
-      "url_fr": "http://www.pco-bcp.gc.ca/index.asp?lang=fra&page=min&sub=aia",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78491&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78491&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65112",
-      "url_fr": "http://www.conservative.ca/FR/4568/65114",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.joseeverner.ca/",
-      "url_fr": "http://www.joseeverner.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

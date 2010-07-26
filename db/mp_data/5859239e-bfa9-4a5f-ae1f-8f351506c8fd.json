@@ -1,273 +1,272 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Actrice",
-      "name_en": "Actress"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78612&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78612&Language=F"
     },
     {
-      "name_fr": "Chiropraticienne",
-      "name_en": "Businesswoman"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=12851",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12851"
     },
     {
-      "name_fr": "Femme d'affaires",
-      "name_en": "Chiropractor"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.rubydhalla.ca/",
+      "url_fr": "http://www.rubydhalla.ca/"
     }
   ],
-  "parlinfo_id": 78612,
   "functions": [
     {
+      "title_en": "Multiculturalism",
+      "start_date": "2009-01-22",
       "title_fr": "Jeunesse",
-      "start_date": "2009-01-22",
       "end_date": "2009-05-06",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Multiculturalism"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Youth",
+      "start_date": "2009-01-22",
       "title_fr": "Multiculturalisme",
-      "start_date": "2009-01-22",
       "end_date": "2009-05-06",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Youth"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Travail",
+      "title_en": "Labour",
       "start_date": "2008-11-14",
+      "title_fr": "Travail",
       "end_date": "2009-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Labour"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "D\u00e9veloppement social",
+      "title_en": "Social Development",
       "start_date": "2007-01-18",
+      "title_fr": "D\u00e9veloppement social",
       "end_date": "2008-11-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Social Development"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sant\u00e9",
+      "title_en": "Health",
       "start_date": "2006-05-30",
+      "title_fr": "Sant\u00e9",
       "end_date": "2007-01-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Health"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Consommation",
+      "title_en": "Consumer Affairs",
       "start_date": "2006-02-23",
+      "title_fr": "Consommation",
       "end_date": "2006-05-29",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Consumer Affairs"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la Sant\u00e9",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la Sant\u00e9",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 de la condition des personnes handicap\u00e9es du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 de la condition des personnes handicap\u00e9es du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Actress",
+      "name_fr": "Actrice"
+    },
+    {
+      "name_en": "Businesswoman",
+      "name_fr": "Chiropraticienne"
+    },
+    {
+      "name_en": "Chiropractor",
+      "name_fr": "Femme d'affaires"
+    }
+  ],
+  "parlinfo_id": 78612,
+  "name": "Ruby Dhalla",
   "contact_info": {
     "parliament": {
       "email": "Dhalla.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-4843",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-4843",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-995-7003",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "DhallR@parl.gc.ca",
       "postal_code": "L6T 4X6",
+      "city_en": "Brampton",
       "city_fr": "Brampton",
       "province_en": "Ontario",
+      "telephone": "905-874-6868",
       "province_fr": "Ontario",
       "street_address_en": "270 Orenda Road, Unit B",
-      "telephone": "905-874-6868",
-      "street_address_fr": "270, chemin Orenda, unit\u00e9 B",
-      "fax": "905-874-1415",
-      "city_en": "Brampton"
+      "street_address_fr": "270, chemin Orenda, unit\u00e9 B"
     }
   },
-  "name": "Ruby Dhalla",
   "date_of_birth": "1974-02-18",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Brampton--Springdale",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Brampton--Springdale",
-      "riding_fr": "Brampton--Springdale"
+      "riding_en": "Brampton--Springdale"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Brampton--Springdale",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Brampton--Springdale",
-      "riding_fr": "Brampton--Springdale"
+      "riding_en": "Brampton--Springdale"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Brampton--Springdale",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Brampton--Springdale",
-      "riding_fr": "Brampton--Springdale"
+      "riding_en": "Brampton--Springdale"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Winnipeg, Manitoba, Canada",
-    "name_en": "Winnipeg, Manitoba, Canada"
+    "name_en": "Winnipeg, Manitoba, Canada",
+    "name_fr": "Winnipeg, Manitoba, Canada"
   },
+  "id": "5859239e-bfa9-4a5f-ae1f-8f351506c8fd",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "1988",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "5859239e-bfa9-4a5f-ae1f-8f351506c8fd",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78612&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78612&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/members_e.aspx?id=12851",
-      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12851",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.rubydhalla.ca/",
-      "url_fr": "http://www.rubydhalla.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

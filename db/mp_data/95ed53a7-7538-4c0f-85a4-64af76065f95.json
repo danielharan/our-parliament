@@ -1,165 +1,165 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Adjoint ex\u00e9cutif",
-      "name_en": "Executive assistant"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128327&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128327&Language=F"
     },
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/dondavies",
+      "url_fr": "http://www.npd.ca/dondavies"
     },
     {
-      "name_fr": "Recherchiste",
-      "name_en": "Researcher"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://dondavies.ndp.ca/",
+      "url_fr": "http://dondavies.ndp.ca/"
     }
   ],
-  "parlinfo_id": 128327,
   "functions": [
     {
-      "title_fr": "S\u00e9curit\u00e9 publique",
+      "title_en": "Public Safety",
       "start_date": "2009-04-20",
+      "title_fr": "S\u00e9curit\u00e9 publique",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Public Safety"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Multiculturalism",
+      "start_date": "2008-11-17",
       "title_fr": "Diversification de l'\u00e9conomie de l'Ouest",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Multiculturalism"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Vancouver Region",
+      "start_date": "2008-11-17",
       "title_fr": "Multiculturalisme",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Vancouver Region"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Western Economic Diversification",
+      "start_date": "2008-11-17",
       "title_fr": "Vancouver, R\u00e9gion de",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Western Economic Diversification"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Citoyennet\u00e9 et Immigration",
+      "title_en": "Citizenship and Immigration",
       "start_date": "2008-11-17",
+      "title_fr": "Citoyennet\u00e9 et Immigration",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Citizenship and Immigration"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Executive assistant",
+      "name_fr": "Adjoint ex\u00e9cutif"
+    },
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Researcher",
+      "name_fr": "Recherchiste"
+    }
+  ],
+  "parlinfo_id": 128327,
+  "name": "Don Davies",
   "contact_info": {
     "parliament": {
       "email": "Davies.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-943-0267",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-943-0267",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-943-0219",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "V5R 5J4",
+      "city_en": "Vancouver",
       "city_fr": "Vancouver",
       "province_en": "British Columbia",
+      "telephone": "604-775-6263",
       "province_fr": "Colombie-Britannique",
       "street_address_en": "2951 Kingsway Avenue",
-      "telephone": "604-775-6263",
-      "street_address_fr": "2951, avenue Kingsway",
       "fax": "604-775-6284",
-      "city_en": "Vancouver"
+      "street_address_fr": "2951, avenue Kingsway"
     }
   },
-  "name": "Don Davies",
   "date_of_birth": "1963-01-16",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Vancouver Kingsway",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Vancouver Kingsway",
-      "riding_fr": "Vancouver Kingsway"
+      "riding_en": "Vancouver Kingsway"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Edmonton, Alberta, Canada",
-    "name_en": "Edmonton, Alberta, Canada"
+    "name_en": "Edmonton, Alberta, Canada",
+    "name_fr": "Edmonton, Alberta, Canada"
   },
+  "id": "95ed53a7-7538-4c0f-85a4-64af76065f95",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2008-10-14",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "95ed53a7-7538-4c0f-85a4-64af76065f95",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128327&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128327&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/dondavies",
-      "url_fr": "http://www.npd.ca/dondavies",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://dondavies.ndp.ca/",
-      "url_fr": "http://dondavies.ndp.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

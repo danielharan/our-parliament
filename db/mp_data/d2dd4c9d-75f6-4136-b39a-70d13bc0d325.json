@@ -1,183 +1,182 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Conseiller politique",
-      "name_en": "Engineer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78325&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78325&Language=F"
     },
     {
-      "name_fr": "Coordinateur de projet",
-      "name_en": "Political adviser"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=bd1ee74d-4269-4f5e-8ae9-d5e3c1c61179",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=bd1ee74d-4269-4f5e-8ae9-d5e3c1c61179"
     },
     {
-      "name_fr": "Ing\u00e9nieur",
-      "name_en": "Project coordinator"
+      "name_en": "Personal Website (Available in French only)",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.robertcarrier.org",
+      "url_fr": "http://www.robertcarrier.org"
     }
   ],
-  "parlinfo_id": 78325,
   "functions": [
     {
+      "title_en": "National Revenue",
+      "start_date": "2008-06-26",
       "title_fr": "Revenu national",
-      "start_date": "2008-06-26",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Revenue"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Finances",
+      "title_en": "Finance",
       "start_date": "2008-06-26",
+      "title_fr": "Finances",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Finance"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Transports",
+      "title_en": "Transport",
       "start_date": "2006-02-10",
+      "title_fr": "Transports",
       "end_date": "2008-06-25",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Transport"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Transports",
+      "title_en": "Transport",
       "start_date": "2004-08-06",
+      "title_fr": "Transports",
       "end_date": "2006-02-09",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Transport"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Engineer",
+      "name_fr": "Conseiller politique"
+    },
+    {
+      "name_en": "Political adviser",
+      "name_fr": "Coordinateur de projet"
+    },
+    {
+      "name_en": "Project coordinator",
+      "name_fr": "Ing\u00e9nieur"
+    }
+  ],
+  "parlinfo_id": 78325,
+  "name": "Robert Carrier",
   "contact_info": {
     "parliament": {
       "email": "Carrier.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-0611",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-0611",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-8556",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "carriro1@parl.gc.ca",
       "postal_code": "H7E 4W4",
+      "city_en": "Laval",
       "city_fr": "Laval",
       "province_en": "Quebec",
+      "telephone": "450-661-4117",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "3131 de la Concorde Boulevard East, Suite 304",
-      "telephone": "450-661-4117",
-      "street_address_fr": "3131, boulevard de la Concorde Est,\r\nbureau 304",
-      "fax": "450-661-5623",
-      "city_en": "Laval"
+      "street_address_fr": "3131, boulevard de la Concorde Est,\r\nbureau 304"
     }
   },
-  "name": "Robert Carrier",
   "date_of_birth": "1941-06-03",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Alfred-Pellan",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Alfred-Pellan",
-      "riding_fr": "Alfred-Pellan"
+      "riding_en": "Alfred-Pellan"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Alfred-Pellan",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Alfred-Pellan",
-      "riding_fr": "Alfred-Pellan"
+      "riding_en": "Alfred-Pellan"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Alfred-Pellan",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Alfred-Pellan",
-      "riding_fr": "Alfred-Pellan"
+      "riding_en": "Alfred-Pellan"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
-    "name_en": "Montreal, Quebec, Canada"
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
   },
+  "id": "d2dd4c9d-75f6-4136-b39a-70d13bc0d325",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2001",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "d2dd4c9d-75f6-4136-b39a-70d13bc0d325",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78325&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78325&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=bd1ee74d-4269-4f5e-8ae9-d5e3c1c61179",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=bd1ee74d-4269-4f5e-8ae9-d5e3c1c61179",
-      "name_en": "Party Website (Available in French only)"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.robertcarrier.org",
-      "url_fr": "http://www.robertcarrier.org",
-      "name_en": "Personal Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

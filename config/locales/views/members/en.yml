@@ -15,6 +15,7 @@ en:
             subtitle: "{{party_name}} Member for {{riding_name}}"
             intro: "MPs represent you in the <a href=\"http://www.apathyisboring.com/en/the_facts/articles/decoding_the_house_of_commons\">House of Commons</a>. These profiles include their votes and speeches in the House, so you can use Citizen Factory keep tabs on your MP. And if there's something you think your MP should (or shouldn't) be doing, use the information on the left to contact them."
             riding: "MP for {{riding}}"
+            days_of_service: "{{days}} Days of service"
         votes:
             title: ""
         activity_feed:

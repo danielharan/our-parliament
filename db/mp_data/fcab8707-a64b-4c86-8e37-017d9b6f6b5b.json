@@ -1,192 +1,191 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Adjoint politique",
-      "name_en": "Coordinator"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78662&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78662&Language=F"
     },
     {
-      "name_fr": "Coordinateur",
-      "name_en": "Mediator"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=9651e649-22af-4d0a-9e8f-43aaa95f7fd1",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=9651e649-22af-4d0a-9e8f-43aaa95f7fd1"
     },
     {
-      "name_fr": "Enseignant",
-      "name_en": "Political assistant"
-    },
-    {
-      "name_fr": "M\u00e9diateur",
-      "name_en": "Social worker"
-    },
-    {
-      "name_fr": "Travailleur social",
-      "name_en": "Teacher"
+      "name_en": "Personal Website (Available in French only)",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.guyandre.qc.ca/",
+      "url_fr": "http://www.guyandre.qc.ca/"
     }
   ],
-  "parlinfo_id": 78662,
   "functions": [
     {
-      "title_fr": "Anciens combattants",
+      "title_en": "Veterans Affairs",
       "start_date": "2008-10-31",
+      "title_fr": "Anciens combattants",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Veterans Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Francophonie",
+      "title_en": "Francophonie",
       "start_date": "2004-08-06",
+      "title_fr": "Francophonie",
       "end_date": "2006-02-09",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Francophonie"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Globalization",
+      "start_date": "2006-02-10",
       "title_fr": "Commerce ext\u00e9rieur",
-      "start_date": "2006-02-10",
       "end_date": "2008-10-30",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Globalization"
+      "role_fr": "Porte-parole adjoint"
     },
     {
+      "title_en": "International Financial Institutions",
+      "start_date": "2006-02-10",
       "title_fr": "Institutions financi\u00e8res internationales",
-      "start_date": "2006-02-10",
       "end_date": "2008-10-30",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "International Financial Institutions"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Mondialisation",
+      "title_en": "International Trade",
       "start_date": "2006-02-10",
+      "title_fr": "Mondialisation",
       "end_date": "2008-10-30",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "International Trade"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "name_en": "Standing Committee on Official Languages",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Coordinator",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Mediator",
+      "name_fr": "Coordinateur"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Enseignant"
+    },
+    {
+      "name_en": "Social worker",
+      "name_fr": "M\u00e9diateur"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "Travailleur social"
+    }
+  ],
+  "parlinfo_id": 78662,
+  "name": "Guy Andr\u00e9",
   "contact_info": {
     "parliament": {
       "email": "Andre.G@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
       "telephone": "613-992-5681",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-7276",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "andreg1@parl.gc.ca",
       "postal_code": "J5V 1K2",
+      "city_en": "Louiseville",
       "city_fr": "Louiseville",
       "province_en": "Quebec",
       "telephone": "819-228-1210",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "343 Saint-Laurent Avenue",
-      "street_address_fr": "343, avenue Saint-Laurent",
-      "fax": "1-866-311-1210",
-      "city_en": "Louiseville"
+      "street_address_fr": "343, avenue Saint-Laurent"
     }
   },
-  "name": "Guy Andr\u00e9",
   "date_of_birth": "1959-11-17",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Berthier--Maskinong\u00e9",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Berthier--Maskinong\u00e9",
-      "riding_fr": "Berthier--Maskinong\u00e9"
+      "riding_en": "Berthier--Maskinong\u00e9"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Berthier--Maskinong\u00e9",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Berthier--Maskinong\u00e9",
-      "riding_fr": "Berthier--Maskinong\u00e9"
+      "riding_en": "Berthier--Maskinong\u00e9"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Berthier--Maskinong\u00e9",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Berthier--Maskinong\u00e9",
-      "riding_fr": "Berthier--Maskinong\u00e9"
+      "riding_en": "Berthier--Maskinong\u00e9"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
-    "name_en": "Montreal, Quebec, Canada"
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
   },
+  "id": "fcab8707-a64b-4c86-8e37-017d9b6f6b5b",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2004-06-28",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "fcab8707-a64b-4c86-8e37-017d9b6f6b5b",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78662&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78662&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=9651e649-22af-4d0a-9e8f-43aaa95f7fd1",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=9651e649-22af-4d0a-9e8f-43aaa95f7fd1",
-      "name_en": "Party Website (Available in French only)"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.guyandre.qc.ca/",
-      "url_fr": "http://www.guyandre.qc.ca/",
-      "name_en": "Personal Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

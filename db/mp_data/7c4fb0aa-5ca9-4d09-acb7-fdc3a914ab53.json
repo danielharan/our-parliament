@@ -1,161 +1,162 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Executive manager"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78686&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78686&Language=F"
     },
     {
-      "name_fr": "\u00e9crivain",
-      "name_en": "Lawyer"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=12947",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12947"
     },
     {
-      "name_fr": "Gestionnaire",
-      "name_en": "Professional hockey player"
-    },
-    {
-      "name_fr": "Joueur de hockey professionnel",
-      "name_en": "Writer"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.kendryden.ca/",
+      "url_fr": "http://www.kendryden.ca/"
     }
   ],
-  "parlinfo_id": 78686,
   "functions": [
     {
-      "title_fr": "Ministre du D\u00e9veloppement social",
+      "title_en": "Minister of Social Development",
       "start_date": "2004-07-20",
+      "title_fr": "Ministre du D\u00e9veloppement social",
       "end_date": "2006-02-05",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Social Development"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Family Issues",
+      "start_date": "2009-01-22",
       "title_fr": "Famille",
-      "start_date": "2009-01-22",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Family Issues"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Poverty",
+      "start_date": "2009-01-22",
       "title_fr": "Pauvret\u00e9",
-      "start_date": "2009-01-22",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Poverty"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Environnement",
+      "title_en": "Environment",
       "start_date": "2008-11-14",
+      "title_fr": "Environnement",
       "end_date": "2009-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Environment"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sant\u00e9",
+      "title_en": "Health",
       "start_date": "2006-02-23",
+      "title_fr": "Sant\u00e9",
       "end_date": "2006-05-29",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Health"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Executive manager",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Lawyer",
+      "name_fr": "\u00e9crivain"
+    },
+    {
+      "name_en": "Professional hockey player",
+      "name_fr": "Gestionnaire"
+    },
+    {
+      "name_en": "Writer",
+      "name_fr": "Joueur de hockey professionnel"
+    }
+  ],
+  "parlinfo_id": 78686,
+  "name": "Ken Dryden",
   "contact_info": {
     "parliament": {
       "email": "Dryden.K@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-941-6339",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-941-6339",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "M3H 2T6",
+      "city_en": "Toronto",
       "city_fr": "Toronto",
       "province_en": "Ontario",
+      "telephone": "416-638-3700",
       "province_fr": "Ontario",
       "street_address_en": "1030 Sheppard Avenue West",
-      "telephone": "416-638-3700",
-      "street_address_fr": "1030, avenue Sheppard Ouest",
       "fax": "416-638-1407",
-      "city_en": "Toronto"
+      "street_address_fr": "1030, avenue Sheppard Ouest"
     }
   },
-  "name": "Ken Dryden",
   "date_of_birth": "1947-08-08",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "York-Centre",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "York Centre",
-      "riding_fr": "York-Centre"
+      "riding_en": "York Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "York-Centre",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "York Centre",
-      "riding_fr": "York-Centre"
+      "riding_en": "York Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "York-Centre",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "York Centre",
-      "riding_fr": "York-Centre"
+      "riding_en": "York Centre"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Hamilton, Ontario, Canada",
-    "name_en": "Hamilton, Ontario, Canada"
+    "name_en": "Hamilton, Ontario, Canada",
+    "name_fr": "Hamilton, Ontario, Canada"
   },
+  "id": "7c4fb0aa-5ca9-4d09-acb7-fdc3a914ab53",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "7c4fb0aa-5ca9-4d09-acb7-fdc3a914ab53",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78686&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78686&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/members_e.aspx?id=12947",
-      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12947",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.kendryden.ca/",
-      "url_fr": "http://www.kendryden.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

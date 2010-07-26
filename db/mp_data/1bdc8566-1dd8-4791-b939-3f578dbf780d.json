@@ -1,160 +1,161 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "G\u00e9rant",
-      "name_en": "Engineer"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.democraticreform.gc.ca/index.asp?lang=eng&page=min",
+      "url_fr": "http://www.democraticreform.gc.ca/index.asp?lang=fra&page=min"
     },
     {
-      "name_fr": "Ing\u00e9nieur",
-      "name_en": "Manager"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78409&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78409&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/107488",
+      "url_fr": "http://www.conservative.ca/FR/4568/107490"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.stevenfletcher.com/",
+      "url_fr": "http://www.stevenfletcher.com/"
     }
   ],
-  "parlinfo_id": 78409,
   "functions": [
     {
-      "title_fr": "Ministre d'\u00c9tat (R\u00e9forme d\u00e9mocratique)",
+      "title_en": "Minister of State (Democratic Reform)",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre d'\u00c9tat (R\u00e9forme d\u00e9mocratique)",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State (Democratic Reform)"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire pour la Sant\u00e9",
+      "title_en": "Parliamentary Secretary for Health",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire pour la Sant\u00e9",
       "end_date": "2008-10-29",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary for Health"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Sant\u00e9",
+      "title_en": "Health",
       "start_date": "2004-07-22",
+      "title_fr": "Sant\u00e9",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Health"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
+      "name_en": "Legislative Committee on Bill C-20",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-20"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Engineer",
+      "name_fr": "G\u00e9rant"
+    },
+    {
+      "name_en": "Manager",
+      "name_fr": "Ing\u00e9nieur"
+    }
+  ],
+  "parlinfo_id": 78409,
+  "name": "Steven John Fletcher",
   "contact_info": {
     "parliament": {
       "email": "Fletcher.S@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-5609",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-5609",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "R3K 0W4",
+      "city_en": "Winnipeg",
       "city_fr": "Winnipeg",
       "province_en": "Manitoba",
+      "telephone": "204-984-6432",
       "province_fr": "Manitoba",
       "street_address_en": "3111A Portage Avenue",
-      "telephone": "204-984-6432",
-      "street_address_fr": "3111A, avenue Portage",
       "fax": "204-984-6451",
-      "city_en": "Winnipeg"
+      "street_address_fr": "3111A, avenue Portage"
     }
   },
-  "name": "Steven John Fletcher",
   "date_of_birth": "1972-06-17",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Charleswood--St. James--Assiniboia",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Charleswood--St. James--Assiniboia",
-      "riding_fr": "Charleswood--St. James--Assiniboia"
+      "riding_en": "Charleswood--St. James--Assiniboia"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Charleswood--St. James--Assiniboia",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Charleswood--St. James--Assiniboia",
-      "riding_fr": "Charleswood--St. James--Assiniboia"
+      "riding_en": "Charleswood--St. James--Assiniboia"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Charleswood--St. James",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Charleswood--St. James",
-      "riding_fr": "Charleswood--St. James"
+      "riding_en": "Charleswood--St. James"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Rio de Janeiro, Br\u00e9sil",
-    "name_en": "Rio de Janeiro, Brazil"
+    "name_en": "Rio de Janeiro, Brazil",
+    "name_fr": "Rio de Janeiro, Br\u00e9sil"
   },
+  "id": "1bdc8566-1dd8-4791-b939-3f578dbf780d",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "1bdc8566-1dd8-4791-b939-3f578dbf780d",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.democraticreform.gc.ca/index.asp?lang=eng&page=min",
-      "url_fr": "http://www.democraticreform.gc.ca/index.asp?lang=fra&page=min",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78409&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78409&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/107488",
-      "url_fr": "http://www.conservative.ca/FR/4568/107490",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.stevenfletcher.com/",
-      "url_fr": "http://www.stevenfletcher.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

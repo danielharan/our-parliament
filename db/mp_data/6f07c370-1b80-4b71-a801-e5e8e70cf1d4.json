@@ -1,111 +1,112 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Directeur ex\u00e9cutif",
-      "name_en": "Broadcast journalist"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128626&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128626&Language=F"
     },
     {
-      "name_fr": "G\u00e9rant",
-      "name_en": "Executive director"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/glennthibeault",
+      "url_fr": "http://www.npd.ca/glennthibeault"
     },
     {
-      "name_fr": "Journaliste de radiot\u00e9l\u00e9vision",
-      "name_en": "Manager"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.glennthibeault.ca/",
+      "url_fr": "http://www.glennthibeault.ca/"
     }
   ],
-  "parlinfo_id": 128626,
   "functions": [
     {
-      "title_fr": "Consommation",
+      "title_en": "Consumer Affairs",
       "start_date": "2008-11-17",
+      "title_fr": "Consommation",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Consumer Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sports",
+      "title_en": "Sports",
       "start_date": "2008-11-17",
+      "title_fr": "Sports",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Sports"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Broadcast journalist",
+      "name_fr": "Directeur ex\u00e9cutif"
+    },
+    {
+      "name_en": "Executive director",
+      "name_fr": "G\u00e9rant"
+    },
+    {
+      "name_en": "Manager",
+      "name_fr": "Journaliste de radiot\u00e9l\u00e9vision"
+    }
+  ],
+  "parlinfo_id": 128626,
+  "name": "Glenn Thibeault",
   "contact_info": {
     "parliament": {
       "email": "Thibeault.G@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-8962",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-8962",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "P3C 1S8",
+      "city_en": "Sudbury",
       "city_fr": "Sudbury",
       "province_en": "Ontario",
+      "telephone": "705-673-7107",
       "province_fr": "Ontario",
       "street_address_en": "40 Elm Street, Suite 102A",
-      "telephone": "705-673-7107",
-      "street_address_fr": "40, rue Elm, bureau 102A",
       "fax": "705-673-0944",
-      "city_en": "Sudbury"
+      "street_address_fr": "40, rue Elm, bureau 102A"
     }
   },
-  "name": "Glenn Thibeault",
   "date_of_birth": "1969-10-23",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Sudbury",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Sudbury",
-      "riding_fr": "Sudbury"
+      "riding_en": "Sudbury"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Sudbury, Ontario, Canada",
-    "name_en": "Sudbury, Ontario, Canada"
+    "name_en": "Sudbury, Ontario, Canada",
+    "name_fr": "Sudbury, Ontario, Canada"
   },
+  "id": "6f07c370-1b80-4b71-a801-e5e8e70cf1d4",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2008-10-14",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "6f07c370-1b80-4b71-a801-e5e8e70cf1d4",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128626&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128626&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/glennthibeault",
-      "url_fr": "http://www.npd.ca/glennthibeault",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.glennthibeault.ca/",
-      "url_fr": "http://www.glennthibeault.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }
