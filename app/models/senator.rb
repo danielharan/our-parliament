@@ -36,8 +36,8 @@ class Senator < ActiveRecord::Base
   
   def links
     h = {}
-    h[I18n.t('weblink.personal')]    = personal_website       unless personal_website.blank?
-    h[I18n.t('weblink.party')]       = party_website          unless party_website.blank?
+    h[I18n.t('senators.weblink.personal', :member_name => normalized_name)]    = personal_website       unless personal_website.blank?
+    h[I18n.t('senators.weblink.party', :member_name => normalized_name)]       = party_website          unless party_website.blank?
     h
   end
   
@@ -71,9 +71,11 @@ class Senator < ActiveRecord::Base
     end
     
     def scrape_senator(elem)
+      party = Party.find_by_name_en(clean(elem / (elem.path + "/td[2]")))
+      province = Province.find_by_name_en(clean(elem / (elem.path + "/td[3]")))
       new :name            => clean(elem / (elem.path + "/td[1]/a")),
-          :affiliation     => clean(elem / (elem.path + "/td[2]")),
-          :province        => clean(elem / (elem.path + "/td[3]")),
+          :party           => party,
+          :province        => province,
           :nomination_date => clean(elem / (elem.path + "/td[4]")),
           :retirement_date => clean(elem / (elem.path + "/td[5]")),
           :appointed_by    => clean(elem / (elem.path + "/td[6]"))

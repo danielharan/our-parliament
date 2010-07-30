@@ -26,3 +26,12 @@ fr:
             description: "Activité pour {{senator_name}}, député de {{province_name}}"
             twitter_post: "{{senator_name}} posté sur"
             news_article: "{{senator_name}} paru dans l'article {{article_name}}"
+        weblink:
+            facebook: "{{member_name}} sur Facebook"
+            wikipedia: "Entrée Wikipédia de {{member_name}}"
+            twitter: "{{member_name}} sur Twitter"
+            personal: "Le site internet personnel de {{member_name}}"
+            party:  "Le site internet du parti de {{member_name}}"
+        photo:
+            prompt: "Possédez-vous une photo de ce député?"
+            prompt_link: "Permettez-nous de l'utiliser!"

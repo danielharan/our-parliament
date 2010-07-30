@@ -4,7 +4,7 @@ namespace :update do
     puts "Updating hansard statements..."
     num_found = 0
     Hansard.get_list.each { |hansard_list_info|
-      if not Hansard.find_by_id(hansard_info['id'])       
+      if not Hansard.find_by_id(hansard_list_info['id'])       
         hansard_info = Hansard.fetch(hansard_list_info['id'])
         if hansard_info
           hansard = {

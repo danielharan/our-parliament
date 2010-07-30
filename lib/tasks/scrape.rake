@@ -23,7 +23,7 @@ def scrape_vote(parliament, session, number)
       #mp = Mp.find_by_parliament_and_session_and_constituency_name(parliament, session, member.constituency)
       mp = Mp.find_by_constituency_name_and_last_name(member.constituency, member.lastname)
   
-      mp.recorded_votes.create :vote => vote, :stance => member.recorded_vote
+      mp.recorded_votes.create :vote => vote, :stance => member.recorded_vote if mp
     end
   end
   

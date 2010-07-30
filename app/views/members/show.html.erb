@@ -49,18 +49,16 @@
     </ul>
   </div>
 
-  <div id="links" class="block">
-    <h3><%= t('members.section.links') %></h3>
-    <% if @mp.links.keys.empty? %>
-      None found
-    <% else %>
+  <% if not @mp.links.keys.empty? %>
+	<div id="links" class="block">
+	  <h3><%= t('members.section.links') %></h3>
       <ul>
         <% @mp.links.each do |name, link| %>
           <li><%= link_to(name, link) %></li>
         <% end %>
       </ul>
-    <% end %>
-  </div>
+	</div>
+  <% end %>
 
   <%= render :partial => 'shared/links' %>
 

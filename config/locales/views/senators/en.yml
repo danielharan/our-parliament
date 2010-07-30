@@ -28,3 +28,12 @@ en:
             description: "News feed for {{senator_name}}, senator from {{province_name}}"
             twitter_post: "{{senator_name}} posted on Twitter"
             news_article: "{{senator_name}} appeared in the article {{article_name}}"
+        weblink:
+            facebook: "{{member_name}} on Facebook"
+            wikipedia: "{{member_name}}'s Wikipedia Entry"
+            twitter: "{{member_name}} on Twitter"
+            personal: "{{member_name}}'s Personal Website"
+            party:  "{{member_name}}'s Party Website"
+        photo:
+            prompt: "Do you own a photo of this senator?"
+            prompt_link: "Let us use it!"
