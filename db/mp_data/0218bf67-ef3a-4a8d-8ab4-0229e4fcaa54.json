@@ -1,207 +1,208 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Auteur",
-      "name_en": "Author"
+      "name_en": "Prime Minister's Website",
+      "name_fr": "Site Web du premier ministre",
+      "url_en": "http://www.pm.gc.ca/",
+      "url_fr": "http://www.pm.gc.ca/"
     },
     {
-      "name_fr": "Charg\u00e9 de cours",
-      "name_en": "Economist"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78553&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78553&Language=F"
     },
     {
-      "name_fr": "\u00e9conomiste",
-      "name_en": "Lecturer"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/64854",
+      "url_fr": "http://www.conservative.ca/FR/4568/64856"
     }
   ],
-  "parlinfo_id": 78553,
   "functions": [
     {
-      "title_fr": "Premier ministre",
+      "title_en": "Prime Minister",
       "start_date": "2006-02-06",
+      "title_fr": "Premier ministre",
       "role_en": "Prime Minister of Canada",
-      "role_fr": "Premier ministre du Canada",
-      "title_en": "Prime Minister"
+      "role_fr": "Premier ministre du Canada"
     },
     {
-      "title_fr": "Chef de l'Opposition officielle",
+      "title_en": "Leader of the Official Opposition",
       "start_date": "2004-03-20",
+      "title_fr": "Chef de l'Opposition officielle",
       "end_date": "2006-02-05",
       "role_en": "Leader of the Official Opposition",
-      "role_fr": "Chef de l'Opposition Officielle",
-      "title_en": "Leader of the Official Opposition"
+      "role_fr": "Chef de l'Opposition Officielle"
     },
     {
-      "title_fr": "Chef de l'Opposition officielle",
+      "title_en": "Leader of the Official Opposition",
       "start_date": "2002-05-21",
+      "title_fr": "Chef de l'Opposition officielle",
       "end_date": "2004-01-08",
       "role_en": "Leader of the Official Opposition",
-      "role_fr": "Chef de l'Opposition Officielle",
-      "title_en": "Leader of the Official Opposition"
+      "role_fr": "Chef de l'Opposition Officielle"
     },
     {
-      "title_fr": "Premier ministre",
+      "title_en": "Prime Minister",
       "start_date": "2004-03-20",
+      "title_fr": "Premier ministre",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Prime Minister"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Premier ministre",
+      "title_en": "Prime Minister",
       "start_date": "2002-05-21",
+      "title_fr": "Premier ministre",
       "end_date": "2004-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Prime Minister"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Finances",
+      "title_en": "Finance",
       "start_date": "1995-06",
+      "title_fr": "Finances",
       "end_date": "1996",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Finance"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires intergouvernementales",
+      "title_en": "Intergovernmental Affairs",
       "start_date": "1994-09",
+      "title_fr": "Affaires intergouvernementales",
       "end_date": "1997-01",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Intergovernmental Affairs"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales",
+      "name_en": "Standing Committee on Government Operations",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 charg\u00e9 de l'\u00e9tude de la Loi r\u00e9f\u00e9rendaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs",
       "parliament": 35,
+      "name_fr": "Sous-comit\u00e9 charg\u00e9 de l'\u00e9tude de la Loi r\u00e9f\u00e9rendaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Review of the Referendum Act of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1999-02-20",
+  "professions": [
+    {
+      "name_en": "Author",
+      "name_fr": "Auteur"
+    },
+    {
+      "name_en": "Economist",
+      "name_fr": "Charg\u00e9 de cours"
+    },
+    {
+      "name_en": "Lecturer",
+      "name_fr": "\u00e9conomiste"
+    }
+  ],
+  "parlinfo_id": 78553,
+  "name": "Stephen Harper",
   "contact_info": {
     "parliament": {
       "email": "Harper.S@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-4211",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-4211",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "T2V 5A8",
+      "city_en": "Calgary",
       "city_fr": "Calgary",
       "province_en": "Alberta",
+      "telephone": "403-253-7990",
       "province_fr": "Alberta",
       "street_address_en": "1600   90th Avenue Southwest, suite A-203",
-      "telephone": "403-253-7990",
-      "street_address_fr": "1600,  90e Avenue Sud-Ouest, bureau A-203",
       "fax": "403-253-8203",
-      "city_en": "Calgary"
+      "street_address_fr": "1600,  90e Avenue Sud-Ouest, bureau A-203"
     }
   },
-  "name": "Stephen Harper",
   "date_of_birth": "1959-04-30",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Calgary-Sud-Ouest",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Calgary Southwest",
-      "riding_fr": "Calgary-Sud-Ouest"
+      "riding_en": "Calgary Southwest"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Calgary-Sud-Ouest",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Calgary Southwest",
-      "riding_fr": "Calgary-Sud-Ouest"
+      "riding_en": "Calgary Southwest"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Calgary-Sud-Ouest",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Calgary Southwest",
-      "riding_fr": "Calgary-Sud-Ouest"
+      "riding_en": "Calgary Southwest"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Calgary-Sud-Ouest",
       "election_date": "2002-05-13",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Calgary Southwest",
-      "riding_fr": "Calgary-Sud-Ouest"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "1993-10-25",
       "result_fr": "\u00c9lu",
-      "riding_en": "Calgary West",
-      "riding_fr": "Calgary-Ouest"
+      "riding_en": "Calgary Southwest"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Calgary-Ouest",
+      "election_date": "1993-10-25",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Calgary West"
+    },
+    {
+      "riding_fr": "Calgary-Ouest",
       "election_date": "1988-11-21",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Calgary West",
-      "riding_fr": "Calgary-Ouest"
+      "riding_en": "Calgary West"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "0218bf67-ef3a-4a8d-8ab4-0229e4fcaa54",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "name_en": "Canadian Reform Conservative Alliance",
       "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance"
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "end_date": "2003-12-22"
     },
     {
-      "name_fr": "Parti r\u00e9formiste",
+      "name_en": "Reform Party",
       "start_date": "1988-11-21",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party"
-    }
-  ],
-  "language": "English",
-  "id": "0218bf67-ef3a-4a8d-8ab4-0229e4fcaa54",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du premier ministre",
-      "url_en": "http://www.pm.gc.ca/",
-      "url_fr": "http://www.pm.gc.ca/",
-      "name_en": "Prime Minister's Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78553&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78553&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/64854",
-      "url_fr": "http://www.conservative.ca/FR/4568/64856",
-      "name_en": "Party Website"
+      "name_fr": "Parti r\u00e9formiste",
+      "end_date": "2000-03-26"
     }
   ]
 }

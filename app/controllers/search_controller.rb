@@ -14,16 +14,21 @@ class SearchController < ApplicationController
   end
   
   def postal_code
-    @q        = params[:q]
+    @q         = params[:q]
     @query     = @q.gsub(/[\s_-]/, '')
-    province  = find_province_by_postal_code(@query) 
-    @senators = [*Senator.find_all_by_province_id(province.id)]
-    @edids     = find_edids_by_postal_code(@query)
-    if not @edids.empty?
-      @mps    = [*Mp.find_all_by_riding_id(@edids)]
-    else
-      @mps    = []
+    @mps       = []
+    @senators  = []
+    @edids     = []
+    @senators  = []
+    if @query.length == 6
+      province  = find_province_by_postal_code(@query) 
+      @senators = [*Senator.find_all_by_province_id(province.id)]
+      @edids     = find_edids_by_postal_code(@query)
+      if not @edids.empty?
+        @mps    = [*Mp.find_all_by_riding_id(@edids)]
+      end
     end
+
   end
   
   private
@@ -43,6 +48,7 @@ class SearchController < ApplicationController
   end
   
   def find_province_by_postal_code(postal_code)
+    return nil if postal_code.length != 6
     return case postal_code.upcase
       when /^A/: Province.find_by_name_en("Newfoundland and Labrador")
       when /^B/: Province.find_by_name_en("Nova Scotia")

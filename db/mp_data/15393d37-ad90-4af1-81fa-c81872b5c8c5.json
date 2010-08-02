@@ -1,130 +1,131 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Enseignante",
-      "name_en": "Teacher"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128471&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128471&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1287",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1287&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.tillygordon.ca",
+      "url_fr": "http://www.tillygordon.ca/FR/"
     }
   ],
-  "parlinfo_id": 128471,
   "functions": [
 
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Teacher",
+      "name_fr": "Enseignante"
+    }
+  ],
+  "parlinfo_id": 128471,
+  "name": "Tilly O'Neill-Gordon",
   "contact_info": {
     "parliament": {
       "email": "ONeill-Gordon.T@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-5335",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-5335",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "oneilt1@parl.gc.ca",
       "postal_code": "E1V 6T1",
+      "city_en": "Miramichi",
       "city_fr": "Miramichi",
       "province_en": "New Brunswick",
+      "telephone": "506-778-8448",
       "province_fr": "Nouveau-Brunswick",
       "street_address_en": "4 Renaud Street",
-      "telephone": "506-778-8448",
-      "street_address_fr": "4, rue Renaud",
-      "city_en": "Miramichi"
+      "street_address_fr": "4, rue Renaud"
     }
   },
-  "name": "Tilly O'Neill-Gordon",
   "date_of_birth": "1949-02-16",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Miramichi",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Miramichi",
-      "riding_fr": "Miramichi"
+      "riding_en": "Miramichi"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Escuminac, Nouveau-Brunswick, Canada",
-    "name_en": "Escuminac, New Brunswick, Canada"
+    "name_en": "Escuminac, New Brunswick, Canada",
+    "name_fr": "Escuminac, Nouveau-Brunswick, Canada"
   },
+  "id": "15393d37-ad90-4af1-81fa-c81872b5c8c5",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "15393d37-ad90-4af1-81fa-c81872b5c8c5",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128471&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128471&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1287",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1287&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.tillygordon.ca",
-      "url_fr": "http://www.tillygordon.ca/FR/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

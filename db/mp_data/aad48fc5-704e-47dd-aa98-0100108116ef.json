@@ -1,98 +1,99 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Vice-pr\u00e9sidente et directrice g\u00e9n\u00e9rale",
-      "name_en": "Vice-president and general manager"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128198&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128198&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=10955",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=10955"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.michellesimsonmp.ca/",
+      "url_fr": "http://www.michellesimsonmp.ca/"
     }
   ],
-  "parlinfo_id": 128198,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Vice-president and general manager",
+      "name_fr": "Vice-pr\u00e9sidente et directrice g\u00e9n\u00e9rale"
+    }
+  ],
+  "parlinfo_id": 128198,
+  "name": "Michelle Simson",
   "contact_info": {
     "parliament": {
       "email": "Simson.M@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-0284",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-0284",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "M1N 1S5",
+      "city_en": "Scarborough",
       "city_fr": "Scarborough",
       "province_en": "Ontario",
+      "telephone": "416-261-8613",
       "province_fr": "Ontario",
       "street_address_en": "1674 Kingston Road",
-      "telephone": "416-261-8613",
-      "street_address_fr": "1674, chemin Kingston",
       "fax": "416-261-5268",
-      "city_en": "Scarborough"
+      "street_address_fr": "1674, chemin Kingston"
     }
   },
-  "name": "Michelle Simson",
   "date_of_birth": "1953-07-10",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough-Sud-Ouest",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Scarborough Southwest",
-      "riding_fr": "Scarborough-Sud-Ouest"
+      "riding_en": "Scarborough Southwest"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "aad48fc5-704e-47dd-aa98-0100108116ef",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "aad48fc5-704e-47dd-aa98-0100108116ef",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128198&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128198&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/members_e.aspx?id=10955",
-      "url_fr": "http://www.liberal.ca/members_f.aspx?id=10955",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.michellesimsonmp.ca/",
-      "url_fr": "http://www.michellesimsonmp.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

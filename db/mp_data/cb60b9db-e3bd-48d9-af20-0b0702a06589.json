@@ -1,367 +1,368 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Expert-conseil",
-      "name_en": "Consultant"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.ainc-inac.gc.ca/ai/min/psminac-eng.asp",
+      "url_fr": "http://www.ainc-inac.gc.ca/ai/min/psminac-fra.asp"
     },
     {
-      "name_fr": "Forestier",
-      "name_en": "Forester"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://www.parl.gc.ca/common/senmemb/house/members/MemberDetails.asp?Language=E&Parl=38&Ses=1&PersonId=1605&OrgCId=245&Sect=hoccur",
+      "url_fr": "http://www.parl.gc.ca/common/senmemb/house/members/MemberDetails.asp?PersonID=1605&OrgCID=245&Language=F&Parl=38&Ses=1&ProvCode=&Sect=hoccur&Order="
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1153&section_copy_id=8925&regionName=British%20Columbia&language_id=0",
+      "url_fr": "http://www.conservative.ca/FR/bc/john_duncan/?regionName=British%20Columbia"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://johnduncanmp.com/",
+      "url_fr": "http://johnduncanmp.com/"
     }
   ],
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Affaires indiennes et du Nord canadien",
+      "title_en": "Parliamentary Secretary to the Minister of Indian Affairs and Northern Development",
       "start_date": "2008-11-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Affaires indiennes et du Nord canadien",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Indian Affairs and Northern Development"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Ressources naturelles",
+      "title_en": "Natural Resources",
       "start_date": "2004-07-22",
+      "title_fr": "Ressources naturelles",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires indiennes et Nord canadien",
+      "title_en": "Indian Affairs and Northern Development",
       "start_date": "2003-06-22",
+      "title_fr": "Affaires indiennes et Nord canadien",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Indian Affairs and Northern Development"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Commerce international",
+      "title_en": "International Trade",
       "start_date": "2001-06-18",
+      "title_fr": "Commerce international",
       "end_date": "2003-06-22",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "International Trade"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "P\u00eaches et Oc\u00e9ans",
+      "title_en": "Fisheries and Oceans",
       "start_date": "1997-06-20",
+      "title_fr": "P\u00eaches et Oc\u00e9ans",
       "end_date": "1998-06-16",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Fisheries and Oceans"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires indiennes et Nord canadien",
+      "title_en": "Indian Affairs and Northern Development",
       "start_date": "1994-09",
+      "title_fr": "Affaires indiennes et Nord canadien",
       "end_date": "1997-06-19",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Indian Affairs and Northern Development"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Ressources naturelles",
+      "title_en": "Natural Resources",
       "start_date": "1998-06-16",
+      "title_fr": "Ressources naturelles",
       "end_date": "2001-06-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du progamme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 37,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
+      "parliament": 36,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
-      "parliament": 36,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie",
+      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des ressources naturelles, des sciences et de la technologie",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Natural Resources, Science and Technology"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles",
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles",
-      "parliament": 37,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des affaires autochtones, du d\u00e9veloppement du Grand Nord et des ressources naturelles",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et oc\u00e9ans",
-      "parliament": 36,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Natural Resources and Government Operations",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales",
-      "parliament": 36,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources and Government Operations"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 36,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Natural Resources and Government Operations",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des ressources naturelles et des op\u00e9rations gouvernementales",
-      "parliament": 36,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources and Government Operations"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et d\u00e9veloppement du Grand Nord",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et d\u00e9veloppement du Grand Nord",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent des affaires autochtones et d\u00e9veloppement du Grand Nord",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 charg\u00e9 d'examiner l'\u00e9bauche de rapport sur la cogestion des ressources naturelles du Comit\u00e9 permanent des affaires autochtones et d\u00e9veloppement du Grand Nord",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Aboriginal Education of the Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 de l'\u00e9ducation des autochtones du Comit\u00e9 permanent des affaires autochtone et du Grand Nord",
+      "name_en": "Subcommittee to Review the Draft Report on Co-Management of Natural Resources of lthe Standing Committee on aboriginal Affairs and Northern Development",
       "parliament": 35,
+      "name_fr": "Sous-comit\u00e9 de l'\u00e9ducation des autochtones du Comit\u00e9 permanent des affaires autochtone et du Grand Nord",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee to Review the Draft Report on Co-Management of Natural Resources of lthe Standing Committee on aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1996-07-16",
+  "professions": [
+    {
+      "name_en": "Consultant",
+      "name_fr": "Expert-conseil"
+    },
+    {
+      "name_en": "Forester",
+      "name_fr": "Forestier"
+    }
+  ],
+  "name": "John Duncan",
   "contact_info": {
     "parliament": {
       "email": "Duncan.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-2503",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-2503",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "V9N 2N3",
+      "city_en": "Courtenay",
       "city_fr": "Courtenay",
       "province_en": "British Columbia",
+      "telephone": "250-338-9381",
       "province_fr": "Colombie-Britannique",
       "street_address_en": "576 England Avenue, Unit 104",
-      "telephone": "250-338-9381",
-      "street_address_fr": "576, avenue England, unit\u00e9 104",
-      "city_en": "Courtenay"
+      "street_address_fr": "576, avenue England, unit\u00e9 104"
     }
   },
-  "name": "John Duncan",
   "date_of_birth": "1948-12-19",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "\u00cele de Vancouver-Nord",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Vancouver Island North",
-      "riding_fr": "\u00cele de Vancouver-Nord"
+      "riding_en": "Vancouver Island North"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "\u00cele de Vancouver-Nord",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Vancouver Island North",
-      "riding_fr": "\u00cele de Vancouver-Nord"
+      "riding_en": "Vancouver Island North"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "\u00cele de Vancouver-Nord",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Vancouver Island North",
-      "riding_fr": "\u00cele de Vancouver-Nord"
+      "riding_en": "Vancouver Island North"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "\u00cele de Vancouver-Nord",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Vancouver Island North",
-      "riding_fr": "\u00cele de Vancouver-Nord"
+      "riding_en": "Vancouver Island North"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "\u00cele de Vancouver-Nord",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Vancouver Island North",
-      "riding_fr": "\u00cele de Vancouver-Nord"
+      "riding_en": "Vancouver Island North"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "North Island--Powell River",
       "election_date": "1993-10-25",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "North Island--Powell River",
-      "riding_fr": "North Island--Powell River"
+      "riding_en": "North Island--Powell River"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Winnipeg, Manitoba, Canada",
-    "name_en": "Winnipeg, Manitoba, Canada"
+    "name_en": "Winnipeg, Manitoba, Canada",
+    "name_fr": "Winnipeg, Manitoba, Canada"
   },
+  "id": "cb60b9db-e3bd-48d9-af20-0b0702a06589",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "name_en": "Canadian Reform Conservative Alliance",
       "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance"
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "end_date": "2003-12-22"
     },
     {
-      "name_fr": "Parti r\u00e9formiste",
+      "name_en": "Reform Party",
       "start_date": "1993-10-25",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party"
-    }
-  ],
-  "language": "English",
-  "id": "cb60b9db-e3bd-48d9-af20-0b0702a06589",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.ainc-inac.gc.ca/ai/min/psminac-eng.asp",
-      "url_fr": "http://www.ainc-inac.gc.ca/ai/min/psminac-fra.asp",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://www.parl.gc.ca/common/senmemb/house/members/MemberDetails.asp?Language=E&Parl=38&Ses=1&PersonId=1605&OrgCId=245&Sect=hoccur",
-      "url_fr": "http://www.parl.gc.ca/common/senmemb/house/members/MemberDetails.asp?PersonID=1605&OrgCID=245&Language=F&Parl=38&Ses=1&ProvCode=&Sect=hoccur&Order=",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1153&section_copy_id=8925&regionName=British%20Columbia&language_id=0",
-      "url_fr": "http://www.conservative.ca/FR/bc/john_duncan/?regionName=British%20Columbia",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://johnduncanmp.com/",
-      "url_fr": "http://johnduncanmp.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti r\u00e9formiste",
+      "end_date": "2000-03-26"
     }
   ]
 }

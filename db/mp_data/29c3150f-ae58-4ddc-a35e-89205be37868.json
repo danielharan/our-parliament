@@ -1,178 +1,177 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Adjointe",
-      "name_en": "Assistant detail engineer"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78411&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78411&Language=F"
+    },
+    {
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=ff49b378-d4ae-4ba5-8d48-8ffbfba05a9d",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=ff49b378-d4ae-4ba5-8d48-8ffbfba05a9d"
     }
   ],
-  "parlinfo_id": 78411,
   "functions": [
     {
-      "title_fr": "Agriculture et Agro-alimentaire",
+      "title_en": "Agriculture and Agri-Food",
       "start_date": "2009-09-11",
+      "title_fr": "Agriculture et Agro-alimentaire",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Agriculture and Agri-Food"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Ressources naturelles",
+      "title_en": "Natural Resources",
       "start_date": "2008-10-31",
+      "title_fr": "Ressources naturelles",
       "end_date": "2009-09-10",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Ressources humaines et D\u00e9veloppement social",
+      "title_en": "Human Resources and Social Development",
       "start_date": "2006-02-10",
+      "title_fr": "Ressources humaines et D\u00e9veloppement social",
       "end_date": "2008-10-30",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Human Resources and Social Development"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences",
+      "title_en": "Human Resources and Skills Development",
       "start_date": "2004-08-06",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences",
       "end_date": "2006-02-09",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Human Resources and Skills Development"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Natural Resources",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des ressources naturelles",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-35",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-35"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Assistant detail engineer",
+      "name_fr": "Adjointe"
+    }
+  ],
+  "parlinfo_id": 78411,
+  "name": "France Bonsant",
   "contact_info": {
     "parliament": {
       "email": "Bonsant.F@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-2024",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-2024",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-1696",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "bonsaf1@parl.gc.ca",
       "postal_code": "J1H 5Y3",
+      "city_en": "Sherbrooke",
       "city_fr": "Sherbrooke",
       "province_en": "Quebec",
+      "telephone": "819-347-2598",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "1955 Belv\u00e9d\u00e8re South Street, Suite 100",
-      "telephone": "819-347-2598",
-      "street_address_fr": "1955 rue Belv\u00e9d\u00e8re Sud, bureau 100",
-      "fax": "819-347-3583",
-      "city_en": "Sherbrooke"
+      "street_address_fr": "1955 rue Belv\u00e9d\u00e8re Sud, bureau 100"
     }
   },
-  "name": "France Bonsant",
   "date_of_birth": "1952-08-18",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Compton--Stanstead",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Compton--Stanstead",
-      "riding_fr": "Compton--Stanstead"
+      "riding_en": "Compton--Stanstead"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Compton--Stanstead",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Compton--Stanstead",
-      "riding_fr": "Compton--Stanstead"
+      "riding_en": "Compton--Stanstead"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Compton--Stanstead",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Compton--Stanstead",
-      "riding_fr": "Compton--Stanstead"
+      "riding_en": "Compton--Stanstead"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Waterville, Qu\u00e9bec, Canada",
-    "name_en": "Waterville, Quebec, Canada"
+    "name_en": "Waterville, Quebec, Canada",
+    "name_fr": "Waterville, Qu\u00e9bec, Canada"
   },
+  "id": "29c3150f-ae58-4ddc-a35e-89205be37868",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2004-06-28",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "29c3150f-ae58-4ddc-a35e-89205be37868",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78411&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78411&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=ff49b378-d4ae-4ba5-8d48-8ffbfba05a9d",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=ff49b378-d4ae-4ba5-8d48-8ffbfba05a9d",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

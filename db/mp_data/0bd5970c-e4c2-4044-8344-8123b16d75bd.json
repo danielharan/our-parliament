@@ -1,106 +1,107 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Cadre en radiodiffusion",
-      "name_en": "Broadcast journalist"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.international.gc.ca/ministers-ministres/Peter_Kent.aspx?lang=eng",
+      "url_fr": "http://www.international.gc.ca/ministers-ministres/Peter_Kent.aspx?lang=fra&redirect=true"
     },
     {
-      "name_fr": "Journaliste de radiot\u00e9l\u00e9vision",
-      "name_en": "Broadcasting executive"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128239&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128239&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/107504",
+      "url_fr": "http://www.conservative.ca/FR/4568/107506"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.peterkent.ca/about_peter_kent.html",
+      "url_fr": "http://www.peterkent.ca/about_peter_kent.html"
     }
   ],
-  "parlinfo_id": 128239,
   "functions": [
     {
-      "title_fr": "Ministre d'\u00c9tat des Affaires \u00e9trang\u00e8res (Am\u00e9riques)",
+      "title_en": "Minister of State of Foreign Affairs (Americas)",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre d'\u00c9tat des Affaires \u00e9trang\u00e8res (Am\u00e9riques)",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State of Foreign Affairs (Americas)"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Broadcast journalist",
+      "name_fr": "Cadre en radiodiffusion"
+    },
+    {
+      "name_en": "Broadcasting executive",
+      "name_fr": "Journaliste de radiot\u00e9l\u00e9vision"
+    }
+  ],
+  "parlinfo_id": 128239,
+  "name": "Peter Kent",
   "contact_info": {
     "parliament": {
       "email": "Kent.P@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-0253",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-0253",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "L4J 1V9",
+      "city_en": "Thornhill",
       "city_fr": "Thornhill",
       "province_en": "Ontario",
+      "telephone": "905-886-9911",
       "province_fr": "Ontario",
       "street_address_en": "7600 Yonge Street",
-      "telephone": "905-886-9911",
-      "street_address_fr": "7600, rue Yonge",
       "fax": "905-886-5267",
-      "city_en": "Thornhill"
+      "street_address_fr": "7600, rue Yonge"
     }
   },
-  "name": "Peter Kent",
   "date_of_birth": "1943-07-27",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Thornhill",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Thornhill",
-      "riding_fr": "Thornhill"
+      "riding_en": "Thornhill"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "St. Paul's",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "St. Paul's",
-      "riding_fr": "St. Paul's"
+      "riding_en": "St. Paul's"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Bramshott, Sussex, Angleterre",
-    "name_en": "Bramshott, Sussex, England"
+    "name_en": "Bramshott, Sussex, England",
+    "name_fr": "Bramshott, Sussex, Angleterre"
   },
+  "id": "0bd5970c-e4c2-4044-8344-8123b16d75bd",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "0bd5970c-e4c2-4044-8344-8123b16d75bd",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.international.gc.ca/ministers-ministres/Peter_Kent.aspx?lang=eng",
-      "url_fr": "http://www.international.gc.ca/ministers-ministres/Peter_Kent.aspx?lang=fra&redirect=true",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128239&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128239&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/107504",
-      "url_fr": "http://www.conservative.ca/FR/4568/107506",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.peterkent.ca/about_peter_kent.html",
-      "url_fr": "http://www.peterkent.ca/about_peter_kent.html",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

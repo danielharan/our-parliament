@@ -1,153 +1,154 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Adjoint politique",
-      "name_en": "Insurance broker"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78916&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78916&Language=F"
     },
     {
-      "name_fr": "Courtier d'assurance",
-      "name_en": "Political assistant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1701&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1701&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.andrewmp.ca",
+      "url_fr": "http://www.andrewmp.ca"
     }
   ],
-  "parlinfo_id": 78916,
   "functions": [
     {
-      "title_fr": "Vice-pr\u00e9sident et pr\u00e9sident des Comit\u00e9s pl\u00e9niers de la Chambre des communes",
+      "title_en": "Deputy Speaker and Chair of Committees of the Whole of the House of Commons",
       "start_date": "2008-11-21",
+      "title_fr": "Vice-pr\u00e9sident et pr\u00e9sident des Comit\u00e9s pl\u00e9niers de la Chambre des communes",
       "role_en": "Deputy Speaker",
-      "role_fr": "Vice-pr\u00e9sident",
-      "title_en": "Deputy Speaker and Chair of Committees of the Whole of the House of Commons"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "title_fr": "Vice-pr\u00e9sident adjoint des comit\u00e9s pl\u00e9niers",
+      "title_en": "Assistant Deputy Chair of Committees of the Whole",
       "start_date": "2006-04-05",
+      "title_fr": "Vice-pr\u00e9sident adjoint des comit\u00e9s pl\u00e9niers",
       "end_date": "2008-11-20",
       "role_en": "Assistant Deputy Chair of Committees of the Whole",
-      "role_fr": "Vice-pr\u00e9sident adjoint des comit\u00e9s pl\u00e9niers",
-      "title_en": "Assistant Deputy Chair of Committees of the Whole"
+      "role_fr": "Vice-pr\u00e9sident adjoint des comit\u00e9s pl\u00e9niers"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31",
+      "name_en": "Legislative Committee on Bill C-31",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31",
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Legislative Committee on Bill C-31"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31",
+      "name_en": "Legislative Committee on Bill C-31",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-31"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-38",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-38"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Insurance broker",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Courtier d'assurance"
+    }
+  ],
+  "parlinfo_id": 78916,
+  "name": "Andrew Scheer",
   "contact_info": {
     "parliament": {
       "email": "Scheer.A@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-4593",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-4593",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "S4R 2P7",
+      "city_en": "Regina",
       "city_fr": "Regina",
       "province_en": "Saskatchewan",
+      "telephone": "306-790-4727",
       "province_fr": "Saskatchewan",
       "street_address_en": "984A Albert Street",
-      "telephone": "306-790-4727",
-      "street_address_fr": "984A, rue Albert",
-      "city_en": "Regina"
+      "street_address_fr": "984A, rue Albert"
     }
   },
-  "name": "Andrew Scheer",
   "date_of_birth": "1979-05-20",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Regina--Qu'Appelle",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Regina--Qu'Appelle",
-      "riding_fr": "Regina--Qu'Appelle"
+      "riding_en": "Regina--Qu'Appelle"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Regina--Qu'Appelle",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Regina--Qu'Appelle",
-      "riding_fr": "Regina--Qu'Appelle"
+      "riding_en": "Regina--Qu'Appelle"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Regina--Qu'Appelle",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Regina--Qu'Appelle",
-      "riding_fr": "Regina--Qu'Appelle"
+      "riding_en": "Regina--Qu'Appelle"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Ottawa, Ontario, Canada",
-    "name_en": "Ottawa, Ontario, Canada"
+    "name_en": "Ottawa, Ontario, Canada",
+    "name_fr": "Ottawa, Ontario, Canada"
   },
+  "id": "6519cfba-0080-419d-baa9-8ae6e56d032f",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "6519cfba-0080-419d-baa9-8ae6e56d032f",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78916&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78916&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1701&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1701&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.andrewmp.ca",
-      "url_fr": "http://www.andrewmp.ca",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

@@ -1,137 +1,136 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Expert-conseil",
-      "name_en": "Consultant"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.tc.gc.ca/minister/menu.htm",
+      "url_fr": "http://www.tc.gc.ca/ministre/menu.htm"
     },
     {
-      "name_fr": "Politicien",
-      "name_en": "Politician"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78585&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78780&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65077",
+      "url_fr": "http://www.conservative.ca/FR/4568/65079"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.johnbaird.com/",
+      "url_fr": "http://www.johnbaird.com/"
+    },
+    {
+      "name_en": "Legislative Assembly of Ontario Website",
+      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
+      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=3",
+      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=3"
     }
   ],
-  "parlinfo_id": 78585,
   "functions": [
     {
-      "title_fr": "Ministre des Transports, de l'Infrastructure et des Collectivit\u00e9s",
+      "title_en": "Minister of Transport, Infrastructure and Communities",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre des Transports, de l'Infrastructure et des Collectivit\u00e9s",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Transport, Infrastructure and Communities"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de l'Environnement",
+      "title_en": "Minister of the Environment",
       "start_date": "2007-01-04",
+      "title_fr": "Ministre de l'Environnement",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of the Environment"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Pr\u00e9sident du Conseil du Tr\u00e9sor",
+      "title_en": "President of the Treasury Board",
       "start_date": "2006-02-06",
+      "title_fr": "Pr\u00e9sident du Conseil du Tr\u00e9sor",
       "end_date": "2007-01-03",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "President of the Treasury Board"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "OntarioRepr\u00e9sentant du Nord et du Sud de l'Ontario",
+      "title_en": "OntarioEastern and Northern Ontario representative",
       "start_date": "2006-02-06",
+      "title_fr": "OntarioRepr\u00e9sentant du Nord et du Sud de l'Ontario",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "OntarioEastern and Northern Ontario representative"
+      "role_fr": "Ministre r\u00e9gional"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Consultant",
+      "name_fr": "Expert-conseil"
+    },
+    {
+      "name_en": "Politician",
+      "name_fr": "Politicien"
+    }
+  ],
+  "parlinfo_id": 78585,
+  "name": "John Baird",
   "contact_info": {
     "parliament": {
       "email": "Baird.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-0984",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-0984",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-9880",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "bairdj1@parl.gc.ca",
       "postal_code": "K2B 7E9",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-990-7720",
       "province_fr": "Ontario",
       "street_address_en": "2249 Carling Avenue, Suite 418",
-      "telephone": "613-990-7720",
-      "street_address_fr": "2249, avenue Carling, bureau 418",
-      "fax": "613-993-6501",
-      "city_en": "Ottawa"
+      "street_address_fr": "2249, avenue Carling, bureau 418"
     }
   },
-  "name": "John Baird",
   "date_of_birth": "1969-05-26",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Ottawa-Ouest--Nepean",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ottawa West--Nepean",
-      "riding_fr": "Ottawa-Ouest--Nepean"
+      "riding_en": "Ottawa West--Nepean"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Ottawa-Ouest--Nepean",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ottawa West--Nepean",
-      "riding_fr": "Ottawa-Ouest--Nepean"
+      "riding_en": "Ottawa West--Nepean"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Nepean, Ontario, Canada",
-    "name_en": "Nepean, Ontario, Canada"
+    "name_en": "Nepean, Ontario, Canada",
+    "name_fr": "Nepean, Ontario, Canada"
   },
+  "id": "abeb1396-5319-4cef-8b3a-a2417c0f43ce",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "abeb1396-5319-4cef-8b3a-a2417c0f43ce",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.tc.gc.ca/minister/menu.htm",
-      "url_fr": "http://www.tc.gc.ca/ministre/menu.htm",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78585&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78780&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65077",
-      "url_fr": "http://www.conservative.ca/FR/4568/65079",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.johnbaird.com/",
-      "url_fr": "http://www.johnbaird.com/",
-      "name_en": "Personal Website"
-    },
-    {
-      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
-      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=3",
-      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=3",
-      "name_en": "Legislative Assembly of Ontario Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

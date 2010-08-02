@@ -3,7 +3,7 @@ class CommitteesController < ApplicationController
   before_filter :fetch_random_links, :only => [:index, :show]
   
   def index
-    @current_committees = Committee.find_by_sql(["SELECT DISTINCT c.* FROM committees c, committee_memberships m WHERE c.id = m.committee_id AND m.parliament = ? AND m.session = ? ORDER BY c.name_#{I18n.locale}", ENV['CURRENT_PARLIAMENT'].to_i, ENV['CURRENT_SESSION'].to_i])
+    @current_committees = Committee.find_by_sql(["SELECT DISTINCT c.* FROM committees c, committee_memberships m WHERE c.id = m.committee_id AND m.parliament = ? AND m.session = ? AND c.subcommittee_of IS NULL ORDER BY c.name_#{I18n.locale}", ENV['CURRENT_PARLIAMENT'].to_i, ENV['CURRENT_SESSION'].to_i])
   end
 
   def show

@@ -1,107 +1,106 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Fonctionnaire",
-      "name_en": "Public servant"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128537&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128537&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=7950",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=7950"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.scottandrews.ca/",
+      "url_fr": "http://www.scottandrews.ca/"
     }
   ],
-  "parlinfo_id": 128537,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Public servant",
+      "name_fr": "Fonctionnaire"
+    }
+  ],
+  "parlinfo_id": 128537,
+  "name": "Scott Andrews",
   "contact_info": {
     "parliament": {
       "email": "Andrews.S@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
       "telephone": "613-992-4133",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-7277",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "A1X 3H1",
+      "city_en": "Conception Bay South",
       "city_fr": "Conception Bay South",
       "province_en": "Newfoundland and Labrador",
       "telephone": "709-834-3424",
       "province_fr": "Terre-Neuve-et-Labrador",
       "street_address_en": "P.O. Box 17171, Station Kelligrews",
-      "street_address_fr": "Case postale 17171, Succursale Kelligrews",
-      "fax": "1-866-883-3424",
-      "city_en": "Conception Bay South"
+      "street_address_fr": "Case postale 17171, Succursale Kelligrews"
     }
   },
-  "name": "Scott Andrews",
   "date_of_birth": "1974-12-28",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Avalon",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Avalon",
-      "riding_fr": "Avalon"
+      "riding_en": "Avalon"
     }
   ],
   "place_of_birth": {
-    "name_fr": "St. John's, Terre-Neuve-et-Labrador, Canada",
-    "name_en": "St. John's, Newfoundland and Labrador, Canada"
+    "name_en": "St. John's, Newfoundland and Labrador, Canada",
+    "name_fr": "St. John's, Terre-Neuve-et-Labrador, Canada"
   },
+  "id": "f7899969-1755-480c-b74d-a9afeb018b7b",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "f7899969-1755-480c-b74d-a9afeb018b7b",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128537&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128537&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/members_e.aspx?id=7950",
-      "url_fr": "http://www.liberal.ca/members_f.aspx?id=7950",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.scottandrews.ca/",
-      "url_fr": "http://www.scottandrews.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

@@ -1,318 +1,319 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78631&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78631&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1481&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1481&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.davidtilson.ca/",
+      "url_fr": "http://www.davidtilson.ca/"
+    },
+    {
+      "name_en": "Legislative Assembly of Ontario Website",
+      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
+      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=96",
+      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=96"
     }
   ],
-  "parlinfo_id": 78631,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "name_en": "Standing Committee on Citizenship and Immigration",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "session": 3,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "session": 3,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 40,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 40,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent sur l'acc\u00e8s \u00e0 l'information, la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 39,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Acc\u00e8s \u00e0 l'Information, de la Protection des Renseignements Personnels et de l'\u00c9thique",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent sur l'acc\u00e8s \u00e0 l'information, la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-30",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-30"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'Acc\u00e8s \u00e0 l'Information, de la Protection des Renseignements Personnels et de l'\u00c9thique",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 78631,
+  "name": "David Allan Tilson",
   "contact_info": {
     "parliament": {
       "email": "Tilson.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-7813",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-7813",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "tilsod1a@parl.gc.ca",
       "postal_code": "L7E 1T6",
+      "city_en": "Bolton",
       "city_fr": "Bolton",
       "province_en": "Ontario",
+      "telephone": "905-857-6080",
       "province_fr": "Ontario",
       "street_address_en": "Hopcroft Plaza 12596 Highway 50",
-      "telephone": "905-857-6080",
-      "street_address_fr": "Plaza Hopcroft\r\n12596, autoroute 50",
-      "city_en": "Bolton"
+      "street_address_fr": "Plaza Hopcroft\r\n12596, autoroute 50"
     }
   },
-  "name": "David Allan Tilson",
   "date_of_birth": "1941-03-19",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Dufferin--Caledon",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Dufferin--Caledon",
-      "riding_fr": "Dufferin--Caledon"
+      "riding_en": "Dufferin--Caledon"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Dufferin--Caledon",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Dufferin--Caledon",
-      "riding_fr": "Dufferin--Caledon"
+      "riding_en": "Dufferin--Caledon"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Dufferin--Caledon",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Dufferin--Caledon",
-      "riding_fr": "Dufferin--Caledon"
+      "riding_en": "Dufferin--Caledon"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "ed1028ae-42dc-4294-9b39-4c5daff5fc74",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "ed1028ae-42dc-4294-9b39-4c5daff5fc74",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78631&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78631&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1481&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1481&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.davidtilson.ca/",
-      "url_fr": "http://www.davidtilson.ca/",
-      "name_en": "Personal Website"
-    },
-    {
-      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
-      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=96",
-      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=96",
-      "name_en": "Legislative Assembly of Ontario Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

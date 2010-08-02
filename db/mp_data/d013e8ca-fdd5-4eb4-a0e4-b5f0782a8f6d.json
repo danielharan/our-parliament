@@ -1,117 +1,118 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Directeur ex\u00e9cutif",
-      "name_en": "Environmentalist"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145800&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145800&Language=F"
     },
     {
-      "name_fr": "Environnementaliste",
-      "name_en": "Executive director"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/findonnelly",
+      "url_fr": "http://www.npd.ca/findonnelly"
+    },
+    {
+      "name_en": "Personnal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.findonnelly.ca/",
+      "url_fr": "http://www.findonnelly.ca/"
     }
   ],
-  "parlinfo_id": 145800,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2009-11-09",
+  "professions": [
+    {
+      "name_en": "Environmentalist",
+      "name_fr": "Directeur ex\u00e9cutif"
+    },
+    {
+      "name_en": "Executive director",
+      "name_fr": "Environnementaliste"
+    }
+  ],
+  "parlinfo_id": 145800,
+  "name": "Fin Donnelly",
   "contact_info": {
     "parliament": {
       "email": "Donnelly.F@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "Donnelly.F@parl.gc.ca",
       "postal_code": "V3K 3P5",
+      "city_en": "Coquitlam",
       "city_fr": "Coquitlam",
       "province_en": "British Columbia",
+      "telephone": "604-664-9229",
       "province_fr": "Colombie-Britannique",
       "street_address_en": "1116 Austin Avenue",
-      "telephone": "604-664-9229",
-      "street_address_fr": "1116, avenue Austin",
-      "city_en": "Coquitlam"
+      "street_address_fr": "1116, avenue Austin"
     }
   },
-  "name": "Fin Donnelly",
   "date_of_birth": "1966-05-27",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "New Westminster--Coquitlam",
       "election_date": "2009-11-09",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "New Westminster--Coquitlam",
-      "riding_fr": "New Westminster--Coquitlam"
+      "riding_en": "New Westminster--Coquitlam"
     }
   ],
   "place_of_birth": {
-    "name_fr": "New Westminster, Colombie-Britannique, Canada",
-    "name_en": "New Westminster, British Columbia, Canada"
+    "name_en": "New Westminster, British Columbia, Canada",
+    "name_fr": "New Westminster, Colombie-Britannique, Canada"
   },
+  "id": "d013e8ca-fdd5-4eb4-a0e4-b5f0782a8f6d",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2009-11-09",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "d013e8ca-fdd5-4eb4-a0e4-b5f0782a8f6d",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145800&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=145800&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/findonnelly",
-      "url_fr": "http://www.npd.ca/findonnelly",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.findonnelly.ca/",
-      "url_fr": "http://www.findonnelly.ca/",
-      "name_en": "Personnal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

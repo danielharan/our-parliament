@@ -1,131 +1,132 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Chef de chantier",
-      "name_en": "Construction executive"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128399&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128399&Language=F"
     },
     {
-      "name_fr": "Chef du service de la gestion des immeubles",
-      "name_en": "Project manager"
-    },
-    {
-      "name_fr": "Gestionnaire de projet",
-      "name_en": "Construction"
-    },
-    {
-      "name_fr": "Construction",
-      "name_en": "Property manager"
-    },
-    {
-      "name_fr": "Promoteur immobilier",
-      "name_en": "Real estate developer"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.philmccolemanmp.ca/",
+      "url_fr": "http://www.philmccolemanmp.ca/"
     }
   ],
-  "parlinfo_id": 128399,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Construction executive",
+      "name_fr": "Chef de chantier"
+    },
+    {
+      "name_en": "Project manager",
+      "name_fr": "Chef du service de la gestion des immeubles"
+    },
+    {
+      "name_en": "Construction",
+      "name_fr": "Gestionnaire de projet"
+    },
+    {
+      "name_en": "Property manager",
+      "name_fr": "Construction"
+    },
+    {
+      "name_en": "Real estate developer",
+      "name_fr": "Promoteur immobilier"
+    }
+  ],
+  "parlinfo_id": 128399,
+  "name": "Phil McColeman",
   "contact_info": {
     "parliament": {
       "email": "McColeman.P@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-3118",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-3118",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "N3R 7K8",
+      "city_en": "Brantford",
       "city_fr": "Brantford",
       "province_en": "Ontario",
+      "telephone": "519-754-4300",
       "province_fr": "Ontario",
       "street_address_en": "505 Park Road North, Suite 212",
-      "telephone": "519-754-4300",
-      "street_address_fr": "505, chemin Park Nord, bureau 212",
       "fax": "519-751-8177",
-      "city_en": "Brantford"
+      "street_address_fr": "505, chemin Park Nord, bureau 212"
     }
   },
-  "name": "Phil McColeman",
   "date_of_birth": "1954-03-15",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Brant",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Brant",
-      "riding_fr": "Brant"
+      "riding_en": "Brant"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Brant",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Brant",
-      "riding_fr": "Brant"
+      "riding_en": "Brant"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Brantford, Ontario, Canada",
-    "name_en": "Brantford, Ontario, Canada"
+    "name_en": "Brantford, Ontario, Canada",
+    "name_fr": "Brantford, Ontario, Canada"
   },
+  "id": "a10a55d4-becb-4b98-b780-9fa8cfd5aa12",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "a10a55d4-becb-4b98-b780-9fa8cfd5aa12",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128399&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128399&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.philmccolemanmp.ca/",
-      "url_fr": "http://www.philmccolemanmp.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

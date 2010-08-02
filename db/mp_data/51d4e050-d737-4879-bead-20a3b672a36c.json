@@ -1,145 +1,146 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Administratrice scolaire",
-      "name_en": "Businesswoman"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.hrsdc.gc.ca/eng/corporate/ministers/index.shtml",
+      "url_fr": "http://www.rhdcc.gc.ca/fra/ministeriel/ministres/index.shtml"
     },
     {
-      "name_fr": "Cadre de direction",
-      "name_en": "Executive"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78523&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78523&Language=F"
     },
     {
-      "name_fr": "Experte-conseil en gestion",
-      "name_en": "Management consultant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65012",
+      "url_fr": "http://www.conservative.ca/FR/4568/65014"
     },
     {
-      "name_fr": "Femme d'affaires",
-      "name_en": "School administrator"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.dianefinley.ca/",
+      "url_fr": "http://www.dianefinley.ca/"
     }
   ],
-  "parlinfo_id": 78523,
   "functions": [
     {
-      "title_fr": "Ministre des Ressources humaines et du D\u00e9veloppement des comp\u00e9tences",
+      "title_en": "Minister of Human Resources and Skills Development",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre des Ressources humaines et du D\u00e9veloppement des comp\u00e9tences",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Human Resources and Skills Development"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de la Citoyennet\u00e9 et de l'Immigration",
+      "title_en": "Minister of Citizenship and Immigration",
       "start_date": "2007-01-04",
+      "title_fr": "Ministre de la Citoyennet\u00e9 et de l'Immigration",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Citizenship and Immigration"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre des Ressources humaines et du D\u00e9veloppement social",
+      "title_en": "Minister of Human Resources and Social Development",
       "start_date": "2006-02-06",
+      "title_fr": "Ministre des Ressources humaines et du D\u00e9veloppement social",
       "end_date": "2007-01-03",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Human Resources and Social Development"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Agriculture et Agro-alimentaire",
+      "title_en": "Agriculture and Agri-Food",
       "start_date": "2004-07-22",
+      "title_fr": "Agriculture et Agro-alimentaire",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Agriculture and Agri-Food"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Businesswoman",
+      "name_fr": "Administratrice scolaire"
+    },
+    {
+      "name_en": "Executive",
+      "name_fr": "Cadre de direction"
+    },
+    {
+      "name_en": "Management consultant",
+      "name_fr": "Experte-conseil en gestion"
+    },
+    {
+      "name_en": "School administrator",
+      "name_fr": "Femme d'affaires"
+    }
+  ],
+  "parlinfo_id": 78523,
+  "name": "Diane Finley",
   "contact_info": {
     "parliament": {
       "email": "Finley.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-4974",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-4974",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "N3Y 2M6",
+      "city_en": "Simcoe",
       "city_fr": "Simcoe",
       "province_en": "Ontario",
+      "telephone": "519-426-3400",
       "province_fr": "Ontario",
       "street_address_en": "70 Queensway West",
-      "telephone": "519-426-3400",
-      "street_address_fr": "70, Queensway Ouest",
       "fax": "519-426-0003",
-      "city_en": "Simcoe"
+      "street_address_fr": "70, Queensway Ouest"
     }
   },
-  "name": "Diane Finley",
   "date_of_birth": "1957-10-03",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Haldimand--Norfolk",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Haldimand--Norfolk",
-      "riding_fr": "Haldimand--Norfolk"
+      "riding_en": "Haldimand--Norfolk"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Haldimand--Norfolk",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Haldimand--Norfolk",
-      "riding_fr": "Haldimand--Norfolk"
+      "riding_en": "Haldimand--Norfolk"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Haldimand--Norfolk",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Haldimand--Norfolk",
-      "riding_fr": "Haldimand--Norfolk"
+      "riding_en": "Haldimand--Norfolk"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Hamilton, Ontario, Canada",
-    "name_en": "Hamilton, Ontario, Canada"
+    "name_en": "Hamilton, Ontario, Canada",
+    "name_fr": "Hamilton, Ontario, Canada"
   },
+  "id": "51d4e050-d737-4879-bead-20a3b672a36c",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "51d4e050-d737-4879-bead-20a3b672a36c",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.hrsdc.gc.ca/eng/corporate/ministers/index.shtml",
-      "url_fr": "http://www.rhdcc.gc.ca/fra/ministeriel/ministres/index.shtml",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78523&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78523&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65012",
-      "url_fr": "http://www.conservative.ca/FR/4568/65014",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.dianefinley.ca/",
-      "url_fr": "http://www.dianefinley.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

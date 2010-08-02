@@ -1,168 +1,169 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Animateur \u00e0 la radio et \u00e0 la t\u00e9l\u00e9vision",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128620&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128620&Language=F"
     },
     {
-      "name_fr": "Directeur d'\u00e9cole",
-      "name_en": "Educator"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/johnrafferty",
+      "url_fr": "http://www.npd.ca/johnrafferty"
     },
     {
-      "name_fr": "Enseignant",
-      "name_en": "Musician"
-    },
-    {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Radio & t.v. host"
-    },
-    {
-      "name_fr": "Musicien",
-      "name_en": "School principal"
-    },
-    {
-      "name_fr": "P\u00e9dagogue",
-      "name_en": "Teacher"
-    },
-    {
-      "name_fr": "Travailleur b\u00e9n\u00e9vole",
-      "name_en": "Volunteer worker"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.johnrafferty.ndp.ca",
+      "url_fr": "http://www.johnrafferty.ndp.ca"
     }
   ],
-  "parlinfo_id": 128620,
   "functions": [
     {
+      "title_en": "CIDA",
+      "start_date": "2008-11-17",
       "title_fr": "ACDI",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "CIDA"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "International Cooperation",
+      "start_date": "2008-11-17",
       "title_fr": "Coop\u00e9ration internationale",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "International Cooperation"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "International Development",
+      "start_date": "2008-11-17",
       "title_fr": "D\u00e9veloppement international",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "International Development"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Canadian HeritageArea of responsibility: CBC",
+      "start_date": "2008-11-17",
       "title_fr": "For\u00eats",
-      "start_date": "2008-11-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Canadian HeritageArea of responsibility: CBC"
+      "role_fr": "Porte-parole adjoint"
     },
     {
+      "title_en": "Cultural Industries",
+      "start_date": "2008-11-17",
       "title_fr": "Industries culturelles",
-      "start_date": "2008-11-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Cultural Industries"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Patrimoine canadienChamp de responsabilit\u00e9: Radio-Canada",
+      "title_en": "Forestry",
       "start_date": "2008-11-17",
+      "title_fr": "Patrimoine canadienChamp de responsabilit\u00e9: Radio-Canada",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Forestry"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Animateur \u00e0 la radio et \u00e0 la t\u00e9l\u00e9vision"
+    },
+    {
+      "name_en": "Educator",
+      "name_fr": "Directeur d'\u00e9cole"
+    },
+    {
+      "name_en": "Musician",
+      "name_fr": "Enseignant"
+    },
+    {
+      "name_en": "Radio & t.v. host",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "School principal",
+      "name_fr": "Musicien"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "P\u00e9dagogue"
+    },
+    {
+      "name_en": "Volunteer worker",
+      "name_fr": "Travailleur b\u00e9n\u00e9vole"
+    }
+  ],
+  "parlinfo_id": 128620,
+  "name": "John Rafferty",
   "contact_info": {
     "parliament": {
       "email": "Rafferty.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-3061",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-3061",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "P9A 3B8",
+      "city_en": "Fort Frances",
       "city_fr": "Fort Frances",
       "province_en": "Ontario",
+      "telephone": "807-274-9313",
       "province_fr": "Ontario",
       "street_address_en": "140 4th Street West",
-      "telephone": "807-274-9313",
-      "street_address_fr": "140, 4e Rue Ouest",
-      "city_en": "Fort Frances"
+      "street_address_fr": "140, 4e Rue Ouest"
     }
   },
-  "name": "John Rafferty",
   "date_of_birth": "1953-07-03",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Thunder Bay--Rainy River",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Thunder Bay--Rainy River",
-      "riding_fr": "Thunder Bay--Rainy River"
+      "riding_en": "Thunder Bay--Rainy River"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Thunder Bay--Rainy River",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Thunder Bay--Rainy River",
-      "riding_fr": "Thunder Bay--Rainy River"
+      "riding_en": "Thunder Bay--Rainy River"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Thunder Bay--Rainy River",
       "election_date": "2004-06-28",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Thunder Bay--Rainy River",
-      "riding_fr": "Thunder Bay--Rainy River"
+      "riding_en": "Thunder Bay--Rainy River"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Thunder Bay--Superior-Nord",
       "election_date": "2000-11-27",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Thunder Bay--Superior North",
-      "riding_fr": "Thunder Bay--Superior-Nord"
+      "riding_en": "Thunder Bay--Superior North"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Wingham, Ontario, Canada",
-    "name_en": "Wingham, Ontario, Canada"
+    "name_en": "Wingham, Ontario, Canada",
+    "name_fr": "Wingham, Ontario, Canada"
   },
+  "id": "c052aaf8-167e-4f44-982f-7f3744e7366d",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2000-11-27",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "c052aaf8-167e-4f44-982f-7f3744e7366d",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128620&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128620&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/johnrafferty",
-      "url_fr": "http://www.npd.ca/johnrafferty",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.johnrafferty.ndp.ca",
-      "url_fr": "http://www.johnrafferty.ndp.ca",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

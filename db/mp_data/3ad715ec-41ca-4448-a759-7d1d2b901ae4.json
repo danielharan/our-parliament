@@ -1,121 +1,120 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Fonctionnaire principale",
-      "name_en": "Manager"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.hc-sc.gc.ca/ahc-asc/minist/index-eng.php",
+      "url_fr": "http://www.hc-sc.gc.ca/ahc-asc/minist/index-fra.php"
     },
     {
-      "name_fr": "G\u00e9rante",
-      "name_en": "Senior public servant"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128788&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128788&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/107454",
+      "url_fr": "http://www.conservative.ca/?section_id=4568&section_copy_id=107454&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.leonaaglukkaq.ca/EN/5215/",
+      "url_fr": "http://www.leonaaglukkaq.ca/EN/5215/%20"
     }
   ],
-  "parlinfo_id": 128788,
   "functions": [
     {
+      "title_en": "Minister of Health",
+      "start_date": "2008-10-30",
       "title_fr": "Ministre de la Sant\u00e9",
-      "start_date": "2008-10-30",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Health"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Northwest Territories",
+      "start_date": "2008-10-30",
       "title_fr": "Nunavut",
-      "start_date": "2008-10-30",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "Northwest Territories"
+      "role_fr": "Ministre r\u00e9gional"
     },
     {
+      "title_en": "Nunavut",
+      "start_date": "2008-10-30",
       "title_fr": "Territoires du Nord-Ouest",
-      "start_date": "2008-10-30",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "Nunavut"
+      "role_fr": "Ministre r\u00e9gional"
     },
     {
-      "title_fr": "Yukon",
+      "title_en": "Yukon",
       "start_date": "2008-10-30",
+      "title_fr": "Yukon",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "Yukon"
+      "role_fr": "Ministre r\u00e9gional"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Manager",
+      "name_fr": "Fonctionnaire principale"
+    },
+    {
+      "name_en": "Senior public servant",
+      "name_fr": "G\u00e9rante"
+    }
+  ],
+  "parlinfo_id": 128788,
+  "name": "Leona Aglukkaq",
   "contact_info": {
     "parliament": {
       "email": "Aglukkaq.L@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
       "telephone": "613-992-2848",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-9764",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "X0A 0H0",
+      "city_en": "Iqaluit",
       "city_fr": "Iqaluit",
       "province_en": "Nunavut",
       "telephone": "867-979-4193",
       "province_fr": "Nunavut",
       "street_address_en": "Building 1057, Unit 3P.O. Box 1930",
-      "street_address_fr": "\u00c9difice 1057, unit\u00e9 3Case postale 1930",
-      "fax": "866-267-7701",
-      "city_en": "Iqaluit"
+      "street_address_fr": "\u00c9difice 1057, unit\u00e9 3Case postale 1930"
     }
   },
-  "name": "Leona Aglukkaq",
   "date_of_birth": "1967-06-28",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Nunavut",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Nunavut",
-      "riding_fr": "Nunavut"
+      "riding_en": "Nunavut"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Inuvik, Territoires du Nord-Ouest, Canada",
-    "name_en": "Inuvik, Northwest Territories, Canada"
+    "name_en": "Inuvik, Northwest Territories, Canada",
+    "name_fr": "Inuvik, Territoires du Nord-Ouest, Canada"
   },
+  "id": "3ad715ec-41ca-4448-a759-7d1d2b901ae4",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "3ad715ec-41ca-4448-a759-7d1d2b901ae4",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.hc-sc.gc.ca/ahc-asc/minist/index-eng.php",
-      "url_fr": "http://www.hc-sc.gc.ca/ahc-asc/minist/index-fra.php",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128788&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128788&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/107454",
-      "url_fr": "http://www.conservative.ca/?section_id=4568&section_copy_id=107454&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.leonaaglukkaq.ca/EN/5215/",
-      "url_fr": "http://www.leonaaglukkaq.ca/EN/5215/%20",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

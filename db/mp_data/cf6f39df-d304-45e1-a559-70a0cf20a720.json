@@ -1,240 +1,239 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Analyste de la politique",
-      "name_en": "Columnist"
+      "name_en": "Department Website (1)",
+      "name_fr": "Site Web du minist\u00e8re (1)",
+      "url_en": "http://www.tpsgc-pwgsc.gc.ca/apropos-about/mnstr-eng.html",
+      "url_fr": "http://www.tpsgc-pwgsc.gc.ca/apropos-about/mnstr-fra.html"
     },
     {
-      "name_fr": "Chroniqueuse",
-      "name_en": "Communication consultant"
+      "name_en": "Department Website (2)",
+      "name_fr": "Site Web du minist\u00e8re (2)",
+      "url_en": "http://www.pch.gc.ca/pc-ch/minstr/ambrose/index-eng.cfm",
+      "url_fr": "http://www.pch.gc.ca/pc-ch/minstr/ambrose/index-fra.cfm"
     },
     {
-      "name_fr": "Experte-conseil en communications",
-      "name_en": "Policy analyst"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78678&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78678&Language=F"
     },
     {
-      "name_fr": "Experte-conseil en politique gouvernementale",
-      "name_en": "Public policy consultant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65004",
+      "url_fr": "http://www.conservative.ca/FR/4568/65006"
     },
     {
-      "name_fr": "Fonctionnaire principale",
-      "name_en": "Senior public servant"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.ronaambrose.com/",
+      "url_fr": "http://www.ronaambrose.com/"
     }
   ],
-  "parlinfo_id": 78678,
   "functions": [
     {
-      "title_fr": "Ministre de la Condition f\u00e9minine",
+      "title_en": "Minister for Status of Women",
       "start_date": "2010-04-09",
+      "title_fr": "Ministre de la Condition f\u00e9minine",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister for Status of Women"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre des Travaux publics et des Services gouvernementaux",
+      "title_en": "Minister of Public Works and Government Services",
       "start_date": "2010-01-19",
+      "title_fr": "Ministre des Travaux publics et des Services gouvernementaux",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Public Works and Government Services"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre du Travail",
+      "title_en": "Minister of Labour",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre du Travail",
       "end_date": "2010-01-18",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Labour"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Minister of Intergovernmental Affairs",
+      "start_date": "2007-01-04",
       "title_fr": "Ministre de la Diversification de l'\u00e9conomie de l'Ouest",
-      "start_date": "2007-01-04",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Intergovernmental Affairs"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Minister of Western Economic Diversification",
+      "start_date": "2007-01-04",
       "title_fr": "Ministre des Affaires intergouvernementales",
-      "start_date": "2007-01-04",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Western Economic Diversification"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "President of the Queen's Privy Council",
+      "start_date": "2007-01-04",
       "title_fr": "Pr\u00e9sidente du Conseil priv\u00e9",
-      "start_date": "2007-01-04",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "President of the Queen's Privy Council"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de l'Environnement",
+      "title_en": "Minister of the Environment",
       "start_date": "2006-02-06",
+      "title_fr": "Ministre de l'Environnement",
       "end_date": "2007-01-03",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of the Environment"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de la Condition f\u00e9minine",
+      "title_en": "Minister for Status of Women",
       "start_date": "2010-04-09",
+      "title_fr": "Ministre de la Condition f\u00e9minine",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister for Status of Women"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "AlbertaRepr\u00e9sentante du Nord de l'Alberta",
+      "title_en": "AlbertaNorthern Alberta representative",
       "start_date": "2008-10-30",
+      "title_fr": "AlbertaRepr\u00e9sentante du Nord de l'Alberta",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "AlbertaNorthern Alberta representative"
+      "role_fr": "Ministre r\u00e9gional"
     },
     {
-      "title_fr": "Commerce international(par int\u00e9rim)",
+      "title_en": "International Trade(Acting)",
       "start_date": "2005-05-17",
+      "title_fr": "Commerce international(par int\u00e9rim)",
       "end_date": "2005-05-24",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "International Trade(Acting)"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires intergouvernementales",
+      "title_en": "Intergovernmental Affairs",
       "start_date": "2004-07-22",
+      "title_fr": "Affaires intergouvernementales",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Intergovernmental Affairs"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
+      "name_en": "Legislative Committee on Bill C-38",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-38"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Trade",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur le d\u00e9s\u00e9quilibre fiscal du comit\u00e9 permanent des finances",
+      "name_en": "Subcommittee on Fiscal Imbalance of the Standing Committee on Finance",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 sur le d\u00e9s\u00e9quilibre fiscal du comit\u00e9 permanent des finances",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Fiscal Imbalance of the Standing Committee on Finance"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Columnist",
+      "name_fr": "Analyste de la politique"
+    },
+    {
+      "name_en": "Communication consultant",
+      "name_fr": "Chroniqueuse"
+    },
+    {
+      "name_en": "Policy analyst",
+      "name_fr": "Experte-conseil en communications"
+    },
+    {
+      "name_en": "Public policy consultant",
+      "name_fr": "Experte-conseil en politique gouvernementale"
+    },
+    {
+      "name_en": "Senior public servant",
+      "name_fr": "Fonctionnaire principale"
+    }
+  ],
+  "parlinfo_id": 78678,
+  "name": "Rona Ambrose",
   "contact_info": {
     "parliament": {
       "email": "Ambrose.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
       "telephone": "613-996-9778",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-0785",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "T7Z 1V5",
+      "city_en": "Stony Plain",
       "city_fr": "Stony Plain",
       "province_en": "Alberta",
       "telephone": "780-495-7705",
       "province_fr": "Alberta",
       "street_address_en": "4807  44 Avenue, Suite 102",
-      "street_address_fr": "4807, avenue 44, bureau 102",
-      "fax": "780-495-7705",
-      "city_en": "Stony Plain"
+      "street_address_fr": "4807, avenue 44, bureau 102"
     }
   },
-  "name": "Rona Ambrose",
   "date_of_birth": "1969-03-15",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Edmonton--Spruce Grove",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Edmonton--Spruce Grove",
-      "riding_fr": "Edmonton--Spruce Grove"
+      "riding_en": "Edmonton--Spruce Grove"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Edmonton--Spruce Grove",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Edmonton--Spruce Grove",
-      "riding_fr": "Edmonton--Spruce Grove"
+      "riding_en": "Edmonton--Spruce Grove"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Edmonton--Spruce Grove",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Edmonton--Spruce Grove",
-      "riding_fr": "Edmonton--Spruce Grove"
+      "riding_en": "Edmonton--Spruce Grove"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Valleyview, Alberta, Canada",
-    "name_en": "Valleyview, Alberta, Canada"
+    "name_en": "Valleyview, Alberta, Canada",
+    "name_fr": "Valleyview, Alberta, Canada"
   },
+  "id": "cf6f39df-d304-45e1-a559-70a0cf20a720",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "cf6f39df-d304-45e1-a559-70a0cf20a720",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re (1)",
-      "url_en": "http://www.tpsgc-pwgsc.gc.ca/apropos-about/mnstr-eng.html",
-      "url_fr": "http://www.tpsgc-pwgsc.gc.ca/apropos-about/mnstr-fra.html",
-      "name_en": "Department Website (1)"
-    },
-    {
-      "name_fr": "Site Web du minist\u00e8re (2)",
-      "url_en": "http://www.pch.gc.ca/pc-ch/minstr/ambrose/index-eng.cfm",
-      "url_fr": "http://www.pch.gc.ca/pc-ch/minstr/ambrose/index-fra.cfm",
-      "name_en": "Department Website (2)"
-    },
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78678&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78678&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65004",
-      "url_fr": "http://www.conservative.ca/FR/4568/65006",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.ronaambrose.com/",
-      "url_fr": "http://www.ronaambrose.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

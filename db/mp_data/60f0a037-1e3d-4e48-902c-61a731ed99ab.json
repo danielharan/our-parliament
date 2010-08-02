@@ -1,122 +1,123 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128726&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128726&Language=F"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Lawyer"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1515&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1515"
     },
     {
-      "name_fr": "Infirmier",
-      "name_en": "Nurse"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.gregrickford.ca/",
+      "url_fr": "http://www.gregrickford.ca/"
     }
   ],
-  "parlinfo_id": 128726,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "Nurse",
+      "name_fr": "Infirmier"
+    }
+  ],
+  "parlinfo_id": 128726,
+  "name": "Greg Rickford",
   "contact_info": {
     "parliament": {
       "email": "Rickford.G@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-1161",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-1161",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "rickfg1@parl.gc.ca",
       "postal_code": "P9N 1G4",
+      "city_en": "Kenora",
       "city_fr": "Kenora",
       "province_en": "Ontario",
+      "telephone": "807-468-2170",
       "province_fr": "Ontario",
       "street_address_en": "308 Second Street South, Unit 19",
-      "telephone": "807-468-2170",
-      "street_address_fr": "308, rue Second Sud, unit\u00e9 19",
-      "city_en": "Kenora"
+      "street_address_fr": "308, rue Second Sud, unit\u00e9 19"
     }
   },
-  "name": "Greg Rickford",
   "date_of_birth": "1967-09-24",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Kenora",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Kenora",
-      "riding_fr": "Kenora"
+      "riding_en": "Kenora"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Paris, Ontario, Canada",
-    "name_en": "Paris, Ontario, Canada"
+    "name_en": "Paris, Ontario, Canada",
+    "name_fr": "Paris, Ontario, Canada"
   },
+  "id": "60f0a037-1e3d-4e48-902c-61a731ed99ab",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "60f0a037-1e3d-4e48-902c-61a731ed99ab",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128726&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128726&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1515&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1515",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.gregrickford.ca/",
-      "url_fr": "http://www.gregrickford.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

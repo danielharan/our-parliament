@@ -1,148 +1,147 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Adjoint ex\u00e9cutif",
-      "name_en": "Executive assistant"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128483&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128483&Language=F"
     },
     {
-      "name_fr": "Courtier d'assurance",
-      "name_en": "Insurance broker"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1563",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1563"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.paulcalandra.com/",
+      "url_fr": "http://www.paulcalandra.com/"
     }
   ],
-  "parlinfo_id": 128483,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "name_en": "Standing Committee on Citizenship and Immigration",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Executive assistant",
+      "name_fr": "Adjoint ex\u00e9cutif"
+    },
+    {
+      "name_en": "Insurance broker",
+      "name_fr": "Courtier d'assurance"
+    }
+  ],
+  "parlinfo_id": 128483,
+  "name": "Paul Calandra",
   "contact_info": {
     "parliament": {
       "email": "Calandra.P@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-3640",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-3640",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-3642",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "L3P 1X5",
+      "city_en": "Markham",
       "city_fr": "Markham",
       "province_en": "Ontario",
+      "telephone": "905-294-0004",
       "province_fr": "Ontario",
       "street_address_en": "58 Main Street North, Unit 8",
-      "telephone": "905-294-0004",
-      "street_address_fr": "58, rue Main Nord, Unit\u00e9 8",
-      "fax": "905-294-1252",
-      "city_en": "Markham"
+      "street_address_fr": "58, rue Main Nord, Unit\u00e9 8"
     }
   },
-  "name": "Paul Calandra",
   "date_of_birth": "1970-05-13",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Oak Ridges--Markham",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Oak Ridges--Markham",
-      "riding_fr": "Oak Ridges--Markham"
+      "riding_en": "Oak Ridges--Markham"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Scarborough-Est",
       "election_date": "2000-11-27",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Scarborough East",
-      "riding_fr": "Scarborough-Est"
+      "riding_en": "Scarborough East"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Markham, Ontario, Canada",
-    "name_en": "Markham, Ontario, Canada"
+    "name_en": "Markham, Ontario, Canada",
+    "name_fr": "Markham, Ontario, Canada"
   },
+  "id": "1d35e58c-52b0-42f0-a344-c31524b2d07a",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "name_en": "Canadian Reform Conservative Alliance",
       "start_date": "2000-11-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance"
-    }
-  ],
-  "language": "English",
-  "id": "1d35e58c-52b0-42f0-a344-c31524b2d07a",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128483&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128483&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1563",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1563",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.paulcalandra.com/",
-      "url_fr": "http://www.paulcalandra.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "end_date": "2003-12-22"
     }
   ]
 }

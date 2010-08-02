@@ -16,19 +16,29 @@ var inactive_color = '#808080'; // Colour of default text
 jQuery(document).ready(function() {
   jQuery("input.default-value").css("color", inactive_color);
   var default_values = new Array();
-  jQuery("input.default-value").focus(function() {
-    if (!default_values[this.id]) {
-      default_values[this.id] = this.value;
-    }
-    if (this.value == default_values[this.id]) {
-      this.value = '';
-      this.style.color = active_color;
-    }
+  jQuery("input.default-value").each(function(){
+	default_values[jQuery(this).attr('id')] = jQuery(this).val();
+    jQuery("input.default-value").focus(function() {
+      if (!default_values[this.id]) {
+        default_values[this.id] = this.value;
+      }
+      if (this.value == default_values[this.id]) {
+        this.value = '';
+        this.style.color = active_color;
+      }
+    });
     jQuery(this).blur(function() {
       if (this.value == '') {
         this.style.color = inactive_color;
         this.value = default_values[this.id];
       }
     });
+    jQuery(this).closest("form").submit(function(input){
+      return function(){
+        if (input.val() == default_values[input.attr('id')]) {
+          input.val('');
+        }
+      }
+    }(jQuery(this)));
   });
 });

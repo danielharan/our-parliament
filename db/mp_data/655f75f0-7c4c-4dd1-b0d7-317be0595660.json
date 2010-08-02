@@ -1,125 +1,126 @@
 {
-  "professions": [
+  "language": "French, English",
+  "weblinks": [
     {
-      "name_fr": "Politicien",
-      "name_en": "Politician"
+      "name_en": "Departement Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.dec-ced.gc.ca/eng/ministers/minister-state/minister-state.html",
+      "url_fr": "http://www.dec-ced.gc.ca/fra/ministres/ministre-etat/ministre-etat.html"
+    },
+    {
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=113961&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=113961&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/107496",
+      "url_fr": "http://www.conservative.ca/FR/4568/107498"
+    },
+    {
+      "name_en": "Personal Website (Available in French only)",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.denislebel.ca/FR/2091/4197",
+      "url_fr": "http://www.denislebel.ca/FR/2091/4197"
     }
   ],
-  "parlinfo_id": 113961,
   "functions": [
     {
-      "title_fr": "Ministre d'\u00c9tat (Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec)",
+      "title_en": "Minister of State (Economic Development Agency of Canada for the Regions of Quebec)",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre d'\u00c9tat (Agence de d\u00e9veloppement \u00e9conomique du Canada pour les r\u00e9gions du Qu\u00e9bec)",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State (Economic Development Agency of Canada for the Regions of Quebec)"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances",
+      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance",
       "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 sur le projet de loi C-28 du Comit\u00e9 permanent des finances",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Bill C-28 of the Standing Committee on Finance"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2007-09-17",
+  "professions": [
+    {
+      "name_en": "Politician",
+      "name_fr": "Politicien"
+    }
+  ],
+  "parlinfo_id": 113961,
+  "name": "Denis Lebel",
   "contact_info": {
     "parliament": {
       "email": "Lebel.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-6236",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-6236",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "lebeld1@parl.gc.ca",
       "postal_code": "G8H 2L4",
+      "city_en": "Roberval",
       "city_fr": "Roberval",
       "province_en": "Quebec",
+      "telephone": "418-275-2768",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "797 Saint-Joseph Boulevard, Suite 102",
-      "telephone": "418-275-2768",
-      "street_address_fr": "797, boulevard Saint-Joseph,\r\nbureau 102",
-      "city_en": "Roberval"
+      "street_address_fr": "797, boulevard Saint-Joseph,\r\nbureau 102"
     }
   },
-  "name": "Denis Lebel",
   "date_of_birth": "1954-05-26",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Roberval--Lac-Saint-Jean",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Roberval--Lac-Saint-Jean",
-      "riding_fr": "Roberval--Lac-Saint-Jean"
+      "riding_en": "Roberval--Lac-Saint-Jean"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Roberval--Lac-Saint-Jean",
       "election_date": "2007-09-17",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Roberval--Lac-Saint-Jean",
-      "riding_fr": "Roberval--Lac-Saint-Jean"
+      "riding_en": "Roberval--Lac-Saint-Jean"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Roberval, Qu\u00e9bec, Canada",
-    "name_en": "Roberval, Quebec, Canada"
+    "name_en": "Roberval, Quebec, Canada",
+    "name_fr": "Roberval, Qu\u00e9bec, Canada"
   },
+  "id": "655f75f0-7c4c-4dd1-b0d7-317be0595660",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2007-09-17",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "French, English",
-  "id": "655f75f0-7c4c-4dd1-b0d7-317be0595660",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.dec-ced.gc.ca/eng/ministers/minister-state/minister-state.html",
-      "url_fr": "http://www.dec-ced.gc.ca/fra/ministres/ministre-etat/ministre-etat.html",
-      "name_en": "Departement Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=113961&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=113961&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/107496",
-      "url_fr": "http://www.conservative.ca/FR/4568/107498",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.denislebel.ca/FR/2091/4197",
-      "url_fr": "http://www.denislebel.ca/FR/2091/4197",
-      "name_en": "Personal Website (Available in French only)"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

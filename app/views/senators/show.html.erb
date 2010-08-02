@@ -12,7 +12,7 @@
       <%= link_to image_tag(@senator.image.url, :alt => "photo of #{@senator.name}"), "", :title => "", :class => "photo" %>
     <% else %>
       <%= link_to image_tag("placeholder_photo_medium.gif", :alt => ""), "", :title => "", :class => "photo" %>
-      <p>Do you own a photo of this senator?<br/><%= link_to "Let us use it!", "mailto:info@apathyisboring.com" %></p>
+	  <p><%= t('senators.photo.prompt') %><br/><%= link_to t('senators.photo.prompt_link'), "mailto:info@apathyisboring.com" %></p>
     <% end %>
   </div>
   
@@ -24,18 +24,16 @@
     </ul>
   </div>
   
-  <div id="links" class="block">
-    <h3><%= t('senators.section.links') %></h3>
-    <% if @senator.links.keys.empty? %>
-      None found
-    <% else %>
+  <% if not @senator.links.keys.empty? %>
+	<div id="links" class="block">
+	  <h3><%= t('senators.section.links') %></h3>
       <ul>
         <% @senator.links.each do |name, link| %>
           <li><%= link_to(name, link) %></li>
         <% end %>
       </ul>
-    <% end %>
-  </div>
+	</div>
+  <% end %>
 
   <%= render :partial => 'shared/links' %>
 

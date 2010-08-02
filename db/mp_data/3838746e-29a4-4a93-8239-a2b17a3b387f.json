@@ -1,210 +1,211 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Agent de pr\u00e9vention des pertes",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78355&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78355&Language=F"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Loss prevention officer"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1795&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1795&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.markwarawa.com/",
+      "url_fr": "http://www.markwarawa.com/"
     }
   ],
-  "parlinfo_id": 78355,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Environnement",
+      "title_en": "Parliamentary Secretary to the Minister of the Environment",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Environnement",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of the Environment"
+      "role_fr": "Secr\u00e9taire parlementaire"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
+      "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-30",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-30"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-30",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-30"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-38",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-38"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Agent de pr\u00e9vention des pertes"
+    },
+    {
+      "name_en": "Loss prevention officer",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 78355,
+  "name": "Mark Warawa",
   "contact_info": {
     "parliament": {
       "email": "WarawM7@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-1157",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-1157",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "V0X 1T0",
+      "city_en": "Langley",
       "city_fr": "Langley",
       "province_en": "British Columbia",
+      "telephone": "604-534-5955",
       "province_fr": "Colombie-Britannique",
       "street_address_en": "101-6830 216th Street",
-      "telephone": "604-534-5955",
-      "street_address_fr": "101-6830, 216e Rue",
       "fax": "604-534-5970",
-      "city_en": "Langley"
+      "street_address_fr": "101-6830, 216e Rue"
     }
   },
-  "name": "Mark Warawa",
   "date_of_birth": "1950-05-07",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Langley",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Langley",
-      "riding_fr": "Langley"
+      "riding_en": "Langley"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Langley",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Langley",
-      "riding_fr": "Langley"
+      "riding_en": "Langley"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Langley",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Langley",
-      "riding_fr": "Langley"
+      "riding_en": "Langley"
     }
   ],
   "place_of_birth": {
-    "name_fr": "",
-    "name_en": ""
+    "name_en": "",
+    "name_fr": ""
   },
+  "id": "3838746e-29a4-4a93-8239-a2b17a3b387f",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "3838746e-29a4-4a93-8239-a2b17a3b387f",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78355&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78355&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1795&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1795&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.markwarawa.com/",
-      "url_fr": "http://www.markwarawa.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

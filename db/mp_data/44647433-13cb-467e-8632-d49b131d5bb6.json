@@ -1,319 +1,320 @@
 {
-  "professions": [
+  "language": "English, French",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78341&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78341&Language=F"
     },
     {
-      "name_fr": "Notaire",
-      "name_en": "Notary"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/9687_dominic-leblanc7",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/9687_dominic-leblanc"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.dominicleblanc.ca/",
+      "url_fr": "http://www.dominicleblanc.ca/"
     }
   ],
-  "parlinfo_id": 78341,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du leader du gouvernement \u00e0 la Chambre des communes",
+      "title_en": "Parliamentary Secretary to the Leader of the Government in the House of Commons",
       "start_date": "2004-07-20",
+      "title_fr": "Secr\u00e9taire parlementaire du leader du gouvernement \u00e0 la Chambre des communes",
       "end_date": "2006-02-05",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Leader of the Government in the House of Commons"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale",
+      "title_en": "Parliamentary Secretary to the Minister of National Defence",
       "start_date": "2003-01-13",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de la D\u00e9fense nationale",
       "end_date": "2003-12-11",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of National Defence"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
+      "title_en": "Chief Government Whip's assistant",
+      "start_date": "2004-02-20",
       "title_fr": "Assistant du whip en chef du gouvernement",
-      "start_date": "2004-02-20",
       "end_date": "2006-02-05",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Chief Government Whip's assistant"
+      "role_fr": "Whip"
     },
     {
+      "title_en": "Deputy Whip of the Liberal Party",
+      "start_date": "2004-02-20",
       "title_fr": "Whip adjoint du Parti lib\u00e9ral",
-      "start_date": "2004-02-20",
       "end_date": "2006-02-05",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Deputy Whip of the Liberal Party"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "Justice",
+      "title_en": "Justice",
       "start_date": "2009-01-22",
+      "title_fr": "Justice",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Justice"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Justice",
+      "title_en": "Justice",
       "start_date": "2008-01-23",
+      "title_fr": "Justice",
       "end_date": "2008-11-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Justice"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires intergouvernementales",
+      "title_en": "Intergovernmental Affairs",
       "start_date": "2007-10-09",
+      "title_fr": "Affaires intergouvernementales",
       "end_date": "2008-03-30",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Intergovernmental Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Commerce international",
+      "title_en": "International Trade",
       "start_date": "2006-02-23",
+      "title_fr": "Commerce international",
       "end_date": "2007-01-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "International Trade"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
+      "name_en": "Standing Committee on Justice and Human Rights",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-31",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-31",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-31"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
+      "name_en": "Standing Committee on Justice and Human Rights",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
+      "name_en": "Standing Committee on Justice and Human Rights",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du Code r\u00e9gissant les conflits d'int\u00e9r\u00eats des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Conflict of Interest Code for Members of the House of Commons of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on International Trade",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du commerce international",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 37,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on the Non-Medical Use of Drugs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Non-Medical Use of Drugs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments (Projet de loi C-38)",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on Non-Medical Use of Drugs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on Non-Medical Use of Drugs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des transports et des op\u00e9rations gouvernementales",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments",
+      "name_en": "Standing Committee on Transport and Government Operations",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport and Government Operations"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2000-11-27",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Notary",
+      "name_fr": "Notaire"
+    }
+  ],
+  "parlinfo_id": 78341,
+  "name": "Dominic LeBlanc",
   "contact_info": {
     "parliament": {
       "email": "Leblanc.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-1020",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-1020",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "E4P 2E3",
+      "city_en": "Shediac",
       "city_fr": "Shediac",
       "province_en": "New Brunswick",
+      "telephone": "506-533-5700",
       "province_fr": "Nouveau-Brunswick",
       "street_address_en": "328 Main Street, Unit I",
-      "telephone": "506-533-5700",
-      "street_address_fr": "328, rue Main, unit\u00e9 1",
-      "city_en": "Shediac"
+      "street_address_fr": "328, rue Main, unit\u00e9 1"
     }
   },
-  "name": "Dominic LeBlanc",
   "date_of_birth": "1967-12-14",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Beaus\u00e9jour",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Beaus\u00e9jour",
-      "riding_fr": "Beaus\u00e9jour"
+      "riding_en": "Beaus\u00e9jour"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Beaus\u00e9jour",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Beaus\u00e9jour",
-      "riding_fr": "Beaus\u00e9jour"
+      "riding_en": "Beaus\u00e9jour"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Beaus\u00e9jour",
       "election_date": "2004-06-28",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Beaus\u00e9jour",
-      "riding_fr": "Beaus\u00e9jour"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "2000-11-27",
       "result_fr": "\u00c9lu",
-      "riding_en": "Beaus\u00e9jour--Petitcodiac",
-      "riding_fr": "Beaus\u00e9jour--Petitcodiac"
+      "riding_en": "Beaus\u00e9jour"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Beaus\u00e9jour--Petitcodiac",
+      "election_date": "2000-11-27",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Beaus\u00e9jour--Petitcodiac"
+    },
+    {
+      "riding_fr": "Beaus\u00e9jour--Petitcodiac",
       "election_date": "1997-06-02",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Beaus\u00e9jour--Petitcodiac",
-      "riding_fr": "Beaus\u00e9jour--Petitcodiac"
+      "riding_en": "Beaus\u00e9jour--Petitcodiac"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Ottawa, Ontario, Canada",
-    "name_en": "Ottawa, Ontario, Canada"
+    "name_en": "Ottawa, Ontario, Canada",
+    "name_fr": "Ottawa, Ontario, Canada"
   },
+  "id": "44647433-13cb-467e-8632-d49b131d5bb6",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "1997-06-02",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English, French",
-  "id": "44647433-13cb-467e-8632-d49b131d5bb6",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78341&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78341&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/9687_dominic-leblanc7",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/9687_dominic-leblanc",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.dominicleblanc.ca/",
-      "url_fr": "http://www.dominicleblanc.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

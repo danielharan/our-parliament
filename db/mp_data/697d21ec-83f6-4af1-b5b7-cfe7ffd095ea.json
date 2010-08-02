@@ -1,363 +1,362 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "G\u00e9rant",
-      "name_en": "Businessman"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.acdi-cida.gc.ca/CIDAWEB/acdicida.nsf/En/NIC-510125049-MRX",
+      "url_fr": "http://www.acdi-cida.gc.ca/CIDAWEB/acdicida.nsf/Fr/NIC-510125049-MRX?OpenDocument"
     },
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Manager"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78914&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78914&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1793&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1793&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.jimabbott.ca/",
+      "url_fr": "http://www.jimabbott.ca/"
     }
   ],
-  "parlinfo_id": 78914,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire de la ministre de la Coop\u00e9ration internationale",
+      "title_en": "Parliamentary Secretary to the Minister of International Cooperation",
       "start_date": "2008-11-07",
+      "title_fr": "Secr\u00e9taire parlementaire de la ministre de la Coop\u00e9ration internationale",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of International Cooperation"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire pour le Patrimoine canadien",
+      "title_en": "Parliamentary Secretary for Canadian Heritage",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire pour le Patrimoine canadien",
       "end_date": "2008-11-06",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary for Canadian Heritage"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Sport",
+      "title_en": "Sport",
       "start_date": "2003-06-20",
+      "title_fr": "Sport",
       "end_date": "2004-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Sport"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sport amateur",
+      "title_en": "Amateur Sport",
       "start_date": "2002-02-01",
+      "title_fr": "Sport amateur",
       "end_date": "2003-06-19",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Amateur Sport"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Patrimoine canadien",
+      "title_en": "Canadian Heritage",
       "start_date": "2001-06-18",
+      "title_fr": "Patrimoine canadien",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canadian Heritage"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Solliciteur g\u00e9n\u00e9ral",
+      "title_en": "Solicitor General",
       "start_date": "1998-06-16",
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral",
       "end_date": "2000-07-31",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Solicitor General"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Leader du Gouvernement au S\u00e9nat",
+      "title_en": "Leader of the Government in the Senate",
       "start_date": "1996",
+      "title_fr": "Leader du Gouvernement au S\u00e9nat",
       "end_date": "1997-06-19",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Leader of the Government in the Senate"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Patrimoine canadien",
+      "title_en": "Canadian Heritage",
       "start_date": "1996",
+      "title_fr": "Patrimoine canadien",
       "end_date": "1998-06-16",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canadian Heritage"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Regional Development",
+      "start_date": "1995",
       "title_fr": "D\u00e9veloppement r\u00e9gional",
-      "start_date": "1995",
       "end_date": "1996",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Regional Development"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Senate",
+      "start_date": "1995",
       "title_fr": "S\u00e9nat",
-      "start_date": "1995",
       "end_date": "1996",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Senate"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Revenu national",
+      "title_en": "National Revenue",
       "start_date": "1994-09",
+      "title_fr": "Revenu national",
       "end_date": "1995",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Revenue"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Environment",
+      "start_date": "1994",
       "title_fr": "Environnement",
-      "start_date": "1994",
       "end_date": "1995",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Environment"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Fisheries and Oceans",
+      "start_date": "1994",
       "title_fr": "P\u00eaches et Oc\u00e9ans",
-      "start_date": "1994",
       "end_date": "1995",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Fisheries and Oceans"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Agriculture and Agri-Food",
+      "start_date": "1994",
       "title_fr": "Agriculture et Agro-alimentaire",
-      "start_date": "1994",
       "end_date": "1996",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Agriculture and Agri-Food"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Energy",
+      "start_date": "1994",
       "title_fr": "\u00c9nergie",
-      "start_date": "1994",
       "end_date": "1996",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Energy"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Extr\u00eame-Orient",
+      "title_en": "Far East",
       "start_date": "2004-09-01",
+      "title_fr": "Extr\u00eame-Orient",
       "end_date": "2006-02-05",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Far East"
+      "role_fr": "Porte-parole adjoint"
     },
     {
+      "title_en": "Foreign Affairs",
+      "start_date": "2000-08-01",
       "title_fr": "Affaires \u00e9trang\u00e8res",
-      "start_date": "2000-08-01",
       "end_date": "2001-06-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Foreign Affairs"
+      "role_fr": "Porte-parole adjoint"
     },
     {
+      "title_en": "Public Works and Government Services",
+      "start_date": "2000-08-01",
       "title_fr": "Travaux publics et Services gouvernementaux",
-      "start_date": "2000-08-01",
       "end_date": "2001-06-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Public Works and Government Services"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Comptes publics",
+      "title_en": "Public Accounts",
       "start_date": "1996-10-25",
+      "title_fr": "Comptes publics",
       "end_date": "1997",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Public Accounts"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Ressources naturelles",
+      "title_en": "Natural Resources",
       "start_date": "1996-10-25",
+      "title_fr": "Ressources naturelles",
       "end_date": "1997-06",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "name_en": "Standing Committee on Official Languages",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur la sensibilisation \u00e0 l'environnement pour un d\u00e9veloppement durable du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Subcommittee on Environmental Awareness for Sustainability of the Standing Committee on Environment and Sustainable Development",
       "parliament": 35,
+      "name_fr": "Sous-comit\u00e9 sur la sensibilisation \u00e0 l'environnement pour un d\u00e9veloppement durable du Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Environmental Awareness for Sustainability of the Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1993-10-25",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "G\u00e9rant"
+    },
+    {
+      "name_en": "Manager",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 78914,
+  "name": "Jim Abbott",
   "contact_info": {
     "parliament": {
       "email": "Abbott.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
       "telephone": "613-995-7246",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-9923",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "abbott@cyberlink.bc.ca",
       "postal_code": "V1C 4M4",
+      "city_en": "Cranbrook",
       "city_fr": "Cranbrook",
       "province_en": "British Columbia",
       "telephone": "250-417-2250",
       "province_fr": "Colombie-Britannique",
       "street_address_en": "125D Slater Road",
-      "street_address_fr": "125D, chemin Slater",
-      "fax": "250-417-2253",
-      "city_en": "Cranbrook"
+      "street_address_fr": "125D, chemin Slater"
     }
   },
-  "name": "Jim Abbott",
   "date_of_birth": "1942-08-18",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Kootenay--Columbia",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Kootenay--Columbia",
-      "riding_fr": "Kootenay--Columbia"
+      "riding_en": "Kootenay--Columbia"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Kootenay--Columbia",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Kootenay--Columbia",
-      "riding_fr": "Kootenay--Columbia"
+      "riding_en": "Kootenay--Columbia"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Kootenay--Columbia",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Kootenay--Columbia",
-      "riding_fr": "Kootenay--Columbia"
+      "riding_en": "Kootenay--Columbia"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Kootenay--Columbia",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Kootenay--Columbia",
-      "riding_fr": "Kootenay--Columbia"
+      "riding_en": "Kootenay--Columbia"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Kootenay--Columbia",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Kootenay--Columbia",
-      "riding_fr": "Kootenay--Columbia"
+      "riding_en": "Kootenay--Columbia"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Kootenay-Est",
       "election_date": "1993-10-25",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Kootenay East",
-      "riding_fr": "Kootenay-Est"
+      "riding_en": "Kootenay East"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "697d21ec-83f6-4af1-b5b7-cfe7ffd095ea",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "name_en": "Canadian Reform Conservative Alliance",
       "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance"
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "end_date": "2003-12-22"
     },
     {
-      "name_fr": "Parti r\u00e9formiste",
+      "name_en": "Reform Party",
       "start_date": "1993-10-25",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party"
-    }
-  ],
-  "language": "English",
-  "id": "697d21ec-83f6-4af1-b5b7-cfe7ffd095ea",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.acdi-cida.gc.ca/CIDAWEB/acdicida.nsf/En/NIC-510125049-MRX",
-      "url_fr": "http://www.acdi-cida.gc.ca/CIDAWEB/acdicida.nsf/Fr/NIC-510125049-MRX?OpenDocument",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78914&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78914&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1793&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1793&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.jimabbott.ca/",
-      "url_fr": "http://www.jimabbott.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti r\u00e9formiste",
+      "end_date": "2000-03-26"
     }
   ]
 }

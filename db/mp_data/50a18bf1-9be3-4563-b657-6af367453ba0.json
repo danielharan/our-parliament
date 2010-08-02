@@ -1,293 +1,292 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Auteur",
-      "name_en": "Author"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78395&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78395&Language=F"
     },
     {
-      "name_fr": "Chanteur",
-      "name_en": "Broadcaster"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/charlieangus",
+      "url_fr": "http://www.npd.ca/charlieangus"
     },
     {
-      "name_fr": "Journaliste",
-      "name_en": "Editor"
-    },
-    {
-      "name_fr": "Musicien",
-      "name_en": "Journalist"
-    },
-    {
-      "name_fr": "N\u00e9gociateur",
-      "name_en": "Musician"
-    },
-    {
-      "name_fr": "Radiodiffuseur",
-      "name_en": "Negotiator"
-    },
-    {
-      "name_fr": "R\u00e9dacteur",
-      "name_en": "Singer"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.charlieangus.net/",
+      "url_fr": "http://www.charlieangus.net/"
     }
   ],
-  "parlinfo_id": 78395,
   "functions": [
     {
+      "title_en": "Canadian Heritage",
+      "start_date": "2008-11-17",
       "title_fr": "Industries culturelles",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canadian Heritage"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Cultural Industries",
+      "start_date": "2008-11-17",
       "title_fr": "Patrimoine",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Cultural Industries"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Digital Issues",
+      "start_date": "2008-11-17",
       "title_fr": "Patrimoine canadien",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Digital Issues"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Heritage",
+      "start_date": "2008-11-17",
       "title_fr": "Questions num\u00e9riques",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Heritage"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Democratic Reform",
+      "start_date": "2007-09-27",
       "title_fr": "Conseil du tr\u00e9sor",
-      "start_date": "2007-09-27",
       "end_date": "2008-11-16",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Democratic Reform"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Electoral Reform",
+      "start_date": "2007-09-27",
       "title_fr": "R\u00e9forme d\u00e9mocratique",
-      "start_date": "2007-09-27",
       "end_date": "2008-11-16",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Electoral Reform"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Public Works and Government Services",
+      "start_date": "2007-09-27",
       "title_fr": "R\u00e9forme \u00e9lectorale",
-      "start_date": "2007-09-27",
       "end_date": "2008-11-16",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Public Works and Government Services"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Treasury Board",
+      "start_date": "2007-09-27",
       "title_fr": "Travaux publics et Services gouvernementaux",
-      "start_date": "2007-09-27",
       "end_date": "2008-11-16",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Treasury Board"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "D\u00e9veloppement rural",
+      "title_en": "Rural Development",
       "start_date": "2004-10-01",
+      "title_fr": "D\u00e9veloppement rural",
       "end_date": "2005-01-30",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Rural Development"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Agriculture et Agro-alimentaire",
+      "title_en": "Agriculture and Agri-Food",
       "start_date": "2004-07-22",
+      "title_fr": "Agriculture et Agro-alimentaire",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Agriculture and Agri-Food"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Patrimoine canadien",
+      "title_en": "Canadian Heritage",
       "start_date": "2004-07-22",
+      "title_fr": "Patrimoine canadien",
       "end_date": "2007-09-26",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canadian Heritage"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
       "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "session": 2,
       "role_en": "Co-Chair",
-      "role_fr": "Co-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates"
+      "role_fr": "Co-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "name_en": "Standing Committee on Government Operations and Estimates",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-20",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-20"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Legislative Committee on Bill C-20"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 39,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 38,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Author",
+      "name_fr": "Auteur"
+    },
+    {
+      "name_en": "Broadcaster",
+      "name_fr": "Chanteur"
+    },
+    {
+      "name_en": "Editor",
+      "name_fr": "Journaliste"
+    },
+    {
+      "name_en": "Journalist",
+      "name_fr": "Musicien"
+    },
+    {
+      "name_en": "Musician",
+      "name_fr": "N\u00e9gociateur"
+    },
+    {
+      "name_en": "Negotiator",
+      "name_fr": "Radiodiffuseur"
+    },
+    {
+      "name_en": "Singer",
+      "name_fr": "R\u00e9dacteur"
+    }
+  ],
+  "parlinfo_id": 78395,
+  "name": "Charlie Angus",
   "contact_info": {
     "parliament": {
       "email": "Angus.C@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
       "telephone": "613-992-2919",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-995-0747",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "Angus.C@parl.gc.ca",
       "postal_code": "P2N 3H7",
+      "city_en": "Kirkland Lake",
       "city_fr": "Kirkland Lake",
       "province_en": "Ontario",
       "telephone": "705-567-2747",
       "province_fr": "Ontario",
       "street_address_en": "20 Duncan Avenue South,\r\n P.O. Box 276",
-      "street_address_fr": "20, avenue Duncan Sud\r\nCase postale 276",
-      "fax": "705-567-5232",
-      "city_en": "Kirkland Lake"
+      "street_address_fr": "20, avenue Duncan Sud\r\nCase postale 276"
     }
   },
-  "name": "Charlie Angus",
   "date_of_birth": "1962-11-14",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Timmins--Baie James",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Timmins--James Bay",
-      "riding_fr": "Timmins--Baie James"
+      "riding_en": "Timmins--James Bay"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Timmins--Baie James",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Timmins--James Bay",
-      "riding_fr": "Timmins--Baie James"
+      "riding_en": "Timmins--James Bay"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Timmins--Baie James",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Timmins--James Bay",
-      "riding_fr": "Timmins--Baie James"
+      "riding_en": "Timmins--James Bay"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Timmins, Ontario, Canada",
-    "name_en": "Timmins, Ontario, Canada"
+    "name_en": "Timmins, Ontario, Canada",
+    "name_fr": "Timmins, Ontario, Canada"
   },
+  "id": "50a18bf1-9be3-4563-b657-6af367453ba0",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2004-06-28",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "50a18bf1-9be3-4563-b657-6af367453ba0",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78395&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78395&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/charlieangus",
-      "url_fr": "http://www.npd.ca/charlieangus",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.charlieangus.net/",
-      "url_fr": "http://www.charlieangus.net/",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

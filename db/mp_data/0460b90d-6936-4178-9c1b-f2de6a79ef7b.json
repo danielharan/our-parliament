@@ -1,118 +1,119 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Agriculteur",
-      "name_en": "Farmer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128378&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128378&Language=F"
     },
     {
-      "name_fr": "Enseignant",
-      "name_en": "Teacher"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1759",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1759&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel  (Disponible en anglais seulement)",
+      "url_en": "http://www.earldreeshen.ca/about.htm",
+      "url_fr": "http://www.earldreeshen.ca/about.htm"
     }
   ],
-  "parlinfo_id": 128378,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Farmer",
+      "name_fr": "Agriculteur"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "Enseignant"
+    }
+  ],
+  "parlinfo_id": 128378,
+  "name": "Earl Dreeshen",
   "contact_info": {
     "parliament": {
       "email": "Dreeshen.E@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-0590",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-0590",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "Dreese1@parl.gc.ca",
       "postal_code": "T4N 4N7",
+      "city_en": "Red Deer",
       "city_fr": "Red Deer",
       "province_en": "Alberta",
+      "telephone": "403-347-7426",
       "province_fr": "Alberta",
       "street_address_en": "4315-55th Avenue, Suite 100A",
-      "telephone": "403-347-7426",
-      "street_address_fr": "4315, 55e Avenue, bureau 100A",
-      "city_en": "Red Deer"
+      "street_address_fr": "4315, 55e Avenue, bureau 100A"
     }
   },
-  "name": "Earl Dreeshen",
   "date_of_birth": "1953-07-09",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Red Deer",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Red Deer",
-      "riding_fr": "Red Deer"
+      "riding_en": "Red Deer"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Red Deer, Alberta, Canada",
-    "name_en": "Red Deer, Alberta, Canada"
+    "name_en": "Red Deer, Alberta, Canada",
+    "name_fr": "Red Deer, Alberta, Canada"
   },
+  "id": "0460b90d-6936-4178-9c1b-f2de6a79ef7b",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "0460b90d-6936-4178-9c1b-f2de6a79ef7b",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128378&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128378&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1759",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1759&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel  (Disponible en anglais seulement)",
-      "url_en": "http://www.earldreeshen.ca/about.htm",
-      "url_fr": "http://www.earldreeshen.ca/about.htm",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

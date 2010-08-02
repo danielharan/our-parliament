@@ -1,98 +1,99 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Attach\u00e9 politique",
-      "name_en": "Political attach\u00e9"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128141&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128141&Language=F"
+    },
+    {
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=e2e6813e-2ef6-464f-a62e-7f750e8853bf",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=e2e6813e-2ef6-464f-a62e-7f750e8853bf"
     }
   ],
-  "parlinfo_id": 128141,
   "functions": [
     {
-      "title_fr": "Jeunesse",
+      "title_en": "Youth",
       "start_date": "2008-10-31",
+      "title_fr": "Jeunesse",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Youth"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Political attach\u00e9",
+      "name_fr": "Attach\u00e9 politique"
+    }
+  ],
+  "parlinfo_id": 128141,
+  "name": "Nicolas Dufour",
   "contact_info": {
     "parliament": {
       "email": "Dufour.N@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-5257",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-5257",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "dufourN1@parl.gc.ca",
       "postal_code": "J6A 2P9",
+      "city_en": "Repentigny",
       "city_fr": "Repentigny",
       "province_en": "Quebec",
+      "telephone": "450-581-3896",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "184 Notre-Dame Street, Suite 201",
-      "telephone": "450-581-3896",
-      "street_address_fr": "184, rue Notre-Dame, bureau 201",
-      "city_en": "Repentigny"
+      "street_address_fr": "184, rue Notre-Dame, bureau 201"
     }
   },
-  "name": "Nicolas Dufour",
   "date_of_birth": "1987-06-01",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Repentigny",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Repentigny",
-      "riding_fr": "Repentigny"
+      "riding_en": "Repentigny"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
-    "name_en": "Montreal, Quebec, Canada"
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
   },
+  "id": "924b0165-b236-4afd-97c7-1b1d769c033b",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2008-10-14",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "924b0165-b236-4afd-97c7-1b1d769c033b",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128141&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128141&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=e2e6813e-2ef6-464f-a62e-7f750e8853bf",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=e2e6813e-2ef6-464f-a62e-7f750e8853bf",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

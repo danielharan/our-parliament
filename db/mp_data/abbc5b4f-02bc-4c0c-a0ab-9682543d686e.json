@@ -1,126 +1,125 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Entrepreneure",
-      "name_en": "Entrepreneur"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128102&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128102&Language=F"
     },
     {
-      "name_fr": "Experte-conseil en affaires publiques",
-      "name_en": "Public affairs consultant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/17181_bonnie-crombie",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/17181_bonnie-crombie"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel  (Disponible en anglais seulement)",
+      "url_en": "http://www.streetsvilleliberals.ca/default.aspx",
+      "url_fr": "http://www.streetsvilleliberals.ca/default.aspx"
     }
   ],
-  "parlinfo_id": 128102,
   "functions": [
     {
-      "title_fr": "Corporations de la Couronne",
+      "title_en": "Crown Corporations",
       "start_date": "2009-10-06",
+      "title_fr": "Corporations de la Couronne",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Crown Corporations"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Entrepreneur",
+      "name_fr": "Entrepreneure"
+    },
+    {
+      "name_en": "Public affairs consultant",
+      "name_fr": "Experte-conseil en affaires publiques"
+    }
+  ],
+  "parlinfo_id": 128102,
+  "name": "Bonnie Crombie",
   "contact_info": {
     "parliament": {
       "email": "Crombie.B@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-943-1762",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-943-1762",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-943-1768",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "Crombie.B@parl.gc.ca",
       "postal_code": "L5M 2P4",
+      "city_en": "Mississauga",
       "city_fr": "Mississauga",
       "province_en": "Ontario",
+      "telephone": "905-812-1811",
       "province_fr": "Ontario",
       "street_address_en": "154 Queen Street South, Unit 104",
-      "telephone": "905-812-1811",
-      "street_address_fr": "154, rue Queen Sud, Unit\u00e9 104",
-      "fax": "905-812-8464",
-      "city_en": "Mississauga"
+      "street_address_fr": "154, rue Queen Sud, Unit\u00e9 104"
     }
   },
-  "name": "Bonnie Crombie",
   "date_of_birth": "1960-02-05",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Mississauga--Streetsville",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Mississauga--Streetsville",
-      "riding_fr": "Mississauga--Streetsville"
+      "riding_en": "Mississauga--Streetsville"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "abbc5b4f-02bc-4c0c-a0ab-9682543d686e",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "abbc5b4f-02bc-4c0c-a0ab-9682543d686e",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128102&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128102&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/17181_bonnie-crombie",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/17181_bonnie-crombie",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel  (Disponible en anglais seulement)",
-      "url_en": "http://www.streetsvilleliberals.ca/default.aspx",
-      "url_fr": "http://www.streetsvilleliberals.ca/default.aspx",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

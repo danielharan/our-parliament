@@ -1,140 +1,141 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Professeur",
-      "name_en": "Professor"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78385&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78385&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/jack",
+      "url_fr": "http://www.npd.ca/jack"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.npd.ca/jacklayton",
+      "url_fr": "http://www.npd.ca/jacklayton"
     }
   ],
-  "parlinfo_id": 78385,
   "functions": [
     {
-      "title_fr": "Affaires intergouvernementales",
+      "title_en": "Intergovernmental Affairs",
       "start_date": "2007-09-27",
+      "title_fr": "Affaires intergouvernementales",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Intergovernmental Affairs"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Prime Minister",
+      "start_date": "2004-07-22",
       "title_fr": "Premier ministre",
-      "start_date": "2004-07-22",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Prime Minister"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Climate Change",
+      "start_date": "2004-07-22",
       "title_fr": "Changements climatiques",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Climate Change"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "\u00c9nergie",
+      "title_en": "Energy",
       "start_date": "2004-07-22",
+      "title_fr": "\u00c9nergie",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Energy"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Professor",
+      "name_fr": "Professeur"
+    }
+  ],
+  "parlinfo_id": 78385,
+  "name": "Jack Layton",
   "contact_info": {
     "parliament": {
       "email": "Layton.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-7224",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-7224",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "M4M 2G3",
+      "city_en": "Toronto",
       "city_fr": "Toronto",
       "province_en": "Ontario",
+      "telephone": "416-405-8914",
       "province_fr": "Ontario",
       "street_address_en": "221 Broadview Avenue, Suite 100",
-      "telephone": "416-405-8914",
-      "street_address_fr": "221, avenue Broadview, bureau 100",
       "fax": "416-405-8918",
-      "city_en": "Toronto"
+      "street_address_fr": "221, avenue Broadview, bureau 100"
     }
   },
-  "name": "Jack Layton",
   "date_of_birth": "1950-07-18",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Toronto--Danforth",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Toronto--Danforth",
-      "riding_fr": "Toronto--Danforth"
+      "riding_en": "Toronto--Danforth"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Toronto--Danforth",
       "election_date": "2006-01-23",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Toronto--Danforth",
-      "riding_fr": "Toronto--Danforth"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "2004-06-28",
       "result_fr": "\u00c9lu",
-      "riding_en": "Toronto--Danforth",
-      "riding_fr": "Toronto--Danforth"
+      "riding_en": "Toronto--Danforth"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Toronto--Danforth",
+      "election_date": "2004-06-28",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Toronto--Danforth"
+    },
+    {
+      "riding_fr": "Broadview--Greenwood",
       "election_date": "1997-06-02",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Broadview--Greenwood",
-      "riding_fr": "Broadview--Greenwood"
+      "riding_en": "Broadview--Greenwood"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Rosedale",
       "election_date": "1993-10-25",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Rosedale",
-      "riding_fr": "Rosedale"
+      "riding_en": "Rosedale"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
-    "name_en": "Montreal, Quebec, Canada"
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
   },
+  "id": "878c4a88-aa8e-4e9a-961f-3829672d4dc0",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "1993-10-25",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "878c4a88-aa8e-4e9a-961f-3829672d4dc0",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78385&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78385&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/jack",
-      "url_fr": "http://www.npd.ca/jack",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.npd.ca/jacklayton",
-      "url_fr": "http://www.npd.ca/jacklayton",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

@@ -1,131 +1,131 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Dirigeante d'entreprise",
-      "name_en": "Business executive"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128196&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128196&Language=F"
     },
     {
-      "name_fr": "Femme d'affaires",
-      "name_en": "Businesswoman"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/12744_siobhan-coady",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/12744_siobhan-coady"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.siobhancoady.ca",
+      "url_fr": "http://www.siobhancoady.ca"
     }
   ],
-  "parlinfo_id": 128196,
   "functions": [
     {
-      "title_fr": "Conseil du tr\u00e9sor",
+      "title_en": "Treasury Board",
       "start_date": "2009-10-06",
+      "title_fr": "Conseil du tr\u00e9sor",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Treasury Board"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "P\u00eaches et Oc\u00e9ans",
+      "title_en": "Fisheries and Oceans",
       "start_date": "2008-11-14",
+      "title_fr": "P\u00eaches et Oc\u00e9ans",
       "end_date": "2009-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Fisheries and Oceans"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "name_en": "Standing Committee on Government Operations and Estimates",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Business executive",
+      "name_fr": "Dirigeante d'entreprise"
+    },
+    {
+      "name_en": "Businesswoman",
+      "name_fr": "Femme d'affaires"
+    }
+  ],
+  "parlinfo_id": 128196,
+  "name": "Siobhan Coady",
   "contact_info": {
     "parliament": {
       "email": "Coady.S@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-0927",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-0927",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-995-7858",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "A1N 3J7",
+      "city_en": "Mount Pearl",
       "city_fr": "Mount Pearl",
       "province_en": "Newfoundland and Labrador",
+      "telephone": "709-772-4608",
       "province_fr": "Terre-Neuve-et-Labrador",
       "street_address_en": "860 Topsail Road",
-      "telephone": "709-772-4608",
-      "street_address_fr": "860, chemin Topsail",
       "fax": "709-772-4776",
-      "city_en": "Mount Pearl"
+      "street_address_fr": "860, chemin Topsail"
     }
   },
-  "name": "Siobhan Coady",
   "date_of_birth": "1960-11-11",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "St. John's-Sud--Mount Pearl",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "St. John's South--Mount Pearl",
-      "riding_fr": "St. John's-Sud--Mount Pearl"
+      "riding_en": "St. John's South--Mount Pearl"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "St. John's-Sud--Mount Pearl",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9faite",
-      "riding_en": "St. John's South--Mount Pearl",
-      "riding_fr": "St. John's-Sud--Mount Pearl"
+      "riding_en": "St. John's South--Mount Pearl"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "St. John's-Sud",
       "election_date": "2004-06-28",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9faite",
-      "riding_en": "St. John's South",
-      "riding_fr": "St. John's-Sud"
+      "riding_en": "St. John's South"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Grand Falls-Windsor, Terre-Neuve-et-Labrador, Canada",
-    "name_en": "Grand Falls-Windsor, Newfoundland and Labrador, Canada"
+    "name_en": "Grand Falls-Windsor, Newfoundland and Labrador, Canada",
+    "name_fr": "Grand Falls-Windsor, Terre-Neuve-et-Labrador, Canada"
   },
+  "id": "2cfc0663-3048-4e44-ad6d-95e6a357bed8",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "2cfc0663-3048-4e44-ad6d-95e6a357bed8",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128196&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128196&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/12744_siobhan-coady",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/12744_siobhan-coady",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.siobhancoady.ca",
-      "url_fr": "http://www.siobhancoady.ca",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

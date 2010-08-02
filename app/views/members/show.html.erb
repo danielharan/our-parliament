@@ -26,6 +26,9 @@
 		<% if @mp.age %>
 			<li><%= t('members.age', :age => @mp.age) %></li>
 		<% end %>
+		<% if @mp.start_date %>
+			<li><%= t('members.show.days_of_service', :days => number_with_delimiter(Date.today - @mp.start_date, ',')) %></li>
+		<% end %>
 		<% for function in @mp.current_parliamentary_functions %>
 			<li><%= function.parliamentary_title.full_name %></li>
 		<% end %>
@@ -46,18 +49,16 @@
     </ul>
   </div>
 
-  <div id="links" class="block">
-    <h3><%= t('members.section.links') %></h3>
-    <% if @mp.links.keys.empty? %>
-      None found
-    <% else %>
+  <% if not @mp.links.keys.empty? %>
+	<div id="links" class="block">
+	  <h3><%= t('members.section.links') %></h3>
       <ul>
         <% @mp.links.each do |name, link| %>
           <li><%= link_to(name, link) %></li>
         <% end %>
       </ul>
-    <% end %>
-  </div>
+	</div>
+  <% end %>
 
   <%= render :partial => 'shared/links' %>
 

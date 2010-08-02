@@ -1,111 +1,110 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "\u00c9lectricien",
-      "name_en": "Electrician"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128407&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128407&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/malcolmallen",
+      "url_fr": "http://www.npd.ca/malcolmallen"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.malcolmallen.ca/",
+      "url_fr": "http://www.malcolmallen.ca/"
     }
   ],
-  "parlinfo_id": 128407,
   "functions": [
     {
+      "title_en": "Skills Training and Apprenticeships",
+      "start_date": "2008-11-17",
       "title_fr": "Formation professionnelle et apprentissage",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Skills Training and Apprenticeships"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Agriculture",
+      "start_date": "2008-11-17",
       "title_fr": "Agriculture",
-      "start_date": "2008-11-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Agriculture"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "S\u00e9curit\u00e9 alimentaire",
+      "title_en": "Food Security",
       "start_date": "2008-11-17",
+      "title_fr": "S\u00e9curit\u00e9 alimentaire",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Food Security"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Sous-comit\u00e9 sur la salubrit\u00e9 des aliments du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur la salubrit\u00e9 des aliments du Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Food Safety of the Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Electrician",
+      "name_fr": "\u00c9lectricien"
+    }
+  ],
+  "parlinfo_id": 128407,
+  "name": "Malcolm Allen",
   "contact_info": {
     "parliament": {
       "email": "Allen.Ma@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
       "telephone": "613-995-0988",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-995-5245",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "L3K 3E1",
-      "city_fr": "Welland",
+      "city_en": "Port Colborne",
+      "city_fr": "Port Colborne",
       "province_en": "Ontario",
       "telephone": "905-834-3629",
       "province_fr": "Ontario",
       "street_address_en": "92 Charlotte Street",
-      "street_address_fr": "92, rue Charlotte",
-      "fax": "905-788-0988",
-      "city_en": "Welland"
+      "street_address_fr": "92, rue Charlotte"
     }
   },
-  "name": "Malcolm Allen",
   "date_of_birth": "1953-05-30",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Welland",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Welland",
-      "riding_fr": "Welland"
+      "riding_en": "Welland"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Glasgow, \u00c9cosse",
-    "name_en": "Glasgow, Scotland"
+    "name_en": "Glasgow, Scotland",
+    "name_fr": "Glasgow, \u00c9cosse"
   },
+  "id": "28af576a-0312-4caf-8b49-2dd09744395d",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2008-10-14",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "28af576a-0312-4caf-8b49-2dd09744395d",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128407&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128407&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/malcolmallen",
-      "url_fr": "http://www.npd.ca/malcolmallen",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.malcolmallen.ca/",
-      "url_fr": "http://www.malcolmallen.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

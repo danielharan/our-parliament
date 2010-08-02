@@ -1,154 +1,155 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Experte-conseil en politique",
-      "name_en": "Organizer"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128510&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128510&Language=F"
     },
     {
-      "name_fr": "Experte-conseil en politique",
-      "name_en": "Political consultant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1671",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1671&language_id=2"
     },
     {
-      "name_fr": "Organisatrice",
-      "name_en": "Political consultant"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://candicehoeppner.com/",
+      "url_fr": "http://candicehoeppner.com/"
     }
   ],
-  "parlinfo_id": 128510,
   "functions": [
 
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 40,
       "session": 3,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sidente",
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Pr\u00e9sidente"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 40,
       "session": 3,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sidente",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Pr\u00e9sidente"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Organizer",
+      "name_fr": "Experte-conseil en politique"
+    },
+    {
+      "name_en": "Political consultant",
+      "name_fr": "Experte-conseil en politique"
+    },
+    {
+      "name_en": "Political consultant",
+      "name_fr": "Organisatrice"
+    }
+  ],
+  "parlinfo_id": 128510,
+  "name": "Candice Hoeppner",
   "contact_info": {
     "parliament": {
       "email": "Hoeppner.C@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-9511",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-9511",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "HoeppC1@parl.gc.ca",
       "postal_code": "R6M 2E1",
+      "city_en": "Morden",
       "city_fr": "Morden",
       "province_en": "Manitoba",
+      "telephone": "204-822-7440",
       "province_fr": "Manitoba",
       "street_address_en": "886 Thornhill Street, Unit E",
-      "telephone": "204-822-7440",
-      "street_address_fr": "886,  rue Thornhill, unit\u00e9 E",
-      "city_en": "Morden"
+      "street_address_fr": "886,  rue Thornhill, unit\u00e9 E"
     }
   },
-  "name": "Candice Hoeppner",
   "date_of_birth": "1964-09-28",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Portage--Lisgar",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Portage--Lisgar",
-      "riding_fr": "Portage--Lisgar"
+      "riding_en": "Portage--Lisgar"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Morden, Manitoba, Canada",
-    "name_en": "Morden, Manitoba, Canada"
+    "name_en": "Morden, Manitoba, Canada",
+    "name_fr": "Morden, Manitoba, Canada"
   },
+  "id": "9d3d2220-818c-494e-8d58-29f7cee7b65d",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "9d3d2220-818c-494e-8d58-29f7cee7b65d",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128510&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128510&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1671",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1671&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://candicehoeppner.com/",
-      "url_fr": "http://candicehoeppner.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

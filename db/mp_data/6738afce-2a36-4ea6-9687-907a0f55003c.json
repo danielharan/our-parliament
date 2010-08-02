@@ -1,189 +1,190 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Conseiller",
-      "name_en": "Advisor"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78485&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78485&Language=F"
     },
     {
-      "name_fr": "Conseiller en d\u00e9veloppement des affaires",
-      "name_en": "Business development consultant"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Web Site du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=8996e4e2-7372-45ec-80cc-b57ea6626f38",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=8996e4e2-7372-45ec-80cc-b57ea6626f38"
     }
   ],
-  "parlinfo_id": 78485,
   "functions": [
     {
-      "title_fr": "Sant\u00e9",
+      "title_en": "Health",
       "start_date": "2008-06-26",
+      "title_fr": "Sant\u00e9",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Health"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sports",
+      "title_en": "Sports",
       "start_date": "2006-02-10",
+      "title_fr": "Sports",
       "end_date": "2008-06-25",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Sports"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Official Languages",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2006-01-23",
+  "professions": [
+    {
+      "name_en": "Advisor",
+      "name_fr": "Conseiller"
+    },
+    {
+      "name_en": "Business development consultant",
+      "name_fr": "Conseiller en d\u00e9veloppement des affaires"
+    }
+  ],
+  "parlinfo_id": 78485,
+  "name": "Luc Malo",
   "contact_info": {
     "parliament": {
       "email": "Malo.L@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-2998",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-2998",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "MaloL@parl.gc.ca",
       "postal_code": "J3X 1P7",
+      "city_en": "Varennes",
       "city_fr": "Varennes",
       "province_en": "Quebec",
+      "telephone": "450-652-4442",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "1085 Lionel-Boulet Boulevard, Suite A",
-      "telephone": "450-652-4442",
-      "street_address_fr": "1085, boulevard Lionel-Boulet, bureau A",
-      "city_en": "Varennes"
+      "street_address_fr": "1085, boulevard Lionel-Boulet, bureau A"
     }
   },
-  "name": "Luc Malo",
   "date_of_birth": "1973-11-02",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Verch\u00e8res--Les Patriotes",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Verch\u00e8res--Les Patriotes",
-      "riding_fr": "Verch\u00e8res--Les Patriotes"
+      "riding_en": "Verch\u00e8res--Les Patriotes"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Verch\u00e8res--Les Patriotes",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Verch\u00e8res--Les Patriotes",
-      "riding_fr": "Verch\u00e8res--Les Patriotes"
+      "riding_en": "Verch\u00e8res--Les Patriotes"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Contrecoeur, Qu\u00e9bec, Canada",
-    "name_en": "Contrecoeur, Quebec, Canada"
+    "name_en": "Contrecoeur, Quebec, Canada",
+    "name_fr": "Contrecoeur, Qu\u00e9bec, Canada"
   },
+  "id": "6738afce-2a36-4ea6-9687-907a0f55003c",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2006-01-23",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "6738afce-2a36-4ea6-9687-907a0f55003c",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78485&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78485&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Web Site du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=8996e4e2-7372-45ec-80cc-b57ea6626f38",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=8996e4e2-7372-45ec-80cc-b57ea6626f38",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

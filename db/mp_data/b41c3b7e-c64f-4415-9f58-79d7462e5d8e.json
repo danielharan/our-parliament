@@ -1,278 +1,279 @@
 {
-  "professions": [
+  "language": "English, French",
+  "weblinks": [
     {
-      "name_fr": "Activiste communautaire",
-      "name_en": "Community activist"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78654&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78654&Language=F"
     },
     {
-      "name_fr": "Administrateur des finances",
-      "name_en": "Executive director"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/peterjulian",
+      "url_fr": "http://www.ndp.ca/peterjulian"
     },
     {
-      "name_fr": "Directeur ex\u00e9cutif",
-      "name_en": "Financial administrator"
-    },
-    {
-      "name_fr": "Ouvrier",
-      "name_en": "Worker"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.peterjulian.ca/",
+      "url_fr": "http://www.peterjulian.ca/"
     }
   ],
-  "parlinfo_id": 78654,
   "functions": [
     {
-      "title_fr": "Porte d'entr\u00e9e du Pacifique",
+      "title_en": "Pacific Gateway",
       "start_date": "2007-09-27",
+      "title_fr": "Porte d'entr\u00e9e du Pacifique",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Pacific Gateway"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "2010 Olympics",
+      "start_date": "2006-02-14",
       "title_fr": "Olympiques de 2010",
-      "start_date": "2006-02-14",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "2010 Olympics"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Asia-Pacific Gateway",
+      "start_date": "2006-02-14",
       "title_fr": "Porte d'entr\u00e9e de l'Asie-Pacifique",
-      "start_date": "2006-02-14",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Asia-Pacific Gateway"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Personnes handicap\u00e9es",
+      "title_en": "Persons with Disabilities",
       "start_date": "2006-02-14",
+      "title_fr": "Personnes handicap\u00e9es",
       "end_date": "2007-09-26",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Persons with Disabilities"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Transport",
+      "start_date": "2006-02-14",
       "title_fr": "Transports",
-      "start_date": "2006-02-14",
       "end_date": "2007-09-26",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Transport"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "International Trade",
+      "start_date": "2004-07-22",
       "title_fr": "Commerce international",
-      "start_date": "2004-07-22",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "International Trade"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Personnes handicap\u00e9es",
+      "title_en": "Persons with Disabilities",
       "start_date": "2004-07-22",
+      "title_fr": "Personnes handicap\u00e9es",
       "end_date": "2006-02-03",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Persons with Disabilities"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Globalization",
+      "start_date": "2004-07-22",
       "title_fr": "Conseil du tr\u00e9sor",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Globalization"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Treasury Board",
+      "start_date": "2004-07-22",
       "title_fr": "Mondialisation",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Treasury Board"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "P\u00eaches dans l'Ouest",
+      "title_en": "West Coast Fisheries",
       "start_date": "2008-11-17",
+      "title_fr": "P\u00eaches dans l'Ouest",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "West Coast Fisheries"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent du commerce international",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on International Trade",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on International Trade",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du commerce international",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent du commerce international",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-38",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-38"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des transports",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 de la condition des personnes handicap\u00e9es du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on International Trade, Trade Disputes and Investment of the Standing Committee on Foreign Affairs and International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
+      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 du commerce international, des diff\u00e9rends commerciaux et des investissements internationaux du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du commerce international",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Community activist",
+      "name_fr": "Activiste communautaire"
+    },
+    {
+      "name_en": "Executive director",
+      "name_fr": "Administrateur des finances"
+    },
+    {
+      "name_en": "Financial administrator",
+      "name_fr": "Directeur ex\u00e9cutif"
+    },
+    {
+      "name_en": "Worker",
+      "name_fr": "Ouvrier"
+    }
+  ],
+  "parlinfo_id": 78654,
+  "name": "Peter Julian",
   "contact_info": {
     "parliament": {
       "email": "Julian.P@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-4214",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-4214",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "juliap1@parl.gc.ca",
       "postal_code": "V3N 3M6",
+      "city_en": "Burnaby",
       "city_fr": "Burnaby",
       "province_en": "British Columbia",
+      "telephone": "604-775-5707",
       "province_fr": "Colombie-Britannique",
       "street_address_en": "7615 6th Street",
-      "telephone": "604-775-5707",
-      "street_address_fr": "7615, 6e Rue",
-      "city_en": "Burnaby"
+      "street_address_fr": "7615, 6e Rue"
     }
   },
-  "name": "Peter Julian",
   "date_of_birth": "1962-04-16",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Burnaby--New Westminster",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Burnaby--New Westminster",
-      "riding_fr": "Burnaby--New Westminster"
+      "riding_en": "Burnaby--New Westminster"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Burnaby--New Westminster",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Burnaby--New Westminster",
-      "riding_fr": "Burnaby--New Westminster"
+      "riding_en": "Burnaby--New Westminster"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Burnaby--New Westminster",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Burnaby--New Westminster",
-      "riding_fr": "Burnaby--New Westminster"
+      "riding_en": "Burnaby--New Westminster"
     }
   ],
   "place_of_birth": {
-    "name_fr": "New Westminster, Colombie-Britannique, Canada",
-    "name_en": "New Westminster, British Columbia, Canada"
+    "name_en": "New Westminster, British Columbia, Canada",
+    "name_fr": "New Westminster, Colombie-Britannique, Canada"
   },
+  "id": "b41c3b7e-c64f-4415-9f58-79d7462e5d8e",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2004-06-28",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English, French",
-  "id": "b41c3b7e-c64f-4415-9f58-79d7462e5d8e",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78654&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78654&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/peterjulian",
-      "url_fr": "http://www.ndp.ca/peterjulian",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.peterjulian.ca/",
-      "url_fr": "http://www.peterjulian.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

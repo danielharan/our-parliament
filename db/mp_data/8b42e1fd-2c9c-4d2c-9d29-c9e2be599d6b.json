@@ -1,529 +1,528 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Administrateur",
-      "name_en": "Administrator"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78455&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78455&Language=F"
     },
     {
-      "name_fr": "Conseiller politique",
-      "name_en": "Political adviser"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=563",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=563"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.mauril.ca/",
+      "url_fr": "http://www.mauril.ca/"
     }
   ],
-  "parlinfo_id": 78455,
   "functions": [
     {
-      "title_fr": "Ministre du Commerce int\u00e9rieur",
+      "title_en": "Minister for Internal Trade",
       "start_date": "2005-05-17",
+      "title_fr": "Ministre du Commerce int\u00e9rieur",
       "end_date": "2006-02-05",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister for Internal Trade"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre responsable de la R\u00e9forme d\u00e9mocratique",
+      "title_en": "Minister responsible for Democratic Reform",
       "start_date": "2004-07-20",
+      "title_fr": "Ministre responsable de la R\u00e9forme d\u00e9mocratique",
       "end_date": "2005-05-16",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister responsible for Democratic Reform"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Associate Minister of National Defence",
+      "start_date": "2004-07-20",
       "title_fr": "Ministre associ\u00e9 de la D\u00e9fense nationale",
-      "start_date": "2004-07-20",
       "end_date": "2006-02-05",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Associate Minister of National Defence"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Minister responsible for Official Languages",
+      "start_date": "2004-07-20",
       "title_fr": "Ministre responsable des langues officielles",
-      "start_date": "2004-07-20",
       "end_date": "2006-02-05",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister responsible for Official Languages"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre du Patrimoine canadien",
+      "title_en": "Parliamentary Secretary to the Minister of Canadian Heritage",
       "start_date": "1998-07-16",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre du Patrimoine canadien",
       "end_date": "2000-08-31",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Canadian Heritage"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Leader adjoint du gouvernement \u00e0 la Chambre des communes",
+      "title_en": "Deputy Leader of the Government in the House of Commons",
       "start_date": "2003-12-12",
+      "title_fr": "Leader adjoint du gouvernement \u00e0 la Chambre des communes",
       "end_date": "2006-02-05",
       "role_en": "Leader of the Government in the House of Commons",
-      "role_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
-      "title_en": "Deputy Leader of the Government in the House of Commons"
+      "role_fr": "Leader du gouvernement \u00e0 la Chambre des communes"
     },
     {
-      "title_fr": "Leader adjoint en Chambre du Parti lib\u00e9ral",
+      "title_en": "Liberal Party Deputy House Leader",
       "start_date": "2003-12-12",
+      "title_fr": "Leader adjoint en Chambre du Parti lib\u00e9ral",
       "end_date": "2006-02-05",
       "role_en": "House Leader",
-      "role_fr": "Leader parlementaire",
-      "title_en": "Liberal Party Deputy House Leader"
+      "role_fr": "Leader parlementaire"
     },
     {
+      "title_en": "Chief Government Whip",
+      "start_date": "2003-12-12",
       "title_fr": "Whip du Parti lib\u00e9ral",
-      "start_date": "2003-12-12",
       "end_date": "2004-07-19",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Chief Government Whip"
+      "role_fr": "Whip"
     },
     {
+      "title_en": "Whip of the Liberal Party",
+      "start_date": "2003-12-12",
       "title_fr": "Whip en chef du gouvernement",
-      "start_date": "2003-12-12",
       "end_date": "2004-07-19",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Whip of the Liberal Party"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "Langues officielles",
+      "title_en": "Official Languages",
       "start_date": "2010-03-08",
-      "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Official Languages"
-    },
-    {
-      "title_fr": "Francophonie",
-      "start_date": "2007-10-09",
-      "end_date": "2008-03-30",
-      "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canadian Heritage"
-    },
-    {
       "title_fr": "Langues officielles",
-      "start_date": "2007-10-09",
-      "end_date": "2008-03-30",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Francophonie"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Canadian Heritage",
+      "start_date": "2007-10-09",
+      "title_fr": "Francophonie",
+      "end_date": "2008-03-30",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole"
+    },
+    {
+      "title_en": "Francophonie",
+      "start_date": "2007-10-09",
+      "title_fr": "Langues officielles",
+      "end_date": "2008-03-30",
+      "role_en": "Critic",
+      "role_fr": "Porte-parole"
+    },
+    {
+      "title_en": "Official Languages",
+      "start_date": "2007-10-09",
       "title_fr": "Patrimoine canadien",
-      "start_date": "2007-10-09",
       "end_date": "2008-03-30",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Official Languages"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Infrastructure et Collectivit\u00e9s",
+      "title_en": "Infrastructure and Communities",
       "start_date": "2007-01-18",
+      "title_fr": "Infrastructure et Collectivit\u00e9s",
       "end_date": "2007-10-08",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Infrastructure and Communities"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Patrimoine canadien",
+      "title_en": "Canadian Heritage",
       "start_date": "2006-02-23",
+      "title_fr": "Patrimoine canadien",
       "end_date": "2007-01-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canadian Heritage"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des langues officielles",
+      "name_en": "Standing Committee on Official Languages",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des langues officielles",
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 40,
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles",
-      "parliament": 40,
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 39,
-      "session": 1,
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Canadian Heritage"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 36,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "session": 1,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
+    },
+    {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des langues officielles",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-20",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-20",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-20"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-27",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-27",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-27"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 de liaison",
+      "name_en": "Liaison Committee",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 de liaison",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des langues officielles",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Official Languages",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments (Projet de loi C-38)",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Official Languages"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 de la condition des personnes handicap\u00e9es du Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Committee Rooms of the Liaison Committee",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de liaison",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Committee Rooms of the Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 sur les salles de comit\u00e9 du Comit\u00e9 de liaison",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Status of Persons with Disabilities of the Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 des budgets de comit\u00e9 du Comit\u00e9 de liaison",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Committee Budgets of the Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Committee Rooms of the Liaison Committee",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 sur les salles de comit\u00e9 du Comit\u00e9 de liaison",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Committee Rooms of the Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines et de la condition des personnes handicap\u00e9es",
-      "parliament": 36,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "name_en": "Standing Committee on Citizenship and Immigration",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de l'industrie",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs",
       "parliament": 35,
+      "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1995-02-13",
+  "professions": [
+    {
+      "name_en": "Administrator",
+      "name_fr": "Administrateur"
+    },
+    {
+      "name_en": "Political adviser",
+      "name_fr": "Conseiller politique"
+    }
+  ],
+  "parlinfo_id": 78455,
+  "name": "Mauril B\u00e9langer",
   "contact_info": {
     "parliament": {
       "email": "BelanM@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-4766",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-4766",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-6448",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "BelanM1@parl.gc.ca",
       "postal_code": "K1N 8K6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-947-7961",
       "province_fr": "Ontario",
       "street_address_en": "168 Charlotte Street, Suite 504",
-      "telephone": "613-947-7961",
-      "street_address_fr": "168, rue Charlotte, bureau 504",
-      "fax": "613-947-7963",
-      "city_en": "Ottawa"
+      "street_address_fr": "168, rue Charlotte, bureau 504"
     }
   },
-  "name": "Mauril B\u00e9langer",
   "date_of_birth": "1955-06-15",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Ottawa--Vanier",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ottawa--Vanier",
-      "riding_fr": "Ottawa--Vanier"
+      "riding_en": "Ottawa--Vanier"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Ottawa--Vanier",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ottawa--Vanier",
-      "riding_fr": "Ottawa--Vanier"
+      "riding_en": "Ottawa--Vanier"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Ottawa--Vanier",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ottawa--Vanier",
-      "riding_fr": "Ottawa--Vanier"
+      "riding_en": "Ottawa--Vanier"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Ottawa--Vanier",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ottawa--Vanier",
-      "riding_fr": "Ottawa--Vanier"
+      "riding_en": "Ottawa--Vanier"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Ottawa--Vanier",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ottawa--Vanier",
-      "riding_fr": "Ottawa--Vanier"
+      "riding_en": "Ottawa--Vanier"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Ottawa--Vanier",
       "election_date": "1995-02-13",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ottawa--Vanier",
-      "riding_fr": "Ottawa--Vanier"
+      "riding_en": "Ottawa--Vanier"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Mattawa, Ontario, Canada",
-    "name_en": "Mattawa, Ontario, Canada"
+    "name_en": "Mattawa, Ontario, Canada",
+    "name_fr": "Mattawa, Ontario, Canada"
   },
+  "id": "8b42e1fd-2c9c-4d2c-9d29-c9e2be599d6b",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "1995-02-13",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "French",
-  "id": "8b42e1fd-2c9c-4d2c-9d29-c9e2be599d6b",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78455&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78455&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/members_e.aspx?id=563",
-      "url_fr": "http://www.liberal.ca/members_f.aspx?id=563",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.mauril.ca/",
-      "url_fr": "http://www.mauril.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

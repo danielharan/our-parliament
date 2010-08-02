@@ -1,216 +1,217 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.international.gc.ca/commerce/Peter_Van-Loan.aspx",
+      "url_fr": "http://www.international.gc.ca/commerce/Peter_Van-Loan.aspx?lang=fra"
     },
     {
-      "name_fr": "Professeur",
-      "name_en": "Professor"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78445&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78445&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65133",
+      "url_fr": "http://www.conservative.ca/FR/4568/65135"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.petervanloan.com/",
+      "url_fr": "http://www.petervanloan.com/"
     }
   ],
-  "parlinfo_id": 78445,
   "functions": [
     {
-      "title_fr": "Ministre du Commerce international",
+      "title_en": "Minister of International Trade",
       "start_date": "2010-01-19",
+      "title_fr": "Ministre du Commerce international",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of International Trade"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de la S\u00e9curit\u00e9 publique",
+      "title_en": "Minister of Public Safety",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre de la S\u00e9curit\u00e9 publique",
       "end_date": "2010-01-18",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Public Safety"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de la r\u00e9forme d\u00e9mocratique",
+      "title_en": "Minister for Democratic Reform",
       "start_date": "2007-01-04",
+      "title_fr": "Ministre de la r\u00e9forme d\u00e9mocratique",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister for Democratic Reform"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Minister of Intergovernmental Affairs",
+      "start_date": "2006-11-27",
       "title_fr": "Ministre des Affaires intergouvernementales",
-      "start_date": "2006-11-27",
       "end_date": "2007-01-03",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of Intergovernmental Affairs"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "President of the Queen's Privy Council",
+      "start_date": "2006-11-27",
       "title_fr": "Pr\u00e9sident du Conseil priv\u00e9",
-      "start_date": "2006-11-27",
       "end_date": "2007-01-03",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "President of the Queen's Privy Council"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre des Sports",
+      "title_en": "Minister for Sport",
       "start_date": "2006-11-27",
+      "title_fr": "Ministre des Sports",
       "end_date": "2007-01-03",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister for Sport"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire pour les Affaires \u00e9trang\u00e8res",
+      "title_en": "Parliamentary Secretary for Foreign Affairs",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire pour les Affaires \u00e9trang\u00e8res",
       "end_date": "2006-11-26",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary for Foreign Affairs"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
+      "title_en": "Leader of the Government in the House of Commons",
       "start_date": "2007-01-04",
+      "title_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
       "end_date": "2008-10-29",
       "role_en": "Leader of the Government in the House of Commons",
-      "role_fr": "Leader du gouvernement \u00e0 la Chambre des communes",
-      "title_en": "Leader of the Government in the House of Commons"
+      "role_fr": "Leader du gouvernement \u00e0 la Chambre des communes"
     },
     {
-      "title_fr": "Leader en Chambre du Parti conservateur",
+      "title_en": "Conservative Party House Leader",
       "start_date": "2007-01-04",
+      "title_fr": "Leader en Chambre du Parti conservateur",
       "end_date": "2008-10-29",
       "role_en": "House Leader",
-      "role_fr": "Leader parlementaire",
-      "title_en": "Conservative Party House Leader"
+      "role_fr": "Leader parlementaire"
     },
     {
-      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences",
+      "title_en": "Human Resources and Skills Development",
       "start_date": "2004-07-22",
+      "title_fr": "Ressources humaines et D\u00e9veloppement des comp\u00e9tences",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Human Resources and Skills Development"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les fonds de l'assurance-emploi du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 sur les fonds de l'assurance-emploi du Comit\u00e9 permanent des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Employment Insurance Funds of the Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "Professeur"
+    }
+  ],
+  "parlinfo_id": 78445,
+  "name": "Peter Van Loan",
   "contact_info": {
     "parliament": {
       "email": "VanLoan.P@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-7752",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-7752",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "vanlop1@parl.gc.ca",
       "postal_code": "L9N 1M7",
+      "city_en": "Holland Landing",
       "city_fr": "Holland Landing",
       "province_en": "Ontario",
+      "telephone": "905-898-1600",
       "province_fr": "Ontario",
       "street_address_en": "45 Grist Mill Road, Unit 10",
-      "telephone": "905-898-1600",
-      "street_address_fr": "45, chemin Grist Mill, unit\u00e9 10",
-      "city_en": "Holland Landing"
+      "street_address_fr": "45, chemin Grist Mill, unit\u00e9 10"
     }
   },
-  "name": "Peter Van Loan",
   "date_of_birth": "1963-04-18",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "York--Simcoe",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "York--Simcoe",
-      "riding_fr": "York--Simcoe"
+      "riding_en": "York--Simcoe"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "York--Simcoe",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "York--Simcoe",
-      "riding_fr": "York--Simcoe"
+      "riding_en": "York--Simcoe"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "York--Simcoe",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "York--Simcoe",
-      "riding_fr": "York--Simcoe"
+      "riding_en": "York--Simcoe"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Niagara Falls, Ontario, Canada",
-    "name_en": "Niagara Falls, Ontario, Canada"
+    "name_en": "Niagara Falls, Ontario, Canada",
+    "name_fr": "Niagara Falls, Ontario, Canada"
   },
+  "id": "aa58e8f5-4a46-4c79-8e97-b9ebe28c9d9a",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "aa58e8f5-4a46-4c79-8e97-b9ebe28c9d9a",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.international.gc.ca/commerce/Peter_Van-Loan.aspx",
-      "url_fr": "http://www.international.gc.ca/commerce/Peter_Van-Loan.aspx?lang=fra",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78445&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78445&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65133",
-      "url_fr": "http://www.conservative.ca/FR/4568/65135",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.petervanloan.com/",
-      "url_fr": "http://www.petervanloan.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

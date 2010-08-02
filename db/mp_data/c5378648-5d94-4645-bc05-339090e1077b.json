@@ -1,164 +1,165 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Athl\u00e8te",
-      "name_en": "Athlete"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128309&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128309&Language=F"
     },
     {
-      "name_fr": "Auteure",
-      "name_en": "Author"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/17868_kirsty-duncan",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/17868_kirsty-duncan"
     },
     {
-      "name_fr": "Charg\u00e9e de cours",
-      "name_en": "Geographer"
-    },
-    {
-      "name_fr": "Enseignante",
-      "name_en": "Lecturer"
-    },
-    {
-      "name_fr": "G\u00e9ographe",
-      "name_en": "Professor"
-    },
-    {
-      "name_fr": "Professeure",
-      "name_en": "Teacher"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://kirstyduncan.ca/",
+      "url_fr": "http://kirstyduncan.ca/"
     }
   ],
-  "parlinfo_id": 128309,
   "functions": [
     {
-      "title_fr": "Sant\u00e9 publique",
+      "title_en": "Health, Public",
       "start_date": "2009-10-06",
+      "title_fr": "Sant\u00e9 publique",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Health, Public"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sant\u00e9 publique",
+      "title_en": "Health, Public",
       "start_date": "2008-11-14",
+      "title_fr": "Sant\u00e9 publique",
       "end_date": "2009-01-21",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Health, Public"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Athlete",
+      "name_fr": "Athl\u00e8te"
+    },
+    {
+      "name_en": "Author",
+      "name_fr": "Auteure"
+    },
+    {
+      "name_en": "Geographer",
+      "name_fr": "Charg\u00e9e de cours"
+    },
+    {
+      "name_en": "Lecturer",
+      "name_fr": "Enseignante"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "G\u00e9ographe"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "Professeure"
+    }
+  ],
+  "parlinfo_id": 128309,
+  "name": "Kirsty Duncan",
   "contact_info": {
     "parliament": {
       "email": "Duncan.K@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-4702",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-4702",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "M9V 1A3",
+      "city_en": "Etobicoke",
       "city_fr": "Etobicoke",
       "province_en": "Ontario",
+      "telephone": "416-747-6003",
       "province_fr": "Ontario",
       "street_address_en": "815 Albion Road",
-      "telephone": "416-747-6003",
-      "street_address_fr": "815, chemin Albion",
       "fax": "416-747-8295",
-      "city_en": "Etobicoke"
+      "street_address_fr": "815, chemin Albion"
     }
   },
-  "name": "Kirsty Duncan",
   "date_of_birth": "1966-10-31",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Etobicoke-Nord",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Etobicoke North",
-      "riding_fr": "Etobicoke-Nord"
+      "riding_en": "Etobicoke North"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Etobicoke, Ontario, Canada",
-    "name_en": "Etobicoke, Ontario, Canada"
+    "name_en": "Etobicoke, Ontario, Canada",
+    "name_fr": "Etobicoke, Ontario, Canada"
   },
+  "id": "c5378648-5d94-4645-bc05-339090e1077b",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "c5378648-5d94-4645-bc05-339090e1077b",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128309&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128309&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/17868_kirsty-duncan",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/17868_kirsty-duncan",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://kirstyduncan.liberal.ca/default_e.aspx",
-      "url_fr": "http://kirstyduncan.liberal.ca/default_e.aspx",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

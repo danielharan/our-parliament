@@ -1,199 +1,200 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Entrepreneur",
-      "name_en": "Entrepreneur"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78467&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78467&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=12866",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12866"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://boryswrzesnewskyj.liberal.ca/fr/default.aspx",
+      "url_fr": "http://boryswrzesnewskyj.liberal.ca/fr/default.aspx"
     }
   ],
-  "parlinfo_id": 78467,
   "functions": [
     {
+      "title_en": "Citizenship and Immigration",
+      "start_date": "2008-11-14",
       "title_fr": "Citoyennet\u00e9 et Immigration",
-      "start_date": "2008-11-14",
       "end_date": "2009-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Citizenship and Immigration"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Multiculturalism",
+      "start_date": "2008-11-14",
       "title_fr": "Multiculturalisme",
-      "start_date": "2008-11-14",
       "end_date": "2009-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Multiculturalism"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Corporations de la Couronne",
+      "title_en": "Crown Corporations",
       "start_date": "2007-01-18",
+      "title_fr": "Corporations de la Couronne",
       "end_date": "2007-10-08",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Crown Corporations"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires \u00e9trang\u00e8res",
+      "title_en": "Foreign Affairs",
       "start_date": "2006-02-23",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "end_date": "2006-08-23",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Foreign Affairs"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Entrepreneur",
+      "name_fr": "Entrepreneur"
+    }
+  ],
+  "parlinfo_id": 78467,
+  "name": "Borys Wrzesnewskyj",
   "contact_info": {
     "parliament": {
       "email": "Wrzesnewskyj.B@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-947-5000",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-947-5000",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "wrzesb1@parl.gc.ca",
       "postal_code": "M9P 3B2",
+      "city_en": "Etobicoke",
       "city_fr": "Etobicoke",
       "province_en": "Ontario",
+      "telephone": "416-249-7322",
       "province_fr": "Ontario",
       "street_address_en": "1451 Royal York Road, Unit 102",
-      "telephone": "416-249-7322",
-      "street_address_fr": "1451, chemin Royal York, unit\u00e9 102",
-      "city_en": "Etobicoke"
+      "street_address_fr": "1451, chemin Royal York, unit\u00e9 102"
     }
   },
-  "name": "Borys Wrzesnewskyj",
   "date_of_birth": "1960-11-10",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Etobicoke-Centre",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Etobicoke Centre",
-      "riding_fr": "Etobicoke-Centre"
+      "riding_en": "Etobicoke Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Etobicoke-Centre",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Etobicoke Centre",
-      "riding_fr": "Etobicoke-Centre"
+      "riding_en": "Etobicoke Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Etobicoke-Centre",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Etobicoke Centre",
-      "riding_fr": "Etobicoke-Centre"
+      "riding_en": "Etobicoke Centre"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "6cef02a4-e5dd-44f0-9355-faf30afbb856",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "6cef02a4-e5dd-44f0-9355-faf30afbb856",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78467&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78467&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/members_e.aspx?id=12866",
-      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12866",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://boryswrzesnewskyj.liberal.ca/fr/default.aspx",
-      "url_fr": "http://boryswrzesnewskyj.liberal.ca/fr/default.aspx",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

@@ -1,174 +1,173 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Chiropraticien",
-      "name_en": "Chiropractor"
-    }
-  ],
-  "parlinfo_id": 78695,
-  "functions": [
-    {
-      "title_fr": "Secr\u00e9taire parlementaire de la ministre de la Sant\u00e9",
-      "start_date": "2008-11-07",
-      "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Health"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78695&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78695&Language=F"
     },
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Industrie",
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1567&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1567&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.colincarriemp.ca/",
+      "url_fr": "http://www.colincarriemp.ca/"
+    }
+  ],
+  "functions": [
+    {
+      "title_en": "Parliamentary Secretary to the Minister of Health",
+      "start_date": "2008-11-07",
+      "title_fr": "Secr\u00e9taire parlementaire de la ministre de la Sant\u00e9",
+      "role_en": "Parliamentary Secretary",
+      "role_fr": "Secr\u00e9taire parlementaire"
+    },
+    {
+      "title_en": "Parliamentary Secretary to the Minister of Industry",
       "start_date": "2006-02-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre de l'Industrie",
       "end_date": "2008-11-06",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Industry"
+      "role_fr": "Secr\u00e9taire parlementaire"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology"
-    },
-    {
-      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 39,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 38,
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Industry, Science and Technology",
+      "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Oil and Gas and Other Energy Prices",
+      "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 sur le prix du p\u00e9trole et du gaz et des autres produits \u00e9nerg\u00e9tiques",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Health",
+      "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Chiropractor",
+      "name_fr": "Chiropraticien"
+    }
+  ],
+  "parlinfo_id": 78695,
+  "name": "Colin Carrie",
   "contact_info": {
     "parliament": {
       "email": "Carrie.C@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-4756",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-4756",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-1357",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "colin@colincarriemp.ca",
       "postal_code": "L1H 4G4",
+      "city_en": "Oshawa",
       "city_fr": "Oshawa",
       "province_en": "Ontario",
+      "telephone": "905-440-4868",
       "province_fr": "Ontario",
       "street_address_en": "57 Simcoe Street South. Unit 2B",
-      "telephone": "905-440-4868",
-      "street_address_fr": "57, rue Simcoe Sud, Unit\u00e9 2B",
-      "fax": "905-440-4872",
-      "city_en": "Oshawa"
+      "street_address_fr": "57, rue Simcoe Sud, Unit\u00e9 2B"
     }
   },
-  "name": "Colin Carrie",
   "date_of_birth": "1962-04-11",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Oshawa",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Oshawa",
-      "riding_fr": "Oshawa"
+      "riding_en": "Oshawa"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Oshawa",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Oshawa",
-      "riding_fr": "Oshawa"
+      "riding_en": "Oshawa"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Oshawa",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Oshawa",
-      "riding_fr": "Oshawa"
+      "riding_en": "Oshawa"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Hamilton, Ontario, Canada",
-    "name_en": "Hamilton, Ontario, Canada"
+    "name_en": "Hamilton, Ontario, Canada",
+    "name_fr": "Hamilton, Ontario, Canada"
   },
+  "id": "9fb311fc-3875-4698-b13c-014f0d819393",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-02-02",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Parti progressiste-conservateur",
+      "name_en": "Progressive Conservative Party",
       "start_date": "2002",
-      "end_date": "2004-02-01",
-      "name_en": "Progressive Conservative Party"
-    }
-  ],
-  "language": "English",
-  "id": "9fb311fc-3875-4698-b13c-014f0d819393",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78695&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78695&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1567&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1567&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.colincarriemp.ca/",
-      "url_fr": "http://www.colincarriemp.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti progressiste-conservateur",
+      "end_date": "2004-02-01"
     }
   ]
 }

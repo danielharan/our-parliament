@@ -1,315 +1,315 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Adjoint politique",
-      "name_en": "Director"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78545&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78545&Language=F"
     },
     {
-      "name_fr": "Directeur",
-      "name_en": "Political assistant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/davidchristopherson",
+      "url_fr": "http://www.npd.ca/davidchristopherson"
     },
     {
-      "name_fr": "Dirigeant syndical",
-      "name_en": "Union officer"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://davidchristopherson.ndp.ca/",
+      "url_fr": "http://davidchristopherson.ndp.ca/"
+    },
+    {
+      "name_en": "Legislative Assembly of Ontario Website",
+      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
+      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=15",
+      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=15"
     }
   ],
-  "parlinfo_id": 78545,
   "functions": [
     {
-      "title_fr": "Pr\u00e9sident adjoint du caucus du N.P.D.",
+      "title_en": "N.D.P. Deputy Caucus Chair",
       "start_date": "2007",
+      "title_fr": "Pr\u00e9sident adjoint du caucus du N.P.D.",
       "end_date": "2008-11-11",
       "role_en": "Caucus Chair",
-      "role_fr": "Pr\u00e9sident du caucus",
-      "title_en": "N.D.P. Deputy Caucus Chair"
+      "role_fr": "Pr\u00e9sident du caucus"
     },
     {
+      "title_en": "Democratic Reform",
+      "start_date": "2008-11-17",
       "title_fr": "R\u00e9forme d\u00e9mocratique",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Democratic Reform"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Soci\u00e9t\u00e9 canadienne des postes",
+      "title_en": "Canada Post Corporation",
       "start_date": "2008-11-17",
+      "title_fr": "Soci\u00e9t\u00e9 canadienne des postes",
       "end_date": "2010-05-02",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canada Post Corporation"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Corporations de la Couronne",
+      "title_en": "Crown Corporations",
       "start_date": "2007-09",
+      "title_fr": "Corporations de la Couronne",
       "end_date": "2008-11-16",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Crown Corporations"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Infrastructure et Collectivit\u00e9s",
+      "title_en": "Infrastructure and Communities",
       "start_date": "2006-02-14",
+      "title_fr": "Infrastructure et Collectivit\u00e9s",
       "end_date": "2008-11-16",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Infrastructure and Communities"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "National Revenue",
+      "start_date": "2006-02-14",
       "title_fr": "Revenu national",
-      "start_date": "2006-02-14",
       "end_date": "2008-11-16",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Revenue"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Comptes publics",
+      "title_en": "Public Accounts",
       "start_date": "2005-01-31",
+      "title_fr": "Comptes publics",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Public Accounts"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "City and Community Infrastructure",
+      "start_date": "2004-07-22",
       "title_fr": "Infrastructure",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "City and Community Infrastructure"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Infrastructure",
+      "start_date": "2004-07-22",
       "title_fr": "Infrastructure et Collectivit\u00e9s",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Infrastructure"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Infrastructure and Communities",
+      "start_date": "2004-07-22",
       "title_fr": "Politique de l'acier",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Infrastructure and Communities"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Labour",
+      "start_date": "2004-07-22",
       "title_fr": "Travail",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Labour"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Steel Policy",
+      "start_date": "2004-07-22",
       "title_fr": "Villes et infrastructure communautaire",
-      "start_date": "2004-07-22",
       "end_date": "2006-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Steel Policy"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Politique de l'acier",
+      "title_en": "Steel Policy",
       "start_date": "2006-02-14",
+      "title_fr": "Politique de l'acier",
       "end_date": "2008-11-16",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Steel Policy"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
       "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
-    },
-    {
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
       "parliament": 39,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Director",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Directeur"
+    },
+    {
+      "name_en": "Union officer",
+      "name_fr": "Dirigeant syndical"
+    }
+  ],
+  "parlinfo_id": 78545,
+  "name": "David Christopherson",
   "contact_info": {
     "parliament": {
       "email": "Christopherson.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-1757",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-1757",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-8356",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "L8N 2V9",
+      "city_en": "Hamilton",
       "city_fr": "Hamilton",
       "province_en": "Ontario",
+      "telephone": "905-526-0770",
       "province_fr": "Ontario",
       "street_address_en": "22 Tisdale Street South",
-      "telephone": "905-526-0770",
-      "street_address_fr": "22, rue Tisdale Sud",
       "fax": "905-526-9943",
-      "city_en": "Hamilton"
+      "street_address_fr": "22, rue Tisdale Sud"
     }
   },
-  "name": "David Christopherson",
   "date_of_birth": "1954-10-05",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Hamilton-Centre",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Hamilton Centre",
-      "riding_fr": "Hamilton-Centre"
+      "riding_en": "Hamilton Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Hamilton-Centre",
       "election_date": "2006-01-23",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Hamilton Centre",
-      "riding_fr": "Hamilton-Centre"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "2004-06-28",
       "result_fr": "\u00c9lu",
-      "riding_en": "Hamilton Centre",
-      "riding_fr": "Hamilton-Centre"
+      "riding_en": "Hamilton Centre"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Hamilton-Centre",
+      "election_date": "2004-06-28",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Hamilton Centre"
+    },
+    {
+      "riding_fr": "Hamilton-Est",
       "election_date": "1984-09-04",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Hamilton East",
-      "riding_fr": "Hamilton-Est"
+      "riding_en": "Hamilton East"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Hamilton, Ontario, Canada",
-    "name_en": "Hamilton, Ontario, Canada"
+    "name_en": "Hamilton, Ontario, Canada",
+    "name_fr": "Hamilton, Ontario, Canada"
   },
+  "id": "d3b34b92-4b9c-4beb-9c3b-dd6146fb8b2c",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "1984-09-04",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "d3b34b92-4b9c-4beb-9c3b-dd6146fb8b2c",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78545&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78545&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/davidchristopherson",
-      "url_fr": "http://www.npd.ca/davidchristopherson",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://davidchristopherson.ndp.ca/",
-      "url_fr": "http://davidchristopherson.ndp.ca/",
-      "name_en": "Personal Website"
-    },
-    {
-      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
-      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=15",
-      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=15",
-      "name_en": "Legislative Assembly of Ontario Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

@@ -1,174 +1,175 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocate",
-      "name_en": "Businesswoman"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=120533&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=120533&Language=F"
     },
     {
-      "name_fr": "Entrepreneure",
-      "name_en": "Entrepreneur"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/12897_martha-hall-findlay",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/12897_martha-hall-findlay"
     },
     {
-      "name_fr": "Femme d'affaires",
-      "name_en": "Lawyer"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.marthahallfindlay.ca",
+      "url_fr": "http://www.marthahallfindlay.ca"
     }
   ],
-  "parlinfo_id": 120533,
   "functions": [
     {
-      "title_fr": "Travaux publics et Services gouvernementaux",
+      "title_en": "Public Works and Government Services",
       "start_date": "2009-01-22",
+      "title_fr": "Travaux publics et Services gouvernementaux",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Public Works and Government Services"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Infrastructure and Communities",
+      "start_date": "2008-11-14",
       "title_fr": "Infrastructure et Collectivit\u00e9s",
-      "start_date": "2008-11-14",
       "end_date": "2009-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Infrastructure and Communities"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Transport, Infrastructure and Communities",
+      "start_date": "2008-11-14",
       "title_fr": "Transports, Infrastructure et Collectivit\u00e9s",
-      "start_date": "2008-11-14",
       "end_date": "2009-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Transport, Infrastructure and Communities"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Finances",
+      "title_en": "Finance",
       "start_date": "2008-03-31",
+      "title_fr": "Finances",
       "end_date": "2008-11-14",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Finance"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "name_en": "Standing Committee on Government Operations and Estimates",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-03-17",
+  "professions": [
+    {
+      "name_en": "Businesswoman",
+      "name_fr": "Avocate"
+    },
+    {
+      "name_en": "Entrepreneur",
+      "name_fr": "Entrepreneure"
+    },
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Femme d'affaires"
+    }
+  ],
+  "parlinfo_id": 120533,
+  "name": "Martha Hall Findlay",
   "contact_info": {
     "parliament": {
       "email": "HallFindlay.M@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-4964",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-4964",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "M2N 1M7",
+      "city_en": "Willowdale",
       "city_fr": "Willowdale",
       "province_en": "Ontario",
+      "telephone": "416-223-2858",
       "province_fr": "Ontario",
       "street_address_en": "145 Sheppard Avenue West",
-      "telephone": "416-223-2858",
-      "street_address_fr": "145, avenue Sheppard Ouest",
       "fax": "416-223-9715",
-      "city_en": "Willowdale"
+      "street_address_fr": "145, avenue Sheppard Ouest"
     }
   },
-  "name": "Martha Hall Findlay",
   "date_of_birth": "1959-08-17",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Willowdale",
       "election_date": "2008-10-14",
-      "result_fr": "\u00c9lue",
-      "riding_en": "Willowdale",
-      "riding_fr": "Willowdale"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "2008-03-17",
       "result_fr": "\u00c9lue",
-      "riding_en": "Willowdale",
-      "riding_fr": "Willowdale"
+      "riding_en": "Willowdale"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Willowdale",
+      "election_date": "2008-03-17",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lue",
+      "riding_en": "Willowdale"
+    },
+    {
+      "riding_fr": "Newmarket--Aurora",
       "election_date": "2004-06-28",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9faite",
-      "riding_en": "Newmarket--Aurora",
-      "riding_fr": "Newmarket--Aurora"
+      "riding_en": "Newmarket--Aurora"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "d2c01fb9-ae85-4e9b-9cd3-a04b42725016",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "d2c01fb9-ae85-4e9b-9cd3-a04b42725016",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=120533&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=120533&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/12897_martha-hall-findlay",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/12897_martha-hall-findlay",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.marthahallfindlay.ca",
-      "url_fr": "http://www.marthahallfindlay.ca",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

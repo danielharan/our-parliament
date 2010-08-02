@@ -1,121 +1,122 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Enseignant",
-      "name_en": "Teacher"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128110&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128110&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/17035_justin-trudeau",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/17035_justin-trudeau"
     }
   ],
-  "parlinfo_id": 128110,
   "functions": [
     {
-      "title_fr": "Jeunesse",
+      "title_en": "Multiculturalism",
       "start_date": "2009-10-06",
+      "title_fr": "Jeunesse",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Multiculturalism"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Youth",
+      "start_date": "2009-10-06",
       "title_fr": "Multiculturalisme",
-      "start_date": "2009-10-06",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Youth"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Jeunesse",
+      "title_en": "Youth",
       "start_date": "2008-11-14",
+      "title_fr": "Jeunesse",
       "end_date": "2009-01-21",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Youth"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Teacher",
+      "name_fr": "Enseignant"
+    }
+  ],
+  "parlinfo_id": 128110,
+  "name": "Justin Trudeau",
   "contact_info": {
     "parliament": {
       "email": "Trudeau.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-8872",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-8872",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "H2R 1L9",
+      "city_en": "Montreal",
       "city_fr": "Montr\u00e9al",
       "province_en": "Quebec",
+      "telephone": "514-277-6020",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "625 Faillon Street",
-      "telephone": "514-277-6020",
-      "street_address_fr": "625, rue Faillon",
       "fax": "514-277-3454",
-      "city_en": "Montreal"
+      "street_address_fr": "625, rue Faillon"
     }
   },
-  "name": "Justin Trudeau",
   "date_of_birth": "1971-12-25",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Papineau",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Papineau",
-      "riding_fr": "Papineau"
+      "riding_en": "Papineau"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Ottawa, Ontario, Canada",
-    "name_en": "Ottawa, Ontario, Canada"
+    "name_en": "Ottawa, Ontario, Canada",
+    "name_fr": "Ottawa, Ontario, Canada"
   },
+  "id": "b8c04eca-f237-48a8-8975-374ccd40d1a9",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2006",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "French",
-  "id": "b8c04eca-f237-48a8-8975-374ccd40d1a9",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128110&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128110&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/17035_justin-trudeau",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/17035_justin-trudeau",
-      "name_en": "Party Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

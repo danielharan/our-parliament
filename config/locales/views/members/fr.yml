@@ -7,6 +7,7 @@ fr:
             subtitle: "Député {{party_name}} pour {{riding_name}}"
             intro: "Les députés te représentent dans la Chambre des communes. Ces profils incluent leurs votes et leurs discours dans la Chambre. Tu peux donc utiliser la Fabrique citoyenne pour suivre ton député. Et s'il y a quelque chose que tu trouves que ton député devrait (ou ne devrait pas) faire, utilise l'information à gauche pour le contacter. "
             riding: "Député représentant {{riding}}"
+            days_of_service: "{{days}} Jours de service"
         activity_feed:
             title: "L'activité récente de {{mp_name}}"
             description: "Activité pour {{mp_name}}, député de {{riding_name}}"

@@ -1,128 +1,145 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Ministre du culte",
-      "name_en": "Minister"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128321&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128321&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/17890_rob-oliphant",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/17890_rob-oliphant"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.roboliphant.ca/index.php",
+      "url_fr": "http://www.roboliphant.ca/index.php"
     }
   ],
-  "parlinfo_id": 128321,
   "functions": [
     {
-      "title_fr": "Anciens combattants",
+      "title_en": "Veterans Affairs",
       "start_date": "2009-10-06",
+      "title_fr": "Anciens combattants",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Veterans Affairs"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des anciens combattants",
+      "session": 3,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
+    },
+    {
+      "name_en": "Standing Committee on Veterans Affairs",
+      "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Veterans Affairs",
+      "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des anciens combattants",
+      "session": 3,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Minister",
+      "name_fr": "Ministre du culte"
+    }
+  ],
+  "parlinfo_id": 128321,
+  "name": "Robert Oliphant",
   "contact_info": {
     "parliament": {
       "email": "Oliphant.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-2855",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-2855",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
-      "postal_code": "M4G 3V7",
+      "postal_code": "M4H 1R1",
+      "city_en": "Toronto",
       "city_fr": "Toronto",
       "province_en": "Ontario",
-      "province_fr": "Ontario",
-      "street_address_en": "146 Laird Drive, Suite 203",
       "telephone": "416-467-7275",
-      "street_address_fr": "146, promenade Laird, bureau 203",
+      "province_fr": "Ontario",
+      "street_address_en": "1 Leaside Park Drive, Unit 1",
       "fax": "416-467-8550",
-      "city_en": "Toronto"
+      "street_address_fr": "1, promenade Leaside Park, unit\u00e9 1"
     }
   },
-  "name": "Robert Oliphant",
   "date_of_birth": "1956-06-07",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Don Valley-Ouest",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Don Valley West",
-      "riding_fr": "Don Valley-Ouest"
+      "riding_en": "Don Valley West"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Sault Ste Marie, Ontario, Canada",
-    "name_en": "Sault Ste Marie, Ontario, Canada"
+    "name_en": "Sault Ste Marie, Ontario, Canada",
+    "name_fr": "Sault Ste Marie, Ontario, Canada"
   },
+  "id": "014bf6ed-9176-4fbd-8f35-48bb8c579ff0",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "014bf6ed-9176-4fbd-8f35-48bb8c579ff0",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128321&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128321&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/17890_rob-oliphant",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/17890_rob-oliphant",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.roboliphant.ca/index.php",
-      "url_fr": "http://www.roboliphant.ca/index.php",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

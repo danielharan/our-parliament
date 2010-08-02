@@ -1,125 +1,126 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Administrateur",
-      "name_en": "Administrator"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128582&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128582&Language=F"
     },
     {
-      "name_fr": "Agriculteur",
-      "name_en": "Farmer"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=663a8d58-a76c-437b-9aa7-09e6bb22c20d",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=663a8d58-a76c-437b-9aa7-09e6bb22c20d"
     }
   ],
-  "parlinfo_id": 128582,
   "functions": [
     {
-      "title_fr": "Agriculture et Agro-alimentaireChamp de responsabilit\u00e9: Bois\u00e9s priv\u00e9s",
+      "title_en": "Agriculture and Agri-FoodArea of responsibility: Private woodlots",
       "start_date": "2009-09-01",
+      "title_fr": "Agriculture et Agro-alimentaireChamp de responsabilit\u00e9: Bois\u00e9s priv\u00e9s",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Agriculture and Agri-FoodArea of responsibility: Private woodlots"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Commerce international",
+      "title_en": "International Trade",
       "start_date": "2008-10-31",
+      "title_fr": "Commerce international",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "International Trade"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on International Trade",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on International Trade",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des ressources naturelles",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du commerce international",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du commerce international",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Administrator",
+      "name_fr": "Administrateur"
+    },
+    {
+      "name_en": "Farmer",
+      "name_fr": "Agriculteur"
+    }
+  ],
+  "parlinfo_id": 128582,
+  "name": "Claude Guimond",
   "contact_info": {
     "parliament": {
       "email": "Guimond.C@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-5302",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-5302",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "G5L 1C2",
+      "city_en": "Rimouski",
       "city_fr": "Rimouski",
       "province_en": "Quebec",
+      "telephone": "418-725-2562",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "320 Saint Germain East, Suite 701",
-      "telephone": "418-725-2562",
-      "street_address_fr": "320, rue Saint-Germain Est, bureau 701",
       "fax": "418-725-3993",
-      "city_en": "Rimouski"
+      "street_address_fr": "320, rue Saint-Germain Est, bureau 701"
     }
   },
-  "name": "Claude Guimond",
   "date_of_birth": "1963-08-04",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Rimouski-Neigette--T\u00e9miscouata--Les Basques",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Rimouski-Neigette--T\u00e9miscouata--Les Basques",
-      "riding_fr": "Rimouski-Neigette--T\u00e9miscouata--Les Basques"
+      "riding_en": "Rimouski-Neigette--T\u00e9miscouata--Les Basques"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Rimouski, Qu\u00e9bec, Canada",
-    "name_en": "Rimouski, Quebec, Canada"
+    "name_en": "Rimouski, Quebec, Canada",
+    "name_fr": "Rimouski, Qu\u00e9bec, Canada"
   },
+  "id": "23a1032c-1c73-4ab8-b303-ae5efac39695",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2008-10-14",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "23a1032c-1c73-4ab8-b303-ae5efac39695",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128582&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128582&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=663a8d58-a76c-437b-9aa7-09e6bb22c20d",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=663a8d58-a76c-437b-9aa7-09e6bb22c20d",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

@@ -1,226 +1,226 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Agent immobilier",
-      "name_en": "Professor"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78646&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78646&Language=F"
     },
     {
-      "name_fr": "Expert-conseil en affaires publiques",
-      "name_en": "Public affairs consultant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1503&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1503&language_id=2"
     },
     {
-      "name_fr": "Professeur",
-      "name_en": "Real estate agent"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.barrydevolin.ca/",
+      "url_fr": "http://www.barrydevolin.ca/"
     }
   ],
-  "parlinfo_id": 78646,
   "functions": [
     {
-      "title_fr": "Vice-pr\u00e9sident adjoint des comit\u00e9s pl\u00e9niers",
+      "title_en": "Assistant Deputy Chair of Committees of the Whole",
       "start_date": "2008-11-21",
+      "title_fr": "Vice-pr\u00e9sident adjoint des comit\u00e9s pl\u00e9niers",
       "role_en": "Assistant Deputy Chair of Committees of the Whole",
-      "role_fr": "Vice-pr\u00e9sident adjoint des comit\u00e9s pl\u00e9niers",
-      "title_en": "Assistant Deputy Chair of Committees of the Whole"
+      "role_fr": "Vice-pr\u00e9sident adjoint des comit\u00e9s pl\u00e9niers"
     },
     {
-      "title_fr": "Developpement du Nord",
+      "title_en": "Northern Development",
       "start_date": "2005-06-20",
+      "title_fr": "Developpement du Nord",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Northern Development"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
-      "parliament": 39,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
-      "parliament": 39,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des affaires autochtones et du d\u00e9veloppement du Grand Nord",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Aboriginal Affairs and Northern Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-38",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-38"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
+      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent du d\u00e9veloppement des ressources humaines, du d\u00e9veloppement des comp\u00e9tences, du d\u00e9veloppement social et de la condition des personnes handicap\u00e9es",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Human Resources, Skills Development, Social Development and the Status of Persons with Disabilities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Professor",
+      "name_fr": "Agent immobilier"
+    },
+    {
+      "name_en": "Public affairs consultant",
+      "name_fr": "Expert-conseil en affaires publiques"
+    },
+    {
+      "name_en": "Real estate agent",
+      "name_fr": "Professeur"
+    }
+  ],
+  "parlinfo_id": 78646,
+  "name": "Barry Devolin",
   "contact_info": {
     "parliament": {
       "email": "Devolin.B@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-2474",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-2474",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-9656",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "DevolB@parl.gc.ca",
       "postal_code": "K9V 6B5",
+      "city_en": "Lindsay",
       "city_fr": "Lindsay",
       "province_en": "Ontario",
+      "telephone": "705-324-2400",
       "province_fr": "Ontario",
       "street_address_en": "68 McLaughlin Road, Unit 1",
-      "telephone": "705-324-2400",
-      "street_address_fr": "68, rue McLaughlin, unit\u00e9 1",
-      "city_en": "Lindsay"
+      "street_address_fr": "68, rue McLaughlin, unit\u00e9 1"
     }
   },
-  "name": "Barry Devolin",
   "date_of_birth": "1963-03-10",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Haliburton--Kawartha Lakes--Brock",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Haliburton--Kawartha Lakes--Brock",
-      "riding_fr": "Haliburton--Kawartha Lakes--Brock"
+      "riding_en": "Haliburton--Kawartha Lakes--Brock"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Haliburton--Kawartha Lakes--Brock",
       "election_date": "2006-01-23",
-      "result_fr": "\u00c9lu",
-      "riding_en": "Haliburton--Kawartha Lakes--Brock",
-      "riding_fr": "Haliburton--Kawartha Lakes--Brock"
-    },
-    {
       "result_en": "Elected",
-      "election_date": "2004-06-28",
       "result_fr": "\u00c9lu",
-      "riding_en": "Haliburton--Kawartha Lakes--Brock",
-      "riding_fr": "Haliburton--Kawartha Lakes--Brock"
+      "riding_en": "Haliburton--Kawartha Lakes--Brock"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Haliburton--Kawartha Lakes--Brock",
+      "election_date": "2004-06-28",
+      "result_en": "Elected",
+      "result_fr": "\u00c9lu",
+      "riding_en": "Haliburton--Kawartha Lakes--Brock"
+    },
+    {
+      "riding_fr": "Victoria--Haliburton",
       "election_date": "1993-10-25",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Victoria--Haliburton",
-      "riding_fr": "Victoria--Haliburton"
+      "riding_en": "Victoria--Haliburton"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Peterborough, Ontario, Canada",
-    "name_en": "Peterborough, Ontario, Canada"
+    "name_en": "Peterborough, Ontario, Canada",
+    "name_fr": "Peterborough, Ontario, Canada"
   },
+  "id": "de0591ef-9a02-4f97-9541-63de484c96e3",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "name_en": "Canadian Reform Conservative Alliance",
       "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance"
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "end_date": "2003-12-22"
     },
     {
-      "name_fr": "Parti r\u00e9formiste",
+      "name_en": "Reform Party",
       "start_date": "1993-10-25",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party"
-    }
-  ],
-  "language": "English",
-  "id": "de0591ef-9a02-4f97-9541-63de484c96e3",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78646&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78646&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1503&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1503&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.barrydevolin.ca/",
-      "url_fr": "http://www.barrydevolin.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti r\u00e9formiste",
+      "end_date": "2000-03-26"
     }
   ]
 }

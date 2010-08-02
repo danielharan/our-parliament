@@ -1,117 +1,118 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Dirigeante syndicale",
-      "name_en": "Public servant"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128596&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128596&Language=F"
     },
     {
-      "name_fr": "Fonctionnaire",
-      "name_en": "Representative"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/carolhughes",
+      "url_fr": "http://www.npd.ca/carolhughes"
     },
     {
-      "name_fr": "Repr\u00e9sentante",
-      "name_en": "Union officer"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://carolhughes.ndp.ca/",
+      "url_fr": "http://carolhughes.ndp.ca/fr/accueil"
     }
   ],
-  "parlinfo_id": 128596,
   "functions": [
     {
-      "title_fr": "Revenu national",
+      "title_en": "National Revenue",
       "start_date": "2008-11-17",
+      "title_fr": "Revenu national",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Revenue"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires autochtoneChamp de responsabilit\u00e9: Sant\u00e9",
+      "title_en": "Aboriginal AffairsArea of responsibility: Health",
       "start_date": "2008-11-17",
+      "title_fr": "Affaires autochtoneChamp de responsabilit\u00e9: Sant\u00e9",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Aboriginal AffairsArea of responsibility: Health"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Public servant",
+      "name_fr": "Dirigeante syndicale"
+    },
+    {
+      "name_en": "Representative",
+      "name_fr": "Fonctionnaire"
+    },
+    {
+      "name_en": "Union officer",
+      "name_fr": "Repr\u00e9sentante"
+    }
+  ],
+  "parlinfo_id": 128596,
+  "name": "Carol Hughes",
   "contact_info": {
     "parliament": {
       "email": "Hughes.C@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-5376",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-5376",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "P5A 1Z7",
+      "city_en": "Elliot Lake",
       "city_fr": "Elliott lake",
       "province_en": "Ontario",
+      "telephone": "705-848-8080",
       "province_fr": "Ontario",
       "street_address_en": "20 Prince Edward Walk",
-      "telephone": "705-848-8080",
-      "street_address_fr": "20, Prince Edward Walk",
-      "city_en": "Elliot Lake"
+      "street_address_fr": "20, Prince Edward Walk"
     }
   },
-  "name": "Carol Hughes",
   "date_of_birth": "1958-11-26",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Algoma--Manitoulin--Kapuskasing",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Algoma--Manitoulin--Kapuskasing",
-      "riding_fr": "Algoma--Manitoulin--Kapuskasing"
+      "riding_en": "Algoma--Manitoulin--Kapuskasing"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Algoma--Manitoulin--Kapuskasing",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9faite",
-      "riding_en": "Algoma--Manitoulin--Kapuskasing",
-      "riding_fr": "Algoma--Manitoulin--Kapuskasing"
+      "riding_en": "Algoma--Manitoulin--Kapuskasing"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Algoma--Manitoulin--Kapuskasing",
       "election_date": "2004-06-28",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9faite",
-      "riding_en": "Algoma--Manitoulin--Kapuskasing",
-      "riding_fr": "Algoma--Manitoulin--Kapuskasing"
+      "riding_en": "Algoma--Manitoulin--Kapuskasing"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Val Caron, Ontario, Canada",
-    "name_en": "Val Caron, Ontario, Canada"
+    "name_en": "Val Caron, Ontario, Canada",
+    "name_fr": "Val Caron, Ontario, Canada"
   },
+  "id": "cedf1659-ebb1-4f26-b723-5c7c5353988b",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2004-06-28",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "cedf1659-ebb1-4f26-b723-5c7c5353988b",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128596&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128596&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/carolhughes",
-      "url_fr": "http://www.npd.ca/carolhughes",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://carolhughes.ndp.ca/",
-      "url_fr": "http://carolhughes.ndp.ca/fr/accueil",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

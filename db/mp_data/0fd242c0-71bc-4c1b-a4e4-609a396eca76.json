@@ -1,281 +1,282 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Adjoint politique",
-      "name_en": "Financial agent / adviser / consultant"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78329&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78329&Language=F"
     },
     {
-      "name_fr": "Conseiller financier",
-      "name_en": "Political assistant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/12845_mark-holland",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/12845_mark-holland"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.markholland.ca/",
+      "url_fr": "http://www.markholland.ca/"
     }
   ],
-  "parlinfo_id": 78329,
   "functions": [
     {
+      "title_en": "National Security",
+      "start_date": "2008-11-14",
       "title_fr": "S\u00e9curit\u00e9 nationale",
-      "start_date": "2008-11-14",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Security"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Public Safety",
+      "start_date": "2008-11-14",
       "title_fr": "S\u00e9curit\u00e9 publique",
-      "start_date": "2008-11-14",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Public Safety"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Travaux publics et Services gouvernementaux",
+      "title_en": "Public Works and Government Services",
       "start_date": "2007-10-09",
+      "title_fr": "Travaux publics et Services gouvernementaux",
       "end_date": "2008-11-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Public Works and Government Services"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Ressources naturelles",
+      "title_en": "Natural Resources",
       "start_date": "2007-01-18",
+      "title_fr": "Ressources naturelles",
       "end_date": "2007-10-09",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Natural Resources"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Services canadiens \u00e0 la fronti\u00e8re",
+      "title_en": "Canada Border Services",
       "start_date": "2006-05-30",
+      "title_fr": "Services canadiens \u00e0 la fronti\u00e8re",
       "end_date": "2007-01-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Canada Border Services"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Conseil du tr\u00e9sor",
+      "title_en": "Treasury Board",
       "start_date": "2006-02-23",
+      "title_fr": "Conseil du tr\u00e9sor",
       "end_date": "2006-05-29",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Treasury Board"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 39,
-      "session": 1,
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Safety and National Security"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 38,
-      "session": 1,
-      "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Public Accounts"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "session": 1,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
+    },
+    {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "session": 1,
+      "role_en": "Vice-Chair",
+      "role_fr": "Vice-pr\u00e9sident"
+    },
+    {
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
+      "name_en": "Standing Committee on Public Safety and National Security",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Government Operations and Estimates",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-30",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-30",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-30"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Natural Resources",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent des ressources naturelles",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Financial agent / adviser / consultant",
+      "name_fr": "Adjoint politique"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Conseiller financier"
+    }
+  ],
+  "parlinfo_id": 78329,
+  "name": "Mark Holland",
   "contact_info": {
     "parliament": {
       "email": "Holland.M@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-8042",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-8042",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "mark@markholland.ca",
       "postal_code": "L1S 6B4",
+      "city_en": "Ajax",
       "city_fr": "Ajax",
       "province_en": "Ontario",
+      "telephone": "905-426-6808",
       "province_fr": "Ontario",
       "street_address_en": "92 Church Street South, Unit 106",
-      "telephone": "905-426-6808",
-      "street_address_fr": "92,  rue Church sud, unit\u00e9 106",
-      "city_en": "Ajax"
+      "street_address_fr": "92,  rue Church sud, unit\u00e9 106"
     }
   },
-  "name": "Mark Holland",
   "date_of_birth": "1974-10-16",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Ajax--Pickering",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ajax--Pickering",
-      "riding_fr": "Ajax--Pickering"
+      "riding_en": "Ajax--Pickering"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Ajax--Pickering",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ajax--Pickering",
-      "riding_fr": "Ajax--Pickering"
+      "riding_en": "Ajax--Pickering"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Ajax--Pickering",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Ajax--Pickering",
-      "riding_fr": "Ajax--Pickering"
+      "riding_en": "Ajax--Pickering"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Pickering, Ontario, Canada",
-    "name_en": "Pickering, Ontario, Canada"
+    "name_en": "Pickering, Ontario, Canada",
+    "name_fr": "Pickering, Ontario, Canada"
   },
+  "id": "0fd242c0-71bc-4c1b-a4e4-609a396eca76",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "0fd242c0-71bc-4c1b-a4e4-609a396eca76",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78329&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78329&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/12845_mark-holland",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/12845_mark-holland",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.markholland.ca/",
-      "url_fr": "http://www.markholland.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

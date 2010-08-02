@@ -1,125 +1,128 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128284&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128284&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1519&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1519"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.stephenwoodworth.ca/",
+      "url_fr": "http://www.stephenwoodworth.ca/"
     }
   ],
-  "parlinfo_id": 128284,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
+      "name_en": "Standing Committee on Environment and Sustainable Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Justice and Human Rights",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on Justice and Human Rights",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 128284,
+  "name": "Stephen Woodworth",
   "contact_info": {
     "parliament": {
       "email": "Woodworth.S@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-8913",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-8913",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "N2H 6R9",
+      "city_en": "Kitchener",
       "city_fr": "Kitchener",
       "province_en": "Ontario",
+      "telephone": "519-741-2001",
       "province_fr": "Ontario",
       "street_address_en": "300 Victoria Street North, Suite 12",
-      "street_address_fr": "300, rue Victoria Nord, bureau 12",
-      "city_en": "Kitchener"
+      "fax": "519-579-2404",
+      "street_address_fr": "300, rue Victoria Nord, bureau 12"
     }
   },
-  "name": "Stephen Woodworth",
   "date_of_birth": "1954-01-05",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Kitchener-Centre",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Kitchener Centre",
-      "riding_fr": "Kitchener-Centre"
+      "riding_en": "Kitchener Centre"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Waterloo",
       "election_date": "1988-11-21",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Waterloo",
-      "riding_fr": "Waterloo"
+      "riding_en": "Waterloo"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Kitchener, Ontario, Canada",
-    "name_en": "Kitchener, Ontario, Canada"
+    "name_en": "Kitchener, Ontario, Canada",
+    "name_fr": "Kitchener, Ontario, Canada"
   },
+  "id": "ffb322db-bc4b-4c75-8544-cf13bf7e6bda",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "1988-11-21",
-      "end_date": "1993-10",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "ffb322db-bc4b-4c75-8544-cf13bf7e6bda",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128284&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128284&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1519&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1519",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.stephenwoodworth.ca/",
-      "url_fr": "http://www.stephenwoodworth.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada",
+      "end_date": "1993-10"
     }
   ]
 }

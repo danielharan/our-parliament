@@ -1,162 +1,163 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Expert-conseil",
-      "name_en": "Consultant"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.pm.gc.ca/eng/bio.asp?id=74",
+      "url_fr": "http://www.pm.gc.ca/fra/bio.asp?id=74"
+    },
+    {
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78431&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78431&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/65026",
+      "url_fr": "http://www.conservative.ca/FR/4568/65028"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.gordonoconnor.ca/",
+      "url_fr": "http://www.gordonoconnor.ca/?section_id=&language_id=2"
     }
   ],
-  "parlinfo_id": 78431,
   "functions": [
     {
-      "title_fr": "Ministre du Revenu national",
+      "title_en": "Minister of National Revenue",
       "start_date": "2007-08-14",
+      "title_fr": "Ministre du Revenu national",
       "end_date": "2008-10-29",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of National Revenue"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de la D\u00e9fense nationale",
+      "title_en": "Minister of National Defence",
       "start_date": "2006-02-06",
+      "title_fr": "Ministre de la D\u00e9fense nationale",
       "end_date": "2007-08-13",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of National Defence"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Minister of State and Chief Government Whip",
+      "start_date": "2008-10-30",
       "title_fr": "Ministre d'\u00c9tat et whip en chef du gouvernement",
-      "start_date": "2008-10-30",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State and Chief Government Whip"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
+      "title_en": "Chief Government Whip",
+      "start_date": "2008-10-30",
       "title_fr": "Whip du Parti conservateur du Canada",
-      "start_date": "2008-10-30",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Chief Government Whip"
+      "role_fr": "Whip"
     },
     {
+      "title_en": "Whip of the Conservative Party of Canada",
+      "start_date": "2008-10-30",
       "title_fr": "Whip en chef du gouvernement",
-      "start_date": "2008-10-30",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Whip of the Conservative Party of Canada"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "D\u00e9fense nationale",
+      "title_en": "National Defence",
       "start_date": "2004-07-22",
+      "title_fr": "D\u00e9fense nationale",
       "end_date": "2006-02-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Defence"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Consultant",
+      "name_fr": "Expert-conseil"
+    }
+  ],
+  "parlinfo_id": 78431,
+  "name": "Gordon O'Connor",
   "contact_info": {
     "parliament": {
       "email": "Oconnor.G@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-1119",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-1119",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "OconnG7@parl.gc.ca",
       "postal_code": "K2M 1P6",
+      "city_en": "Kanata",
       "city_fr": "Kanata",
       "province_en": "Ontario",
+      "telephone": "613-592-3469",
       "province_fr": "Ontario",
       "street_address_en": "240 Michael Cowpland Drive, Suite 101",
-      "telephone": "613-592-3469",
-      "street_address_fr": "240 Michael Copeland, bureau 101",
-      "city_en": "Kanata"
+      "street_address_fr": "240 Michael Copeland, bureau 101"
     }
   },
-  "name": "Gordon O'Connor",
   "date_of_birth": "1939-05-18",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Carleton--Mississippi Mills",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Carleton--Mississippi Mills",
-      "riding_fr": "Carleton--Mississippi Mills"
+      "riding_en": "Carleton--Mississippi Mills"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Carleton--Mississippi Mills",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Carleton--Mississippi Mills",
-      "riding_fr": "Carleton--Mississippi Mills"
+      "riding_en": "Carleton--Mississippi Mills"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Carleton--Lanark",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Carleton--Lanark",
-      "riding_fr": "Carleton--Lanark"
+      "riding_en": "Carleton--Lanark"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "84b1612a-384e-4a19-8425-3ddbe9d7d1e4",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "84b1612a-384e-4a19-8425-3ddbe9d7d1e4",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.pm.gc.ca/eng/bio.asp?id=74",
-      "url_fr": "http://www.pm.gc.ca/fra/bio.asp?id=74",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78431&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78431&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/65026",
-      "url_fr": "http://www.conservative.ca/FR/4568/65028",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.gordonoconnor.ca/",
-      "url_fr": "http://www.gordonoconnor.ca/?section_id=&language_id=2",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

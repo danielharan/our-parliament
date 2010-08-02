@@ -1,120 +1,119 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Expert-conseil en communications",
-      "name_en": "Account manager"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128782&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128782&Language=F"
     },
     {
-      "name_fr": "Gestionnaire de comptes",
-      "name_en": "Communication consultant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1523&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1523&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel  (Disponible en anglais seulement)",
+      "url_en": "http://www.peterbraid.ca/EN/3477/",
+      "url_fr": "http://www.peterbraid.ca/EN/3477/"
     }
   ],
-  "parlinfo_id": 128782,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
+      "name_en": "Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on National Defence",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Environment and Sustainable Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Environment and Sustainable Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
+      "name_en": "Standing Committee on National Defence",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'environnement et du d\u00e9veloppement durable",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Account manager",
+      "name_fr": "Expert-conseil en communications"
+    },
+    {
+      "name_en": "Communication consultant",
+      "name_fr": "Gestionnaire de comptes"
+    }
+  ],
+  "parlinfo_id": 128782,
+  "name": "Peter Braid",
   "contact_info": {
     "parliament": {
       "email": "Braid.P@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-5928",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-5928",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-6251",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "braidp1@parl.gc.ca",
       "postal_code": "N2J 1N8",
+      "city_en": "Waterloo",
       "city_fr": "Waterloo",
       "province_en": "Ontario",
+      "telephone": "519-746-1573",
       "province_fr": "Ontario",
       "street_address_en": "22 King Street South",
-      "telephone": "519-746-1573",
-      "street_address_fr": "22, rue King Sud",
-      "fax": "519-746-6436",
-      "city_en": "Waterloo"
+      "street_address_fr": "22, rue King Sud"
     }
   },
-  "name": "Peter Braid",
   "date_of_birth": "1964-01-07",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Kitchener--Waterloo",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Kitchener--Waterloo",
-      "riding_fr": "Kitchener--Waterloo"
+      "riding_en": "Kitchener--Waterloo"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Kitchener, Ontario, Canada",
-    "name_en": "Kitchener, Ontario, Canada"
+    "name_en": "Kitchener, Ontario, Canada",
+    "name_fr": "Kitchener, Ontario, Canada"
   },
+  "id": "a20523be-cae0-4d31-9595-e9303275e40d",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "a20523be-cae0-4d31-9595-e9303275e40d",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128782&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128782&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1523&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1523&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel  (Disponible en anglais seulement)",
-      "url_en": "http://www.peterbraid.ca/EN/3477/",
-      "url_fr": "http://www.peterbraid.ca/EN/3477/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

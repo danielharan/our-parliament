@@ -1,786 +1,787 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78629&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78629&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/5078_derek-lee",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/5078_derek-lee"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.derekleemp.ca",
+      "url_fr": "http://www.derekleemp.ca"
     }
   ],
-  "parlinfo_id": 78629,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du leader du gouvernement \u00e0 la Chambre des communes",
+      "title_en": "Parliamentary Secretary to the Leader of the Government in the House of Commons",
       "start_date": "1999-09-01",
+      "title_fr": "Secr\u00e9taire parlementaire du leader du gouvernement \u00e0 la Chambre des communes",
       "end_date": "2001-09-12",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Leader of the Government in the House of Commons"
+      "role_fr": "Secr\u00e9taire parlementaire"
     },
     {
-      "title_fr": "Revenu national",
+      "title_en": "National Revenue",
       "start_date": "2009-10-06",
+      "title_fr": "Revenu national",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "National Revenue"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Privatisation",
+      "title_en": "Privatization",
       "start_date": "1990-09",
+      "title_fr": "Privatisation",
       "end_date": "1993",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Privatization"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "R\u00e9forme de la r\u00e9glementation",
+      "title_en": "Regulatory Reform",
       "start_date": "1990",
+      "title_fr": "R\u00e9forme de la r\u00e9glementation",
       "end_date": "1992",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Regulatory Reform"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "S\u00e9curit\u00e9 publique",
+      "title_en": "Public Safety",
       "start_date": "2006-02-23",
+      "title_fr": "S\u00e9curit\u00e9 publique",
       "end_date": "2007-01-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Public Safety"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Solliciteur g\u00e9n\u00e9ral",
+      "title_en": "Solicitor General",
       "start_date": "1989-02",
+      "title_fr": "Solliciteur g\u00e9n\u00e9ral",
       "end_date": "1993",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Solicitor General"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 40,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 40,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
       "session": 3,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
-      "parliament": 37,
       "session": 3,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
-      "parliament": 37,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 37,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 37,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on National Security of the Standing Committee of Justice and Human Rights"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs",
+      "parliament": 36,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 36,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des questions juridiques",
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs",
       "parliament": 35,
-      "session": 2,
-      "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs"
-    },
-    {
       "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des questions juridiques",
-      "parliament": 35,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs",
+      "parliament": 35,
+      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des questions juridiques",
+      "session": 2,
+      "role_en": "Chair",
+      "role_fr": "Pr\u00e9sident"
+    },
+    {
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 35,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des questions juridiques",
-      "parliament": 35,
       "session": 1,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 1,
       "role_en": "Co-Chair",
-      "role_fr": "Co-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Co-pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les questions relatives \u00e0 l'examen du Bureau du Commissaire \u00e0 la vie priv\u00e9e du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
+      "name_en": "Subcommittee on Matters Related to the Review of the Office of the Privacy Commissioner of the Standing Committee on Government Operations and Estimates",
       "parliament": 37,
+      "name_fr": "Sous-comit\u00e9 sur les questions relatives \u00e0 l'examen du Bureau du Commissaire \u00e0 la vie priv\u00e9e du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
       "session": 2,
       "role_en": "Co-Chair",
-      "role_fr": "Co-pr\u00e9sident",
-      "name_en": "Subcommittee on Matters Related to the Review of the Office of the Privacy Commissioner of the Standing Committee on Government Operations and Estimates"
+      "role_fr": "Co-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 38,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 38,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des questions juridiques",
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs",
       "parliament": 34,
+      "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des questions juridiques",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des comptes publics",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
+      "name_en": "Legislative Committee on Bill C-2",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-35",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-35",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-35"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 38,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 de liaison",
+      "name_en": "Liaison Committee",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 de liaison",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
-      "parliament": 37,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la justice, des droits de la personne, de la s\u00e9curit\u00e9 publique et de la protection civile",
-      "parliament": 37,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Justice, Human Rights, Public Safety and Emergency Preparedness"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-17, Public Safety Act",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-17, Loi sur la s\u00e9curit\u00e9 publique",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-17, Public Safety Act"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on the Non-Medical Use of Drugs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Non-Medical Use of Drugs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Non-medical Use of Drugs (Bill C-38)"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations and Estimates",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments (Projet de loi C-38)",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Subcommittee on National Security of the Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Matters Related to the Review of the Office of the Privacy Commissioner of the Standing Committee on Government Operations and Estimates",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 sur la S\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Matters Related to the Review of the Office of the Privacy Commissioner of the Standing Committee on Government Operations and Estimates"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 sur les questions relatives \u00e0 l'examen du Bureau du Commissaire \u00e0 la vie priv\u00e9e du Comit\u00e9 permanent des op\u00e9rations gouvernementales et des pr\u00e9visions budg\u00e9taires",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on Non-Medical Use of Drugs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on Non-Medical Use of Drugs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la consommation non m\u00e9dicale de drogues ou m\u00e9dicaments",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Human Rights",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent de la justice et des droits de la personne",
-      "parliament": 36,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Human Rights"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Justice and Legal Affairs",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de la justice et des questions juridiques",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Legal Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Bill C-84, The Regulations Act, of the Standing Committee on Government Operations",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 des affaires \u00e9manant des d\u00e9put\u00e9s du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Bill C-84, The Regulations Act, of the Standing Committee on Government Operations"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Electronic Voting of the Standing Committee on Procedure and House Affairs",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des questions juridiques",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Electronic Voting of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 sur le projet de loi C-84, Loi sur les r\u00e8glements, du Comit\u00e9 permanent des op\u00e9rations gouvernementales",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 sur le vote \u00e9lectronique du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Private Members Business of lthe Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-109",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-109",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-109"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-124",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-124",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-124"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-63",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-63",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-63"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-90",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-90",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-90"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Committee Effectiveness of the Standing Committee on Liaison",
+      "parliament": 34,
       "name_fr": "Sous-comit\u00e9 du budget du Comit\u00e9 permanent de liaison",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Committee Effectiveness of the Standing Committee on Liaison"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs",
+      "parliament": 34,
       "name_fr": "Sous-comit\u00e9 sur la s\u00e9curit\u00e9 nationale du Comit\u00e9 permanent de la justice et des questions juridiques",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on National Security of the Standing Committee on Justice and Legal Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on the Budget of the Standing Committee on Liaison",
+      "parliament": 34,
       "name_fr": "Sous-comit\u00e9 sur l'efficacit\u00e9 des comit\u00e9s du Comit\u00e9 permanent de liaison",
-      "parliament": 34,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Budget of the Standing Committee on Liaison"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee E on Bill C-53",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif E sur le projet de loi C-53",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee E on Bill C-53"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-54",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-54",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-54"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-73",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-73",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-73"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-84",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-84",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-84"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill S-14",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi S-14",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill S-14"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on the Review of the CSIS Act and the Security Offences Act",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 permanent de la justice et du solliciteur g\u00e9n\u00e9ral",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Review of the CSIS Act and the Security Offences Act"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 sp\u00e9cial d'examen de la Loi constituant le SCRS et de la Loi sur les infractions en mati\u00e8re de s\u00e9curit\u00e9",
+      "name_en": "Standing Committee on Justice and Solicitor General",
       "parliament": 34,
+      "name_fr": "Comit\u00e9 sp\u00e9cial d'examen de la Loi constituant le SCRS et de la Loi sur les infractions en mati\u00e8re de s\u00e9curit\u00e9",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Justice and Solicitor General"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1988-11-21",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 78629,
+  "name": "Derek Vincent Lee",
   "contact_info": {
     "parliament": {
       "email": "Lee.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-9681",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-9681",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "leed1@parl.gc.ca",
       "postal_code": "M1S 4N5",
+      "city_en": "Scarborough",
       "city_fr": "Scarborough",
       "province_en": "Ontario",
+      "telephone": "416-298-4224",
       "province_fr": "Ontario",
       "street_address_en": "4800 Sheppard Avenue East, Unit 119",
-      "telephone": "416-298-4224",
-      "street_address_fr": "4800, avenue Sheppard Est, unit\u00e9 119",
-      "city_en": "Scarborough"
+      "street_address_fr": "4800, avenue Sheppard Est, unit\u00e9 119"
     }
   },
-  "name": "Derek Vincent Lee",
   "date_of_birth": "1948-10-02",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough--Rouge River",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough--Rouge River",
-      "riding_fr": "Scarborough--Rouge River"
+      "riding_en": "Scarborough--Rouge River"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough--Rouge River",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough--Rouge River",
-      "riding_fr": "Scarborough--Rouge River"
+      "riding_en": "Scarborough--Rouge River"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough--Rouge River",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough--Rouge River",
-      "riding_fr": "Scarborough--Rouge River"
+      "riding_en": "Scarborough--Rouge River"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough--Rouge River",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough--Rouge River",
-      "riding_fr": "Scarborough--Rouge River"
+      "riding_en": "Scarborough--Rouge River"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough--Rouge River",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough--Rouge River",
-      "riding_fr": "Scarborough--Rouge River"
+      "riding_en": "Scarborough--Rouge River"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough--Rouge River",
       "election_date": "1993-10-25",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough--Rouge River",
-      "riding_fr": "Scarborough--Rouge River"
+      "riding_en": "Scarborough--Rouge River"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Scarborough--Rouge River",
       "election_date": "1988-11-21",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Scarborough--Rouge River",
-      "riding_fr": "Scarborough--Rouge River"
+      "riding_en": "Scarborough--Rouge River"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Halifax, Nouvelle-\u00c9cosse, Canada",
-    "name_en": "Halifax, Nova Scotia, Canada"
+    "name_en": "Halifax, Nova Scotia, Canada",
+    "name_fr": "Halifax, Nouvelle-\u00c9cosse, Canada"
   },
+  "id": "343f8a28-17d8-4230-9774-2805e41a7395",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "1988-11-21",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "343f8a28-17d8-4230-9774-2805e41a7395",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78629&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78629&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/5078_derek-lee",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/5078_derek-lee",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.derekleemp.com/",
-      "url_fr": "http://www.derekleemp.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

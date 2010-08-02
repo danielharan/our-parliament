@@ -1,7 +1,7 @@
 <% @title = t('votes.show.vote_title', :vote_number => @vote.number, :vote_date => l(@vote.vote_date, :format => :long)) %>
 <% @content_layout = "has_sidebar_right" %>
 
-<p><%= @vote.title %></p>
+<p><%= link_to @vote.title, "http://www2.parl.gc.ca/HouseChamberBusiness/Chambervotedetail.aspx?Language=#{I18n.locale == 'fr' ? 'F' : 'E'}&Mode=1&Parl=#{@vote.parliament}&Ses=#{@vote.session}&FltrParl=#{@vote.parliament}&FltrSes=#{@vote.session}&vote=#{@vote.number}", :target => '_blank' %></p>
 
 <div id="vote_summary">
 	<ul class="votes">

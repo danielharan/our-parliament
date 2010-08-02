@@ -1,105 +1,106 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128594&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128594&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du party",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1721",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1721&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://devindershory.ca/",
+      "url_fr": "http://devindershory.ca/"
     }
   ],
-  "parlinfo_id": 128594,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 128594,
+  "name": "Devinder Shory",
   "contact_info": {
     "parliament": {
       "email": "Shory.D@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-947-4487",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-947-4487",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "T1Y 5Z6",
+      "city_en": "Calgary",
       "city_fr": "Calgary",
       "province_en": "Alberta",
       "province_fr": "Alberta",
       "street_address_en": "2635-37th Avenue Northeast, Suite 140",
-      "street_address_fr": "2635, 37e Avenue Nord-Est, bureau 140",
       "fax": "403-291-9516",
-      "city_en": "Calgary"
+      "street_address_fr": "2635, 37e Avenue Nord-Est, bureau 140"
     }
   },
-  "name": "Devinder Shory",
   "date_of_birth": "1958-08-03",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Calgary-Nord-Est",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Calgary Northeast",
-      "riding_fr": "Calgary-Nord-Est"
+      "riding_en": "Calgary Northeast"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Pendjab, Inde",
-    "name_en": "Punjab, India"
+    "name_en": "Punjab, India",
+    "name_fr": "Pendjab, Inde"
   },
+  "id": "d6291432-a929-439c-a56e-c47bda2d2095",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "d6291432-a929-439c-a56e-c47bda2d2095",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128594&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128594&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du party",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1721",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1721&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://devindershory.ca/",
-      "url_fr": "http://devindershory.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

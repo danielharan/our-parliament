@@ -1,432 +1,433 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78481&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78481&Language=F"
     },
     {
-      "name_fr": "Professeur",
-      "name_en": "Professor"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=aeb03a28-490c-498e-9fae-61b1f7ce9e74",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=aeb03a28-490c-498e-9fae-61b1f7ce9e74"
+    },
+    {
+      "name_en": "Personal Website (Available in French only)",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.louisplamondon.com/",
+      "url_fr": "http://www.louisplamondon.com/"
     }
   ],
-  "parlinfo_id": 78481,
   "functions": [
     {
-      "title_fr": "Leader en Chambre du Bloc Qu\u00e9b\u00e9cois",
+      "title_en": "Bloc Qu\u00e9b\u00e9cois House Leader",
       "start_date": "1992",
+      "title_fr": "Leader en Chambre du Bloc Qu\u00e9b\u00e9cois",
       "end_date": "1993-11-09",
       "role_en": "House Leader",
-      "role_fr": "Leader parlementaire",
-      "title_en": "Bloc Qu\u00e9b\u00e9cois House Leader"
+      "role_fr": "Leader parlementaire"
     },
     {
-      "title_fr": "Pr\u00e9sident du caucus du Bloc Qu\u00e9b\u00e9cois",
+      "title_en": "Bloc Qu\u00e9b\u00e9cois Caucus Chair",
       "start_date": "2004-08-26",
+      "title_fr": "Pr\u00e9sident du caucus du Bloc Qu\u00e9b\u00e9cois",
       "role_en": "Caucus Chair",
-      "role_fr": "Pr\u00e9sident du caucus",
-      "title_en": "Bloc Qu\u00e9b\u00e9cois Caucus Chair"
+      "role_fr": "Pr\u00e9sident du caucus"
     },
     {
-      "title_fr": "Langues officielles",
+      "title_en": "Official Languages",
       "start_date": "2004-08-06",
+      "title_fr": "Langues officielles",
       "end_date": "2006-02-09",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Official Languages"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Agriculture et Agro-alimentaire",
+      "title_en": "Agriculture and Agri-Food",
       "start_date": "2004-01-19",
+      "title_fr": "Agriculture et Agro-alimentaire",
       "end_date": "2004-08-05",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Agriculture and Agri-Food"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Anciens combattants",
+      "title_en": "Veterans Affairs",
       "start_date": "2000-12-20",
+      "title_fr": "Anciens combattants",
       "end_date": "2004-01-18",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Veterans Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Francophonie",
+      "title_en": "Francophonie",
       "start_date": "1999-06-30",
+      "title_fr": "Francophonie",
       "end_date": "2000-12-19",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Francophonie"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Biblioth\u00e8que du Parlement",
+      "title_en": "Library of Parliament",
       "start_date": "1998-03-18",
+      "title_fr": "Biblioth\u00e8que du Parlement",
       "end_date": "1999-06-29",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Library of Parliament"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Francophonie et Langues officielles",
+      "title_en": "Francophonie and Official Languages",
       "start_date": "1998-03-18",
+      "title_fr": "Francophonie et Langues officielles",
       "end_date": "2000",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Francophonie and Official Languages"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Langues officielles, Francophones hors Qu\u00e9bec",
+      "title_en": "Official Languages, Francophones Outside Quebec",
       "start_date": "1998-03-18",
+      "title_fr": "Langues officielles, Francophones hors Qu\u00e9bec",
       "end_date": "2000-12-19",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Official Languages, Francophones Outside Quebec"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "R\u00e9num\u00e9ration et pensions des d\u00e9put\u00e9s",
+      "title_en": "Salary and Pensions of MP's",
       "start_date": "1995",
+      "title_fr": "R\u00e9num\u00e9ration et pensions des d\u00e9put\u00e9s",
       "end_date": "1996",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Salary and Pensions of MP's"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
+      "name_en": "Legislative Committee on Bill C-28",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-28",
-      "parliament": 34,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Legislative Committee on Bill C-28"
+      "role_fr": "Pr\u00e9sident"
     },
     {
+      "name_en": "Legislative Committee on Bill C-54",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-54",
-      "parliament": 34,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sident",
-      "name_en": "Legislative Committee on Bill C-54"
+      "role_fr": "Pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances, du commerce et des questions \u00e9conomiques",
+      "name_en": "Standing Committee on Finance, Trade and Economic Affairs",
       "parliament": 33,
+      "name_fr": "Comit\u00e9 permanent des finances, du commerce et des questions \u00e9conomiques",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Finance, Trade and Economic Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 des anciens combattants du Comit\u00e9 permanent de la d\u00e9fense nationale et des anciens combattants",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Veterans Affairs of the Standing Committee on National Defence and Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-28",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-28",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-28"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-54",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-54",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-54"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry, Science and Technology, Regional and Northern Development",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 permanent de l'environnement",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology, Regional and Northern Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on the Environment",
+      "parliament": 34,
       "name_fr": "Comit\u00e9 permanent de l'industrie, de la science et de la technologie et du d\u00e9veloppement r\u00e9gional et du Nord",
-      "parliament": 34,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Environment"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-60",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-60",
-      "parliament": 33,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-60"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-255",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-255",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-255"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-59",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-59",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-59"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-79",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-79",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-79"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-80",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-80",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-80"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-82",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 l\u00e9gislatif sur le projet de loi C-82",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-82"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent de l'agriculture",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Finance, Trade and Economic Affairs",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent des finances, du commerce et des questions \u00e9conomiques",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance, Trade and Economic Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Labour, Manpower and Immigration",
+      "parliament": 33,
       "name_fr": "Comit\u00e9 permanent des transports",
-      "parliament": 33,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Labour, Manpower and Immigration"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du travail, de la main-d'oeuvre et de l'immigration",
+      "name_en": "Standing Committee on Transport",
       "parliament": 33,
+      "name_fr": "Comit\u00e9 permanent du travail, de la main-d'oeuvre et de l'immigration",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1984-09-04",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
+    },
+    {
+      "name_en": "Professor",
+      "name_fr": "Professeur"
+    }
+  ],
+  "parlinfo_id": 78481,
+  "name": "Louis Plamondon",
   "contact_info": {
     "parliament": {
       "email": "PlamoL@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-9241",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-9241",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "J3T 1C6",
+      "city_en": "Nicolet",
       "city_fr": "Nicolet",
       "province_en": "Quebec",
+      "telephone": "819-293-2041",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "702  Monseigneur-Panet Street",
-      "telephone": "819-293-2041",
-      "street_address_fr": "702, rue Monseigneur-Panet",
-      "city_en": "Nicolet"
+      "street_address_fr": "702, rue Monseigneur-Panet"
     }
   },
-  "name": "Louis Plamondon",
   "date_of_birth": "1943-07-31",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Bas-Richelieu--Nicolet--B\u00e9cancour",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Bas-Richelieu--Nicolet--B\u00e9cancour",
-      "riding_fr": "Bas-Richelieu--Nicolet--B\u00e9cancour"
+      "riding_en": "Bas-Richelieu--Nicolet--B\u00e9cancour"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Bas-Richelieu--Nicolet--B\u00e9cancour",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Bas-Richelieu--Nicolet--B\u00e9cancour",
-      "riding_fr": "Bas-Richelieu--Nicolet--B\u00e9cancour"
+      "riding_en": "Bas-Richelieu--Nicolet--B\u00e9cancour"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Richelieu",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Richelieu",
-      "riding_fr": "Richelieu"
+      "riding_en": "Richelieu"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Bas-Richelieu--Nicolet--B\u00e9cancour",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Bas-Richelieu--Nicolet--B\u00e9cancour",
-      "riding_fr": "Bas-Richelieu--Nicolet--B\u00e9cancour"
+      "riding_en": "Bas-Richelieu--Nicolet--B\u00e9cancour"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Richelieu",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Richelieu",
-      "riding_fr": "Richelieu"
+      "riding_en": "Richelieu"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Richelieu",
       "election_date": "1993-10-25",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Richelieu",
-      "riding_fr": "Richelieu"
+      "riding_en": "Richelieu"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Richelieu",
       "election_date": "1988-11-21",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Richelieu",
-      "riding_fr": "Richelieu"
+      "riding_en": "Richelieu"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Richelieu",
       "election_date": "1984-09-04",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Richelieu",
-      "riding_fr": "Richelieu"
+      "riding_en": "Richelieu"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Saint-Raymond de Portneuf, Qu\u00e9bec, Canada",
-    "name_en": "St-Raymond de Portneuf, Quebec, Canada"
+    "name_en": "St-Raymond de Portneuf, Quebec, Canada",
+    "name_fr": "Saint-Raymond de Portneuf, Qu\u00e9bec, Canada"
   },
+  "id": "4b9cf7c8-d5db-4efa-a24e-c26afde48cc3",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "1990-12-20",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     },
     {
-      "name_fr": "",
+      "name_en": "",
       "start_date": "1990-06-26",
-      "end_date": "1990-12-19",
-      "name_en": ""
+      "name_fr": "",
+      "end_date": "1990-12-19"
     },
     {
-      "name_fr": "Parti progressiste-conservateur",
+      "name_en": "Progressive Conservative Party",
       "start_date": "1984-09-04",
-      "end_date": "1990-06-25",
-      "name_en": "Progressive Conservative Party"
-    }
-  ],
-  "language": "French",
-  "id": "4b9cf7c8-d5db-4efa-a24e-c26afde48cc3",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78481&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78481&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=aeb03a28-490c-498e-9fae-61b1f7ce9e74",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=aeb03a28-490c-498e-9fae-61b1f7ce9e74",
-      "name_en": "Party Website (Available in French only)"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.louisplamondon.com/",
-      "url_fr": "http://www.louisplamondon.com/",
-      "name_en": "Personal Website (Available in French only)"
+      "name_fr": "Parti progressiste-conservateur",
+      "end_date": "1990-06-25"
     }
   ]
 }

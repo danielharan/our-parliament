@@ -1,131 +1,131 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Charg\u00e9e de cours",
-      "name_en": "Instructor"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128733&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128733&Language=F"
     },
     {
-      "name_fr": "Instructrice",
-      "name_en": "Lecturer"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/nikiashton",
+      "url_fr": "http://www.npd.ca/nikiashton"
     },
     {
-      "name_fr": "Recherchiste",
-      "name_en": "Researcher"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.nikiashton.ca/",
+      "url_fr": "http://www.nikiashton.ca/"
     }
   ],
-  "parlinfo_id": 128733,
   "functions": [
     {
+      "title_en": "Literacy",
+      "start_date": "2009-02-13",
       "title_fr": "Alphab\u00e9tisation",
-      "start_date": "2009-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Literacy"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Post Secondary Education",
+      "start_date": "2009-02-13",
       "title_fr": "\u00c9ducation post secondaire",
-      "start_date": "2009-02-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Post Secondary Education"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Community Development",
+      "start_date": "2008-11-17",
       "title_fr": "D\u00e9veloppement communautaire",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Community Development"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Rural Development",
+      "start_date": "2008-11-17",
       "title_fr": "D\u00e9veloppement rural",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Rural Development"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Jeunesse",
+      "title_en": "Youth",
       "start_date": "2008-11-17",
+      "title_fr": "Jeunesse",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Youth"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Instructor",
+      "name_fr": "Charg\u00e9e de cours"
+    },
+    {
+      "name_en": "Lecturer",
+      "name_fr": "Instructrice"
+    },
+    {
+      "name_en": "Researcher",
+      "name_fr": "Recherchiste"
+    }
+  ],
+  "parlinfo_id": 128733,
+  "name": "Niki Ashton",
   "contact_info": {
     "parliament": {
       "email": "Ashton.N@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-3018",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-3018",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "R8N 0L4",
+      "city_en": "Thompson",
       "city_fr": "Thompson",
       "province_en": "Manitoba",
       "province_fr": "Manitoba",
       "street_address_en": "307-83 Churchill Drive",
-      "street_address_fr": "307-83, promenade Churchill",
-      "fax": "1-204-677-1339",
-      "city_en": "Thompson"
+      "street_address_fr": "307-83, promenade Churchill"
     }
   },
-  "name": "Niki Ashton",
   "date_of_birth": "1982-09-09",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Churchill",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Churchill",
-      "riding_fr": "Churchill"
+      "riding_en": "Churchill"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Churchill",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9faite",
-      "riding_en": "Churchill",
-      "riding_fr": "Churchill"
+      "riding_en": "Churchill"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Thompson, Manitoba, Canada",
-    "name_en": "Thompson, Manitoba, Canada"
+    "name_en": "Thompson, Manitoba, Canada",
+    "name_fr": "Thompson, Manitoba, Canada"
   },
+  "id": "4bc128a9-b349-4867-a545-ad05122c0e46",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2006-01-23",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "4bc128a9-b349-4867-a545-ad05122c0e46",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128733&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128733&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/nikiashton",
-      "url_fr": "http://www.npd.ca/nikiashton",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.nikiashton.ca/",
-      "url_fr": "http://www.nikiashton.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

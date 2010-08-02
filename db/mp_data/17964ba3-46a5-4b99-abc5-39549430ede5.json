@@ -1,125 +1,125 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Businessman"
+      "name_en": "Department Website (1)",
+      "name_fr": "Site Web du minist\u00e8re (1)",
+      "url_en": "http://www.cra-arc.gc.ca/gncy/mnstr/menu-eng.html",
+      "url_fr": "http://www.cra-arc.gc.ca/gncy/mnstr/menu-fra.html"
+    },
+    {
+      "name_en": "Department Website (2)",
+      "name_fr": "Site Web du minist\u00e8re (2)",
+      "url_en": "http://www.acoa-apeca.gc.ca/English/WhoWeAre/OurPeople/Pages/Minister.aspx?ProgramID=",
+      "url_fr": "http://www.acoa.ca/Fran%c3%a7ais/Quinoussommes/Nosresponsables/Pages/Minister.aspx?ProgramID=#ashfield"
+    },
+    {
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128508&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128508&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Web Site du parti",
+      "url_en": "http://www.conservative.ca/EN/4568/107500",
+      "url_fr": "http://www.conservative.ca/FR/4568/107502"
     }
   ],
-  "parlinfo_id": 128508,
   "functions": [
     {
+      "title_en": "Minister of National Revenue",
+      "start_date": "2010-01-19",
       "title_fr": "Ministre de l\u2019Agence de promotion \u00e9conomique du Canada atlantique",
-      "start_date": "2010-01-19",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of National Revenue"
+      "role_fr": "Ministre"
     },
     {
+      "title_en": "Minister of the Atlantic Canada Opportunities Agency",
+      "start_date": "2010-01-19",
       "title_fr": "Ministre du Revenu national",
-      "start_date": "2010-01-19",
       "role_en": "Minister",
-      "role_fr": "Ministre",
-      "title_en": "Minister of the Atlantic Canada Opportunities Agency"
+      "role_fr": "Ministre"
     },
     {
-      "title_fr": "Ministre de la porte d'entr\u00e9e de l'Atlantique",
+      "title_en": "Minister for the Atlantic Gateway",
       "start_date": "2010-01-19",
+      "title_fr": "Ministre de la porte d'entr\u00e9e de l'Atlantique",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister for the Atlantic Gateway"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Ministre d'\u00c9tat (Agence de promotion \u00e9conomique du Canada atlantique)",
+      "title_en": "Minister of State (Atlantic Canada Opportunities Agency)",
       "start_date": "2008-10-30",
+      "title_fr": "Ministre d'\u00c9tat (Agence de promotion \u00e9conomique du Canada atlantique)",
       "end_date": "2010-01-18",
       "role_en": "Minister / Secretary of State",
-      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat",
-      "title_en": "Minister of State (Atlantic Canada Opportunities Agency)"
+      "role_fr": "Ministre/ Secr\u00e9taire d'\u00c9tat"
     },
     {
-      "title_fr": "Nouveau-Brunswick",
+      "title_en": "New Brunswick",
       "start_date": "2010-01-19",
+      "title_fr": "Nouveau-Brunswick",
       "role_en": "Regional Minister",
-      "role_fr": "Ministre r\u00e9gional",
-      "title_en": "New Brunswick"
+      "role_fr": "Ministre r\u00e9gional"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 128508,
+  "name": "Keith Ashfield",
   "contact_info": {
     "parliament": {
       "email": "Ashfield.K@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-1067",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-1067",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-996-9955",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "E3C 2N5",
+      "city_en": "Fredericton",
       "city_fr": "Fredericton",
       "province_en": "New Brunswick",
+      "telephone": "506-452-4110",
       "province_fr": "Nouveau-Brunswick",
       "street_address_en": "23 Alison Boulevard",
-      "telephone": "506-452-4110",
-      "street_address_fr": "23, boulevard Alison",
       "fax": "506-452-4076",
-      "city_en": "Fredericton"
+      "street_address_fr": "23, boulevard Alison"
     }
   },
-  "name": "Keith Ashfield",
   "date_of_birth": "1952-03-28",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Fredericton",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Fredericton",
-      "riding_fr": "Fredericton"
+      "riding_en": "Fredericton"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Fredericton, Nouveau-Brunswick, Canada",
-    "name_en": "Fredericton, New Brunswick, Canada"
+    "name_en": "Fredericton, New Brunswick, Canada",
+    "name_fr": "Fredericton, Nouveau-Brunswick, Canada"
   },
+  "id": "17964ba3-46a5-4b99-abc5-39549430ede5",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2008-10-14",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "17964ba3-46a5-4b99-abc5-39549430ede5",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re (1)",
-      "url_en": "http://www.cra-arc.gc.ca/gncy/mnstr/menu-eng.html",
-      "url_fr": "http://www.cra-arc.gc.ca/gncy/mnstr/menu-fra.html",
-      "name_en": "Department Website (1)"
-    },
-    {
-      "name_fr": "Site Web du minist\u00e8re (2)",
-      "url_en": "http://www.acoa-apeca.gc.ca/English/WhoWeAre/OurPeople/Pages/Minister.aspx?ProgramID=",
-      "url_fr": "http://www.acoa.ca/Fran%c3%a7ais/Quinoussommes/Nosresponsables/Pages/Minister.aspx?ProgramID=#ashfield",
-      "name_en": "Department Website (2)"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128508&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128508&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Web Site du parti",
-      "url_en": "http://www.conservative.ca/EN/4568/107500",
-      "url_fr": "http://www.conservative.ca/FR/4568/107502",
-      "name_en": "Party Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

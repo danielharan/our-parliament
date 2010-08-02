@@ -1,187 +1,188 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Journaliste",
-      "name_en": "Broadcaster"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78497&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78497&Language=F"
     },
     {
-      "name_fr": "Radiodiffuseur",
-      "name_en": "Journalist"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/members_e.aspx?id=12739",
+      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12739"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.scottsimms.com/",
+      "url_fr": "http://www.scottsimms.com/"
     }
   ],
-  "parlinfo_id": 78497,
   "functions": [
     {
-      "title_fr": "P\u00eaches et Oc\u00e9ans",
+      "title_en": "Fisheries and Oceans",
       "start_date": "2007-01-18",
+      "title_fr": "P\u00eaches et Oc\u00e9ans",
       "end_date": "2008-11-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Fisheries and Oceans"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique",
+      "title_en": "Atlantic Canada Opportunities Agency",
       "start_date": "2006-02-23",
+      "title_fr": "Agence de promotion \u00e9conomique du Canada atlantique",
       "end_date": "2007-01-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Atlantic Canada Opportunities Agency"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Fisheries and Oceans",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "name_en": "Standing Committee on Canadian Heritage",
       "parliament": 39,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 39,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Canadian Heritage"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Fisheries and Oceans"
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Canadian Heritage",
+      "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent des p\u00eaches et des oc\u00e9ans",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Fisheries and Oceans",
+      "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent du patrimoine canadien",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Broadcaster",
+      "name_fr": "Journaliste"
+    },
+    {
+      "name_en": "Journalist",
+      "name_fr": "Radiodiffuseur"
+    }
+  ],
+  "parlinfo_id": 78497,
+  "name": "Scott Simms",
   "contact_info": {
     "parliament": {
       "email": "Simms.S@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-3935",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-3935",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "scottsimmsgrandfalls@nf.aibn.com",
       "postal_code": "A2A 2S8",
+      "city_en": "Grand Falls-Windsor",
       "city_fr": "Grand Falls-Windsor",
       "province_en": "Newfoundland and Labrador",
+      "telephone": "709-489-8470",
       "province_fr": "Terre-Neuve-et-Labrador",
       "street_address_en": "1A Pinsent Drive",
-      "telephone": "709-489-8470",
-      "street_address_fr": "1A, promenade Pinsent",
-      "city_en": "Grand Falls-Windsor"
+      "street_address_fr": "1A, promenade Pinsent"
     }
   },
-  "name": "Scott Simms",
   "date_of_birth": "1969-08-12",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Bonavista--Gander--Grand Falls--Windsor",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Bonavista--Gander--Grand Falls--Windsor",
-      "riding_fr": "Bonavista--Gander--Grand Falls--Windsor"
+      "riding_en": "Bonavista--Gander--Grand Falls--Windsor"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Bonavista--Gander--Grand Falls--Windsor",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Bonavista--Gander--Grand Falls--Windsor",
-      "riding_fr": "Bonavista--Gander--Grand Falls--Windsor"
+      "riding_en": "Bonavista--Gander--Grand Falls--Windsor"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Bonavista--Exploits",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Bonavista--Exploits",
-      "riding_fr": "Bonavista--Exploits"
+      "riding_en": "Bonavista--Exploits"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Bishop's Falls, Terre-Neuve, Canada",
-    "name_en": "Bishop's Falls, Newfoundland, Canada"
+    "name_en": "Bishop's Falls, Newfoundland, Canada",
+    "name_fr": "Bishop's Falls, Terre-Neuve, Canada"
   },
+  "id": "d282a075-d49f-40b7-ab6d-64455eb9a5a8",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "d282a075-d49f-40b7-ab6d-64455eb9a5a8",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78497&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78497&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/members_e.aspx?id=12739",
-      "url_fr": "http://www.liberal.ca/members_f.aspx?id=12739",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.scottsimms.com/",
-      "url_fr": "http://www.scottsimms.com/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

@@ -1,310 +1,311 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Auteure",
-      "name_en": "Author"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78541&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78541&Language=F"
     },
     {
-      "name_fr": "Experte-conseil en ventes et en commercialisation",
-      "name_en": "Educator"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1669&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1669&language_id=2"
     },
     {
-      "name_fr": "P\u00e9dagogue",
-      "name_en": "Sales and marketing consultant"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.joysmith.ca/",
+      "url_fr": "http://www.joysmith.ca/"
+    },
+    {
+      "name_en": "Legislative Assembly of Manitoba Website",
+      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative du Manitoba",
+      "url_en": "http://www.gov.mb.ca/legislature/members/bios_living.html#s",
+      "url_fr": "http://www.gov.mb.ca/legislature/members/bios-living.fr.html#S"
     }
   ],
-  "parlinfo_id": 78541,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 3,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sidente",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Pr\u00e9sidente"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
       "session": 3,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sidente",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Pr\u00e9sidente"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sidente",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Pr\u00e9sidente"
     },
     {
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
-      "parliament": 40,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sidente",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Pr\u00e9sidente"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on Health",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sidente",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Pr\u00e9sidente"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 39,
       "session": 2,
       "role_en": "Chair",
-      "role_fr": "Pr\u00e9sidente",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+      "role_fr": "Pr\u00e9sidente"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 39,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 38,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 sur les maladies neurologiques du Comit\u00e9 permanent de la Sant\u00e9",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Neurological Disease of the Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Liaison Committee",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 de liaison",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Liaison Committee"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la sant\u00e9",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women",
+      "parliament": 39,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 39,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure on the Standing Committee of the Status of Women"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-38",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-38",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-38"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 38,
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 38,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Subcommitee on Agenda and Procedure of the Standing Committee of the Status of Women",
       "parliament": 38,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommitee on Agenda and Procedure of the Standing Committee of the Status of Women"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-06-28",
+  "professions": [
+    {
+      "name_en": "Author",
+      "name_fr": "Auteure"
+    },
+    {
+      "name_en": "Educator",
+      "name_fr": "Experte-conseil en ventes et en commercialisation"
+    },
+    {
+      "name_en": "Sales and marketing consultant",
+      "name_fr": "P\u00e9dagogue"
+    }
+  ],
+  "parlinfo_id": 78541,
+  "name": "Joy Smith",
   "contact_info": {
     "parliament": {
       "email": "Smith.J@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-7148",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-7148",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "joy@joysmithmp.ca",
       "postal_code": "R2G 1P3",
+      "city_en": "Winnipeg",
       "city_fr": "Winnipeg",
       "province_en": "Manitoba",
+      "telephone": "204-984-6322",
       "province_fr": "Manitoba",
       "street_address_en": "1795 Henderson Highway, Unit 13-C",
-      "telephone": "204-984-6322",
-      "street_address_fr": "1795, autoroute Henderson, unit\u00e9 13-C",
-      "city_en": "Winnipeg"
+      "street_address_fr": "1795, autoroute Henderson, unit\u00e9 13-C"
     }
   },
-  "name": "Joy Smith",
   "date_of_birth": "1947-02-20",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Kildonan--St. Paul",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Kildonan--St. Paul",
-      "riding_fr": "Kildonan--St. Paul"
+      "riding_en": "Kildonan--St. Paul"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Kildonan--St. Paul",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Kildonan--St. Paul",
-      "riding_fr": "Kildonan--St. Paul"
+      "riding_en": "Kildonan--St. Paul"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Kildonan--St. Paul",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Kildonan--St. Paul",
-      "riding_fr": "Kildonan--St. Paul"
+      "riding_en": "Kildonan--St. Paul"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Deloraine, Manitoba, Canada",
-    "name_en": "Deloraine, Manitoba, Canada"
+    "name_en": "Deloraine, Manitoba, Canada",
+    "name_fr": "Deloraine, Manitoba, Canada"
   },
+  "id": "9afd15e3-d6df-4779-ba0f-5a305ebb77b5",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2004-06-28",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "9afd15e3-d6df-4779-ba0f-5a305ebb77b5",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78541&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78541&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1669&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1669&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.joysmith.ca/",
-      "url_fr": "http://www.joysmith.ca/",
-      "name_en": "Personal Website"
-    },
-    {
-      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative du Manitoba",
-      "url_en": "http://www.gov.mb.ca/legislature/members/bios_living.html#s",
-      "url_fr": "http://www.gov.mb.ca/legislature/members/bios-living.fr.html#S",
-      "name_en": "Legislative Assembly of Manitoba Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

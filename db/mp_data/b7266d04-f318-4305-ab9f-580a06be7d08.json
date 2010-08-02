@@ -1,135 +1,134 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Adjointe politique",
-      "name_en": "Consultant"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128209&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128209&Language=F"
     },
     {
-      "name_fr": "Enseignante",
-      "name_en": "Musician"
+      "name_en": "Party Website",
+      "name_fr": "Site Web su parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1551",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1551&language_id=2"
     },
     {
-      "name_fr": "Experte-conseil",
-      "name_en": "Political assistant"
-    },
-    {
-      "name_fr": "Musicienne",
-      "name_en": "Teacher"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.loisbrown.ca/",
+      "url_fr": "http://www.loisbrown.ca/%20(Disponible%20en%20anglais%20seulement)"
     }
   ],
-  "parlinfo_id": 128209,
   "functions": [
 
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on the Status of Women",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
-      "parliament": 40,
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
+      "name_en": "Standing Committee on Transport, Infrastructure and Communities",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des transports, de l'infrastructure et des collectivit\u00e9s",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport, Infrastructure and Communities"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Consultant",
+      "name_fr": "Adjointe politique"
+    },
+    {
+      "name_en": "Musician",
+      "name_fr": "Enseignante"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Experte-conseil"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "Musicienne"
+    }
+  ],
+  "parlinfo_id": 128209,
+  "name": "Lois Brown",
   "contact_info": {
     "parliament": {
       "email": "Brown.L@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-9310",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-9310",
-      "street_address_fr": "Chambre des communes",
-      "fax": "613-992-9407",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "BrownLo@parl.gc.ca",
       "postal_code": "L3X 1Z9",
+      "city_en": "Newmarket",
       "city_fr": "Newmarket",
       "province_en": "Ontario",
+      "telephone": "905-953-7515",
       "province_fr": "Ontario",
       "street_address_en": "16600 Bayview Avenue, Suite 206",
-      "telephone": "905-953-7515",
-      "street_address_fr": "16600, avenue Bayview, bureau 206",
-      "fax": "905-953-7527",
-      "city_en": "Newmarket"
+      "street_address_fr": "16600, avenue Bayview, bureau 206"
     }
   },
-  "name": "Lois Brown",
   "date_of_birth": "1955-01-22",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Newmarket--Aurora",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Newmarket--Aurora",
-      "riding_fr": "Newmarket--Aurora"
+      "riding_en": "Newmarket--Aurora"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Newmarket--Aurora",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9faite",
-      "riding_en": "Newmarket--Aurora",
-      "riding_fr": "Newmarket--Aurora"
+      "riding_en": "Newmarket--Aurora"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Stouffville, Ontario, Canada",
-    "name_en": "Stouffville, Ontario, Canada"
+    "name_en": "Stouffville, Ontario, Canada",
+    "name_fr": "Stouffville, Ontario, Canada"
   },
+  "id": "b7266d04-f318-4305-ab9f-580a06be7d08",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "b7266d04-f318-4305-ab9f-580a06be7d08",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128209&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128209&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web su parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1551",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1551&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.loisbrown.ca/",
-      "url_fr": "http://www.loisbrown.ca/%20(Disponible%20en%20anglais%20seulement)",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }

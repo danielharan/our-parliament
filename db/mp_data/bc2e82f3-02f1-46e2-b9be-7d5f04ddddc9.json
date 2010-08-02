@@ -1,144 +1,145 @@
 {
-  "professions": [
+  "language": "French, English",
+  "weblinks": [
     {
-      "name_fr": "Astronaute",
-      "name_en": "Astronaut"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128098&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128098&Language=F"
     },
     {
-      "name_fr": "Ing\u00e9nieur",
-      "name_en": "Engineer"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/16182_marc-garneau",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/16182_marc-garneau"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.marcgarneau.ca/en/",
+      "url_fr": "http://www.marcgarneau.ca/fr/"
+    },
+    {
+      "name_en": "Order of Canada",
+      "name_fr": "Ordre du Canada",
+      "url_en": "http://archive.gg.ca/honours/search-recherche/honours-desc.asp?lang=e&TypeID=orc&id=605",
+      "url_fr": "http://archive.gg.ca/honours/search-recherche/honours-desc.asp?lang=f&TypeID=orc&id=605"
     }
   ],
-  "parlinfo_id": 128098,
   "functions": [
     {
-      "title_fr": "Industrie",
+      "title_en": "Industry",
       "start_date": "2009-01-22",
+      "title_fr": "Industrie",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Industry"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Sciences et Technologie",
+      "title_en": "Science and Technology",
       "start_date": "2008-11-14",
+      "title_fr": "Sciences et Technologie",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Science and Technology"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Industry, Science and Technology",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
+      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 sur les secteurs industriels canadiens du Comit\u00e9 permanent de l'industrie, des sciences et de la technologie",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Canadian Industrial Sectors of the Standing Committee on Industry, Science and Technology"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Astronaut",
+      "name_fr": "Astronaute"
+    },
+    {
+      "name_en": "Engineer",
+      "name_fr": "Ing\u00e9nieur"
+    }
+  ],
+  "parlinfo_id": 128098,
+  "name": "Marc Garneau",
   "contact_info": {
     "parliament": {
       "email": "Garneau.M@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-7267",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-7267",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "Garneau.M@parl.gc.ca",
       "postal_code": "H3Z 2Z3",
+      "city_en": "Montreal",
       "city_fr": "Montr\u00e9al",
       "province_en": "Quebec",
+      "telephone": "514-283-2013",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "4060 Ste-Catherine Street West, Suite 340",
-      "telephone": "514-283-2013",
-      "street_address_fr": "4060, rue Ste-Catherine Ouest,\r\nbureau 340",
-      "city_en": "Montreal"
+      "street_address_fr": "4060, rue Ste-Catherine Ouest,\r\nbureau 340"
     }
   },
-  "name": "Marc Garneau",
   "date_of_birth": "1949-02-23",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Westmount--Ville-Marie",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Westmount--Ville-Marie",
-      "riding_fr": "Westmount--Ville-Marie"
+      "riding_en": "Westmount--Ville-Marie"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Vaudreuil--Soulanges",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Vaudreuil--Soulanges",
-      "riding_fr": "Vaudreuil--Soulanges"
+      "riding_en": "Vaudreuil--Soulanges"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Qu\u00e9bec, Qu\u00e9bec, Canada",
-    "name_en": "Qu\u00e9bec, Quebec, Canada"
+    "name_en": "Qu\u00e9bec, Quebec, Canada",
+    "name_fr": "Qu\u00e9bec, Qu\u00e9bec, Canada"
   },
+  "id": "bc2e82f3-02f1-46e2-b9be-7d5f04ddddc9",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Liberal Party of Canada"
-    }
-  ],
-  "language": "French, English",
-  "id": "bc2e82f3-02f1-46e2-b9be-7d5f04ddddc9",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128098&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128098&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/16182_marc-garneau",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/16182_marc-garneau",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.marcgarneau.ca/en/",
-      "url_fr": "http://www.marcgarneau.ca/fr/",
-      "name_en": "Personal Website"
-    },
-    {
-      "name_fr": "Ordre du Canada",
-      "url_en": "http://archive.gg.ca/honours/search-recherche/honours-desc.asp?lang=e&TypeID=orc&id=605",
-      "url_fr": "http://archive.gg.ca/honours/search-recherche/honours-desc.asp?lang=f&TypeID=orc&id=605",
-      "name_en": "Order of Canada"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     }
   ]
 }

@@ -1,202 +1,203 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Organisateur syndical",
-      "name_en": "Union organiser"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78493&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78493&Language=F"
+    },
+    {
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=a8e96891-3e5e-4477-9d60-ab634ddcc79b",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=a8e96891-3e5e-4477-9d60-ab634ddcc79b"
     }
   ],
-  "parlinfo_id": 78493,
   "functions": [
     {
-      "title_fr": "Chef de l'Opposition officielle",
+      "title_en": "Leader of the Official Opposition",
       "start_date": "1997-03-15",
+      "title_fr": "Chef de l'Opposition officielle",
       "end_date": "1997-06-01",
       "role_en": "Leader of the Official Opposition",
-      "role_fr": "Chef de l'Opposition Officielle",
-      "title_en": "Leader of the Official Opposition"
+      "role_fr": "Chef de l'Opposition Officielle"
     },
     {
-      "title_fr": "Chef de l'Opposition officielle(par int\u00e9rim)",
+      "title_en": "Leader of the Official Opposition(Acting)",
       "start_date": "1996-01-15",
+      "title_fr": "Chef de l'Opposition officielle(par int\u00e9rim)",
       "end_date": "1996-02-16",
       "role_en": "Leader of the Official Opposition",
-      "role_fr": "Chef de l'Opposition Officielle",
-      "title_en": "Leader of the Official Opposition(Acting)"
+      "role_fr": "Chef de l'Opposition Officielle"
     },
     {
-      "title_fr": "Leader parlementaire de l'Opposition officielle",
+      "title_en": "Official Opposition House Leader",
       "start_date": "1996-02-22",
+      "title_fr": "Leader parlementaire de l'Opposition officielle",
       "end_date": "1997-03-15",
       "role_en": "Leader of the Opposition in the House Of Commons",
-      "role_fr": "Leader parlementaire de l'Opposition officielle",
-      "title_en": "Official Opposition House Leader"
+      "role_fr": "Leader parlementaire de l'Opposition officielle"
     },
     {
-      "title_fr": "Leader en Chambre du Bloc Qu\u00e9b\u00e9cois",
+      "title_en": "Bloc Qu\u00e9b\u00e9cois House Leader",
       "start_date": "1996-02-22",
+      "title_fr": "Leader en Chambre du Bloc Qu\u00e9b\u00e9cois",
       "end_date": "1997-03-15",
       "role_en": "House Leader",
-      "role_fr": "Leader parlementaire",
-      "title_en": "Bloc Qu\u00e9b\u00e9cois House Leader"
+      "role_fr": "Leader parlementaire"
     },
     {
-      "title_fr": "Whip du Bloc Qu\u00e9b\u00e9cois",
+      "title_en": "Whip of the Bloc Qu\u00e9b\u00e9cois",
       "start_date": "1993-10-26",
+      "title_fr": "Whip du Bloc Qu\u00e9b\u00e9cois",
       "end_date": "1996",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Whip of the Bloc Qu\u00e9b\u00e9cois"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "Whip en chef de l'Opposition",
+      "title_en": "Chief Opposition Whip",
       "start_date": "1993-10-26",
+      "title_fr": "Whip en chef de l'Opposition",
       "end_date": "1996-02-21",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Chief Opposition Whip"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "Affaires \u00e9trang\u00e8res",
+      "title_en": "Foreign Affairs",
       "start_date": "2006-09-12",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "end_date": "2007-01-22",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Foreign Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Premier ministre",
+      "title_en": "Prime Minister",
       "start_date": "1997-03-15",
+      "title_fr": "Premier ministre",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Prime Minister"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Montr\u00e9al, R\u00e9gion de",
+      "title_en": "Montreal Region",
       "start_date": "1994",
+      "title_fr": "Montr\u00e9al, R\u00e9gion de",
       "end_date": "1998-03-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Montreal Region"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
+      "name_en": "Standing Committee on Procedure and House Affairs",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1990-08-13",
+  "professions": [
+    {
+      "name_en": "Union organiser",
+      "name_fr": "Organisateur syndical"
+    }
+  ],
+  "parlinfo_id": 78493,
+  "name": "Gilles Duceppe",
   "contact_info": {
     "parliament": {
       "email": "Duceppe.G@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-6779",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-6779",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "ducepg1@parl.gc.ca",
       "postal_code": "H2K 4R5",
+      "city_en": "Montreal",
       "city_fr": "Montr\u00e9al",
       "province_en": "Quebec",
+      "telephone": "514-522-1339",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "1200 Papineau Avenue, Suite 350",
-      "telephone": "514-522-1339",
-      "street_address_fr": "1200, avenue Papineau, bureau 350",
-      "city_en": "Montreal"
+      "street_address_fr": "1200, avenue Papineau, bureau 350"
     }
   },
-  "name": "Gilles Duceppe",
   "date_of_birth": "1947-07-22",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Laurier--Sainte-Marie",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Laurier--Sainte-Marie",
-      "riding_fr": "Laurier--Sainte-Marie"
+      "riding_en": "Laurier--Sainte-Marie"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Laurier--Sainte-Marie",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Laurier--Sainte-Marie",
-      "riding_fr": "Laurier--Sainte-Marie"
+      "riding_en": "Laurier--Sainte-Marie"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Laurier",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Laurier",
-      "riding_fr": "Laurier"
+      "riding_en": "Laurier"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Laurier--Sainte-Marie",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Laurier--Sainte-Marie",
-      "riding_fr": "Laurier--Sainte-Marie"
+      "riding_en": "Laurier--Sainte-Marie"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Laurier--Sainte-Marie",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Laurier--Sainte-Marie",
-      "riding_fr": "Laurier--Sainte-Marie"
+      "riding_en": "Laurier--Sainte-Marie"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Laurier--Sainte-Marie",
       "election_date": "1993-10-25",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Laurier--Sainte-Marie",
-      "riding_fr": "Laurier--Sainte-Marie"
+      "riding_en": "Laurier--Sainte-Marie"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Laurier--Sainte-Marie",
       "election_date": "1990-08-13",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Laurier--Sainte-Marie",
-      "riding_fr": "Laurier--Sainte-Marie"
+      "riding_en": "Laurier--Sainte-Marie"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada",
-    "name_en": "Montreal, Quebec, Canada"
+    "name_en": "Montreal, Quebec, Canada",
+    "name_fr": "Montr\u00e9al, Qu\u00e9bec, Canada"
   },
+  "id": "ed3d4160-8a5a-4efc-a0a6-d65deeb994d9",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "1990-12-19",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     },
     {
-      "name_fr": "",
+      "name_en": "",
       "start_date": "1990-08-13",
-      "end_date": "1990-12-18",
-      "name_en": ""
-    }
-  ],
-  "language": "French",
-  "id": "ed3d4160-8a5a-4efc-a0a6-d65deeb994d9",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78493&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=78493&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=a8e96891-3e5e-4477-9d60-ab634ddcc79b",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=a8e96891-3e5e-4477-9d60-ab634ddcc79b",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "",
+      "end_date": "1990-12-18"
     }
   ]
 }

@@ -1,201 +1,202 @@
 {
-  "professions": [
+  "language": "French",
+  "weblinks": [
     {
-      "name_fr": "Adjointe ex\u00e9cutive",
-      "name_en": "Community-development worker"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=113958&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=113958&Language=F"
     },
     {
-      "name_fr": "Adjointe politique",
-      "name_en": "Criminologist"
-    },
-    {
-      "name_fr": "Animatrice sociale de quartier",
-      "name_en": "Executive assistant"
-    },
-    {
-      "name_fr": "Attach\u00e9e politique",
-      "name_en": "Political assistant"
-    },
-    {
-      "name_fr": "Criminologue",
-      "name_en": "Political attach\u00e9"
+      "name_en": "Party Website (Available in French only)",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=5add7934-e406-4484-bc23-08f0d91f0b09",
+      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=5add7934-e406-4484-bc23-08f0d91f0b09"
     }
   ],
-  "parlinfo_id": 113958,
   "functions": [
     {
-      "title_fr": "Droits de la personne",
+      "title_en": "Human Rights",
       "start_date": "2008-10-31",
+      "title_fr": "Droits de la personne",
       "end_date": "2009-12-14",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Human Rights"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Citoyennet\u00e9 et Immigration",
+      "title_en": "Citizenship and Immigration",
       "start_date": "2009-12-15",
+      "title_fr": "Citoyennet\u00e9 et Immigration",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Citizenship and Immigration"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Agriculture et Agro-alimentaire",
+      "title_en": "Agriculture and Agri-Food",
       "start_date": "2008-01-15",
+      "title_fr": "Agriculture et Agro-alimentaire",
       "end_date": "2008-10-30",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Agriculture and Agri-Food"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
-      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
       "parliament": 40,
+      "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
+      "name_en": "Standing Committee on Citizenship and Immigration",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Access to Information, Privacy and Ethics",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Access to Information, Privacy and Ethics"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de l'acc\u00e8s \u00e0 l'information, de la protection des renseignements personnels et de l'\u00e9thique",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development",
+      "parliament": 40,
       "name_fr": "Sous-comit\u00e9 des droits internationaux de la personne du Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on International Human Rights of the Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Public Safety and National Security",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 permanent de la s\u00e9curit\u00e9 publique et nationale",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Safety and National Security"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2007-09-17",
+  "professions": [
+    {
+      "name_en": "Community-development worker",
+      "name_fr": "Adjointe ex\u00e9cutive"
+    },
+    {
+      "name_en": "Criminologist",
+      "name_fr": "Adjointe politique"
+    },
+    {
+      "name_en": "Executive assistant",
+      "name_fr": "Animatrice sociale de quartier"
+    },
+    {
+      "name_en": "Political assistant",
+      "name_fr": "Attach\u00e9e politique"
+    },
+    {
+      "name_en": "Political attach\u00e9",
+      "name_fr": "Criminologue"
+    }
+  ],
+  "parlinfo_id": 113958,
+  "name": "\u00c8ve-Mary Tha\u00ef Thi Lac",
   "contact_info": {
     "parliament": {
       "email": "ThiLac.E@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-4585",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-4585",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "J2S 3J5",
+      "city_en": "St-Hyacinthe",
       "city_fr": "Saint-Hyacinthe",
       "province_en": "Quebec",
+      "telephone": "450-771-0505",
       "province_fr": "Qu\u00e9bec",
       "street_address_en": "1920 Cascades Street West",
-      "telephone": "450-771-0505",
-      "street_address_fr": "1920, rue des Cascades Ouest",
       "fax": "450-771-0767",
-      "city_en": "St-Hyacinthe"
+      "street_address_fr": "1920, rue des Cascades Ouest"
     }
   },
-  "name": "\u00c8ve-Mary Tha\u00ef Thi Lac",
   "date_of_birth": "1972-02-06",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Saint-Hyacinthe--Bagot",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Saint-Hyacinthe--Bagot",
-      "riding_fr": "Saint-Hyacinthe--Bagot"
+      "riding_en": "Saint-Hyacinthe--Bagot"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Saint-Hyacinthe--Bagot",
       "election_date": "2007-09-17",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Saint-Hyacinthe--Bagot",
-      "riding_fr": "Saint-Hyacinthe--Bagot"
+      "riding_en": "Saint-Hyacinthe--Bagot"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Vietnam",
-    "name_en": "Vietnam"
+    "name_en": "Vietnam",
+    "name_fr": "Vietnam"
   },
+  "id": "6508ce35-554f-4412-88f7-4f2d6cf8b467",
   "parties": [
     {
-      "name_fr": "Bloc Qu\u00e9b\u00e9cois",
+      "name_en": "Bloc Qu\u00e9b\u00e9cois",
       "start_date": "2007-09-17",
-      "name_en": "Bloc Qu\u00e9b\u00e9cois"
-    }
-  ],
-  "language": "French",
-  "id": "6508ce35-554f-4412-88f7-4f2d6cf8b467",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=113958&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=113958&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=5add7934-e406-4484-bc23-08f0d91f0b09",
-      "url_fr": "http://www.blocquebecois.org/dossiers/deputes/default.aspx?id=5add7934-e406-4484-bc23-08f0d91f0b09",
-      "name_en": "Party Website (Available in French only)"
+      "name_fr": "Bloc Qu\u00e9b\u00e9cois"
     }
   ]
 }

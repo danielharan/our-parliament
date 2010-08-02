@@ -1,5 +1,18 @@
 <% @title = @committee.name %>
 
+<% if @committee.acronym %>
+<p><%= t('committees.show.description', :acronym => @committee.acronym) %></p>
+<% end %>
+
+<% if not @committee.subcommittees.empty? %>
+<h3><%= t('committees.show.subcommittees') %></h3>
+<ul>
+	<% for subcommittee in @committee.subcommittees %>
+	<li><%= link_to subcommittee.name, committee_path(subcommittee) %></li>
+	<% end %>
+</ul>
+<% end %>
+
 <div id="groups" class="block">
   <ul>
     <% @roles.each do |role| %>

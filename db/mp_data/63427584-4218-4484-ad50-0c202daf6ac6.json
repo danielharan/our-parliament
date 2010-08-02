@@ -1,439 +1,440 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Businessman"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79032&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79032&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1777&language_id=0",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1777&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.dickharris.ca/",
+      "url_fr": "http://www.dickharris.ca/"
     }
   ],
-  "parlinfo_id": 79032,
   "functions": [
     {
-      "title_fr": "Whip de l'Alliance canadienne",
+      "title_en": "Whip of the Canadian Alliance",
       "start_date": "2001-04-25",
+      "title_fr": "Whip de l'Alliance canadienne",
       "end_date": "2001-12",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Whip of the Canadian Alliance"
+      "role_fr": "Whip"
     },
     {
-      "title_fr": "Whip en chef de l'Opposition",
+      "title_en": "Chief Opposition Whip",
       "start_date": "2001-04-25",
+      "title_fr": "Whip en chef de l'Opposition",
       "end_date": "2002-01-13",
       "role_en": "Whip",
-      "role_fr": "Whip",
-      "title_en": "Chief Opposition Whip"
+      "role_fr": "Whip"
     },
     {
+      "title_en": "International Financial Institutions",
+      "start_date": "2004-01-22",
       "title_fr": "Institutions financi\u00e8res internationales",
-      "start_date": "2004-01-22",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "International Financial Institutions"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Public Private Partnerships",
+      "start_date": "2004-01-22",
       "title_fr": "Partenariats public-priv\u00e9",
-      "start_date": "2004-01-22",
       "end_date": "2004-07-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Public Private Partnerships"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Banques",
+      "title_en": "Banks",
       "start_date": "2003-06-23",
+      "title_fr": "Banques",
       "end_date": "2004-01-21",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Banks"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires indiennes et Nord canadien",
+      "title_en": "Indian Affairs and Northern Development",
       "start_date": "1994-09",
+      "title_fr": "Affaires indiennes et Nord canadien",
       "end_date": "1995-01-01",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Indian Affairs and Northern Development"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Transports",
+      "title_en": "Transport",
       "start_date": "1997-02-17",
+      "title_fr": "Transports",
       "end_date": "1997-06-20",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Transport"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Finances",
+      "title_en": "Finance",
       "start_date": "1997-02-17",
+      "title_fr": "Finances",
       "end_date": "2004-07-21",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Finance"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Travaux publics et Services gouvernementaux",
+      "title_en": "Public Works and Government Services",
       "start_date": "1996",
+      "title_fr": "Travaux publics et Services gouvernementaux",
       "end_date": "1997-02-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Public Works and Government Services"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 37,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
-      "parliament": 37,
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 37,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
-      "parliament": 37,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
       "parliament": 36,
+      "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
       "session": 2,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 36,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 36,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
-      "parliament": 36,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 36,
       "session": 1,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sident",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Vice-pr\u00e9sident"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on International Trade",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent du commerce international",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on International Trade"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Legislative Committee on Bill C-2",
+      "parliament": 39,
       "name_fr": "Comit\u00e9 l\u00e9gislatif charg\u00e9 du projet de loi C-2",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Legislative Committee on Bill C-2"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
+      "name_en": "Standing Committee on Natural Resources",
       "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des ressources naturelles",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Natural Resources"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 37,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du programme et de la proc\u00e9dure du Comit\u00e9 permanent des finances",
-      "parliament": 37,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Agenda and Procedure of the Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Comit\u00e9 permanent des finances",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on Parliamentary Calendar of the Standing Committee on Procedure and House Affairs",
+      "parliament": 37,
       "name_fr": "Sous-comit\u00e9 du calendrier parlementaire du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 37,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on Parliamentary Calendar of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Finance",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances",
+      "name_en": "Standing Committee on Agriculture and Agri-Food",
       "parliament": 36,
+      "name_fr": "Comit\u00e9 permanent des finances",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Agriculture and Agri-Food"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Finance",
+      "parliament": 36,
       "name_fr": "Comit\u00e9 permanent de l'agriculture et de l'agroalimentaire",
-      "parliament": 36,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Government Operations",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent des op\u00e9rations gouvernementales",
-      "parliament": 35,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Transport",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des transports",
+      "name_en": "Standing Committee on Government Operations",
       "parliament": 35,
+      "name_fr": "Comit\u00e9 permanent des transports",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Government Operations"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Transport",
+      "parliament": 35,
       "name_fr": "Comit\u00e9 permanent sur l'administration gouvernementale",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Transport"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Subcommittee on the Consideration of the Objections Filed on the Proposed Electoral Boundaries for the Western Provinces of the Standing Committee on Procedure and House Affairs",
+      "parliament": 35,
       "name_fr": "Sous-comit\u00e9 charg\u00e9 de l'\u00e9tude des oppositions d\u00e9pos\u00e9es au sujet des propositions de d\u00e9limitation des circonscriptions \u00e9lectorales pour les provinces de l'Ouest du Comit\u00e9 permanent de la proc\u00e9dure et des affaires de la Chambre",
-      "parliament": 35,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the Consideration of the Objections Filed on the Proposed Electoral Boundaries for the Western Provinces of the Standing Committee on Procedure and House Affairs"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Sous-comit\u00e9 sur la voie maritime du Saint-Laurent du Comit\u00e9 permanent des transports",
+      "name_en": "Subcommittee on the St. Lawrence Seaway of the Standing Committee on Transport",
       "parliament": 35,
+      "name_fr": "Sous-comit\u00e9 sur la voie maritime du Saint-Laurent du Comit\u00e9 permanent des transports",
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Subcommittee on the St. Lawrence Seaway of the Standing Committee on Transport"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "1993-10-25",
+  "professions": [
+    {
+      "name_en": "Businessman",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 79032,
+  "name": "Richard M. (Dick) Harris",
   "contact_info": {
     "parliament": {
       "email": "Harris.R@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-6704",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-6704",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "V2L 1W6",
+      "city_en": "Prince George",
       "city_fr": "Prince George",
       "province_en": "British Columbia",
+      "telephone": "250-564-7771",
       "province_fr": "Colombie-Britannique",
       "street_address_en": "206-575 Quebec Street",
-      "telephone": "250-564-7771",
-      "street_address_fr": "206-575, rue Quebec",
-      "city_en": "Prince George"
+      "street_address_fr": "206-575, rue Quebec"
     }
   },
-  "name": "Richard M. (Dick) Harris",
   "date_of_birth": "1944-09-06",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Cariboo--Prince George",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Cariboo--Prince George",
-      "riding_fr": "Cariboo--Prince George"
+      "riding_en": "Cariboo--Prince George"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Cariboo--Prince George",
       "election_date": "2006-01-23",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Cariboo--Prince George",
-      "riding_fr": "Cariboo--Prince George"
+      "riding_en": "Cariboo--Prince George"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Cariboo--Prince George",
       "election_date": "2004-06-28",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Cariboo--Prince George",
-      "riding_fr": "Cariboo--Prince George"
+      "riding_en": "Cariboo--Prince George"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Prince George--Bulkley Valley",
       "election_date": "2000-11-27",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Prince George--Bulkley Valley",
-      "riding_fr": "Prince George--Bulkley Valley"
+      "riding_en": "Prince George--Bulkley Valley"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Prince George--Bulkley Valley",
       "election_date": "1997-06-02",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Prince George--Bulkley Valley",
-      "riding_fr": "Prince George--Bulkley Valley"
+      "riding_en": "Prince George--Bulkley Valley"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Prince George--Bulkley Valley",
       "election_date": "1993-10-25",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Prince George--Bulkley Valley",
-      "riding_fr": "Prince George--Bulkley Valley"
+      "riding_en": "Prince George--Bulkley Valley"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Vancouver, Colombie-Britannique, Canada",
-    "name_en": "Vancouver, British Columbia, Canada"
+    "name_en": "Vancouver, British Columbia, Canada",
+    "name_fr": "Vancouver, Colombie-Britannique, Canada"
   },
+  "id": "63427584-4218-4484-ad50-0c202daf6ac6",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003-12-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "name_en": "Canadian Reform Conservative Alliance",
       "start_date": "2000-03-27",
-      "end_date": "2003-12-22",
-      "name_en": "Canadian Reform Conservative Alliance"
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "end_date": "2003-12-22"
     },
     {
-      "name_fr": "Parti r\u00e9formiste",
+      "name_en": "Reform Party",
       "start_date": "1993-10-25",
-      "end_date": "2000-03-26",
-      "name_en": "Reform Party"
-    }
-  ],
-  "language": "English",
-  "id": "63427584-4218-4484-ad50-0c202daf6ac6",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79032&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=79032&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1777&language_id=0",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1777&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.dickharris.ca/",
-      "url_fr": "http://www.dickharris.ca/",
-      "name_en": "Personal Website"
+      "name_fr": "Parti r\u00e9formiste",
+      "end_date": "2000-03-26"
     }
   ]
 }

@@ -1,222 +1,223 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Avocat",
-      "name_en": "Lawyer"
+      "name_en": "MP Profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=127407&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=127407&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.liberal.ca/en/team/mp/17054_bob-rae",
+      "url_fr": "http://www.liberal.ca/fr/team/mp/17054_bob-rae"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://bobrae.liberal.ca/en/default.aspx",
+      "url_fr": "http://bobrae.liberal.ca/fr/default.aspx"
+    },
+    {
+      "name_en": "Legislative Assembly of Ontario Website",
+      "name_fr": "Ordre du Canada",
+      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=351",
+      "url_fr": "http://archive.gg.ca/honours/search-recherche/honours-desc.asp?lang=f&TypeID=orc&id=6085"
+    },
+    {
+      "name_en": "Order of Canada",
+      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
+      "url_en": "http://archive.gg.ca/honours/search-recherche/honours-desc.asp?lang=e&TypeID=orc&id=6085",
+      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=351"
     }
   ],
-  "parlinfo_id": 127407,
   "functions": [
     {
-      "title_fr": "Affaires \u00e9trang\u00e8res",
+      "title_en": "Foreign Affairs",
       "start_date": "2009-01-22",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Foreign Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Affaires \u00e9trang\u00e8res",
+      "title_en": "Foreign Affairs",
       "start_date": "2007-10-09",
+      "title_fr": "Affaires \u00e9trang\u00e8res",
       "end_date": "2008-11-13",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Foreign Affairs"
+      "role_fr": "Porte-parole"
     },
     {
-      "title_fr": "Finances",
+      "title_en": "Finance",
       "start_date": "1980-04",
+      "title_fr": "Finances",
       "end_date": "1982",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Finance"
+      "role_fr": "Porte-parole"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
       "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
-    },
-    {
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
-      "parliament": 40,
-      "session": 2,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
-      "parliament": 39,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Foreign Affairs and International Development"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des finances, du commerce et des questions \u00e9conomiques",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 permanent des affaires \u00e9trang\u00e8res et du d\u00e9veloppement international",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Foreign Affairs and International Development",
+      "parliament": 39,
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
+      "session": 2,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Finance, Trade and Economic Affairs",
       "parliament": 32,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance, Trade and Economic Affairs"
-    },
-    {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
-      "parliament": 31,
-      "session": 1,
-      "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Finance, Trade and Economic Affairs"
-    },
-    {
       "name_fr": "Comit\u00e9 permanent des finances, du commerce et des questions \u00e9conomiques",
-      "parliament": 31,
       "session": 1,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Finance, Trade and Economic Affairs",
+      "parliament": 31,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
+    },
+    {
+      "name_en": "Standing Committee on Public Accounts",
+      "parliament": 31,
+      "name_fr": "Comit\u00e9 permanent des finances, du commerce et des questions \u00e9conomiques",
+      "session": 1,
+      "role_en": "Member",
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2004-10-30",
+  "professions": [
+    {
+      "name_en": "Lawyer",
+      "name_fr": "Avocat"
+    }
+  ],
+  "parlinfo_id": 127407,
+  "name": "Bob Rae",
   "contact_info": {
     "parliament": {
       "email": "Rae.B@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-992-5234",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-992-5234",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "email": "Raeb1@parl.gc.ca",
       "postal_code": "M4X 1P4",
+      "city_en": "Toronto",
       "city_fr": "Toronto",
       "province_en": "Ontario",
+      "telephone": "416-954-2222",
       "province_fr": "Ontario",
       "street_address_en": "514 Parliament Street",
-      "telephone": "416-954-2222",
-      "street_address_fr": "514, rue Parliament",
-      "city_en": "Toronto"
+      "street_address_fr": "514, rue Parliament"
     }
   },
-  "name": "Bob Rae",
   "date_of_birth": "1948-08-02",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Toronto-Centre",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Toronto Centre",
-      "riding_fr": "Toronto-Centre"
+      "riding_en": "Toronto Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Toronto-Centre",
       "election_date": "2008-03-17",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Toronto Centre",
-      "riding_fr": "Toronto-Centre"
+      "riding_en": "Toronto Centre"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Broadview--Greenwood",
       "election_date": "1980-02-18",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Broadview--Greenwood",
-      "riding_fr": "Broadview--Greenwood"
+      "riding_en": "Broadview--Greenwood"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Broadview--Greenwood",
       "election_date": "1979-05-22",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Broadview--Greenwood",
-      "riding_fr": "Broadview--Greenwood"
+      "riding_en": "Broadview--Greenwood"
     },
     {
-      "result_en": "Elected",
+      "riding_fr": "Broadview",
       "election_date": "1978-10-16",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Broadview",
-      "riding_fr": "Broadview"
+      "riding_en": "Broadview"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Ottawa, Ontario, Canada",
-    "name_en": "Ottawa, Ontario, Canada"
+    "name_en": "Ottawa, Ontario, Canada",
+    "name_fr": "Ottawa, Ontario, Canada"
   },
+  "id": "98af71e6-be2b-40e8-9501-4e5c27ebbbf5",
   "parties": [
     {
-      "name_fr": "Parti lib\u00e9ral du Canada",
+      "name_en": "Liberal Party of Canada",
       "start_date": "2006-04-05",
-      "name_en": "Liberal Party of Canada"
+      "name_fr": "Parti lib\u00e9ral du Canada"
     },
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "1978-10-16",
-      "end_date": "2002-04-16",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "98af71e6-be2b-40e8-9501-4e5c27ebbbf5",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=127407&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=127407&Language=F",
-      "name_en": "MP Profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.liberal.ca/en/team/mp/17054_bob-rae",
-      "url_fr": "http://www.liberal.ca/fr/team/mp/17054_bob-rae",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://bobrae.liberal.ca/en/default.aspx",
-      "url_fr": "http://bobrae.liberal.ca/fr/default.aspx",
-      "name_en": "Personal Website"
-    },
-    {
-      "name_fr": "Ordre du Canada",
-      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=351",
-      "url_fr": "http://archive.gg.ca/honours/search-recherche/honours-desc.asp?lang=f&TypeID=orc&id=6085",
-      "name_en": "Legislative Assembly of Ontario Website"
-    },
-    {
-      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
-      "url_en": "http://archive.gg.ca/honours/search-recherche/honours-desc.asp?lang=e&TypeID=orc&id=6085",
-      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=351",
-      "name_en": "Order of Canada"
+      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "end_date": "2002-04-16"
     }
   ]
 }

@@ -1,142 +1,143 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Biologiste",
-      "name_en": "Biologist"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128628&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128628&Language=F"
     },
     {
-      "name_fr": "\u00e9cologue",
-      "name_en": "Businessman"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.ndp.ca/brucehyer",
+      "url_fr": "http://www.npd.ca/brucehyer"
     },
     {
-      "name_fr": "Forestier",
-      "name_en": "Ecologist"
-    },
-    {
-      "name_fr": "Homme d'affaires",
-      "name_en": "Forester"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.brucehyer.ca/",
+      "url_fr": "http://www.brucehyer.ca/"
     }
   ],
-  "parlinfo_id": 128628,
   "functions": [
     {
+      "title_en": "Small Business",
+      "start_date": "2008-11-17",
       "title_fr": "Petite entreprise",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Small Business"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Tourism",
+      "start_date": "2008-11-17",
       "title_fr": "Tourisme",
-      "start_date": "2008-11-17",
       "role_en": "Critic",
-      "role_fr": "Porte-parole",
-      "title_en": "Tourism"
+      "role_fr": "Porte-parole"
     },
     {
+      "title_en": "Climate Change",
+      "start_date": "2008-11-17",
       "title_fr": "Changements climatiques",
-      "start_date": "2008-11-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Climate Change"
+      "role_fr": "Porte-parole adjoint"
     },
     {
+      "title_en": "National Parks",
+      "start_date": "2008-11-17",
       "title_fr": "Eaux",
-      "start_date": "2008-11-17",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "National Parks"
+      "role_fr": "Porte-parole adjoint"
     },
     {
-      "title_fr": "Parcs nationaux",
+      "title_en": "Water",
       "start_date": "2008-11-17",
+      "title_fr": "Parcs nationaux",
       "role_en": "Assistant Critic",
-      "role_fr": "Porte-parole adjoint",
-      "title_en": "Water"
+      "role_fr": "Porte-parole adjoint"
     }
   ],
   "committees": [
 
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Biologist",
+      "name_fr": "Biologiste"
+    },
+    {
+      "name_en": "Businessman",
+      "name_fr": "\u00e9cologue"
+    },
+    {
+      "name_en": "Ecologist",
+      "name_fr": "Forestier"
+    },
+    {
+      "name_en": "Forester",
+      "name_fr": "Homme d'affaires"
+    }
+  ],
+  "parlinfo_id": 128628,
+  "name": "Bruce Hyer",
   "contact_info": {
     "parliament": {
       "email": "Hyer.B@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-996-4792",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-996-4792",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "P7A 4T7",
+      "city_en": "Thunder Bay",
       "city_fr": "Thunder Bay",
       "province_en": "Ontario",
+      "telephone": "807-345-1818",
       "province_fr": "Ontario",
       "street_address_en": "69 North Court Street",
-      "telephone": "807-345-1818",
-      "street_address_fr": "69, rue North Court",
-      "city_en": "Thunder Bay"
+      "street_address_fr": "69, rue North Court"
     }
   },
-  "name": "Bruce Hyer",
   "date_of_birth": "1946-08-06",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Thunder Bay--Superior-Nord",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Thunder Bay--Superior North",
-      "riding_fr": "Thunder Bay--Superior-Nord"
+      "riding_en": "Thunder Bay--Superior North"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Thunder Bay--Superior-Nord",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Thunder Bay--Superior North",
-      "riding_fr": "Thunder Bay--Superior-Nord"
+      "riding_en": "Thunder Bay--Superior North"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Thunder Bay--Superior-Nord",
       "election_date": "2004-06-28",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Thunder Bay--Superior North",
-      "riding_fr": "Thunder Bay--Superior-Nord"
+      "riding_en": "Thunder Bay--Superior North"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Hartford, Connecticut, \u00c9tats-Unis",
-    "name_en": "Hartford, Connecticut, United States"
+    "name_en": "Hartford, Connecticut, United States",
+    "name_fr": "Hartford, Connecticut, \u00c9tats-Unis"
   },
+  "id": "df92b768-cbe1-4222-9526-8f3fd5d9f540",
   "parties": [
     {
-      "name_fr": "Nouveau Parti d\u00e9mocratique",
+      "name_en": "New Democratic Party",
       "start_date": "2004-06-28",
-      "name_en": "New Democratic Party"
-    }
-  ],
-  "language": "English",
-  "id": "df92b768-cbe1-4222-9526-8f3fd5d9f540",
-  "weblinks": [
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128628&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128628&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.ndp.ca/brucehyer",
-      "url_fr": "http://www.npd.ca/brucehyer",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.brucehyer.ca%20",
-      "url_fr": "http://www.brucehyer.ca%20",
-      "name_en": "Personal Website"
+      "name_fr": "Nouveau Parti d\u00e9mocratique"
     }
   ]
 }

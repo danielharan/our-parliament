@@ -1,147 +1,148 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Auteur",
-      "name_en": "Author"
+      "name_en": "MP profile",
+      "name_fr": "Profil de d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128340&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128340&Language=F"
     },
     {
-      "name_fr": "Expert-conseil",
-      "name_en": "Consultant"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1565",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1565&language_id=2"
     },
     {
-      "name_fr": "Fonctionnaire",
-      "name_en": "Public servant"
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.terenceyoung.com/",
+      "url_fr": "http://www.terenceyoung.com/"
+    },
+    {
+      "name_en": "Legislative Assembly of Ontario Website",
+      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
+      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=362",
+      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=362"
     }
   ],
-  "parlinfo_id": 128340,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
+      "name_en": "Standing Committee on Citizenship and Immigration",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Citizenship and Immigration",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la citoyennet\u00e9 et de l'immigration",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Citizenship and Immigration"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent des comptes publics",
+      "name_en": "Standing Committee on Public Accounts",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des comptes publics",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Public Accounts"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Author",
+      "name_fr": "Auteur"
+    },
+    {
+      "name_en": "Consultant",
+      "name_fr": "Expert-conseil"
+    },
+    {
+      "name_en": "Public servant",
+      "name_fr": "Fonctionnaire"
+    }
+  ],
+  "parlinfo_id": 128340,
+  "name": "Terence H. Young",
   "contact_info": {
     "parliament": {
       "email": "Young.T@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-4014",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-4014",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "L6K 3B7",
+      "city_en": "Oakville",
       "city_fr": "Oakville",
       "province_en": "Ontario",
+      "telephone": "905-338-2008",
       "province_fr": "Ontario",
       "street_address_en": "337 Kerr Street",
-      "telephone": "905-338-2008",
-      "street_address_fr": "377, rue Kerr",
-      "city_en": "Oakville"
+      "street_address_fr": "377, rue Kerr"
     }
   },
-  "name": "Terence H. Young",
   "date_of_birth": "1952-07-24",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Oakville",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "Oakville",
-      "riding_fr": "Oakville"
+      "riding_en": "Oakville"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Oakville",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Oakville",
-      "riding_fr": "Oakville"
+      "riding_en": "Oakville"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Parkdale",
       "election_date": "1974-07-08",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "Parkdale",
-      "riding_fr": "Parkdale"
+      "riding_en": "Parkdale"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Toronto, Ontario, Canada",
-    "name_en": "Toronto, Ontario, Canada"
+    "name_en": "Toronto, Ontario, Canada",
+    "name_fr": "Toronto, Ontario, Canada"
   },
+  "id": "ad4e18af-4927-4d69-ac39-d206404eedf0",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "",
+      "name_en": "",
       "start_date": "1974-07-08",
-      "end_date": "1995-06",
-      "name_en": ""
-    }
-  ],
-  "language": "English",
-  "id": "ad4e18af-4927-4d69-ac39-d206404eedf0",
-  "weblinks": [
-    {
-      "name_fr": "Profil de d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128340&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128340&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1565",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1565&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.terenceyoung.com/",
-      "url_fr": "http://www.terenceyoung.com/",
-      "name_en": "Personal Website"
-    },
-    {
-      "name_fr": "Site Web de l'Assembl\u00e9e l\u00e9gislative de l'Ontario",
-      "url_en": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=en&ID=362",
-      "url_fr": "http://www.ontla.on.ca/web/members/members_all_detail.do?locale=fr&ID=362",
-      "name_en": "Legislative Assembly of Ontario Website"
+      "name_fr": "",
+      "end_date": "1995-06"
     }
   ]
 }

@@ -1,137 +1,138 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Administratrice (services de sant\u00e9)",
-      "name_en": "Administrator (health services)"
+      "name_en": "MP profile",
+      "name_fr": "Profil de la d\u00e9put\u00e9e",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128737&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128737&Language=F"
     },
     {
-      "name_fr": "Infirmi\u00e8re autoris\u00e9e",
-      "name_en": "Registered nurse"
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1789",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1789&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
+      "url_en": "http://www.cathymcleod.com",
+      "url_fr": "http://www.cathymcleod.com"
     }
   ],
-  "parlinfo_id": 128737,
   "functions": [
 
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 3,
       "role_en": "Vice-Chair",
-      "role_fr": "Vice-pr\u00e9sidente",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Vice-pr\u00e9sidente"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
+      "name_en": "Standing Committee on Health",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Standing Committee on Health",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent de la condition f\u00e9minine",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Health"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
+      "name_en": "Standing Committee on the Status of Women",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent de la sant\u00e9",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on the Status of Women"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Administrator (health services)",
+      "name_fr": "Administratrice (services de sant\u00e9)"
+    },
+    {
+      "name_en": "Registered nurse",
+      "name_fr": "Infirmi\u00e8re autoris\u00e9e"
+    }
+  ],
+  "parlinfo_id": 128737,
+  "name": "Cathy McLeod",
   "contact_info": {
     "parliament": {
       "email": "McLeod.C@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-6931",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-6931",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "V2C 2C1",
+      "city_en": "Kamloops",
       "city_fr": "Kamloops",
       "province_en": "British Columbia",
+      "telephone": "250-851-4991",
       "province_fr": "Colombie-Britannique",
       "street_address_en": "979 Victoria Street",
-      "telephone": "250-851-4991",
-      "street_address_fr": "979, rue Victoria",
-      "city_en": "Kamloops"
+      "street_address_fr": "979, rue Victoria"
     }
   },
-  "name": "Cathy McLeod",
   "date_of_birth": "1957-06-12",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Kamloops--Thompson--Cariboo",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lue",
-      "riding_en": "Kamloops--Thompson--Cariboo",
-      "riding_fr": "Kamloops--Thompson--Cariboo"
+      "riding_en": "Kamloops--Thompson--Cariboo"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Kingston, Ontario, Canada",
-    "name_en": "Kingston, Ontario, Canada"
+    "name_en": "Kingston, Ontario, Canada",
+    "name_fr": "Kingston, Ontario, Canada"
   },
+  "id": "9c9a64e6-58f1-4367-9f49-93ad31744c96",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2003",
-      "name_en": "Conservative Party of Canada"
+      "name_fr": "Parti conservateur du Canada"
     },
     {
-      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "name_en": "Canadian Reform Conservative Alliance",
       "start_date": "2000",
-      "end_date": "2003",
-      "name_en": "Canadian Reform Conservative Alliance"
+      "name_fr": "Alliance r\u00e9formiste conservatrice canadienne",
+      "end_date": "2003"
     },
     {
-      "name_fr": "Parti r\u00e9formiste",
+      "name_en": "Reform Party",
       "start_date": "1987",
-      "end_date": "2000",
-      "name_en": "Reform Party"
-    }
-  ],
-  "language": "English",
-  "id": "9c9a64e6-58f1-4367-9f49-93ad31744c96",
-  "weblinks": [
-    {
-      "name_fr": "Profil de la d\u00e9put\u00e9e",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128737&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128737&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1789",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1789&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel (Disponible en anglais seulement)",
-      "url_en": "http://www.cathymcleod.com",
-      "url_fr": "http://www.cathymcleod.com",
-      "name_en": "Personal Website"
+      "name_fr": "Parti r\u00e9formiste",
+      "end_date": "2000"
     }
   ]
 }

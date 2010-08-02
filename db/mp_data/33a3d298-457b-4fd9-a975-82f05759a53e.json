@@ -1,136 +1,137 @@
 {
-  "professions": [
+  "language": "English",
+  "weblinks": [
     {
-      "name_fr": "Agriculteur",
-      "name_en": "Farmer"
+      "name_en": "Department Website",
+      "name_fr": "Site Web du minist\u00e8re",
+      "url_en": "http://www.vac-acc.gc.ca/general/sub.cfm?source=department/mincorner/officials/bio_parlsec",
+      "url_fr": "http://www.vac-acc.gc.ca/general_f/sub.cfm?source=department/mincorner/officials/bio_parlsec"
     },
     {
-      "name_fr": "Enseignant",
-      "name_en": "Teacher"
+      "name_en": "MP profile",
+      "name_fr": "Profil du d\u00e9put\u00e9",
+      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128645&Language=E",
+      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128645&Language=F"
+    },
+    {
+      "name_en": "Party Website",
+      "name_fr": "Site Web du parti",
+      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1275",
+      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1275&language_id=2"
+    },
+    {
+      "name_en": "Personal Website",
+      "name_fr": "Site Web personnel",
+      "url_en": "http://www.gregkerrmp.ca/",
+      "url_fr": "http://www.gregkerrmp.ca/?lang=fr"
     }
   ],
-  "parlinfo_id": 128645,
   "functions": [
     {
-      "title_fr": "Secr\u00e9taire parlementaire du ministre des Anciens Combattants",
+      "title_en": "Parliamentary Secretary to the Minister of Veterans Affairs",
       "start_date": "2008-11-07",
+      "title_fr": "Secr\u00e9taire parlementaire du ministre des Anciens Combattants",
       "role_en": "Parliamentary Secretary",
-      "role_fr": "Secr\u00e9taire parlementaire",
-      "title_en": "Parliamentary Secretary to the Minister of Veterans Affairs"
+      "role_fr": "Secr\u00e9taire parlementaire"
     }
   ],
   "committees": [
     {
-      "name_fr": "Comit\u00e9 permanent des anciens combattants",
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 permanent des anciens combattants",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "session": 3,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     },
     {
+      "name_en": "Special Committee on the Canadian Mission in Afghanistan",
+      "parliament": 40,
       "name_fr": "Comit\u00e9 permanent des anciens combattants",
-      "parliament": 40,
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Special Committee on the Canadian Mission in Afghanistan"
+      "role_fr": "Membre"
     },
     {
-      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
+      "name_en": "Standing Committee on Veterans Affairs",
       "parliament": 40,
+      "name_fr": "Comit\u00e9 sp\u00e9cial sur la mission canadienne en Afghanistan",
       "session": 2,
       "role_en": "Member",
-      "role_fr": "Membre",
-      "name_en": "Standing Committee on Veterans Affairs"
+      "role_fr": "Membre"
     }
   ],
+  "start_date": "2008-10-14",
+  "professions": [
+    {
+      "name_en": "Farmer",
+      "name_fr": "Agriculteur"
+    },
+    {
+      "name_en": "Teacher",
+      "name_fr": "Enseignant"
+    }
+  ],
+  "parlinfo_id": 128645,
+  "name": "Greg Kerr",
   "contact_info": {
     "parliament": {
       "email": "Kerr.G@parl.gc.ca",
       "postal_code": "K1A 0A6",
+      "city_en": "Ottawa",
       "city_fr": "Ottawa",
       "province_en": "Ontario",
+      "telephone": "613-995-5711",
       "province_fr": "Ontario",
       "street_address_en": "House of Commons",
-      "telephone": "613-995-5711",
-      "street_address_fr": "Chambre des communes",
-      "city_en": "Ottawa"
+      "street_address_fr": "Chambre des communes"
     },
     "constituency": {
       "postal_code": "B5A 1M1",
+      "city_en": "Yarmouth",
       "city_fr": "Yarmouth",
       "province_en": "Nova Scotia",
+      "telephone": "902-742-6808",
       "province_fr": "Nouvelle-\u00c9cosse",
       "street_address_en": "233 Water Street",
-      "telephone": "902-742-6808",
-      "street_address_fr": "233, rue Water",
-      "city_en": "Yarmouth"
+      "street_address_fr": "233, rue Water"
     }
   },
-  "name": "Greg Kerr",
   "date_of_birth": "1947-10-08",
   "constituencies": [
     {
-      "result_en": "Elected",
+      "riding_fr": "Nova-Ouest",
       "election_date": "2008-10-14",
+      "result_en": "Elected",
       "result_fr": "\u00c9lu",
-      "riding_en": "West Nova",
-      "riding_fr": "Nova-Ouest"
+      "riding_en": "West Nova"
     },
     {
-      "result_en": "Defeated",
+      "riding_fr": "Nova-Ouest",
       "election_date": "2006-01-23",
+      "result_en": "Defeated",
       "result_fr": "D\u00e9fait",
-      "riding_en": "West Nova",
-      "riding_fr": "Nova-Ouest"
+      "riding_en": "West Nova"
     }
   ],
   "place_of_birth": {
-    "name_fr": "Annapolis Royal, Nouvelle-\u00c9cosse, Canada",
-    "name_en": "Annapolis Royal, Nova Scotia, Canada"
+    "name_en": "Annapolis Royal, Nova Scotia, Canada",
+    "name_fr": "Annapolis Royal, Nouvelle-\u00c9cosse, Canada"
   },
+  "id": "33a3d298-457b-4fd9-a975-82f05759a53e",
   "parties": [
     {
-      "name_fr": "Parti conservateur du Canada",
+      "name_en": "Conservative Party of Canada",
       "start_date": "2006-01-23",
-      "name_en": "Conservative Party of Canada"
-    }
-  ],
-  "language": "English",
-  "id": "33a3d298-457b-4fd9-a975-82f05759a53e",
-  "weblinks": [
-    {
-      "name_fr": "Site Web du minist\u00e8re",
-      "url_en": "http://www.vac-acc.gc.ca/general/sub.cfm?source=department/mincorner/officials/bio_parlsec",
-      "url_fr": "http://www.vac-acc.gc.ca/general_f/sub.cfm?source=department/mincorner/officials/bio_parlsec",
-      "name_en": "Department Website"
-    },
-    {
-      "name_fr": "Profil du d\u00e9put\u00e9",
-      "url_en": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128645&Language=E",
-      "url_fr": "http://webinfo.parl.gc.ca/MembersOfParliament/ProfileMP.aspx?Key=128645&Language=F",
-      "name_en": "MP profile"
-    },
-    {
-      "name_fr": "Site Web du parti",
-      "url_en": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1275",
-      "url_fr": "http://www.conservative.ca/?section_id=1051&linkTo=true&districtId=1275&language_id=2",
-      "name_en": "Party Website"
-    },
-    {
-      "name_fr": "Site Web personnel",
-      "url_en": "http://www.gregkerrmp.ca/",
-      "url_fr": "http://www.gregkerrmp.ca/?lang=fr",
-      "name_en": "Personal Website"
+      "name_fr": "Parti conservateur du Canada"
     }
   ]
 }
